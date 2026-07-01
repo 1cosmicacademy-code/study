@@ -1,0 +1,91 @@
+# Separable Verbs (Trennbare Verben) in German
+
+🎯 **Separable verbs** are made of a prefix + a base verb. The prefix separates and goes to the end of the sentence when conjugated.
+
+---
+
+## 💡 What are Separable Prefixes?
+
+Common separable prefixes: **ab-, an-, auf-, aus-, ein-, mit-, nach-, vor-, weg-, zu-, zurück-**
+
+### Conjugation Pattern
+
+```
+aufstehen (to get up)
+Ich stehe um 7 Uhr auf. → I get up at 7.
+Du stehst früh auf. → You get up early.
+Er steht jetzt auf. → He gets up now.
+```
+
+```
+einkaufen (to shop)
+Ich kaufe im Supermarkt ein. → I shop at the supermarket.
+Wir kaufen morgen ein. → We will shop tomorrow.
+```
+
+## ⚠️ Common Separable Verbs
+
+| Verb | Meaning | Example |
+|------|---------|---------|
+| **aufstehen** | to get up | Ich stehe um 6 Uhr **auf**. |
+| **einkaufen** | to shop | Wir kaufen **ein**. |
+| **anfangen** | to begin | Der Kurs fängt um 9 Uhr **an**. |
+| **aufmachen** | to open | Mach die Tür **auf**! |
+| **zumachen** | to close | Mach das Fenster **zu**! |
+| **mitkommen** | to come along | Kommst du **mit**? |
+| **fernsehen** | to watch TV | Ich sehe gern **fern**. |
+| **vorbereiten** | to prepare | Ich bereite mich **vor**. |
+| **abfahren** | to depart (train) | Der Zug fährt um 8 Uhr **ab**. |
+| **anrufen** | to call (phone) | Ich rufe dich **an**. |
+
+## ⚠️ Separable vs Inseparable
+
+Some prefixes can be either separable or inseparable depending on meaning:
+
+| Verb | Separable? | Meaning | Present |
+|------|-----------|---------|---------|
+| **umfahren** | No | to run over | Er umfährt den Hund. |
+| **umfahren** | Yes | to drive around | Er fährt den Hund um. |
+
+Don't worry — these are rare. Focus on clearly separable prefixes: auf-, ein-, mit-, etc.
+
+## 📌 Golden Rule
+
+```
+In main clauses (Hauptsatz):
+Prefix → end of sentence, verb → second position
+
+Ich rufe dich an. ✓
+Ich anrufe dich. ✗ (Wrong!)
+
+In subordinate clauses: prefix stays attached (verb goes to the end)
+... weil ich dich anrufe. ✓
+```
+
+## 📝 Exercises
+
+### Exercise 1: Conjugate the separable verb
+
+1. Ich ___ (aufstehen) at 7.
+2. Du ___ (einkaufen) at the supermarket.
+3. Er ___ (anfangen) with work.
+4. Wir ___ (mitkommen) to the cinema.
+5. Ihr ___ (fernsehen) in the evening.
+
+### Exercise 2: Put the prefix in the right place
+
+1. Ich stehe um 6 Uhr (auf).
+2. The train departs at 9 — Der Zug fährt um 9 Uhr (ab).
+3. Close the door! — Mach die Tür (zu)!
+4. I shop at the store — Ich kaufe im Laden (ein).
+5. Are you coming along? — Kommst du (mit)?
+
+## ✅ Solutions
+
+### Solution Exercise 1
+1. stehe ... auf | 2. kaufst ... ein | 3. fängt ... an | 4. kommen ... mit | 5. seht ... fern
+
+### Solution Exercise 2
+1. auf | 2. ab | 3. zu | 4. ein | 5. mit
+
+---

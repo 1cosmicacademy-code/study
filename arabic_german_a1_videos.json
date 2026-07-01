@@ -1,0 +1,337 @@
+{
+  "meta": {
+    "channel": "Deutsch mit Mira (https://www.youtube.com/@DeutschmitMira)",
+    "playlist_id": "PLawKOZJF6P4aFnQ0IZ8DruunUg5PZEflI",
+    "playlist_title": "تعلم الألمانية من الصفر مستوى A1",
+    "playlist_count": 60,
+    "last_updated": "2026-07-01",
+    "note": "The Deutsch mit Mira A1 playlist covers ~58 lessons. The Lektion numbering in this file follows the user's textbook-style curriculum. Where Deutsch mit Mira has no dedicated video, the best Arabic alternative is listed under 'alt'."
+  },
+  "lektion-02": {
+    "ar": {
+      "video_id": "",
+      "title": "No dedicated Berufe video in Deutsch mit Mira A1 playlist",
+      "channel": "Deutsch mit Mira"
+    },
+    "alt": [
+      {
+        "video_id": "Y31vlYnyiYQ",
+        "title": "Deutsch lernen A1/ Berufe - Lektion 5",
+        "channel": "Deutsch mit Frau Petra"
+      },
+      {
+        "video_id": "tfX4-kOsIPU",
+        "title": "13 - Der Beruf السؤال عن المهنة أو الوظيفة بـ الالمانية",
+        "channel": "Shehata Deutsch الالمانية مع مستر شحاته"
+      }
+    ]
+  },
+  "lektion-03": {
+    "ar": {
+      "video_id": "d_o8Ny4455E",
+      "title": "A1 تعلم الألمانية من الصفر- الدرس 4 {أدوات التعريف والتنكير باللغة الألمانية}",
+      "channel": "Deutsch mit Mira"
+    },
+    "ar_kein": {
+      "video_id": "RL0ztyekXp8",
+      "title": "A1 تعلم الألمانية من الصفر - الدرس 13 {النفي باللغة الألمانية}",
+      "channel": "Deutsch mit Mira"
+    }
+  },
+  "lektion-04": {
+    "ar": {
+      "video_id": "V8xl5tfDqL0",
+      "title": "A1 Learn German from scratch - Lesson 6 {The Family}",
+      "channel": "Deutsch mit Mira"
+    },
+    "ar_possessiv": {
+      "video_id": "4wvtNkoLyNY",
+      "title": "A1 تعلم الألمانية من الصفر- الدرس 5 {الضمائر الملكية}",
+      "channel": "Deutsch mit Mira"
+    }
+  },
+  "lektion-05": {
+    "ar": {
+      "video_id": "cFAL6PhExPU",
+      "title": "A1 تعلم الألمانية من الصفر - الدرس 27 (الأفعال القابلة والغير قابلة للانفصال)",
+      "channel": "Deutsch mit Mira"
+    },
+    "ar_trennbar": {
+      "video_id": "cFAL6PhExPU",
+      "title": "A1 تعلم الألمانية من الصفر - الدرس 27 (الأفعال القابلة والغير قابلة للانفصال)",
+      "channel": "Deutsch mit Mira"
+    }
+  },
+  "lektion-06": {
+    "ar": {
+      "video_id": "W3X1UbMrCYE",
+      "title": "What time is it in German? Learn the time step by step!",
+      "channel": "Deutsch mit Mira"
+    },
+    "ar_teil2": {
+      "video_id": "bdSE3OwoG_c",
+      "title": "A1 تعلم الألمانية من الصفر - الدرس 8 {الساعة بالألماني الجزء الثاني}",
+      "channel": "Deutsch mit Mira"
+    }
+  },
+  "lektion-07": {
+    "ar": {
+      "video_id": "yq3DahSQKaQ",
+      "title": "A1 تعلم الألمانية من الصفر - الدرس 20 (الطعام باللغة الألمانية 1)",
+      "channel": "Deutsch mit Mira"
+    },
+    "ar_essen2": {
+      "video_id": "kEAN5yEyv7M",
+      "title": "Learn German from scratch - Lesson 22 (Food in German 2)",
+      "channel": "Deutsch mit Mira"
+    },
+    "ar_restaurant": {
+      "video_id": "CkiCgxlIrgc",
+      "title": "A1 تعلم الألمانية من الصفر - الدرس 23 (كيف تتحدث في المطعم)",
+      "channel": "Deutsch mit Mira"
+    }
+  },
+  "lektion-08": {
+    "ar": {
+      "video_id": "dNY85buE-R0",
+      "title": "A1 تعلم الألمانية من الصفر - الدرس 32 (الماضي باللغة الألمانية)",
+      "channel": "Deutsch mit Mira"
+    },
+    "ar_perfekt2": {
+      "video_id": "JSgVZ4QtWRk",
+      "title": "A1 تعلم الألمانية من الصفر - الدرس 33 (الماضي باللغة الألمانية 2)",
+      "channel": "Deutsch mit Mira"
+    },
+    "ar_unreg": {
+      "video_id": "e0HZqudDY8E",
+      "title": "A1 تعلم الألمانية من الصفر - الدرس 35 (الافعال الغير منتظمة بالزمن الماضي)",
+      "channel": "Deutsch mit Mira"
+    }
+  },
+  "lektion-09": {
+    "ar": {
+      "video_id": "KN7jwA8WDkA",
+      "title": "A1 تعلم الألمانية من الصفر - الدرس 29 (ايام الأسبوع و كيفية استخدامها)",
+      "channel": "Deutsch mit Mira"
+    },
+    "ar_monate": {
+      "video_id": "hvNBiaQ_WaE",
+      "title": "A1 تعلم الألمانية من الصفر - الدرس 38 (الأشهر و فصول السنة)",
+      "channel": "Deutsch mit Mira"
+    },
+    "ar_datum": {
+      "video_id": "QJ6QNF-DxK4",
+      "title": "A1 تعلم الألمانية من الصفر - الدرس 48 (التاريخ بالألماني)",
+      "channel": "Deutsch mit Mira"
+    }
+  },
+  "lektion-10": {
+    "ar": {
+      "video_id": "_1eOCBvxeX4",
+      "title": "A1 تعلم الألمانية من الصفر - الدرس 30 (الأفعال المساعدة)",
+      "channel": "Deutsch mit Mira"
+    }
+  },
+  "lektion-11": {
+    "ar": {
+      "video_id": "KC0hVfM6Ujw",
+      "title": "تعلم أسماء أهم الأشياء في المنزل بالألمانية (1) 📚🇩🇪",
+      "channel": "Deutsch mit Mira"
+    },
+    "alt_wechsel": [
+      {
+        "video_id": "YyZbfDQaOMs",
+        "title": "\"In die Stadt\" oder \"in der Stadt\"? - Wechselpräpositionen einfach erklärt",
+        "channel": "Learn German (different channel)"
+      },
+      {
+        "video_id": "Ij3H8edNcnA",
+        "title": "Wechselpräpositionen im Akkusativ und Dativ - Wohin oder Wo? | Deutsch lernen A1 & A2",
+        "channel": "Learn German with Radwa"
+      }
+    ]
+  },
+  "lektion-12": {
+    "ar": {
+      "video_id": "",
+      "title": "No dedicated Ausbildung video found from Deutsch mit Mira",
+      "channel": "Deutsch mit Mira"
+    },
+    "alt": [
+      {
+        "video_id": "XddnPwhX3cY",
+        "title": "احترف التكلم عند الطبيب في اللغة الألمانية",
+        "channel": "Deutsch mit Mira"
+      }
+    ]
+  },
+  "lektion-13": {
+    "ar": {
+      "video_id": "psTMUA-X_i0",
+      "title": "Learn German from scratch - Lesson 44 (Body parts in German)",
+      "channel": "Deutsch mit Mira"
+    },
+    "ar_arzt": {
+      "video_id": "XddnPwhX3cY",
+      "title": "احترف التكلم عند الطبيب في اللغة الألمانية 🌡👩‍⚕️",
+      "channel": "Deutsch mit Mira"
+    },
+    "ar_imperativ": {
+      "video_id": "RH7FXZ1riyE",
+      "title": "A1 (Der Imperativ صيغة الأمر) تعلم الألمانية من الصفر - الدرس 21",
+      "channel": "Deutsch mit Mira"
+    }
+  },
+  "lektion-14": {
+    "ar": {
+      "video_id": "8NFS6fECKvs",
+      "title": "A1 {sein افعال بالماضي مع} تعلم الألمانية من الصفر - الدرس 34",
+      "channel": "Deutsch mit Mira"
+    }
+  },
+  "lektion-15": {
+    "ar": {
+      "video_id": "",
+      "title": "No dedicated directions video found from Deutsch mit Mira",
+      "channel": "Deutsch mit Mira"
+    },
+    "alt": [
+      {
+        "video_id": "",
+        "title": "Deutsch lernen - Weg beschreiben (Trainer Deutsch, 11K views)",
+        "channel": "Trainer Deutsch"
+      }
+    ]
+  },
+  "lektion-16": {
+    "ar": {
+      "video_id": "JUSld6o_5kU",
+      "title": "A1 تعلم الألمانية من الصفر - الدرس 36 (الملابس باللغة الالمانية)",
+      "channel": "Deutsch mit Mira"
+    },
+    "ar_laden": {
+      "video_id": "2m9TdE8g8lY",
+      "title": "A1 تعلم الألمانية من الصفر - الدرس 37 (محادثة في محل الثياب)",
+      "channel": "Deutsch mit Mira"
+    }
+  },
+  "lektion-17": {
+    "ar": {
+      "video_id": "",
+      "title": "No dedicated Arbeit video found from Deutsch mit Mira",
+      "channel": "Deutsch mit Mira"
+    },
+    "alt": []
+  },
+  "lektion-18": {
+    "ar": {
+      "video_id": "",
+      "title": "No dedicated Im Büro video found from Deutsch mit Mira",
+      "channel": "Deutsch mit Mira"
+    },
+    "alt": []
+  },
+  "lektion-19": {
+    "ar": {
+      "video_id": "",
+      "title": "No dedicated Reisen video found from Deutsch mit Mira",
+      "channel": "Deutsch mit Mira"
+    },
+    "alt": []
+  },
+  "lektion-20": {
+    "ar": {
+      "video_id": "",
+      "title": "No dedicated Feste und Feiern video found from Deutsch mit Mira",
+      "channel": "Deutsch mit Mira"
+    },
+    "alt": []
+  },
+  "full_a1_playlist": {
+    "note": "Complete Deutsch mit Mira A1 playlist mapping (lesson_number -> video_id -> title)",
+    "videos": [
+      {"lesson": 1, "video_id": "ksDYRyXG0A8", "title": "A1 Learn German from scratch - Lesson 1 {Letters}"},
+      {"lesson": 2, "video_id": "ZYYpP_hGvHs", "title": "A1 تعلم الألمانية من الصفر - الدرس 2 {الأرقام}"},
+      {"lesson": 3, "video_id": "Ni_jAy1kXVg", "title": "A1 تعلم الألمانية من الصفر- الدرس 3 {Haben und Sein}"},
+      {"lesson": 4, "video_id": "d_o8Ny4455E", "title": "A1 تعلم الألمانية من الصفر- الدرس 4 {أدوات التعريف والتنكير}"},
+      {"lesson": 5, "video_id": "4wvtNkoLyNY", "title": "A1 تعلم الألمانية من الصفر- الدرس 5 {الضمائر الملكية}"},
+      {"lesson": 6, "video_id": "V8xl5tfDqL0", "title": "A1 Learn German from scratch - Lesson 6 {The Family}"},
+      {"lesson": 7, "video_id": "W3X1UbMrCYE", "title": "What time is it in German? Learn the time step by step!"},
+      {"lesson": 8, "video_id": "bdSE3OwoG_c", "title": "A1 تعلم الألمانية من الصفر - الدرس 8 {الساعة بالألماني الجزء الثاني}"},
+      {"lesson": 9, "video_id": "E9R3AJH-4Ak", "title": "A1 تعلم الألمانية من الصفر- الدرس 9 {الألوان}"},
+      {"lesson": 10, "video_id": "eFKwVAoZ_Yg", "title": "A1 تعلم الألمانية من الصفر - الدرس 10 {تركيب الجملة الألمانية}"},
+      {"lesson": 11, "video_id": "XlW6dFxJUvQ", "title": "A1 تعلم الألمانية من الصفر - الدرس 11 {أدوات الاستفهام}"},
+      {"lesson": 12, "video_id": "CPa4pXBlB4w", "title": "A1 تعلم الألمانية من الصفر- الدرس 12 {التحيات والوداع}"},
+      {"lesson": 13, "video_id": "RL0ztyekXp8", "title": "A1 تعلم الألمانية من الصفر - الدرس 13 {النفي باللغة الألمانية}"},
+      {"lesson": 14, "video_id": "UXVKld8kJrc", "title": "A1 تعلم الألمانية من الصفر - الدرس 14 { الطقس باللغة الألمانية }"},
+      {"lesson": 15, "video_id": "9a-5SMOC6mQ", "title": "A1 {Der Nominativ} تعلم الألمانية من الصفر - الدرس 15"},
+      {"lesson": 16, "video_id": "qDtqMf8LT5Q", "title": "A1 (Der Akkusativ 1) تعلم الألمانية من الصفر - الدرس 16"},
+      {"lesson": 17, "video_id": "wgha0w2Zshc", "title": "A1 (Der Akkusativ 2) تعلم الألمانية من الصفر - الدرس 17"},
+      {"lesson": 18, "video_id": "2hkDcmSQZbs", "title": "A1 (Dativ) تعلم الألمانية من الصفر - الدرس 18"},
+      {"lesson": 19, "video_id": "RifQTs-nxrc", "title": "A1 تعلم الألمانية من الصفر - الدرس 19 (اختبار)"},
+      {"lesson": 20, "video_id": "yq3DahSQKaQ", "title": "A1 تعلم الألمانية من الصفر - الدرس 20 (الطعام باللغة الألمانية 1)"},
+      {"lesson": 21, "video_id": "RH7FXZ1riyE", "title": "A1 (Der Imperativ صيغة الأمر) تعلم الألمانية من الصفر - الدرس 21"},
+      {"lesson": 22, "video_id": "kEAN5yEyv7M", "title": "Learn German from scratch - Lesson 22 (Food in German 2)"},
+      {"lesson": 23, "video_id": "CkiCgxlIrgc", "title": "A1 تعلم الألمانية من الصفر - الدرس 23 (كيف تتحدث في المطعم)"},
+      {"lesson": 24, "video_id": "FNsHH3hQRFs", "title": "A1 تعلم الألمانية من الصفر - الدرس 24 (الأفعال المنتظمة)"},
+      {"lesson": 25, "video_id": "h3yJLcUMR8Y", "title": "A1 تعلم الألمانية من الصفر - الدرس 25 (في محل الآيس كريم)"},
+      {"lesson": 26, "video_id": "2bq-baqpwUw", "title": "A1 تعلم الألمانية من الصفر - الدرس 26 (الأفعال الغير منتظمة)"},
+      {"lesson": 27, "video_id": "cFAL6PhExPU", "title": "A1 تعلم الألمانية من الصفر - الدرس 27 (الأفعال القابلة والغير قابلة للانفصال)"},
+      {"lesson": 28, "video_id": "We_KqZuND7A", "title": "A1 تعلم الألمانية من الصفر - الدرس 28 (تصريف الصفات)"},
+      {"lesson": 29, "video_id": "KN7jwA8WDkA", "title": "A1 تعلم الألمانية من الصفر - الدرس 29 (ايام الأسبوع)"},
+      {"lesson": 30, "video_id": "_1eOCBvxeX4", "title": "A1 تعلم الألمانية من الصفر - الدرس 30 (الأفعال المساعدة)"},
+      {"lesson": 31, "video_id": "0VmUW7XX0Jo", "title": "A1 تعلم الألمانية من الصفر - الدرس 31 (الجمع باللغة الألمانية)"},
+      {"lesson": 32, "video_id": "dNY85buE-R0", "title": "A1 تعلم الألمانية من الصفر - الدرس 32 (الماضي باللغة الألمانية)"},
+      {"lesson": 33, "video_id": "JSgVZ4QtWRk", "title": "A1 تعلم الألمانية من الصفر - الدرس 33 (الماضي باللغة الألمانية 2)"},
+      {"lesson": 34, "video_id": "8NFS6fECKvs", "title": "A1 {sein افعال بالماضي مع} تعلم الألمانية من الصفر - الدرس 34"},
+      {"lesson": 35, "video_id": "e0HZqudDY8E", "title": "A1 تعلم الألمانية من الصفر - الدرس 35 (الافعال الغير منتظمة بالزمن الماضي)"},
+      {"lesson": 36, "video_id": "JUSld6o_5kU", "title": "A1 تعلم الألمانية من الصفر - الدرس 36 (الملابس باللغة الالمانية)"},
+      {"lesson": 37, "video_id": "2m9TdE8g8lY", "title": "A1 تعلم الألمانية من الصفر - الدرس 37 (محادثة في محل الثياب)"},
+      {"lesson": 38, "video_id": "hvNBiaQ_WaE", "title": "A1 تعلم الألمانية من الصفر - الدرس 38 (الأشهر و فصول السنة)"},
+      {"lesson": 39, "video_id": "aXftUnzLheY", "title": "A1 تعلم الألمانية من الصفر - الدرس 39 (الظروف الزمنية)"},
+      {"lesson": 40, "video_id": "9M2D1eUKyZE", "title": "الدرس 40 | Sich vorstellen - التعريف بالنفس"},
+      {"lesson": 41, "video_id": "b6cakuASMzw", "title": "اهم الصفات وعكسها - Adjektive und Gegenteil | الدرس 41"},
+      {"lesson": 42, "video_id": "Fh5gnuNXy1s", "title": "اختبار الصفات وعكسها | الدرس 42"},
+      {"lesson": 43, "video_id": "Fu7HaUe9gzs", "title": "تعلم أهم الأفعال التي تأتي دائمًا مع الأكوزاتيف | الدرس 43"},
+      {"lesson": 44, "video_id": "ZRldRYrP-nA", "title": "A1 (Dativ) جميع الأفعال مع - الدرس 44"},
+      {"lesson": 45, "video_id": "psTMUA-X_i0", "title": "Learn German from scratch - Lesson 44 (Body parts in German)"},
+      {"lesson": 46, "video_id": "r3hZ7WK7jhw", "title": "A1 تعلم الألمانية من الصفر - الدرس 46 (الأرقام من 1 الى 500)"},
+      {"lesson": 47, "video_id": "V1kkY8ZorBI", "title": "A1 تعلم الألمانية من الصفر - الدرس 47 (الأعداد الترتيبية)"},
+      {"lesson": 48, "video_id": "QJ6QNF-DxK4", "title": "A1 تعلم الألمانية من الصفر - الدرس 48 (التاريخ بالألماني)"},
+      {"lesson": 49, "video_id": "0p7EkJee_pI", "title": "YouTube Live - التعريف بالنفس باللغة الألمانية"},
+      {"lesson": 50, "video_id": "jAsoIOvAolE", "title": "YouTube Live - كيف تطلب وتجاوب باللغة الألمانية"},
+      {"lesson": 51, "video_id": "1Z_qrqet0dE", "title": "YouTube Live - كيف تسأل وتجاوب باللغة الألمانية"},
+      {"lesson": 52, "video_id": "31cKMQluhqg", "title": "The most important messages for the A1 exam in German"},
+      {"lesson": 53, "video_id": "kOMtDJg2B4Q", "title": "YouTube Live - A1 إختبر نفسك في اللغة الألمانية"},
+      {"lesson": 54, "video_id": "w2S_YFFrtvg", "title": "لا تدخل امتحان A1 قبل ان تحفظ هذه الكلمات (الجزء الأول)"},
+      {"lesson": 55, "video_id": "koRRyGVYbuM", "title": "YouTube Live - A1 إختبر نفسك في اللغة الألمانية"},
+      {"lesson": 56, "video_id": "YlLPF7ncCMQ", "title": "Don't take the A1 exam before you memorize these words (Part Two)"},
+      {"lesson": 57, "video_id": "iMYZh-8PhSc", "title": "تظن أنك تنطق الألمانية صح؟ جرّب هذا الاختبار الآن!"},
+      {"lesson": 58, "video_id": "Sl7HlLWLt78", "title": "نموذج امتحان Goethe A1 كامل مع الحل 🇩🇪"}
+    ]
+  },
+  "other_arabic_channels": {
+    "Deutsch_mit_Ahmad_Yaghi": {
+      "channel_url": "https://www.youtube.com/@DeutschmitAhmadYaghi",
+      "subscribers": "397K",
+      "a1_playlist": {
+        "playlist_id": "PLupCC3-l-Bjhy9-vsT5cjRDs7ZvbxOC2g",
+        "title": "تعلم الألمانية من الصفر A1",
+        "count": 60
+      },
+      "a1_kamil": {
+        "playlist_id": "PLupCC3-l-BjibaFjRKbTIR3PmEZiWa4Og",
+        "title": "دورة تعلم اللغة الألمانية للمستوى الأول A1 كامل (جديد)",
+        "count": 18
+      }
+    },
+    "Shehata_Deutsch": {
+      "channel_url": "https://www.youtube.com/@MohammadShehata-Official",
+      "subscribers": "750K",
+      "a1_playlist": {
+        "title": "A1 قائمة دروس اللغة الألمانية",
+        "count": 109
+      }
+    }
+  }
+}

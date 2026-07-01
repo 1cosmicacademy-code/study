@@ -1,0 +1,496 @@
+{
+  "meta": {
+    "description": "YouTube video references for Treffpunkt A1 and A2 lessons — Arabic and English",
+    "updated": "2026-07-01",
+    "english_playlist": {
+      "channel": "Learn German with Anja",
+      "playlist_id": "PLYzp2xhTw9W1Z9RvnCoveC0W7pkwUMHXy",
+      "playlist_title": "GERMAN FOR BEGINNERS FREE COURSE (A1) LESSONS 1-63"
+    },
+    "arabic_playlist": {
+      "channel": "Deutsch mit Mira",
+      "playlist_id": "PLawKOZJF6P4aFnQ0IZ8DruunUg5PZEflI",
+      "playlist_title": "تعلم الألمانية من الصفر مستوى A1"
+    }
+  },
+  "lektion-01": {
+    "en": {
+      "video_id": "iB_sassbnOw",
+      "title": "GERMAN LESSON 1: Learn German for Beginners - German Greetings",
+      "channel": "Learn German with Anja"
+    },
+    "ar": {
+      "video_id": "kolo85cQdxo",
+      "title": "أول درس لك في الألمانية (A1) — التحيات",
+      "channel": "Nexa_Deutsch"
+    }
+  },
+  "lektion-02": {
+    "en": {
+      "video_id": "XTrsVMe6_mI",
+      "title": "GERMAN LESSON 14: German professions - Deutsche Berufe",
+      "channel": "Learn German with Anja"
+    },
+    "ar": {
+      "video_id": "TbHJW5ozFFA",
+      "title": "الألمانية من الصفر - الدرس 28 (المهنة أو الوظيفة - Der Beruf)",
+      "channel": "Lehrer Amr Al-Nadhemi"
+    }
+  },
+  "lektion-03": {
+    "en": {
+      "video_id": "6Of-BqbiNLM",
+      "title": "GERMAN LESSON 15: The German articles (der/die/das)",
+      "channel": "Learn German with Anja"
+    },
+    "ar": {
+      "video_id": "d_o8Ny4455E",
+      "title": "A1 تعلم الألمانية من الصفر- الدرس 4 {أدوات التعريف والتنكير}",
+      "channel": "Deutsch mit Mira"
+    }
+  },
+  "lektion-04": {
+    "en": {
+      "video_id": "qdTEFPqjfkY",
+      "title": "GERMAN LESSON 19: Family members",
+      "channel": "Learn German with Anja"
+    },
+    "ar": {
+      "video_id": "V8xl5tfDqL0",
+      "title": "A1 Learn German from scratch - Lesson 6 {The Family}",
+      "channel": "Deutsch mit Mira"
+    }
+  },
+  "lektion-05": {
+    "en": {
+      "video_id": "V9F5xwlFopg",
+      "title": "GERMAN LESSON 50: Was machst du in deiner Freizeit? // German freetime Vocabulary",
+      "channel": "Learn German with Anja"
+    },
+    "ar": {
+      "video_id": "LnFU0hof5TU",
+      "title": "الدرس ٢٩ تعلم أساسيات اللغة الألمانية (الروتين اليومي Der Tagesablauf)",
+      "channel": "Deutsch mit Donia"
+    }
+  },
+  "lektion-06": {
+    "en": {
+      "video_id": "44xYdQWki-M",
+      "title": "GERMAN LESSON 59: How to tell the TIME in German - Die Uhrzeit (part 1)",
+      "channel": "Learn German with Anja"
+    },
+    "ar": {
+      "video_id": "W3X1UbMrCYE",
+      "title": "What time is it in German? Learn the time step by step!",
+      "channel": "Deutsch mit Mira"
+    }
+  },
+  "lektion-07": {
+    "en": {
+      "video_id": "Kk8qA0e63UE",
+      "title": "GERMAN LESSON 18: How to order food",
+      "channel": "Learn German with Anja"
+    },
+    "ar": {
+      "video_id": "yq3DahSQKaQ",
+      "title": "A1 تعلم الألمانية من الصفر - الدرس 20 (الطعام باللغة الألمانية 1)",
+      "channel": "Deutsch mit Mira"
+    }
+  },
+  "lektion-08": {
+    "en": {
+      "video_id": "gKLK6gBM_qI",
+      "title": "A1 - Lesson 44 | Perfekt | Past tense | Part 1 | Learn German for beginners",
+      "channel": "Learn German"
+    },
+    "ar": {
+      "video_id": "dNY85buE-R0",
+      "title": "A1 تعلم الألمانية من الصفر - الدرس 32 (الماضي باللغة الألمانية)",
+      "channel": "Deutsch mit Mira"
+    }
+  },
+  "lektion-09": {
+    "en": {
+      "video_id": "9uFcMrgPrz4",
+      "title": "GERMAN LESSON 9: The German Days of Week",
+      "channel": "Learn German with Anja"
+    },
+    "ar": {
+      "video_id": "KN7jwA8WDkA",
+      "title": "A1 تعلم الألمانية من الصفر - الدرس 29 (ايام الأسبوع)",
+      "channel": "Deutsch mit Mira"
+    }
+  },
+  "lektion-10": {
+    "en": {
+      "video_id": "dIbr0bSKvYM",
+      "title": "GERMAN LESSON 42: Means of TRANSPORT in German 🚖 🚅 🚚 ⛴",
+      "channel": "Learn German with Anja"
+    },
+    "ar": {
+      "video_id": "8FZiaETJE3c",
+      "title": "تعلم الألمانية A1 :وسائل المواصلات Learn German A1: Transportation",
+      "channel": "الألمانية للجميع"
+    }
+  },
+  "lektion-11": {
+    "en": {
+      "video_id": "RrfgbBp6ScI",
+      "title": "GERMAN LESSON 33: Introduction to German PREPOSITIONS",
+      "channel": "Learn German with Anja"
+    },
+    "ar": {
+      "video_id": "KC0hVfM6Ujw",
+      "title": "تعلم أسماء أهم الأشياء في المنزل بالألمانية (1)",
+      "channel": "Deutsch mit Mira"
+    }
+  },
+  "lektion-12": {
+    "en": {
+      "video_id": "lvYIxKye_7s",
+      "title": "Learn German | German Vocabulary | Schule | School | A1",
+      "channel": "Learn German"
+    },
+    "ar": {
+      "video_id": "Luv0DlcLF3I",
+      "title": "A1 (27) Die Berufe - تعلم الألمانية - أسماء الوظائف",
+      "channel": "Deutsch mit Mira"
+    }
+  },
+  "lektion-13": {
+    "en": {
+      "video_id": "EXuCCH10w3k",
+      "title": "GERMAN LESSON 47: BODY PARTY IN GERMAN - DIE KÖRPERTEILE",
+      "channel": "Learn German with Anja"
+    },
+    "ar": {
+      "video_id": "psTMUA-X_i0",
+      "title": "Learn German from scratch - Lesson 44 (Body parts in German)",
+      "channel": "Deutsch mit Mira"
+    }
+  },
+  "lektion-14": {
+    "en": {
+      "video_id": "JybuldB6q5M",
+      "title": "A1 - Lesson 59 | Beim Arzt | At the Doctor's | Arzttermin vereinbaren | Learn German",
+      "channel": "Learn German"
+    },
+    "ar": {
+      "video_id": "XddnPwhX3cY",
+      "title": "احترف التكلم عند الطبيب في اللغة الألمانية 🌡👩‍⚕️",
+      "channel": "Deutsch mit Mira"
+    }
+  },
+  "lektion-15": {
+    "en": {
+      "video_id": "zR5VsqYQZ9A",
+      "title": "A1 - Lesson 40 | Wegbeschreibung | Directions | Learn German for beginners",
+      "channel": "Learn German"
+    },
+    "ar": {
+      "video_id": "WGYZtuE3uu4",
+      "title": "تعلم الألمانية A1: الاتجاهات في المدينة - Wegbeschreibung",
+      "channel": "Shehata Deutsch"
+    }
+  },
+  "lektion-16": {
+    "en": {
+      "video_id": "jdvvxRSOnA0",
+      "title": "A1 - Lesson 48 | Im Supermarkt | In the supermarket | Learn German for beginners",
+      "channel": "Learn German"
+    },
+    "ar": {
+      "video_id": "4_4886a0uL0",
+      "title": "تعلم الألمانية A1: عند التسوق - Learn German A1: When shopping",
+      "channel": "الألمانية للجميع"
+    }
+  },
+  "lektion-17": {
+    "en": {
+      "video_id": "2nYTPoh3Dfo",
+      "title": "Learn German | German Speaking | Meine Arbeit | My work | Sprechen - A1",
+      "channel": "Learn German"
+    },
+    "ar": {
+      "video_id": "Y6143FMfDPo",
+      "title": "كورس اللغة الألمانية A1-العمل والمهنة-Arbeit und Beruf في اللغة الألمانية",
+      "channel": "Learn German with Arabic"
+    }
+  },
+  "lektion-18": {
+    "en": {
+      "video_id": "7BsnaCZOjQg",
+      "title": "Deutsch lernen A1 | Ein Tag im Büro | Einfache Sätze für Anfänger",
+      "channel": "Hallo Deutschschule"
+    },
+    "ar": {
+      "video_id": "IlcZhRGJP-w",
+      "title": "Im Büro في المكتب / Deutsch lernen تعلم اللغة الألمانية",
+      "channel": "Deutsch lernen"
+    }
+  },
+  "lektion-19": {
+    "en": {
+      "video_id": "6zjnKF9VeuY",
+      "title": "GERMAN LESSON 17: Useful phrases for travel",
+      "channel": "Learn German with Anja"
+    },
+    "ar": {
+      "video_id": "N-3sySP6yZg",
+      "title": "درس السفر للمبتدأين A1 Verreisen",
+      "channel": "Learn German with Arabic"
+    }
+  },
+  "lektion-20": {
+    "en": {
+      "video_id": "YT5ejKW4coA",
+      "title": "Way to German | German Vocabulary | das Fest die Feste | Festivals | A1",
+      "channel": "Way to German"
+    },
+    "ar": {
+      "video_id": "7PLwa1i3K1s",
+      "title": "Die Feste / Die Anlässe مفردات عن الأعياد والمناسبات بالألماني",
+      "channel": "Deutsch lernen mit Arabisch"
+    }
+  },
+  "a2-lektion-01": {
+    "en": {
+      "video_id": "DnewKMVyflE",
+      "title": "A2 - Lesson 1 | Introducing yourself | sich vorstellen | German for beginners",
+      "channel": "Learn German"
+    },
+    "ar": {
+      "video_id": "9M2D1eUKyZE",
+      "title": "الدرس 40 | Sich vorstellen - التعريف بالنفس",
+      "channel": "Deutsch mit Mira"
+    }
+  },
+  "a2-lektion-02": {
+    "en": {
+      "video_id": "eqOIn-rdttQ",
+      "title": "A2 - Lesson 2 | Character traits | Charaktereigenschaften | German for beginners",
+      "channel": "Learn German"
+    },
+    "ar": {
+      "video_id": "FYGTwe_iP48",
+      "title": "die Berufe الوظائف باللغه الالمانيه",
+      "channel": "Frau Eman"
+    }
+  },
+  "a2-lektion-03": {
+    "en": {
+      "video_id": "jBnIPvoiZAs",
+      "title": "Learn German | German Speaking | Was machst du gern in deiner Freizeit? | Sprechen - A1 | A2",
+      "channel": "Learn German"
+    },
+    "ar": {
+      "video_id": "6rzANuCC2z8",
+      "title": "تحدث عن عطلة نهاية الأسبوع باللغة الألمانية | الدرس (11) A2",
+      "channel": "Deutsch mit Mira"
+    }
+  },
+  "a2-lektion-04": {
+    "en": {
+      "video_id": "qSWIYTpxzIs",
+      "title": "Learn German | Learn German Vocabulary - My House (Mein Haus)",
+      "channel": "Learn German"
+    },
+    "ar": {
+      "video_id": "tDqM3mTmUuQ",
+      "title": "92 -  Wohnen und Wohnungssuche تعلم اللغة الألمانية - محادثات السكن والبحث عن شقة",
+      "channel": "Shehata Deutsch"
+    }
+  },
+  "a2-lektion-05": {
+    "en": {
+      "video_id": "Sa0whvtYau8",
+      "title": "A2 - Lesson 45 | Traumberufe & Berufswünsche | Dream Job and career | German for beginners",
+      "channel": "Learn German"
+    },
+    "ar": {
+      "video_id": "4ohw_JaDlJA",
+      "title": "019 - A2 - Wie spreche ich über meinen Beruf  كيف اتحدث عن مهنتي باللغة الالمانية",
+      "channel": "Shehata Deutsch"
+    }
+  },
+  "a2-lektion-06": {
+    "en": {
+      "video_id": "zMAaMpmLqs0",
+      "title": "A2 - Lesson 49 | Verkehrsmittel | Means of transport | German for beginners",
+      "channel": "Learn German"
+    },
+    "ar": {
+      "video_id": "5JTQUevZiDs",
+      "title": "89 - Verkehrsmittel تعلم اللغة الالمانية -كلمات ومحادثات حول وسائل النقل و المواصلات",
+      "channel": "Shehata Deutsch"
+    }
+  },
+  "a2-lektion-07": {
+    "en": {
+      "video_id": "wZRS1vZNq-o",
+      "title": "beim Arzt | visiting a doctor in Germany | Dialoge im Alltag | Learn German | A2-B1",
+      "channel": "Learn German"
+    },
+    "ar": {
+      "video_id": "R-45YX71B0E",
+      "title": "84 - Körper, Gesundheit und Krankheit | الجسم والامراض باللغة الالمانية",
+      "channel": "Shehata Deutsch"
+    }
+  },
+  "a2-lektion-08": {
+    "en": {
+      "video_id": "Y9KJfcUYir8",
+      "title": "A2 - Lesson 42 | Ratschläge geben | sollte | Konjunktiv II | German for beginners",
+      "channel": "Learn German"
+    },
+    "ar": {
+      "video_id": "XrDUvh6tEpM",
+      "title": "046 - A2 - Das ist mir wichtig im Beruf تكلم عن المهم لك في الوظيفة",
+      "channel": "Shehata Deutsch"
+    }
+  },
+  "a2-lektion-09": {
+    "en": {
+      "video_id": "u_zBt2Ve7gg",
+      "title": "A2 - Lesson 11 | Komparativ and Superlativ | Part 1 | German for beginners",
+      "channel": "Learn German"
+    },
+    "ar": {
+      "video_id": "4aPVid4j_l4",
+      "title": "007 - A2 - Komparation der Adjektive مقارنة الصفات في اللغة الألمانية",
+      "channel": "Shehata Deutsch"
+    }
+  },
+  "a2-lektion-10": {
+    "en": {
+      "video_id": "zR5VsqYQZ9A",
+      "title": "A1 - Lesson 40 | Wegbeschreibung | Directions | Learn German for beginners",
+      "channel": "Learn German"
+    },
+    "ar": {
+      "video_id": "7bHp4WALBwY",
+      "title": "013 - A2 - Stadt vs. Land تكلم عن الفوارق بين المدينة والريف",
+      "channel": "Shehata Deutsch"
+    }
+  },
+  "a2-lektion-11": {
+    "en": {
+      "video_id": "ueeMAVO7ZcU",
+      "title": "A2 - Lesson 46 | Wettervorhersage | Weather forecast | German for beginners",
+      "channel": "Learn German"
+    },
+    "ar": {
+      "video_id": "CgUBAtlwIko",
+      "title": "كورس المحادثة باللغة الألمانية (97) 🇩🇪",
+      "channel": "Deutsch mit Mira"
+    }
+  },
+  "a2-lektion-12": {
+    "en": {
+      "video_id": "lvYIxKye_7s",
+      "title": "Learn German | German Vocabulary | Schule | School | A1",
+      "channel": "Learn German"
+    },
+    "ar": {
+      "video_id": "aYIefhaI-EE",
+      "title": "014 - A2 - Die Schule كلمات مهمة عن المدرسة والمواد الدراسية",
+      "channel": "Shehata Deutsch"
+    }
+  },
+  "a2-lektion-13": {
+    "en": {
+      "video_id": "H5XQGE87doc",
+      "title": "A2 - Lesson 38 | Adjektive als Nomen | Adjectives as nouns | German for beginners",
+      "channel": "Learn German"
+    },
+    "ar": {
+      "video_id": "y6LcGF-ykjI",
+      "title": "033 - A2 - Der Anfang ist schwer weil درس مهم جدا حول الحياة اليومية",
+      "channel": "Shehata Deutsch"
+    }
+  },
+  "a2-lektion-14": {
+    "en": {
+      "video_id": "1agjSgeiXRM",
+      "title": "A2 - Lesson 49 | zusammen etwas planen | Goethe Zertifikat A2 | German for beginners",
+      "channel": "Learn German"
+    },
+    "ar": {
+      "video_id": "EBE1Oon-j9w",
+      "title": "الروتين اليومي باللغة الألمانية | الدرس (9) A2",
+      "channel": "Deutsch mit Mira"
+    }
+  },
+  "a2-lektion-15": {
+    "en": {
+      "video_id": "p8nJSKWnmxY",
+      "title": "Learn German | German Vocabulary | Urlaub und Reisen | Vacation & Travel | A2 | B1",
+      "channel": "Learn German"
+    },
+    "ar": {
+      "video_id": "z381pXVXR1g",
+      "title": "96 - Urlaub und Reisen تكلم عن السفر والرحلات",
+      "channel": "Shehata Deutsch"
+    }
+  },
+  "a2-lektion-16": {
+    "en": {
+      "video_id": "GPIa7ZlXgB4",
+      "title": "A2 - Lesson 41 | ein Rezept schreiben | Recipe in German | German for beginners",
+      "channel": "Learn German"
+    },
+    "ar": {
+      "video_id": "ow3isIhce4E",
+      "title": "050 - A2 - Wie spreche ich über Interessen und Sport  كيف اتحدث عن اهتماماتي والرياضة",
+      "channel": "Shehata Deutsch"
+    }
+  },
+  "a2-lektion-17": {
+    "en": {
+      "video_id": "trzgP5-zy84",
+      "title": "A1 - Lesson 55 | Im Kaufhaus | Buying clothes | Shopping | Learn German",
+      "channel": "Learn German"
+    },
+    "ar": {
+      "video_id": "x4hSi2OAnKM",
+      "title": "ما الفرق بينهم؟ kaufen, einkaufen und verkaufen 🇩🇪",
+      "channel": "Deutsch mit Mira"
+    }
+  },
+  "a2-lektion-18": {
+    "en": {
+      "video_id": "IGECgGe2K-8",
+      "title": "How to withdraw money in Germany",
+      "channel": "Learn German with Anja"
+    },
+    "ar": {
+      "video_id": "jSdyJx3pu0s",
+      "title": "054 - A2 - Geld und Banken   حوارات مهمة حول التسوق ,المال والبنك",
+      "channel": "Shehata Deutsch"
+    }
+  },
+  "a2-lektion-19": {
+    "en": {
+      "video_id": "ek-V7EuVh8E",
+      "title": "A2 - Lesson 48 | vom Urlaub erzählen | Reisebericht | Postkarte | German for beginners",
+      "channel": "Learn German"
+    },
+    "ar": {
+      "video_id": "fBCWaHccFBE",
+      "title": "اتصال بصديق لتخطيط رحلة باللغة الألمانية 🇩🇪",
+      "channel": "Deutsch mit Mira"
+    }
+  },
+  "a2-lektion-20": {
+    "en": {
+      "video_id": "yqt3_-BEy1U",
+      "title": "A2 - Lesson 27 | Nebensätze mit \"als\" | Subordinate clauses with \"als\" | German for beginners",
+      "channel": "Learn German"
+    },
+    "ar": {
+      "video_id": "0vjE-XopATY",
+      "title": "🇩🇪 A2 Das Präteritum | الدرس 5 - الماضي البسيط",
+      "channel": "Deutsch mit Mira"
+    }
+  }
+}

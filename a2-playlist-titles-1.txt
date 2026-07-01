@@ -1,0 +1,332 @@
+[
+  {
+    "index": 1,
+    "video_id": "DnewKMVyflE",
+    "title": "A2 - Lesson 1 | Introducing yourself | sich vorstellen | German for beginners",
+    "href": "https://www.youtube.com/watch?v=DnewKMVyflE&list=PLF9mJC4RrjIhv0_YjWvC0pmM1EZlVylBt&index=1&pp=iAQB"
+  },
+  {
+    "index": 2,
+    "video_id": "eqOIn-rdttQ",
+    "title": "A2 - Lesson 2 | Character traits | Charaktereigenschaften | German for beginners",
+    "href": "https://www.youtube.com/watch?v=eqOIn-rdttQ&list=PLF9mJC4RrjIhv0_YjWvC0pmM1EZlVylBt&index=2&pp=iAQB"
+  },
+  {
+    "index": 3,
+    "video_id": "UB0jMgUDrNk",
+    "title": "A2 - Lesson 3 | Konjunktion \"dass\" | Nebensatz | German for beginners",
+    "href": "https://www.youtube.com/watch?v=UB0jMgUDrNk&list=PLF9mJC4RrjIhv0_YjWvC0pmM1EZlVylBt&index=3&pp=iAQB"
+  },
+  {
+    "index": 4,
+    "video_id": "nymodKZcdpU",
+    "title": "A2 - Lesson 4 | Kausalsatz | Nebensatz | weil (da) vs denn  | German for beginners",
+    "href": "https://www.youtube.com/watch?v=nymodKZcdpU&list=PLF9mJC4RrjIhv0_YjWvC0pmM1EZlVylBt&index=4&pp=iAQB"
+  },
+  {
+    "index": 5,
+    "video_id": "xxQf741CH-k",
+    "title": "A2 - Lesson 5 | Adjektivendungen | Nominativ | German for beginners",
+    "href": "https://www.youtube.com/watch?v=xxQf741CH-k&list=PLF9mJC4RrjIhv0_YjWvC0pmM1EZlVylBt&index=5&pp=iAQB"
+  },
+  {
+    "index": 6,
+    "video_id": "60FII1256-s",
+    "title": "A2 - Lesson 6 | Adjektivendungen | Akkusativ | German for beginners",
+    "href": "https://www.youtube.com/watch?v=60FII1256-s&list=PLF9mJC4RrjIhv0_YjWvC0pmM1EZlVylBt&index=6&pp=iAQB"
+  },
+  {
+    "index": 7,
+    "video_id": "OXuWyGG6-Rg",
+    "title": "A2 - Lesson 7 | Adjektivendungen | Dativ | German for beginners",
+    "href": "https://www.youtube.com/watch?v=OXuWyGG6-Rg&list=PLF9mJC4RrjIhv0_YjWvC0pmM1EZlVylBt&index=7&pp=iAQB"
+  },
+  {
+    "index": 8,
+    "video_id": "TrYNDG5ipvc",
+    "title": "A2 - Lesson 8 | Konjunktion \"wenn\" | Nebensatz | German for beginners",
+    "href": "https://www.youtube.com/watch?v=TrYNDG5ipvc&list=PLF9mJC4RrjIhv0_YjWvC0pmM1EZlVylBt&index=8&pp=iAQB"
+  },
+  {
+    "index": 9,
+    "video_id": "9eiw7yDTBI8",
+    "title": "A2 - Lesson 9 | Genitive case | Genitiv | German for beginners",
+    "href": "https://www.youtube.com/watch?v=9eiw7yDTBI8&list=PLF9mJC4RrjIhv0_YjWvC0pmM1EZlVylBt&index=9&pp=iAQB"
+  },
+  {
+    "index": 10,
+    "video_id": "SrwtT-7wWBs",
+    "title": "A2 - Lesson 10 | Genitive adjective endings | Genitiv | German for beginners",
+    "href": "https://www.youtube.com/watch?v=SrwtT-7wWBs&list=PLF9mJC4RrjIhv0_YjWvC0pmM1EZlVylBt&index=10&pp=iAQB"
+  },
+  {
+    "index": 11,
+    "video_id": "u_zBt2Ve7gg",
+    "title": "A2 - Lesson 11 | Komparativ and Superlativ | Part 1 | German for beginners",
+    "href": "https://www.youtube.com/watch?v=u_zBt2Ve7gg&list=PLF9mJC4RrjIhv0_YjWvC0pmM1EZlVylBt&index=11&pp=iAQB"
+  },
+  {
+    "index": 12,
+    "video_id": "UN0kVWoQG7Q",
+    "title": "A2 - Lesson 12 | Komparativ and Superlativ | Part 2 | German for beginners",
+    "href": "https://www.youtube.com/watch?v=UN0kVWoQG7Q&list=PLF9mJC4RrjIhv0_YjWvC0pmM1EZlVylBt&index=12&pp=iAQB"
+  },
+  {
+    "index": 13,
+    "video_id": "usRE0VHXQ6U",
+    "title": "A2 - Lesson 13 | Nebensätze mit \"obwohl\" | German for beginners",
+    "href": "https://www.youtube.com/watch?v=usRE0VHXQ6U&list=PLF9mJC4RrjIhv0_YjWvC0pmM1EZlVylBt&index=13&pp=iAQB"
+  },
+  {
+    "index": 14,
+    "video_id": "T-G5NEBsHpU",
+    "title": "A2 - Lesson 14 | \"deshalb\" und \"trotzdem\" | German for beginners",
+    "href": "https://www.youtube.com/watch?v=T-G5NEBsHpU&list=PLF9mJC4RrjIhv0_YjWvC0pmM1EZlVylBt&index=14&pp=iAQB"
+  },
+  {
+    "index": 15,
+    "video_id": "9TgTYAeKnP0",
+    "title": "A2 - Lesson 15 | Das Verb \"werden\" | German for beginners",
+    "href": "https://www.youtube.com/watch?v=9TgTYAeKnP0&list=PLF9mJC4RrjIhv0_YjWvC0pmM1EZlVylBt&index=15&pp=iAQB"
+  },
+  {
+    "index": 16,
+    "video_id": "Rl1f9qLfob4",
+    "title": "A2 - Lesson 16 | Indirekte Fragesätze | ob | German for beginners",
+    "href": "https://www.youtube.com/watch?v=Rl1f9qLfob4&list=PLF9mJC4RrjIhv0_YjWvC0pmM1EZlVylBt&index=16&pp=iAQB"
+  },
+  {
+    "index": 17,
+    "video_id": "vhL6C2ubVCo",
+    "title": "A2 - Lesson 17 | Nebensätze mit \"während\" und \"bevor\" | German for beginners",
+    "href": "https://www.youtube.com/watch?v=vhL6C2ubVCo&list=PLF9mJC4RrjIhv0_YjWvC0pmM1EZlVylBt&index=17&pp=iAQB"
+  },
+  {
+    "index": 18,
+    "video_id": "6CtW6EvAV4A",
+    "title": "A2 - Lesson 18 | Relativsätze| Relativpronomen im Nominativ | German for beginners",
+    "href": "https://www.youtube.com/watch?v=6CtW6EvAV4A&list=PLF9mJC4RrjIhv0_YjWvC0pmM1EZlVylBt&index=18&pp=iAQB"
+  },
+  {
+    "index": 19,
+    "video_id": "-ArdZ0v55dM",
+    "title": "A2 - Lesson 19 | Relativsätze | Relativpronomen im Akkusativ | German for beginners",
+    "href": "https://www.youtube.com/watch?v=-ArdZ0v55dM&list=PLF9mJC4RrjIhv0_YjWvC0pmM1EZlVylBt&index=19&pp=iAQB"
+  },
+  {
+    "index": 20,
+    "video_id": "wjVBEg6HfYI",
+    "title": "A2 - Lesson 20 | Relativsätze | Relativpronomen im Dativ | German for beginners",
+    "href": "https://www.youtube.com/watch?v=wjVBEg6HfYI&list=PLF9mJC4RrjIhv0_YjWvC0pmM1EZlVylBt&index=20&pp=iAQB"
+  },
+  {
+    "index": 21,
+    "video_id": "SMAS9cprVfU",
+    "title": "A2 - Lesson 21 | Relativsätze | Relativpronomen im Genitiv | German for beginners",
+    "href": "https://www.youtube.com/watch?v=SMAS9cprVfU&list=PLF9mJC4RrjIhv0_YjWvC0pmM1EZlVylBt&index=21&pp=iAQB"
+  },
+  {
+    "index": 22,
+    "video_id": "sEeDB5fqS-A",
+    "title": "A2 - Lesson 22 | Relativpronomen wer und was | Relative pronouns wer and was | German for beginners",
+    "href": "https://www.youtube.com/watch?v=sEeDB5fqS-A&list=PLF9mJC4RrjIhv0_YjWvC0pmM1EZlVylBt&index=22&pp=iAQB"
+  },
+  {
+    "index": 23,
+    "video_id": "4kPheLr2Ux0",
+    "title": "A2 - Lesson 23 | Indefinitpronomen (etwas, man...) | Indefinite Pronouns | German for beginners",
+    "href": "https://www.youtube.com/watch?v=4kPheLr2Ux0&list=PLF9mJC4RrjIhv0_YjWvC0pmM1EZlVylBt&index=23&pp=iAQB"
+  },
+  {
+    "index": 24,
+    "video_id": "3w_daBRBZHU",
+    "title": "A2 - Lesson 24 | Präteritum (Modalverben) | Preterite (Modal Verbs) | German for beginners",
+    "href": "https://www.youtube.com/watch?v=3w_daBRBZHU&list=PLF9mJC4RrjIhv0_YjWvC0pmM1EZlVylBt&index=24&pp=iAQB"
+  },
+  {
+    "index": 25,
+    "video_id": "FakfLTR7LBw",
+    "title": "A2 - Lesson 25 | Präteritum (Regelmäßige Verben) | Preterite (Regular Verbs) | German for beginners",
+    "href": "https://www.youtube.com/watch?v=FakfLTR7LBw&list=PLF9mJC4RrjIhv0_YjWvC0pmM1EZlVylBt&index=25&pp=iAQB0gcJCU4LAYcqIYzv"
+  },
+  {
+    "index": 26,
+    "video_id": "4LNYDj-eX5A",
+    "title": "A2 - Lesson 26 | Präteritum (Unregelmäßige Verben) | Irregular Verbs | German for beginners",
+    "href": "https://www.youtube.com/watch?v=4LNYDj-eX5A&list=PLF9mJC4RrjIhv0_YjWvC0pmM1EZlVylBt&index=26&pp=iAQB"
+  },
+  {
+    "index": 27,
+    "video_id": "yqt3_-BEy1U",
+    "title": "A2 - Lesson 27 | Nebensätze mit \"als\" | Subordinate clauses with \"als\" | German for beginners",
+    "href": "https://www.youtube.com/watch?v=yqt3_-BEy1U&list=PLF9mJC4RrjIhv0_YjWvC0pmM1EZlVylBt&index=27&pp=iAQB"
+  },
+  {
+    "index": 28,
+    "video_id": "Jw6thnnrIhM",
+    "title": "A2 - Lesson 28 | Als Kind | Wie warst du als Kind? | German for beginners",
+    "href": "https://www.youtube.com/watch?v=Jw6thnnrIhM&list=PLF9mJC4RrjIhv0_YjWvC0pmM1EZlVylBt&index=28&pp=iAQB"
+  },
+  {
+    "index": 29,
+    "video_id": "RMH85sPUDHY",
+    "title": "A2 - Lesson 29 | Auf dem Land oder in der Stadt? | Vorteile und Nachteile | German for beginners",
+    "href": "https://www.youtube.com/watch?v=RMH85sPUDHY&list=PLF9mJC4RrjIhv0_YjWvC0pmM1EZlVylBt&index=29&pp=iAQB"
+  },
+  {
+    "index": 30,
+    "video_id": "gsfTkeF5tNU",
+    "title": "A2 - Lesson 30 | Infinitiv mit \"zu\" | Infinitiv-Sätze | German for beginners",
+    "href": "https://www.youtube.com/watch?v=gsfTkeF5tNU&list=PLF9mJC4RrjIhv0_YjWvC0pmM1EZlVylBt&index=30&pp=iAQB"
+  },
+  {
+    "index": 31,
+    "video_id": "EQvRVlCA4Ko",
+    "title": "A2 - Lesson 31 | Infinitiv OHNE \"zu\" | Infinitiv ohne zu Sätze | German for beginners",
+    "href": "https://www.youtube.com/watch?v=EQvRVlCA4Ko&list=PLF9mJC4RrjIhv0_YjWvC0pmM1EZlVylBt&index=31&pp=iAQB"
+  },
+  {
+    "index": 32,
+    "video_id": "l5-E_TqF2a8",
+    "title": "A2 - Lesson 32 | Plusquamperfekt | Past Perfect Tense | German for beginners",
+    "href": "https://www.youtube.com/watch?v=l5-E_TqF2a8&list=PLF9mJC4RrjIhv0_YjWvC0pmM1EZlVylBt&index=32&pp=iAQB"
+  },
+  {
+    "index": 33,
+    "video_id": "v3Yt3_v7Qpg",
+    "title": "A2 - Lesson 33 | nachdem - seitdem | Temporale Konjunktionen | German for beginners",
+    "href": "https://www.youtube.com/watch?v=v3Yt3_v7Qpg&list=PLF9mJC4RrjIhv0_YjWvC0pmM1EZlVylBt&index=33&pp=iAQB"
+  },
+  {
+    "index": 34,
+    "video_id": "r-6OA9VZcdQ",
+    "title": "A2 - Lesson 34 | Wechselpräpositionen | Two way prepositions | German for beginners",
+    "href": "https://www.youtube.com/watch?v=r-6OA9VZcdQ&list=PLF9mJC4RrjIhv0_YjWvC0pmM1EZlVylBt&index=34&pp=iAQB"
+  },
+  {
+    "index": 35,
+    "video_id": "uwdnk4rmsio",
+    "title": "A2 - Lesson 35 | Vermutungen äußern | Making assumptions | German for beginners",
+    "href": "https://www.youtube.com/watch?v=uwdnk4rmsio&list=PLF9mJC4RrjIhv0_YjWvC0pmM1EZlVylBt&index=35&pp=iAQB"
+  },
+  {
+    "index": 36,
+    "video_id": "c6MsAJELP_Y",
+    "title": "A2 - Lesson 36 | Höfliche Bitten | Konjunktiv II | könnten | würden | German for beginners",
+    "href": "https://www.youtube.com/watch?v=c6MsAJELP_Y&list=PLF9mJC4RrjIhv0_YjWvC0pmM1EZlVylBt&index=36&pp=iAQB"
+  },
+  {
+    "index": 37,
+    "video_id": "DZAXKc7eU8g",
+    "title": "A2 -Lesson 37 | Bildbeschreibung | ein Bild beschreiben | Picture description | German for beginners",
+    "href": "https://www.youtube.com/watch?v=DZAXKc7eU8g&list=PLF9mJC4RrjIhv0_YjWvC0pmM1EZlVylBt&index=37&pp=iAQB"
+  },
+  {
+    "index": 38,
+    "video_id": "H5XQGE87doc",
+    "title": "A2 - Lesson 38 | Adjektive als Nomen | Adjectives as nouns | German for beginners",
+    "href": "https://www.youtube.com/watch?v=H5XQGE87doc&list=PLF9mJC4RrjIhv0_YjWvC0pmM1EZlVylBt&index=38&pp=iAQB"
+  },
+  {
+    "index": 39,
+    "video_id": "VQMUEEworMk",
+    "title": "A2 - Lesson 39 | Passiv (Teil 1) | Passive voice in German | German for beginners",
+    "href": "https://www.youtube.com/watch?v=VQMUEEworMk&list=PLF9mJC4RrjIhv0_YjWvC0pmM1EZlVylBt&index=39&pp=iAQB"
+  },
+  {
+    "index": 40,
+    "video_id": "6f7fFdvkkNI",
+    "title": "A2 - Lesson 40 | Passiv (Teil 2) | Passive voice in German | German for beginners",
+    "href": "https://www.youtube.com/watch?v=6f7fFdvkkNI&list=PLF9mJC4RrjIhv0_YjWvC0pmM1EZlVylBt&index=40&pp=iAQB"
+  },
+  {
+    "index": 41,
+    "video_id": "GPIa7ZlXgB4",
+    "title": "A2 - Lesson 41 | ein Rezept schreiben | Recipe in German | German for beginners",
+    "href": "https://www.youtube.com/watch?v=GPIa7ZlXgB4&list=PLF9mJC4RrjIhv0_YjWvC0pmM1EZlVylBt&index=41&pp=iAQB"
+  },
+  {
+    "index": 42,
+    "video_id": "Y9KJfcUYir8",
+    "title": "A2 - Lesson 42 | Ratschläge geben | sollte | Konjunktiv II | German for beginners",
+    "href": "https://www.youtube.com/watch?v=Y9KJfcUYir8&list=PLF9mJC4RrjIhv0_YjWvC0pmM1EZlVylBt&index=42&pp=iAQB"
+  },
+  {
+    "index": 43,
+    "video_id": "B677ngrSaNA",
+    "title": "A2 - Lesson 43 | eine SMS schreiben | Goethe Zertifikat A2 | German for beginners",
+    "href": "https://www.youtube.com/watch?v=B677ngrSaNA&list=PLF9mJC4RrjIhv0_YjWvC0pmM1EZlVylBt&index=43&pp=iAQB"
+  },
+  {
+    "index": 44,
+    "video_id": "NY3Vwa37Uas",
+    "title": "A2 - Lesson 44 | Gefühle ausdrücken | How to express emotions | German for beginners",
+    "href": "https://www.youtube.com/watch?v=NY3Vwa37Uas&list=PLF9mJC4RrjIhv0_YjWvC0pmM1EZlVylBt&index=44&pp=iAQB"
+  },
+  {
+    "index": 45,
+    "video_id": "Sa0whvtYau8",
+    "title": "A2 - Lesson 45 | Traumberufe & Berufswünsche | Dream Job and career | German for beginners",
+    "href": "https://www.youtube.com/watch?v=Sa0whvtYau8&list=PLF9mJC4RrjIhv0_YjWvC0pmM1EZlVylBt&index=45&pp=iAQB"
+  },
+  {
+    "index": 46,
+    "video_id": "ueeMAVO7ZcU",
+    "title": "A2 - Lesson 46 | Wettervorhersage | Weather forecast | German for beginners",
+    "href": "https://www.youtube.com/watch?v=ueeMAVO7ZcU&list=PLF9mJC4RrjIhv0_YjWvC0pmM1EZlVylBt&index=46&pp=iAQB"
+  },
+  {
+    "index": 47,
+    "video_id": "i2jjefZ5hCQ",
+    "title": "A2 - Lesson 47 | halbformeller Brief | Goethe Zertifikat A2 | German for beginners",
+    "href": "https://www.youtube.com/watch?v=i2jjefZ5hCQ&list=PLF9mJC4RrjIhv0_YjWvC0pmM1EZlVylBt&index=47&pp=iAQB"
+  },
+  {
+    "index": 48,
+    "video_id": "ek-V7EuVh8E",
+    "title": "A2 - Lesson 48 | vom Urlaub erzählen | Reisebericht | Postkarte | German for beginners",
+    "href": "https://www.youtube.com/watch?v=ek-V7EuVh8E&list=PLF9mJC4RrjIhv0_YjWvC0pmM1EZlVylBt&index=48&pp=iAQB"
+  },
+  {
+    "index": 49,
+    "video_id": "1agjSgeiXRM",
+    "title": "A2 - Lesson 49 | zusammen etwas planen | Goethe Zertifikat A2 | German for beginners",
+    "href": "https://www.youtube.com/watch?v=1agjSgeiXRM&list=PLF9mJC4RrjIhv0_YjWvC0pmM1EZlVylBt&index=49&pp=iAQB"
+  },
+  {
+    "index": 50,
+    "video_id": "lOPyBOraL5c",
+    "title": "A2 - Lesson 50 | 10 echte Dialoge | 10 authentic dialogues | German for beginners",
+    "href": "https://www.youtube.com/watch?v=lOPyBOraL5c&list=PLF9mJC4RrjIhv0_YjWvC0pmM1EZlVylBt&index=50&pp=iAQB"
+  },
+  {
+    "index": 51,
+    "video_id": "RuGmc662HDg",
+    "title": "A1 (Free Course) | Learn German for beginners",
+    "href": "https://www.youtube.com/watch?v=RuGmc662HDg&list=PLF9mJC4RrjIhS4MMm0x72-qWEn1LRvPuW"
+  },
+  {
+    "index": 52,
+    "video_id": "SDZoF09EWfE",
+    "title": "B2 | Learn German Intermediate",
+    "href": "https://www.youtube.com/watch?v=SDZoF09EWfE&list=PLF9mJC4RrjIirvi-7FRT0hPbdfwcmFDH1"
+  },
+  {
+    "index": 53,
+    "video_id": "7-cT0rcCY0o",
+    "title": "Learn German Vocabulary",
+    "href": "https://www.youtube.com/watch?v=7-cT0rcCY0o&list=PLF9mJC4RrjIjbHP8isGS3q1SzQyNihhjh&pp=0gcJCe4COCosWNin"
+  },
+  {
+    "index": 54,
+    "video_id": "Jc-lUIjC-2Q",
+    "title": "Common Mistakes in German",
+    "href": "https://www.youtube.com/watch?v=Jc-lUIjC-2Q&list=PLF9mJC4RrjIiikffMYdGJwOnS6muMrJeH"
+  },
+  {
+    "index": 55,
+    "video_id": "yZITJXVjph4",
+    "title": "Exam Preparation  A1 (Goethe Zertifikat / telc Deutsch / Start Deutsch )",
+    "href": "https://www.youtube.com/watch?v=yZITJXVjph4&list=PLF9mJC4RrjIgadRMeZFXiOtuKgnBlwx_A"
+  }
+]

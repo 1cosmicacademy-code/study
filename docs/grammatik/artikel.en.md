@@ -1,0 +1,115 @@
+# Articles (Artikel) in German — der, die, das, ein, keine
+
+🎯 **Articles** in German tell us the gender (masculine, feminine, neuter) and number (singular, plural) of a noun. The golden rule: **learn every noun with its article!**
+
+---
+
+## 💡 Types of Articles
+
+### 1. Definite Articles — "the"
+
+| Article | Use | Example |
+|---------|-----|---------|
+| **der** | Masculine (m) | der Mann (the man) |
+| **die** | Feminine (f) | die Frau (the woman) |
+| **das** | Neuter (n) | das Kind (the child) |
+| **die** | Plural (pl) | die Kinder (the children) |
+
+### 2. Indefinite Articles — "a/an"
+
+| Article | Use | Example |
+|---------|-----|---------|
+| **ein** | Masculine | ein Mann (a man) |
+| **eine** | Feminine | eine Frau (a woman) |
+| **ein** | Neuter | ein Kind (a child) |
+| **---** | Plural | --- (none) |
+
+### 3. Negation with kein — "no/not a"
+
+| Article | Use | Example |
+|---------|-----|---------|
+| **kein** | Masculine | kein Mann (no man) |
+| **keine** | Feminine | keine Frau (no woman) |
+| **kein** | Neuter | kein Kind (no child) |
+| **keine** | Plural | keine Kinder (no children) |
+
+## ⚠️ How to Guess the Gender
+
+There is no 100% fixed rule, but these patterns help:
+
+**Masculine (der) often:**
+- Male people: der Mann, der Vater, der Junge
+- Days of week: der Montag, der Dienstag
+- Months: der Januar, der Mai
+- Seasons: der Sommer, der Winter
+- Endings: -er, -ig, -ling, -or
+
+**Feminine (die) often:**
+- Female people: die Frau, die Mutter, die Schwester
+- Endings: -ung, -heit, -keit, -schaft, -ion, -tät, -ik
+- Numbers: die Eins, die Zwei
+- Trees and flowers: die Rose, die Eiche
+
+**Neuter (das) often:**
+- Young beings: das Kind, das Baby
+- Endings: -chen, -lein (diminutive)
+- Infinitives as nouns: das Essen, das Trinken
+- Metals: das Gold, das Silber
+- Endings: -um, -ment, -tum
+
+## 📌 Golden Rule
+
+```
+Always learn each noun with its article!
+Not "Tisch" but "der Tisch"
+Not "Lampe" but "die Lampe"
+Not "Buch" but "das Buch"
+```
+
+## ✅ Summary Table
+
+| Type | Definite (the) | Indefinite (a) | Negative (no) |
+|------|---------------|---------------|--------------|
+| Masculine | der | ein | kein |
+| Feminine | die | eine | keine |
+| Neuter | das | ein | kein |
+| Plural | die | (kein) | keine |
+
+## 📝 Exercises
+
+### Exercise 1: der/die/das?
+
+1. ___ Haus (house)
+2. ___ Straße (street)
+3. ___ Garten (garden)
+4. ___ Auto (car)
+5. ___ Schule (school)
+
+### Exercise 2: ein or eine?
+
+1. Das ist ___ Tisch.
+2. Das ist ___ Lampe.
+3. Das ist ___ Buch.
+4. Das ist ___ Katze.
+5. Das ist ___ Apfel.
+
+### Exercise 3: kein or keine?
+
+1. Das ist ___ Problem.
+2. Das ist ___ Idee.
+3. Das sind ___ Fragen. (plural)
+4. Ich habe ___ Zeit.
+5. Das ist ___ Hund.
+
+## ✅ Solutions
+
+### Solution Exercise 1
+1. das | 2. die | 3. der | 4. das | 5. die
+
+### Solution Exercise 2
+1. ein | 2. eine | 3. ein | 4. eine | 5. ein
+
+### Solution Exercise 3
+1. kein | 2. keine | 3. keine | 4. keine | 5. kein
+
+---

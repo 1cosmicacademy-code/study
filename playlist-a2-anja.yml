@@ -1,0 +1,496 @@
+- generic [ref=f248e2]:
+  - banner [ref=f248e4]:
+    - generic [ref=f248e6]:
+      - generic [ref=f248e7]:
+        - button "Guide" [pressed] [ref=f248e9] [cursor=pointer]:
+          - generic [ref=f248e12]:
+            - img
+        - generic [ref=f248e13]:
+          - link "YouTube Home" [ref=f248e14] [cursor=pointer]:
+            - /url: /
+            - generic [ref=f248e19]:
+              - img
+          - generic [ref=f248e20]: DE
+        - button "Skip navigation" [ref=f248e24] [cursor=pointer]:
+          - generic: Skip navigation
+      - generic [ref=f248e28]:
+        - search [ref=f248e29]:
+          - generic [ref=f248e31]:
+            - combobox "Search" [expanded] [ref=f248e34]
+            - button "Search" [ref=f248e35] [cursor=pointer]:
+              - generic [ref=f248e38]:
+                - img
+        - generic [ref=f248e40]:
+          - button "Search with your voice" [ref=f248e42] [cursor=pointer]
+          - tooltip "tooltip"
+      - generic [ref=f248e47]:
+        - button "Settings" [ref=f248e52] [cursor=pointer]
+        - link "Sign in" [ref=f248e56] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fplaylist%253Flist%253DPLYzp2xhTw9W1s235dm4ivkPLplaMckaGz&hl=en&ec=65620
+          - generic: Sign in
+  - navigation [ref=f248e60]:
+    - generic [ref=f248e701]:
+      - generic [ref=f248e702]:
+        - generic [ref=f248e704]:
+          - link "Home" [ref=f248e706] [cursor=pointer]:
+            - /url: /
+            - link "Home" [ref=f248e707]:
+              - generic [ref=f248e709]: Home
+          - link "Shorts" [ref=f248e711] [cursor=pointer]:
+            - link "Shorts" [ref=f248e712]:
+              - generic [ref=f248e714]: Shorts
+          - link "Subscriptions" [ref=f248e716] [cursor=pointer]:
+            - /url: /feed/subscriptions
+            - link "Subscriptions" [ref=f248e717]:
+              - generic [ref=f248e719]: Subscriptions
+          - link "You" [ref=f248e721] [cursor=pointer]:
+            - /url: /feed/you
+            - link "You" [ref=f248e722]:
+              - generic [ref=f248e724]: You
+          - link "History" [ref=f248e726] [cursor=pointer]:
+            - /url: /feed/history
+            - link "History" [ref=f248e727]:
+              - generic [ref=f248e729]: History
+        - generic [ref=f248e730]:
+          - generic [ref=f248e731]: Sign in to like videos, comment, and subscribe.
+          - link "Sign in" [ref=f248e734] [cursor=pointer]:
+            - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fplaylist%253Flist%253DPLYzp2xhTw9W1s235dm4ivkPLplaMckaGz&hl=en
+            - generic: Sign in
+        - generic [ref=f248e738]:
+          - heading "Explore" [level=3] [ref=f248e739]:
+            - generic [ref=f248e740]: Explore
+          - generic [ref=f248e741]:
+            - link "Music" [ref=f248e743] [cursor=pointer]:
+              - /url: /channel/UC-9-kyTW8ZkZNDHQJ6FgpwQ
+              - link "Music" [ref=f248e744]:
+                - generic [ref=f248e746]: Music
+            - link "Movies & TV" [ref=f248e748] [cursor=pointer]:
+              - /url: /feed/storefront?bp=ogUCKAU%3D
+              - link "Movies & TV" [ref=f248e749]:
+                - generic [ref=f248e751]: Movies & TV
+            - link "Live" [ref=f248e753] [cursor=pointer]:
+              - /url: /channel/UC4R8DWoMoI7CAwX8_LjQHig
+              - link "Live" [ref=f248e754]:
+                - generic [ref=f248e756]: Live
+            - button "Show more" [ref=f248e758]:
+              - link "Show more" [ref=f248e759] [cursor=pointer]:
+                - link "Show more" [ref=f248e760]:
+                  - generic [ref=f248e762]: Show more
+        - generic [ref=f248e763]:
+          - heading "More from YouTube" [level=3] [ref=f248e764]:
+            - generic [ref=f248e765]: More from YouTube
+          - generic [ref=f248e766]:
+            - link "YouTube Premium" [ref=f248e768] [cursor=pointer]:
+              - /url: /premium
+              - link "YouTube Premium" [ref=f248e769]:
+                - generic [ref=f248e771]: YouTube Premium
+            - link "YouTube Music" [ref=f248e773] [cursor=pointer]:
+              - /url: https://music.youtube.com/
+              - link "YouTube Music" [ref=f248e774]:
+                - generic [ref=f248e776]: YouTube Music
+            - link "YouTube Kids" [ref=f248e778] [cursor=pointer]:
+              - /url: https://www.youtubekids.com/?source=youtube_web
+              - link "YouTube Kids" [ref=f248e779]:
+                - generic [ref=f248e781]: YouTube Kids
+        - link "Report history" [ref=f248e785] [cursor=pointer]:
+          - /url: /reporthistory
+          - link "Report history" [ref=f248e786]:
+            - generic [ref=f248e788]: Report history
+      - generic [ref=f248e789]:
+        - generic [ref=f248e790]:
+          - link "About" [ref=f248e791] [cursor=pointer]:
+            - /url: https://www.youtube.com/about/
+          - link "Press" [ref=f248e792] [cursor=pointer]:
+            - /url: https://www.youtube.com/about/press/
+          - link "Copyright" [ref=f248e793] [cursor=pointer]:
+            - /url: https://www.youtube.com/about/copyright/
+          - link "Contact us" [ref=f248e794] [cursor=pointer]:
+            - /url: /t/contact_us/
+          - link "Creators" [ref=f248e795] [cursor=pointer]:
+            - /url: https://www.youtube.com/creators/
+          - link "Advertise" [ref=f248e796] [cursor=pointer]:
+            - /url: https://www.youtube.com/ads/
+          - link "Developers" [ref=f248e797] [cursor=pointer]:
+            - /url: https://developers.google.com/youtube
+          - link "Impressum" [ref=f248e798] [cursor=pointer]:
+            - /url: https://www.youtube.com/t/impressum?hl=de&gl=DE
+          - link "Cancel Memberships" [ref=f248e799] [cursor=pointer]:
+            - /url: https://support.google.com/youtube/contact/de_cancellation
+        - generic [ref=f248e800]:
+          - link "Terms" [ref=f248e801] [cursor=pointer]:
+            - /url: /t/terms
+          - link "Privacy" [ref=f248e802] [cursor=pointer]:
+            - /url: /t/privacy
+          - link "Policy & Safety" [ref=f248e803] [cursor=pointer]:
+            - /url: https://www.youtube.com/about/policies/
+          - link "How YouTube works" [ref=f248e804] [cursor=pointer]:
+            - /url: https://www.youtube.com/howyoutubeworks?utm_campaign=ytgen&utm_source=ythp&utm_medium=LeftNav&utm_content=txt&u=https%3A%2F%2Fwww.youtube.com%2Fhowyoutubeworks%3Futm_source%3Dythp%26utm_medium%3DLeftNav%26utm_campaign%3Dytgen
+          - link "Test new features" [ref=f248e805] [cursor=pointer]:
+            - /url: /new
+        - generic [ref=f248e806]: © 2026 Google LLC
+  - main [ref=f248e67]:
+    - text: ••
+    - generic [ref=f248e74]:
+      - generic [ref=f248e76]:
+        - generic [ref=f248e78]:
+          - img "Play all" [ref=f248e79]
+          - button "Play all" [ref=f248e80] [cursor=pointer]:
+            - generic [ref=f248e81]:
+              - img [ref=f248e82]
+              - generic [ref=f248e83]: Play all
+        - heading "Upper Beginner German (A2)" [level=1] [ref=f248e85]
+        - generic [ref=f248e86]:
+          - group [ref=f248e87]:
+            - link "by Learn German with Anja" [ref=f248e88] [cursor=pointer]:
+              - link "by Learn German with Anja" [ref=f248e100]:
+                - /url: /@LearnGermanwithAnja
+          - group [ref=f248e101]:
+            - generic [ref=f248e102]: Playlist
+            - generic [ref=f248e103]: •
+            - generic [ref=f248e104]: 16 videos
+            - generic [ref=f248e105]: •
+            - generic [ref=f248e106]: 409,447 views
+      - generic [ref=f248e109]:
+        - link "Play all" [ref=f248e112] [cursor=pointer]:
+          - /url: /watch?v=oVY0NFJGjIU&list=PLYzp2xhTw9W1s235dm4ivkPLplaMckaGz&pp=iAQB
+          - generic: Play all
+        - button "Save playlist" [ref=f248e119] [cursor=pointer]
+        - button "Share" [ref=f248e125] [cursor=pointer]
+        - button "More actions" [ref=f248e131] [cursor=pointer]
+    - generic [ref=f248e140]:
+      - generic [ref=f248e143] [cursor=pointer]:
+        - link [ref=f248e144]:
+          - /url: /watch?v=oVY0NFJGjIU&list=PLYzp2xhTw9W1s235dm4ivkPLplaMckaGz&index=1&pp=iAQB
+          - generic [ref=f248e151]: 4:50
+        - generic [ref=f248e153]:
+          - generic [ref=f248e154]:
+            - heading "Was ist DENGLISCH?? - TOP 10 denglische Verben" [level=3] [ref=f248e155]:
+              - link "Was ist DENGLISCH?? - TOP 10 denglische Verben 4 minutes, 50 seconds" [ref=f248e156]:
+                - /url: /watch?v=oVY0NFJGjIU&list=PLYzp2xhTw9W1s235dm4ivkPLplaMckaGz&index=1&pp=iAQB
+                - text: Was ist DENGLISCH?? - TOP 10 denglische Verben
+            - generic [ref=f248e158]:
+              - group [ref=f248e159]:
+                - link "Learn German with Anja" [ref=f248e162]:
+                  - /url: /@LearnGermanwithAnja
+                  - text: Learn German with Anja
+                  - img [ref=f248e165]
+              - group [ref=f248e166]:
+                - generic [ref=f248e167]: 151K views
+                - generic [ref=f248e168]: •
+                - generic "7 years ago" [ref=f248e169]
+          - button "More actions" [ref=f248e172]
+      - generic [ref=f248e178] [cursor=pointer]:
+        - link [ref=f248e179]:
+          - /url: /watch?v=-GGec2IUlOs&list=PLYzp2xhTw9W1s235dm4ivkPLplaMckaGz&index=2&pp=iAQB
+          - generic [ref=f248e186]: 4:49
+        - generic [ref=f248e188]:
+          - generic [ref=f248e189]:
+            - heading "TOP 10 DENGLISCHE NOMEN" [level=3] [ref=f248e190]:
+              - link "TOP 10 DENGLISCHE NOMEN 4 minutes, 49 seconds" [ref=f248e191]:
+                - /url: /watch?v=-GGec2IUlOs&list=PLYzp2xhTw9W1s235dm4ivkPLplaMckaGz&index=2&pp=iAQB
+                - text: TOP 10 DENGLISCHE NOMEN
+            - generic [ref=f248e193]:
+              - group [ref=f248e194]:
+                - link "Learn German with Anja" [ref=f248e197]:
+                  - /url: /@LearnGermanwithAnja
+                  - text: Learn German with Anja
+                  - img [ref=f248e200]
+              - group [ref=f248e201]:
+                - generic [ref=f248e202]: 71K views
+                - generic [ref=f248e203]: •
+                - generic "7 years ago" [ref=f248e204]
+          - button "More actions" [ref=f248e207]
+      - generic [ref=f248e213] [cursor=pointer]:
+        - link [ref=f248e214]:
+          - /url: /watch?v=b77h3MYtBlg&list=PLYzp2xhTw9W1s235dm4ivkPLplaMckaGz&index=3&pp=iAQB
+          - generic [ref=f248e221]: 7:34
+        - generic [ref=f248e223]:
+          - generic [ref=f248e224]:
+            - 'heading "In meiner Küche: Anmachen VS ausmachen // anschalten VS ausschalten" [level=3] [ref=f248e225]':
+              - 'link "In meiner Küche: Anmachen VS ausmachen // anschalten VS ausschalten 7 minutes, 34 seconds" [ref=f248e226]':
+                - /url: /watch?v=b77h3MYtBlg&list=PLYzp2xhTw9W1s235dm4ivkPLplaMckaGz&index=3&pp=iAQB
+                - text: "In meiner Küche: Anmachen VS ausmachen // anschalten VS ausschalten"
+            - generic [ref=f248e228]:
+              - group [ref=f248e229]:
+                - link "Learn German with Anja" [ref=f248e232]:
+                  - /url: /@LearnGermanwithAnja
+                  - text: Learn German with Anja
+                  - img [ref=f248e235]
+              - group [ref=f248e236]:
+                - generic [ref=f248e237]: 242K views
+                - generic [ref=f248e238]: •
+                - generic "7 years ago" [ref=f248e239]
+          - button "More actions" [ref=f248e242]
+      - generic [ref=f248e248] [cursor=pointer]:
+        - link [ref=f248e249]:
+          - /url: /watch?v=AVwXXf57e9g&list=PLYzp2xhTw9W1s235dm4ivkPLplaMckaGz&index=4&pp=iAQB
+          - generic [ref=f248e256]: 16:58
+        - generic [ref=f248e258]:
+          - generic [ref=f248e259]:
+            - heading "Wie schreibt man eine EMAIL AUF DEUTSCH? How to write an EMAIL in German?" [level=3] [ref=f248e260]:
+              - link "Wie schreibt man eine EMAIL AUF DEUTSCH? How to write an EMAIL in German? 16 minutes" [ref=f248e261]:
+                - /url: /watch?v=AVwXXf57e9g&list=PLYzp2xhTw9W1s235dm4ivkPLplaMckaGz&index=4&pp=iAQB
+                - text: Wie schreibt man eine EMAIL AUF DEUTSCH? How to write an EMAIL in German?
+            - generic [ref=f248e263]:
+              - group [ref=f248e264]:
+                - link "Learn German with Anja" [ref=f248e267]:
+                  - /url: /@LearnGermanwithAnja
+                  - text: Learn German with Anja
+                  - img [ref=f248e270]
+              - group [ref=f248e271]:
+                - generic [ref=f248e272]: 319K views
+                - generic [ref=f248e273]: •
+                - generic "7 years ago" [ref=f248e274]
+          - button "More actions" [ref=f248e277]
+      - generic [ref=f248e283] [cursor=pointer]:
+        - link [ref=f248e284]:
+          - /url: /watch?v=onGGS27eUGA&list=PLYzp2xhTw9W1s235dm4ivkPLplaMckaGz&index=5&pp=iAQB
+          - generic [ref=f248e291]: 6:08
+        - generic [ref=f248e293]:
+          - generic [ref=f248e294]:
+            - heading "Ich lege auf! / Geh an dein Handy ran! - German Vocabulary for your PHONE" [level=3] [ref=f248e295]:
+              - link "Ich lege auf! / Geh an dein Handy ran! - German Vocabulary for your PHONE 6 minutes, 8 seconds" [ref=f248e296]:
+                - /url: /watch?v=onGGS27eUGA&list=PLYzp2xhTw9W1s235dm4ivkPLplaMckaGz&index=5&pp=iAQB
+                - text: Ich lege auf! / Geh an dein Handy ran! - German Vocabulary for your PHONE
+            - generic [ref=f248e298]:
+              - group [ref=f248e299]:
+                - link "Learn German with Anja" [ref=f248e302]:
+                  - /url: /@LearnGermanwithAnja
+                  - text: Learn German with Anja
+                  - img [ref=f248e305]
+              - group [ref=f248e306]:
+                - generic [ref=f248e307]: 84K views
+                - generic [ref=f248e308]: •
+                - generic "7 years ago" [ref=f248e309]
+          - button "More actions" [ref=f248e312]
+      - generic [ref=f248e318] [cursor=pointer]:
+        - link [ref=f248e319]:
+          - /url: /watch?v=u3RQmqiM1SU&list=PLYzp2xhTw9W1s235dm4ivkPLplaMckaGz&index=6&pp=iAQB
+          - generic [ref=f248e326]: 7:03
+        - generic [ref=f248e328]:
+          - generic [ref=f248e329]:
+            - 'heading "DEUTSCHE SATZZEICHEN: Der Punkt, das Komma, das Fragezeichen etc." [level=3] [ref=f248e330]':
+              - 'link "DEUTSCHE SATZZEICHEN: Der Punkt, das Komma, das Fragezeichen etc. 7 minutes, 3 seconds" [ref=f248e331]':
+                - /url: /watch?v=u3RQmqiM1SU&list=PLYzp2xhTw9W1s235dm4ivkPLplaMckaGz&index=6&pp=iAQB
+                - text: "DEUTSCHE SATZZEICHEN: Der Punkt, das Komma, das Fragezeichen etc."
+            - generic [ref=f248e333]:
+              - group [ref=f248e334]:
+                - link "Learn German with Anja" [ref=f248e337]:
+                  - /url: /@LearnGermanwithAnja
+                  - text: Learn German with Anja
+                  - img [ref=f248e340]
+              - group [ref=f248e341]:
+                - generic [ref=f248e342]: 54K views
+                - generic [ref=f248e343]: •
+                - generic "7 years ago" [ref=f248e344]
+          - button "More actions" [ref=f248e347]
+      - generic [ref=f248e353] [cursor=pointer]:
+        - link [ref=f248e354]:
+          - /url: /watch?v=kBYvf6cIyX4&list=PLYzp2xhTw9W1s235dm4ivkPLplaMckaGz&index=7&pp=iAQB
+          - generic [ref=f248e361]: 6:29
+        - generic [ref=f248e363]:
+          - generic [ref=f248e364]:
+            - heading "Arbeite mit deinem Computer auf Deutsch! (Speichern, drucken, kopieren, einfügen usw.)" [level=3] [ref=f248e365]:
+              - link "Arbeite mit deinem Computer auf Deutsch! (Speichern, drucken, kopieren, einfügen usw.) 6 minutes, 29 seconds" [ref=f248e366]:
+                - /url: /watch?v=kBYvf6cIyX4&list=PLYzp2xhTw9W1s235dm4ivkPLplaMckaGz&index=7&pp=iAQB
+                - text: Arbeite mit deinem Computer auf Deutsch! (Speichern, drucken, kopieren, einfügen usw.)
+            - generic [ref=f248e368]:
+              - group [ref=f248e369]:
+                - link "Learn German with Anja" [ref=f248e372]:
+                  - /url: /@LearnGermanwithAnja
+                  - text: Learn German with Anja
+                  - img [ref=f248e375]
+              - group [ref=f248e376]:
+                - generic [ref=f248e377]: 46K views
+                - generic [ref=f248e378]: •
+                - generic "7 years ago" [ref=f248e379]
+          - button "More actions" [ref=f248e382]
+      - generic [ref=f248e388] [cursor=pointer]:
+        - link [ref=f248e389]:
+          - /url: /watch?v=U9Sh8t8Tibc&list=PLYzp2xhTw9W1s235dm4ivkPLplaMckaGz&index=8&pp=iAQB
+          - generic [ref=f248e396]: 5:03
+        - generic [ref=f248e398]:
+          - generic [ref=f248e399]:
+            - heading "TOP 10 Words for a hot SUMMER! TOP 10 Wörter für einen heißen SOMMER!" [level=3] [ref=f248e400]:
+              - link "TOP 10 Words for a hot SUMMER! TOP 10 Wörter für einen heißen SOMMER! 5 minutes, 3 seconds" [ref=f248e401]:
+                - /url: /watch?v=U9Sh8t8Tibc&list=PLYzp2xhTw9W1s235dm4ivkPLplaMckaGz&index=8&pp=iAQB
+                - text: TOP 10 Words for a hot SUMMER! TOP 10 Wörter für einen heißen SOMMER!
+            - generic [ref=f248e403]:
+              - group [ref=f248e404]:
+                - link "Learn German with Anja" [ref=f248e407]:
+                  - /url: /@LearnGermanwithAnja
+                  - text: Learn German with Anja
+                  - img [ref=f248e410]
+              - group [ref=f248e411]:
+                - generic [ref=f248e412]: 42K views
+                - generic [ref=f248e413]: •
+                - generic "7 years ago" [ref=f248e414]
+          - button "More actions" [ref=f248e417]
+      - generic [ref=f248e423] [cursor=pointer]:
+        - link [ref=f248e424]:
+          - /url: /watch?v=_rIvRPaDH8o&list=PLYzp2xhTw9W1s235dm4ivkPLplaMckaGz&index=9&pp=iAQB
+          - generic [ref=f248e431]: 5:32
+        - generic [ref=f248e433]:
+          - generic [ref=f248e434]:
+            - heading "Quick & Easy Explanation of the German IMPERATIVE (\"DU\") - Part 1" [level=3] [ref=f248e435]:
+              - link "Quick & Easy Explanation of the German IMPERATIVE (\"DU\") - Part 1 5 minutes, 32 seconds" [ref=f248e436]:
+                - /url: /watch?v=_rIvRPaDH8o&list=PLYzp2xhTw9W1s235dm4ivkPLplaMckaGz&index=9&pp=iAQB
+                - text: Quick & Easy Explanation of the German IMPERATIVE ("DU") - Part 1
+            - generic [ref=f248e438]:
+              - group [ref=f248e439]:
+                - link "Learn German with Anja" [ref=f248e442]:
+                  - /url: /@LearnGermanwithAnja
+                  - text: Learn German with Anja
+                  - img [ref=f248e445]
+              - group [ref=f248e446]:
+                - generic [ref=f248e447]: 115K views
+                - generic [ref=f248e448]: •
+                - generic "6 years ago" [ref=f248e449]
+          - button "More actions" [ref=f248e452]
+      - generic [ref=f248e458] [cursor=pointer]:
+        - link [ref=f248e459]:
+          - /url: /watch?v=SsTqwDmIY14&list=PLYzp2xhTw9W1s235dm4ivkPLplaMckaGz&index=10&pp=iAQB
+          - generic [ref=f248e466]: 4:24
+        - generic [ref=f248e468]:
+          - generic [ref=f248e469]:
+            - 'heading "DON''T make this COMMON GERMAN MISTAKE: ein Paar VS ein paar" [level=3] [ref=f248e470]':
+              - 'link "DON''T make this COMMON GERMAN MISTAKE: ein Paar VS ein paar 4 minutes, 24 seconds" [ref=f248e471]':
+                - /url: /watch?v=SsTqwDmIY14&list=PLYzp2xhTw9W1s235dm4ivkPLplaMckaGz&index=10&pp=iAQB
+                - text: "DON'T make this COMMON GERMAN MISTAKE: ein Paar VS ein paar"
+            - generic [ref=f248e473]:
+              - group [ref=f248e474]:
+                - link "Learn German with Anja" [ref=f248e477]:
+                  - /url: /@LearnGermanwithAnja
+                  - text: Learn German with Anja
+                  - img [ref=f248e480]
+              - group [ref=f248e481]:
+                - generic [ref=f248e482]: 65K views
+                - generic [ref=f248e483]: •
+                - generic "6 years ago" [ref=f248e484]
+          - button "More actions" [ref=f248e487]
+      - generic [ref=f248e493] [cursor=pointer]:
+        - link [ref=f248e494]:
+          - /url: /watch?v=V9WNhHEkrkU&list=PLYzp2xhTw9W1s235dm4ivkPLplaMckaGz&index=11&pp=iAQB
+          - generic [ref=f248e501]: 10:47
+        - generic [ref=f248e503]:
+          - generic [ref=f248e504]:
+            - heading "How to give DIRECTIONS in GERMAN (\"Wegbeschreibung\" - Nur Deutsch!) 🤓" [level=3] [ref=f248e505]:
+              - link "How to give DIRECTIONS in GERMAN (\"Wegbeschreibung\" - Nur Deutsch!) 🤓 10 minutes, 47 seconds" [ref=f248e506]:
+                - /url: /watch?v=V9WNhHEkrkU&list=PLYzp2xhTw9W1s235dm4ivkPLplaMckaGz&index=11&pp=iAQB
+                - text: How to give DIRECTIONS in GERMAN ("Wegbeschreibung" - Nur Deutsch!) 🤓
+            - generic [ref=f248e508]:
+              - group [ref=f248e509]:
+                - link "Learn German with Anja" [ref=f248e512]:
+                  - /url: /@LearnGermanwithAnja
+                  - text: Learn German with Anja
+                  - img [ref=f248e515]
+              - group [ref=f248e516]:
+                - generic [ref=f248e517]: 294K views
+                - generic [ref=f248e518]: •
+                - generic "6 years ago" [ref=f248e519]
+          - button "More actions" [ref=f248e522]
+      - generic [ref=f248e528] [cursor=pointer]:
+        - link [ref=f248e529]:
+          - /url: /watch?v=SifqNCsoQS8&list=PLYzp2xhTw9W1s235dm4ivkPLplaMckaGz&index=12&pp=iAQB
+          - generic [ref=f248e536]: 6:37
+        - generic [ref=f248e538]:
+          - generic [ref=f248e539]:
+            - heading "The 3 Best Ways to say \"NICE TO MEET YOU\" in German" [level=3] [ref=f248e540]:
+              - link "The 3 Best Ways to say \"NICE TO MEET YOU\" in German 6 minutes, 37 seconds" [ref=f248e541]:
+                - /url: /watch?v=SifqNCsoQS8&list=PLYzp2xhTw9W1s235dm4ivkPLplaMckaGz&index=12&pp=iAQB
+                - text: The 3 Best Ways to say "NICE TO MEET YOU" in German
+            - generic [ref=f248e543]:
+              - group [ref=f248e544]:
+                - link "Learn German with Anja" [ref=f248e547]:
+                  - /url: /@LearnGermanwithAnja
+                  - text: Learn German with Anja
+                  - img [ref=f248e550]
+              - group [ref=f248e551]:
+                - generic [ref=f248e552]: 163K views
+                - generic [ref=f248e553]: •
+                - generic "6 years ago" [ref=f248e554]
+          - button "More actions" [ref=f248e557]
+      - generic [ref=f248e563] [cursor=pointer]:
+        - link [ref=f248e564]:
+          - /url: /watch?v=Px9m51Pi3yM&list=PLYzp2xhTw9W1s235dm4ivkPLplaMckaGz&index=13&pp=iAQB0gcJCU4LAYcqIYzv
+          - generic [ref=f248e571]: 6:59
+        - generic [ref=f248e573]:
+          - generic [ref=f248e574]:
+            - heading "3 Rules for the German Imperative (\"DU\") you MUST KNOW! - Part 2" [level=3] [ref=f248e575]:
+              - link "3 Rules for the German Imperative (\"DU\") you MUST KNOW! - Part 2 6 minutes, 59 seconds" [ref=f248e576]:
+                - /url: /watch?v=Px9m51Pi3yM&list=PLYzp2xhTw9W1s235dm4ivkPLplaMckaGz&index=13&pp=iAQB0gcJCU4LAYcqIYzv
+                - text: 3 Rules for the German Imperative ("DU") you MUST KNOW! - Part 2
+            - generic [ref=f248e578]:
+              - group [ref=f248e579]:
+                - link "Learn German with Anja" [ref=f248e582]:
+                  - /url: /@LearnGermanwithAnja
+                  - text: Learn German with Anja
+                  - img [ref=f248e585]
+              - group [ref=f248e586]:
+                - generic [ref=f248e587]: 103K views
+                - generic [ref=f248e588]: •
+                - generic "6 years ago" [ref=f248e589]
+          - button "More actions" [ref=f248e592]
+      - generic [ref=f248e598] [cursor=pointer]:
+        - link [ref=f248e599]:
+          - /url: /watch?v=1xYlWmPJmbA&list=PLYzp2xhTw9W1s235dm4ivkPLplaMckaGz&index=14&pp=iAQB
+          - generic [ref=f248e606]: 3:57
+        - generic [ref=f248e608]:
+          - generic [ref=f248e609]:
+            - heading "The German Imperative with \"Sie\" (You formal) - Part 3" [level=3] [ref=f248e610]:
+              - link "The German Imperative with \"Sie\" (You formal) - Part 3 3 minutes, 57 seconds" [ref=f248e611]:
+                - /url: /watch?v=1xYlWmPJmbA&list=PLYzp2xhTw9W1s235dm4ivkPLplaMckaGz&index=14&pp=iAQB
+                - text: The German Imperative with "Sie" (You formal) - Part 3
+            - generic [ref=f248e613]:
+              - group [ref=f248e614]:
+                - link "Learn German with Anja" [ref=f248e617]:
+                  - /url: /@LearnGermanwithAnja
+                  - text: Learn German with Anja
+                  - img [ref=f248e620]
+              - group [ref=f248e621]:
+                - generic [ref=f248e622]: 51K views
+                - generic [ref=f248e623]: •
+                - generic "6 years ago" [ref=f248e624]
+          - button "More actions" [ref=f248e627]
+      - generic [ref=f248e633] [cursor=pointer]:
+        - link [ref=f248e634]:
+          - /url: /watch?v=9YOP2Vs6Zro&list=PLYzp2xhTw9W1s235dm4ivkPLplaMckaGz&index=15&pp=iAQB
+          - generic [ref=f248e641]: 9:56
+        - generic [ref=f248e643]:
+          - generic [ref=f248e644]:
+            - 'heading "German Q&A: WANN vs WENN - Was ist der Unterschied?" [level=3] [ref=f248e645]':
+              - 'link "German Q&A: WANN vs WENN - Was ist der Unterschied? 9 minutes, 56 seconds" [ref=f248e646]':
+                - /url: /watch?v=9YOP2Vs6Zro&list=PLYzp2xhTw9W1s235dm4ivkPLplaMckaGz&index=15&pp=iAQB
+                - text: "German Q&A: WANN vs WENN - Was ist der Unterschied?"
+            - generic [ref=f248e648]:
+              - group [ref=f248e649]:
+                - link "Learn German with Anja" [ref=f248e652]:
+                  - /url: /@LearnGermanwithAnja
+                  - text: Learn German with Anja
+                  - img [ref=f248e655]
+              - group [ref=f248e656]:
+                - generic [ref=f248e657]: 255K views
+                - generic [ref=f248e658]: •
+                - generic "7 years ago" [ref=f248e659]
+          - button "More actions" [ref=f248e662]
+      - generic [ref=f248e668] [cursor=pointer]:
+        - link [ref=f248e669]:
+          - /url: /watch?v=7721_5XPfH8&list=PLYzp2xhTw9W1s235dm4ivkPLplaMckaGz&index=16&pp=iAQB
+          - generic [ref=f248e676]: 6:30
+        - generic [ref=f248e678]:
+          - generic [ref=f248e679]:
+            - heading "Cute German - How to use “-chen/-lein” correctly" [level=3] [ref=f248e680]:
+              - link "Cute German - How to use “-chen/-lein” correctly 6 minutes, 30 seconds" [ref=f248e681]:
+                - /url: /watch?v=7721_5XPfH8&list=PLYzp2xhTw9W1s235dm4ivkPLplaMckaGz&index=16&pp=iAQB
+                - text: Cute German - How to use “-chen/-lein” correctly
+            - generic [ref=f248e683]:
+              - group [ref=f248e684]:
+                - link "Learn German with Anja" [ref=f248e687]:
+                  - /url: /@LearnGermanwithAnja
+                  - text: Learn German with Anja
+                  - img [ref=f248e690]
+              - group [ref=f248e691]:
+                - generic [ref=f248e692]: 41K views
+                - generic [ref=f248e693]: •
+                - generic "5 years ago" [ref=f248e694]
+          - button "More actions" [ref=f248e697]

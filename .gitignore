@@ -1,0 +1,22 @@
+# Claude Code personal files
+CLAUDE.local.md
+.claude/settings.local.json
+.claude/plans/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Dependencies
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# MkDocs build output
+site/
+.cache/
+
+# Playwright snapshots
+.playwright-mcp/

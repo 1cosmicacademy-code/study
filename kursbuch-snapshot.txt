@@ -1,0 +1,436 @@
+- generic [active] [ref=f33e1]:
+  - link "انتقل إلى المحتوى" [ref=f33e2] [cursor=pointer]:
+    - /url: "#treffpunkt-kursbuch-a1"
+  - banner [ref=f33e3]:
+    - navigation "عنوان العارضة" [ref=f33e4]:
+      - link "تعلم الألمانية | Learn German" [ref=f33e5] [cursor=pointer]:
+        - /url: ../..
+        - img [ref=f33e6]
+      - generic [ref=f33e9]:
+        - generic [ref=f33e11]: تعلم الألمانية | Learn German
+        - generic:
+          - generic: 📕 كتاب الدروس — Treffpunkt Kursbuch A1
+      - generic [ref=f33e12]:
+        - radio "التبديل إلى الوضع المظلم"
+        - generic "التبديل إلى الوضع المظلم" [ref=f33e13] [cursor=pointer]:
+          - img [ref=f33e14]
+        - radio "التبديل إلى الوضع الفاتح"
+      - generic [ref=f33e17]:
+        - button "إختر اللغة" [ref=f33e18] [cursor=pointer]:
+          - img [ref=f33e19]
+        - generic:
+          - list:
+            - listitem [ref=f33e21]:
+              - link "العربية" [ref=f33e22] [cursor=pointer]:
+                - /url: ./
+            - listitem [ref=f33e23]:
+              - link "English" [ref=f33e24] [cursor=pointer]:
+                - /url: ../../en/a1/kursbuch/
+      - dialog [ref=f33e25]:
+        - search [ref=f33e26]:
+          - generic [ref=f33e27]:
+            - textbox "بحث" [ref=f33e28]
+            - generic:
+              - img
+            - navigation "إبحث":
+              - button "مسح كلي":
+                - img
+          - generic [ref=f33e31]: اكتب لبدء البحث
+  - generic [ref=f33e32]:
+    - navigation "نوافذ" [ref=f33e33]:
+      - list [ref=f33e35]:
+        - listitem [ref=f33e36]:
+          - link "الرئيسية" [ref=f33e37] [cursor=pointer]:
+            - /url: ../..
+        - listitem [ref=f33e38]:
+          - link "المستوى A1" [ref=f33e39] [cursor=pointer]:
+            - /url: ../
+        - listitem [ref=f33e40]:
+          - link "المستوى A2" [ref=f33e41] [cursor=pointer]:
+            - /url: ../../a2/
+        - listitem [ref=f33e42]:
+          - link "القواعد (Grammatik)" [ref=f33e43] [cursor=pointer]:
+            - /url: ../../grammatik/
+        - listitem [ref=f33e44]:
+          - link "الخطة التعليمية" [ref=f33e45] [cursor=pointer]:
+            - /url: ../../plan/
+    - main [ref=f33e46]:
+      - generic [ref=f33e47]:
+        - navigation "تصفح" [ref=f33e51]:
+          - list [ref=f33e52]:
+            - listitem [ref=f33e53]:
+              - generic:
+                - generic: المستوى A1
+              - navigation "المستوى A1" [ref=f33e54]:
+                - list [ref=f33e55]:
+                  - listitem [ref=f33e56]:
+                    - link "📖 المستوى A1 — للمبتدئين" [ref=f33e57] [cursor=pointer]:
+                      - /url: ../
+                      - generic [ref=f33e58]: 📖 المستوى A1 — للمبتدئين
+                  - listitem [ref=f33e59]:
+                    - generic:
+                      - generic: كتاب الدروس (Kursbuch)
+                    - navigation "كتاب الدروس (Kursbuch)" [ref=f33e60]:
+                      - list [ref=f33e61]:
+                        - listitem [ref=f33e62]:
+                          - link "📕 كتاب الدروس — Treffpunkt Kursbuch A1" [ref=f33e63] [cursor=pointer]:
+                            - /url: ./
+                            - generic [ref=f33e64]: 📕 كتاب الدروس — Treffpunkt Kursbuch A1
+                        - listitem [ref=f33e65]:
+                          - link "Lektion 1 - Hallo!" [ref=f33e66] [cursor=pointer]:
+                            - /url: lektion-01/
+                            - generic [ref=f33e67]: Lektion 1 - Hallo!
+                        - listitem [ref=f33e68]:
+                          - link "Lektion 2 - Berufe" [ref=f33e69] [cursor=pointer]:
+                            - /url: lektion-02/
+                            - generic [ref=f33e70]: Lektion 2 - Berufe
+                        - listitem [ref=f33e71]:
+                          - link "Lektion 3 - Orte und Dinge" [ref=f33e72] [cursor=pointer]:
+                            - /url: lektion-03/
+                            - generic [ref=f33e73]: Lektion 3 - Orte und Dinge
+                        - listitem [ref=f33e74]:
+                          - link "Lektion 4 - Familie" [ref=f33e75] [cursor=pointer]:
+                            - /url: lektion-04/
+                            - generic [ref=f33e76]: Lektion 4 - Familie
+                        - listitem [ref=f33e77]:
+                          - link "Lektion 5 - Alltag und Freizeit" [ref=f33e78] [cursor=pointer]:
+                            - /url: lektion-05/
+                            - generic [ref=f33e79]: Lektion 5 - Alltag und Freizeit
+                        - listitem [ref=f33e80]:
+                          - link "Lektion 6 - Arbeitszeiten" [ref=f33e81] [cursor=pointer]:
+                            - /url: lektion-06/
+                            - generic [ref=f33e82]: Lektion 6 - Arbeitszeiten
+                        - listitem [ref=f33e83]:
+                          - link "Lektion 7 - Essen" [ref=f33e84] [cursor=pointer]:
+                            - /url: lektion-07/
+                            - generic [ref=f33e85]: Lektion 7 - Essen
+                        - listitem [ref=f33e86]:
+                          - link "Lektion 8 - Party" [ref=f33e87] [cursor=pointer]:
+                            - /url: lektion-08/
+                            - generic [ref=f33e88]: Lektion 8 - Party
+                        - listitem [ref=f33e89]:
+                          - link "Lektion 9 - Termine" [ref=f33e90] [cursor=pointer]:
+                            - /url: lektion-09/
+                            - generic [ref=f33e91]: Lektion 9 - Termine
+                        - listitem [ref=f33e92]:
+                          - link "Lektion 10 - Bus und Bahn" [ref=f33e93] [cursor=pointer]:
+                            - /url: lektion-10/
+                            - generic [ref=f33e94]: Lektion 10 - Bus und Bahn
+                        - listitem [ref=f33e95]:
+                          - link "Lektion 11 - Wohnen" [ref=f33e96] [cursor=pointer]:
+                            - /url: lektion-11/
+                            - generic [ref=f33e97]: Lektion 11 - Wohnen
+                        - listitem [ref=f33e98]:
+                          - link "Lektion 12 - Ausbildung" [ref=f33e99] [cursor=pointer]:
+                            - /url: lektion-12/
+                            - generic [ref=f33e100]: Lektion 12 - Ausbildung
+                        - listitem [ref=f33e101]:
+                          - link "Lektion 13 - Beim Arzt" [ref=f33e102] [cursor=pointer]:
+                            - /url: lektion-13/
+                            - generic [ref=f33e103]: Lektion 13 - Beim Arzt
+                        - listitem [ref=f33e104]:
+                          - link "Lektion 14 - Krankschreibung" [ref=f33e105] [cursor=pointer]:
+                            - /url: lektion-14/
+                            - generic [ref=f33e106]: Lektion 14 - Krankschreibung
+                        - listitem [ref=f33e107]:
+                          - link "Lektion 15 - Wege in der Stadt" [ref=f33e108] [cursor=pointer]:
+                            - /url: lektion-15/
+                            - generic [ref=f33e109]: Lektion 15 - Wege in der Stadt
+                        - listitem [ref=f33e110]:
+                          - link "Lektion 16 - Im Laden" [ref=f33e111] [cursor=pointer]:
+                            - /url: lektion-16/
+                            - generic [ref=f33e112]: Lektion 16 - Im Laden
+                        - listitem [ref=f33e113]:
+                          - link "Lektion 17 - Arbeit" [ref=f33e114] [cursor=pointer]:
+                            - /url: lektion-17/
+                            - generic [ref=f33e115]: Lektion 17 - Arbeit
+                        - listitem [ref=f33e116]:
+                          - link "Lektion 18 - Im Büro" [ref=f33e117] [cursor=pointer]:
+                            - /url: lektion-18/
+                            - generic [ref=f33e118]: Lektion 18 - Im Büro
+                        - listitem [ref=f33e119]:
+                          - link "Lektion 19 - Reisen in Deutschland" [ref=f33e120] [cursor=pointer]:
+                            - /url: lektion-19/
+                            - generic [ref=f33e121]: Lektion 19 - Reisen in Deutschland
+                        - listitem [ref=f33e122]:
+                          - link "Lektion 20 - Feste und Feiern" [ref=f33e123] [cursor=pointer]:
+                            - /url: lektion-20/
+                            - generic [ref=f33e124]: Lektion 20 - Feste und Feiern
+                  - listitem [ref=f33e125]:
+                    - generic:
+                      - generic: كتاب التمارين (Übungsbuch)
+                    - navigation "كتاب التمارين (Übungsbuch)" [ref=f33e126]:
+                      - list [ref=f33e127]:
+                        - listitem [ref=f33e128]:
+                          - link "📝 تمارين المستوى A1 — Übungsbuch" [ref=f33e129] [cursor=pointer]:
+                            - /url: ../ubungsbuch/
+                            - generic [ref=f33e130]: 📝 تمارين المستوى A1 — Übungsbuch
+                        - listitem [ref=f33e131]:
+                          - link "Lektion 1 - Hallo!" [ref=f33e132] [cursor=pointer]:
+                            - /url: ../ubungsbuch/lektion-01/
+                            - generic [ref=f33e133]: Lektion 1 - Hallo!
+                        - listitem [ref=f33e134]:
+                          - link "Lektion 2 - Berufe" [ref=f33e135] [cursor=pointer]:
+                            - /url: ../ubungsbuch/lektion-02/
+                            - generic [ref=f33e136]: Lektion 2 - Berufe
+                        - listitem [ref=f33e137]:
+                          - link "Lektion 3 - Orte und Dinge" [ref=f33e138] [cursor=pointer]:
+                            - /url: ../ubungsbuch/lektion-03/
+                            - generic [ref=f33e139]: Lektion 3 - Orte und Dinge
+                        - listitem [ref=f33e140]:
+                          - link "Lektion 4 - Familie" [ref=f33e141] [cursor=pointer]:
+                            - /url: ../ubungsbuch/lektion-04/
+                            - generic [ref=f33e142]: Lektion 4 - Familie
+                        - listitem [ref=f33e143]:
+                          - link "Lektion 5 - Alltag und Freizeit" [ref=f33e144] [cursor=pointer]:
+                            - /url: ../ubungsbuch/lektion-05/
+                            - generic [ref=f33e145]: Lektion 5 - Alltag und Freizeit
+                        - listitem [ref=f33e146]:
+                          - link "Lektion 6 - Arbeitszeiten" [ref=f33e147] [cursor=pointer]:
+                            - /url: ../ubungsbuch/lektion-06/
+                            - generic [ref=f33e148]: Lektion 6 - Arbeitszeiten
+                        - listitem [ref=f33e149]:
+                          - link "Lektion 7 - Essen" [ref=f33e150] [cursor=pointer]:
+                            - /url: ../ubungsbuch/lektion-07/
+                            - generic [ref=f33e151]: Lektion 7 - Essen
+                        - listitem [ref=f33e152]:
+                          - link "Lektion 8 - Party" [ref=f33e153] [cursor=pointer]:
+                            - /url: ../ubungsbuch/lektion-08/
+                            - generic [ref=f33e154]: Lektion 8 - Party
+                        - listitem [ref=f33e155]:
+                          - link "Lektion 9 - Termine" [ref=f33e156] [cursor=pointer]:
+                            - /url: ../ubungsbuch/lektion-09/
+                            - generic [ref=f33e157]: Lektion 9 - Termine
+                        - listitem [ref=f33e158]:
+                          - link "Lektion 10 - Bus und Bahn" [ref=f33e159] [cursor=pointer]:
+                            - /url: ../ubungsbuch/lektion-10/
+                            - generic [ref=f33e160]: Lektion 10 - Bus und Bahn
+                        - listitem [ref=f33e161]:
+                          - link "Lektion 11 - Wohnen" [ref=f33e162] [cursor=pointer]:
+                            - /url: ../ubungsbuch/lektion-11/
+                            - generic [ref=f33e163]: Lektion 11 - Wohnen
+                        - listitem [ref=f33e164]:
+                          - link "Lektion 12 - Ausbildung" [ref=f33e165] [cursor=pointer]:
+                            - /url: ../ubungsbuch/lektion-12/
+                            - generic [ref=f33e166]: Lektion 12 - Ausbildung
+                        - listitem [ref=f33e167]:
+                          - link "Lektion 13 - Beim Arzt" [ref=f33e168] [cursor=pointer]:
+                            - /url: ../ubungsbuch/lektion-13/
+                            - generic [ref=f33e169]: Lektion 13 - Beim Arzt
+                        - listitem [ref=f33e170]:
+                          - link "Lektion 14 - Krankschreibung" [ref=f33e171] [cursor=pointer]:
+                            - /url: ../ubungsbuch/lektion-14/
+                            - generic [ref=f33e172]: Lektion 14 - Krankschreibung
+                        - listitem [ref=f33e173]:
+                          - link "Lektion 15 - Wege in der Stadt" [ref=f33e174] [cursor=pointer]:
+                            - /url: ../ubungsbuch/lektion-15/
+                            - generic [ref=f33e175]: Lektion 15 - Wege in der Stadt
+                        - listitem [ref=f33e176]:
+                          - link "Lektion 16 - Im Laden" [ref=f33e177] [cursor=pointer]:
+                            - /url: ../ubungsbuch/lektion-16/
+                            - generic [ref=f33e178]: Lektion 16 - Im Laden
+                        - listitem [ref=f33e179]:
+                          - link "Lektion 17 - Arbeit" [ref=f33e180] [cursor=pointer]:
+                            - /url: ../ubungsbuch/lektion-17/
+                            - generic [ref=f33e181]: Lektion 17 - Arbeit
+                        - listitem [ref=f33e182]:
+                          - link "Lektion 18 - Im Büro" [ref=f33e183] [cursor=pointer]:
+                            - /url: ../ubungsbuch/lektion-18/
+                            - generic [ref=f33e184]: Lektion 18 - Im Büro
+                        - listitem [ref=f33e185]:
+                          - link "Lektion 19 - Reisen in Deutschland" [ref=f33e186] [cursor=pointer]:
+                            - /url: ../ubungsbuch/lektion-19/
+                            - generic [ref=f33e187]: Lektion 19 - Reisen in Deutschland
+                        - listitem [ref=f33e188]:
+                          - link "Lektion 20 - Feste und Feiern" [ref=f33e189] [cursor=pointer]:
+                            - /url: ../ubungsbuch/lektion-20/
+                            - generic [ref=f33e190]: Lektion 20 - Feste und Feiern
+        - navigation "جدول المحتويات" [ref=f33e194]:
+          - generic [ref=f33e195]: جدول المحتويات
+          - list [ref=f33e196]:
+            - listitem [ref=f33e197]:
+              - link "📋 قائمة الدروس" [ref=f33e198] [cursor=pointer]:
+                - /url: "#_1"
+                - generic [ref=f33e199]: 📋 قائمة الدروس
+            - listitem [ref=f33e200]:
+              - link "🎯 محتويات كل درس" [ref=f33e201] [cursor=pointer]:
+                - /url: "#_2"
+                - generic [ref=f33e202]: 🎯 محتويات كل درس
+        - article [ref=f33e204]:
+          - heading "📕 كتاب الدروس — Treffpunkt Kursbuch A1" [level=1] [ref=f33e205]
+          - blockquote [ref=f33e206]:
+            - paragraph [ref=f33e207]:
+              - text: هنا جميع دروس
+              - strong [ref=f33e208]: Treffpunkt Kursbuch A1
+              - text: بالترتيب. كل درس يحتوي على شرح مبسط، كلمات جديدة، قواعد، ومحادثات.
+          - separator [ref=f33e209]
+          - heading "📋 قائمة الدروس" [level=2] [ref=f33e210]
+          - table [ref=f33e213]:
+            - rowgroup [ref=f33e214]:
+              - row "# الدرس الموضوع" [ref=f33e215]:
+                - columnheader "#" [ref=f33e216]
+                - columnheader "الدرس" [ref=f33e217]
+                - columnheader "الموضوع" [ref=f33e218]
+            - rowgroup [ref=f33e219]:
+              - 'row "1 ✅ Lektion 1: Hallo! التحيات والتعارف — السؤال عن الاسم" [ref=f33e220]':
+                - cell "1" [ref=f33e221]
+                - 'cell "✅ Lektion 1: Hallo!" [ref=f33e222]':
+                  - text: ✅
+                  - 'link "Lektion 1: Hallo!" [ref=f33e223] [cursor=pointer]':
+                    - /url: lektion-01/
+                - cell "التحيات والتعارف — السؤال عن الاسم" [ref=f33e224]
+              - 'row "2 Lektion 2: Berufe المهن — السؤال والعنوان الرسمي (Sie)" [ref=f33e225]':
+                - cell "2" [ref=f33e226]
+                - 'cell "Lektion 2: Berufe" [ref=f33e227]':
+                  - 'link "Lektion 2: Berufe" [ref=f33e228] [cursor=pointer]':
+                    - /url: lektion-02/
+                - cell "المهن — السؤال والعنوان الرسمي (Sie)" [ref=f33e229]
+              - 'row "3 Lektion 3: Orte und Dinge الأماكن والأشياء — أدوات التعريف" [ref=f33e230]':
+                - cell "3" [ref=f33e231]
+                - 'cell "Lektion 3: Orte und Dinge" [ref=f33e232]':
+                  - 'link "Lektion 3: Orte und Dinge" [ref=f33e233] [cursor=pointer]':
+                    - /url: lektion-03/
+                - cell "الأماكن والأشياء — أدوات التعريف" [ref=f33e234]
+              - 'row "4 Lektion 4: Familie العائلة — صفات الملكية" [ref=f33e235]':
+                - cell "4" [ref=f33e236]
+                - 'cell "Lektion 4: Familie" [ref=f33e237]':
+                  - 'link "Lektion 4: Familie" [ref=f33e238] [cursor=pointer]':
+                    - /url: lektion-04/
+                - cell "العائلة — صفات الملكية" [ref=f33e239]
+              - 'row "5 Lektion 5: Alltag und Freizeit الحياة اليومية ووقت الفراغ" [ref=f33e240]':
+                - cell "5" [ref=f33e241]
+                - 'cell "Lektion 5: Alltag und Freizeit" [ref=f33e242]':
+                  - 'link "Lektion 5: Alltag und Freizeit" [ref=f33e243] [cursor=pointer]':
+                    - /url: lektion-05/
+                - cell "الحياة اليومية ووقت الفراغ" [ref=f33e244]
+              - 'row "6 Lektion 6: Arbeitszeiten أوقات العمل — الساعة والوقت" [ref=f33e245]':
+                - cell "6" [ref=f33e246]
+                - 'cell "Lektion 6: Arbeitszeiten" [ref=f33e247]':
+                  - 'link "Lektion 6: Arbeitszeiten" [ref=f33e248] [cursor=pointer]':
+                    - /url: lektion-06/
+                - cell "أوقات العمل — الساعة والوقت" [ref=f33e249]
+              - 'row "7 Lektion 7: Essen الطعام — الجمع والنفي" [ref=f33e250]':
+                - cell "7" [ref=f33e251]
+                - 'cell "Lektion 7: Essen" [ref=f33e252]':
+                  - 'link "Lektion 7: Essen" [ref=f33e253] [cursor=pointer]':
+                    - /url: lektion-07/
+                - cell "الطعام — الجمع والنفي" [ref=f33e254]
+              - 'row "8 Lektion 8: Party الحفلة — الماضي المساعد (Perfekt)" [ref=f33e255]':
+                - cell "8" [ref=f33e256]
+                - 'cell "Lektion 8: Party" [ref=f33e257]':
+                  - 'link "Lektion 8: Party" [ref=f33e258] [cursor=pointer]':
+                    - /url: lektion-08/
+                - cell "الحفلة — الماضي المساعد (Perfekt)" [ref=f33e259]
+              - 'row "9 Lektion 9: Termine المواعيد — أيام الأسبوع" [ref=f33e260]':
+                - cell "9" [ref=f33e261]
+                - 'cell "Lektion 9: Termine" [ref=f33e262]':
+                  - 'link "Lektion 9: Termine" [ref=f33e263] [cursor=pointer]':
+                    - /url: lektion-09/
+                - cell "المواعيد — أيام الأسبوع" [ref=f33e264]
+              - 'row "10 Lektion 10: Bus und Bahn الباص والقطار — وسائل النقل" [ref=f33e265]':
+                - cell "10" [ref=f33e266]
+                - 'cell "Lektion 10: Bus und Bahn" [ref=f33e267]':
+                  - 'link "Lektion 10: Bus und Bahn" [ref=f33e268] [cursor=pointer]':
+                    - /url: lektion-10/
+                - cell "الباص والقطار — وسائل النقل" [ref=f33e269]
+              - 'row "11 Lektion 11: Wohnen السكن — حروف الجر المكانية" [ref=f33e270]':
+                - cell "11" [ref=f33e271]
+                - 'cell "Lektion 11: Wohnen" [ref=f33e272]':
+                  - 'link "Lektion 11: Wohnen" [ref=f33e273] [cursor=pointer]':
+                    - /url: lektion-11/
+                - cell "السكن — حروف الجر المكانية" [ref=f33e274]
+              - 'row "12 Lektion 12: Ausbildung التعليم والتدريب" [ref=f33e275]':
+                - cell "12" [ref=f33e276]
+                - 'cell "Lektion 12: Ausbildung" [ref=f33e277]':
+                  - 'link "Lektion 12: Ausbildung" [ref=f33e278] [cursor=pointer]':
+                    - /url: lektion-12/
+                - cell "التعليم والتدريب" [ref=f33e279]
+              - 'row "13 Lektion 13: Beim Arzt عند الطبيب — أجزاء الجسم" [ref=f33e280]':
+                - cell "13" [ref=f33e281]
+                - 'cell "Lektion 13: Beim Arzt" [ref=f33e282]':
+                  - 'link "Lektion 13: Beim Arzt" [ref=f33e283] [cursor=pointer]':
+                    - /url: lektion-13/
+                - cell "عند الطبيب — أجزاء الجسم" [ref=f33e284]
+              - 'row "14 Lektion 14: Krankschreibung الإجازة المرضية" [ref=f33e285]':
+                - cell "14" [ref=f33e286]
+                - 'cell "Lektion 14: Krankschreibung" [ref=f33e287]':
+                  - 'link "Lektion 14: Krankschreibung" [ref=f33e288] [cursor=pointer]':
+                    - /url: lektion-14/
+                - cell "الإجازة المرضية" [ref=f33e289]
+              - 'row "15 Lektion 15: Wege in der Stadt الطرق في المدينة — اتجاهات" [ref=f33e290]':
+                - cell "15" [ref=f33e291]
+                - 'cell "Lektion 15: Wege in der Stadt" [ref=f33e292]':
+                  - 'link "Lektion 15: Wege in der Stadt" [ref=f33e293] [cursor=pointer]':
+                    - /url: lektion-15/
+                - cell "الطرق في المدينة — اتجاهات" [ref=f33e294]
+              - 'row "16 Lektion 16: Im Laden في المتجر — التسوق" [ref=f33e295]':
+                - cell "16" [ref=f33e296]
+                - 'cell "Lektion 16: Im Laden" [ref=f33e297]':
+                  - 'link "Lektion 16: Im Laden" [ref=f33e298] [cursor=pointer]':
+                    - /url: lektion-16/
+                - cell "في المتجر — التسوق" [ref=f33e299]
+              - 'row "17 Lektion 17: Arbeit العمل — المهن والواجبات" [ref=f33e300]':
+                - cell "17" [ref=f33e301]
+                - 'cell "Lektion 17: Arbeit" [ref=f33e302]':
+                  - 'link "Lektion 17: Arbeit" [ref=f33e303] [cursor=pointer]':
+                    - /url: lektion-17/
+                - cell "العمل — المهن والواجبات" [ref=f33e304]
+              - 'row "18 Lektion 18: Im Büro في المكتب — الاتصالات" [ref=f33e305]':
+                - cell "18" [ref=f33e306]
+                - 'cell "Lektion 18: Im Büro" [ref=f33e307]':
+                  - 'link "Lektion 18: Im Büro" [ref=f33e308] [cursor=pointer]':
+                    - /url: lektion-18/
+                - cell "في المكتب — الاتصالات" [ref=f33e309]
+              - 'row "19 Lektion 19: Reisen in Deutschland السفر في ألمانيا" [ref=f33e310]':
+                - cell "19" [ref=f33e311]
+                - 'cell "Lektion 19: Reisen in Deutschland" [ref=f33e312]':
+                  - 'link "Lektion 19: Reisen in Deutschland" [ref=f33e313] [cursor=pointer]':
+                    - /url: lektion-19/
+                - cell "السفر في ألمانيا" [ref=f33e314]
+              - 'row "20 Lektion 20: Feste und Feiern الأعياد والاحتفالات" [ref=f33e315]':
+                - cell "20" [ref=f33e316]
+                - 'cell "Lektion 20: Feste und Feiern" [ref=f33e317]':
+                  - 'link "Lektion 20: Feste und Feiern" [ref=f33e318] [cursor=pointer]':
+                    - /url: lektion-20/
+                - cell "الأعياد والاحتفالات" [ref=f33e319]
+          - separator [ref=f33e320]
+          - heading "🎯 محتويات كل درس" [level=2] [ref=f33e321]
+          - paragraph [ref=f33e322]:
+            - text: كل درس في
+            - strong [ref=f33e323]: Treffpunkt Kursbuch A1
+            - text: "يحتوي على:"
+          - list [ref=f33e324]:
+            - listitem [ref=f33e325]:
+              - text: 🗣️
+              - strong [ref=f33e326]: حوار (Dialog)
+              - text: — محادثة بين شخصين عن موضوع الدرس
+            - listitem [ref=f33e327]:
+              - text: 📝
+              - strong [ref=f33e328]: مفردات جديدة (Wortschatz)
+              - text: — كلمات الدرس مع الترجمة
+            - listitem [ref=f33e329]:
+              - text: 📖
+              - strong [ref=f33e330]: قواعد (Grammatik)
+              - text: — شرح القاعدة بطريقة بسيطة
+            - listitem [ref=f33e331]:
+              - text: 🎧
+              - strong [ref=f33e332]: استماع (Hören)
+              - text: — تدريبات الاستماع
+            - listitem [ref=f33e333]:
+              - text: ✏️
+              - strong [ref=f33e334]: تمارين (Übungen)
+              - text: — تطبيق على ما تعلمته
+          - blockquote [ref=f33e335]:
+            - paragraph [ref=f33e336]:
+              - text: 💡
+              - strong [ref=f33e337]: "نصيحة:"
+              - text: ادرس كل درس بالترتيب. الدروس مبنية على بعضها!
+      - button "عد إلى الأعلى":
+        - img
+        - text: عد إلى الأعلى
+    - contentinfo [ref=f33e338]:
+      - generic [ref=f33e341]:
+        - generic [ref=f33e342]: Copyright © 2026 Delta Mentor
+        - text: Made with
+        - link "Material for MkDocs" [ref=f33e343] [cursor=pointer]:
+          - /url: https://squidfunk.github.io/mkdocs-material/

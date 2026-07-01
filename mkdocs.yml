@@ -1,0 +1,217 @@
+site_name: تعلم الألمانية | Learn German
+site_description: موقع تعلم اللغة الألمانية للمبتدئين — Integrationskurs A1/A2
+site_author: Delta Mentor
+
+theme:
+  name: material
+  language: ar
+  direction: rtl
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.annotation
+    - content.code.copy
+  palette:
+    - scheme: default
+      primary: deep purple
+      accent: amber
+      toggle:
+        icon: material/brightness-7
+        name: التبديل إلى الوضع المظلم
+    - scheme: slate
+      primary: deep purple
+      accent: amber
+      toggle:
+        icon: material/brightness-4
+        name: التبديل إلى الوضع الفاتح
+
+extra:
+  alternate:
+    - name: العربية
+      link: /
+      lang: ar
+    - name: English
+      link: /en/
+      lang: en
+
+copyright: Copyright &copy; 2026 Delta Mentor
+
+extra_javascript:
+  - assets/js/video-switcher.js
+
+plugins:
+  - search
+  - i18n:
+      docs_structure: suffix
+      languages:
+        - locale: ar
+          name: العربية
+          build: true
+          default: true
+          nav_translations:
+            Home: الرئيسية
+            Level A1: المستوى A1
+            A1 Overview: نظرة عامة على A1
+            Coursebook: كتاب الدروس (Kursbuch)
+            Coursebook Overview: فهرس الدروس
+            Exercise Book: كتاب التمارين (Übungsbuch)
+            Exercise Book Overview: فهرس التمارين
+            Level A2: المستوى A2
+            A2 Overview: نظرة عامة على A2
+            Grammar: القواعد (Grammatik)
+            Grammar Overview: نظرة عامة
+            Study Plan: الخطة التعليمية
+        - locale: en
+          name: English
+          build: true
+          nav_translations:
+            Home: Home
+            Level A1: Level A1
+            A1 Overview: A1 Overview
+            Coursebook: Coursebook
+            Coursebook Overview: Coursebook Overview
+            Exercise Book: Exercise Book
+            Exercise Book Overview: Exercise Book Overview
+            Level A2: Level A2
+            A2 Overview: A2 Overview
+            Grammar: Grammar
+            Grammar Overview: Grammar Overview
+            Study Plan: Study Plan
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.tabbed:
+      alternate_style: true
+
+nav:
+  - Home: index.md
+  - Level A1:
+    - A1 Overview: a1/index.md
+    - Coursebook:
+      - Coursebook Overview: a1/kursbuch/index.md
+      - 'Lektion 1 - Hallo!': a1/kursbuch/lektion-01.md
+      - 'Lektion 2 - Berufe': a1/kursbuch/lektion-02.md
+      - 'Lektion 3 - Orte und Dinge': a1/kursbuch/lektion-03.md
+      - 'Lektion 4 - Familie': a1/kursbuch/lektion-04.md
+      - 'Lektion 5 - Alltag und Freizeit': a1/kursbuch/lektion-05.md
+      - 'Lektion 6 - Arbeitszeiten': a1/kursbuch/lektion-06.md
+      - 'Lektion 7 - Essen': a1/kursbuch/lektion-07.md
+      - 'Lektion 8 - Party': a1/kursbuch/lektion-08.md
+      - 'Lektion 9 - Termine': a1/kursbuch/lektion-09.md
+      - 'Lektion 10 - Bus und Bahn': a1/kursbuch/lektion-10.md
+      - 'Lektion 11 - Wohnen': a1/kursbuch/lektion-11.md
+      - 'Lektion 12 - Ausbildung': a1/kursbuch/lektion-12.md
+      - 'Lektion 13 - Beim Arzt': a1/kursbuch/lektion-13.md
+      - 'Lektion 14 - Krankschreibung': a1/kursbuch/lektion-14.md
+      - 'Lektion 15 - Wege in der Stadt': a1/kursbuch/lektion-15.md
+      - 'Lektion 16 - Im Laden': a1/kursbuch/lektion-16.md
+      - 'Lektion 17 - Arbeit': a1/kursbuch/lektion-17.md
+      - 'Lektion 18 - Im Büro': a1/kursbuch/lektion-18.md
+      - 'Lektion 19 - Reisen in Deutschland': a1/kursbuch/lektion-19.md
+      - 'Lektion 20 - Feste und Feiern': a1/kursbuch/lektion-20.md
+    - Exercise Book:
+      - Exercise Book Overview: a1/ubungsbuch/index.md
+      - 'Lektion 1 - Hallo!': a1/ubungsbuch/lektion-01.md
+      - 'Lektion 2 - Berufe': a1/ubungsbuch/lektion-02.md
+      - 'Lektion 3 - Orte und Dinge': a1/ubungsbuch/lektion-03.md
+      - 'Lektion 4 - Familie': a1/ubungsbuch/lektion-04.md
+      - 'Lektion 5 - Alltag und Freizeit': a1/ubungsbuch/lektion-05.md
+      - 'Lektion 6 - Arbeitszeiten': a1/ubungsbuch/lektion-06.md
+      - 'Lektion 7 - Essen': a1/ubungsbuch/lektion-07.md
+      - 'Lektion 8 - Party': a1/ubungsbuch/lektion-08.md
+      - 'Lektion 9 - Termine': a1/ubungsbuch/lektion-09.md
+      - 'Lektion 10 - Bus und Bahn': a1/ubungsbuch/lektion-10.md
+      - 'Lektion 11 - Wohnen': a1/ubungsbuch/lektion-11.md
+      - 'Lektion 12 - Ausbildung': a1/ubungsbuch/lektion-12.md
+      - 'Lektion 13 - Beim Arzt': a1/ubungsbuch/lektion-13.md
+      - 'Lektion 14 - Krankschreibung': a1/ubungsbuch/lektion-14.md
+      - 'Lektion 15 - Wege in der Stadt': a1/ubungsbuch/lektion-15.md
+      - 'Lektion 16 - Im Laden': a1/ubungsbuch/lektion-16.md
+      - 'Lektion 17 - Arbeit': a1/ubungsbuch/lektion-17.md
+      - 'Lektion 18 - Im Büro': a1/ubungsbuch/lektion-18.md
+      - 'Lektion 19 - Reisen in Deutschland': a1/ubungsbuch/lektion-19.md
+      - 'Lektion 20 - Feste und Feiern': a1/ubungsbuch/lektion-20.md
+  - Level A2:
+    - A2 Overview: a2/index.md
+    - Coursebook:
+      - Coursebook Overview: a2/kursbuch/index.md
+      - 'Lektion 1 - Unser neuer Weg': a2/kursbuch/lektion-01.md
+      - 'Lektion 2 - Arbeiten und Lernen': a2/kursbuch/lektion-02.md
+      - 'Lektion 3 - In unserer Freizeit': a2/kursbuch/lektion-03.md
+      - 'Lektion 4 - Wohnen und Nachbarn': a2/kursbuch/lektion-04.md
+      - 'Lektion 5 - Mein neuer Job': a2/kursbuch/lektion-05.md
+      - 'Lektion 6 - Auf dem Weg zur Arbeit': a2/kursbuch/lektion-06.md
+      - 'Lektion 7 - Gesundheit erhalten': a2/kursbuch/lektion-07.md
+      - 'Lektion 8 - Sicherheit am Arbeitsplatz': a2/kursbuch/lektion-08.md
+      - 'Lektion 9 - Große und kleine Dinge': a2/kursbuch/lektion-09.md
+      - 'Lektion 10 - Durch die Stadt': a2/kursbuch/lektion-10.md
+      - 'Lektion 11 - Information und Unterhaltung': a2/kursbuch/lektion-11.md
+      - 'Lektion 12 - In der Schule': a2/kursbuch/lektion-12.md
+      - 'Lektion 13 - Selbstständig arbeiten': a2/kursbuch/lektion-13.md
+      - 'Lektion 14 - Zusammenleben': a2/kursbuch/lektion-14.md
+      - 'Lektion 15 - Mit dem Auto reisen': a2/kursbuch/lektion-15.md
+      - 'Lektion 16 - Sport und Ernährung': a2/kursbuch/lektion-16.md
+      - 'Lektion 17 - Geschäfte': a2/kursbuch/lektion-17.md
+      - 'Lektion 18 - Alles über Geld': a2/kursbuch/lektion-18.md
+      - 'Lektion 19 - Unterwegs': a2/kursbuch/lektion-19.md
+      - 'Lektion 20 - Erinnerungen und Wünsche': a2/kursbuch/lektion-20.md
+    - Exercise Book:
+      - Exercise Book Overview: a2/ubungsbuch/index.md
+      - 'Lektion 1 - Unser neuer Weg': a2/ubungsbuch/lektion-01.md
+      - 'Lektion 2 - Arbeiten und Lernen': a2/ubungsbuch/lektion-02.md
+      - 'Lektion 3 - In unserer Freizeit': a2/ubungsbuch/lektion-03.md
+      - 'Lektion 4 - Wohnen und Nachbarn': a2/ubungsbuch/lektion-04.md
+      - 'Lektion 5 - Mein neuer Job': a2/ubungsbuch/lektion-05.md
+      - 'Lektion 6 - Auf dem Weg zur Arbeit': a2/ubungsbuch/lektion-06.md
+      - 'Lektion 7 - Gesundheit erhalten': a2/ubungsbuch/lektion-07.md
+      - 'Lektion 8 - Sicherheit am Arbeitsplatz': a2/ubungsbuch/lektion-08.md
+      - 'Lektion 9 - Große und kleine Dinge': a2/ubungsbuch/lektion-09.md
+      - 'Lektion 10 - Durch die Stadt': a2/ubungsbuch/lektion-10.md
+      - 'Lektion 11 - Information und Unterhaltung': a2/ubungsbuch/lektion-11.md
+      - 'Lektion 12 - In der Schule': a2/ubungsbuch/lektion-12.md
+      - 'Lektion 13 - Selbstständig arbeiten': a2/ubungsbuch/lektion-13.md
+      - 'Lektion 14 - Zusammenleben': a2/ubungsbuch/lektion-14.md
+      - 'Lektion 15 - Mit dem Auto reisen': a2/ubungsbuch/lektion-15.md
+      - 'Lektion 16 - Sport und Ernährung': a2/ubungsbuch/lektion-16.md
+      - 'Lektion 17 - Geschäfte': a2/ubungsbuch/lektion-17.md
+      - 'Lektion 18 - Alles über Geld': a2/ubungsbuch/lektion-18.md
+      - 'Lektion 19 - Unterwegs': a2/ubungsbuch/lektion-19.md
+      - 'Lektion 20 - Erinnerungen und Wünsche': a2/ubungsbuch/lektion-20.md
+  - Grammar:
+    - Grammar Overview: grammatik/index.md
+    - Adjektivdeklination: grammatik/adjektivdeklination.md
+    - Akkusativ: grammatik/akkusativ.md
+    - Artikel: grammatik/artikel.md
+    - Dativ: grammatik/dativ.md
+    - Genitiv: grammatik/genitiv.md
+    - Imperativ: grammatik/imperativ.md
+    - Konjunktiv 2: grammatik/konjunktiv-2.md
+    - Modalverben: grammatik/modalverben.md
+    - Negation: grammatik/negation.md
+    - Nominativ: grammatik/nominativ.md
+    - Passiv: grammatik/passiv.md
+    - Perfekt: grammatik/perfekt.md
+    - Personalpronomen: grammatik/personalpronomen.md
+    - Plural: grammatik/plural.md
+    - Possessivartikel: grammatik/possessivartikel.md
+    - Präteritum: grammatik/prateritum.md
+    - Relativsätze: grammatik/relativsatze.md
+    - Satzbau: grammatik/satzbau.md
+    - Trennbare Verben: grammatik/trennbare-verben.md
+    - 'Verbkonjugation (Präsens)': grammatik/verbkonjugation.md
+    - Wechselpräpositionen: grammatik/wechselprapositionen.md
+  - Study Plan: plan/index.md

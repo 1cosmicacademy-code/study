@@ -1,0 +1,1153 @@
+- generic [ref=e2]:
+  - banner [ref=e4]:
+    - generic [ref=e6]:
+      - generic [ref=e7]:
+        - button "Guide" [active] [pressed] [ref=e9] [cursor=pointer]:
+          - generic [ref=e409]:
+            - img
+        - generic [ref=e11]:
+          - link "YouTube Home" [ref=e12] [cursor=pointer]:
+            - /url: /
+            - generic [ref=e411]:
+              - img
+          - generic [ref=e16]: DE
+        - button "Skip navigation" [ref=e20] [cursor=pointer]:
+          - generic: Skip navigation
+      - generic [ref=e24]:
+        - search [ref=e25]:
+          - generic [ref=e27]:
+            - generic [ref=e28]:
+              - combobox "Search" [expanded] [ref=e30]: Learn German A1 Reisen travel tourism
+              - button "Clear search query" [ref=e32] [cursor=pointer]:
+                - generic [ref=e413]:
+                  - img
+            - button "Search" [ref=e37] [cursor=pointer]:
+              - generic [ref=e415]:
+                - img
+        - generic [ref=e40]:
+          - button "Search with your voice" [ref=e42] [cursor=pointer]:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+          - tooltip "tooltip"
+      - generic [ref=e416]:
+        - button "Settings" [ref=e421] [cursor=pointer]:
+          - generic [ref=e424]:
+            - img
+        - link "Sign in" [ref=e427] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fresults%253Fsearch_query%253DLearn%252BGerman%252BA1%252BReisen%252Btravel%252Btourism&hl=en&ec=65620
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - img
+          - generic: Sign in
+  - navigation [ref=e51]:
+    - generic [ref=e431]:
+      - generic [ref=e432]:
+        - generic [ref=e434]:
+          - link "Home" [ref=e436] [cursor=pointer]:
+            - /url: /
+            - link "Home" [ref=e437]:
+              - generic [ref=e440]:
+                - img
+              - generic [ref=e441]: Home
+          - link "Shorts" [ref=e443] [cursor=pointer]:
+            - link "Shorts" [ref=e444]:
+              - generic [ref=e447]:
+                - img
+              - generic [ref=e448]: Shorts
+          - link "Subscriptions" [ref=e450] [cursor=pointer]:
+            - /url: /feed/subscriptions
+            - link "Subscriptions" [ref=e451]:
+              - generic [ref=e454]:
+                - img
+              - generic [ref=e455]: Subscriptions
+          - link "You" [ref=e457] [cursor=pointer]:
+            - /url: /feed/you
+            - link "You" [ref=e458]:
+              - generic [ref=e461]:
+                - img
+              - generic [ref=e462]: You
+          - link "History" [ref=e464] [cursor=pointer]:
+            - /url: /feed/history
+            - link "History" [ref=e465]:
+              - generic [ref=e468]:
+                - img
+              - generic [ref=e469]: History
+        - generic [ref=e470]:
+          - generic [ref=e471]: Sign in to like videos, comment, and subscribe.
+          - link "Sign in" [ref=e474] [cursor=pointer]:
+            - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fresults%253Fsearch_query%253DLearn%252BGerman%252BA1%252BReisen%252Btravel%252Btourism&hl=en
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - generic: Sign in
+        - generic [ref=e478]:
+          - heading "Explore" [level=3] [ref=e479]:
+            - generic [ref=e480]: Explore
+          - generic [ref=e481]:
+            - link "Music" [ref=e483] [cursor=pointer]:
+              - /url: /channel/UC-9-kyTW8ZkZNDHQJ6FgpwQ
+              - link "Music" [ref=e484]:
+                - generic [ref=e487]:
+                  - img
+                - generic [ref=e488]: Music
+            - link "Movies & TV" [ref=e490] [cursor=pointer]:
+              - /url: /feed/storefront?bp=ogUCKAU%3D
+              - link "Movies & TV" [ref=e491]:
+                - generic [ref=e494]:
+                  - img
+                - generic [ref=e495]: Movies & TV
+            - link "Live" [ref=e497] [cursor=pointer]:
+              - /url: /channel/UC4R8DWoMoI7CAwX8_LjQHig
+              - link "Live" [ref=e498]:
+                - generic [ref=e501]:
+                  - img
+                - generic [ref=e502]: Live
+            - button "Show more" [ref=e504]:
+              - link "Show more" [ref=e505] [cursor=pointer]:
+                - link "Show more" [ref=e506]:
+                  - generic [ref=e509]:
+                    - img
+                  - generic [ref=e510]: Show more
+        - generic [ref=e511]:
+          - heading "More from YouTube" [level=3] [ref=e512]:
+            - generic [ref=e513]: More from YouTube
+          - generic [ref=e514]:
+            - link "YouTube Premium" [ref=e516] [cursor=pointer]:
+              - /url: /premium
+              - link "YouTube Premium" [ref=e517]:
+                - generic [ref=e520]:
+                  - img
+                - generic [ref=e521]: YouTube Premium
+            - link "YouTube Music" [ref=e523] [cursor=pointer]:
+              - /url: https://music.youtube.com/
+              - link "YouTube Music" [ref=e524]:
+                - generic [ref=e527]:
+                  - img
+                - generic [ref=e528]: YouTube Music
+            - link "YouTube Kids" [ref=e530] [cursor=pointer]:
+              - /url: https://www.youtubekids.com/?source=youtube_web
+              - link "YouTube Kids" [ref=e531]:
+                - generic [ref=e534]:
+                  - img
+                - generic [ref=e535]: YouTube Kids
+        - link "Report history" [ref=e539] [cursor=pointer]:
+          - /url: /reporthistory
+          - link "Report history" [ref=e540]:
+            - generic [ref=e543]:
+              - img
+            - generic [ref=e544]: Report history
+      - generic [ref=e545]:
+        - generic [ref=e546]:
+          - link "About" [ref=e547] [cursor=pointer]:
+            - /url: https://www.youtube.com/about/
+          - link "Press" [ref=e548] [cursor=pointer]:
+            - /url: https://www.youtube.com/about/press/
+          - link "Copyright" [ref=e549] [cursor=pointer]:
+            - /url: https://www.youtube.com/about/copyright/
+          - link "Contact us" [ref=e550] [cursor=pointer]:
+            - /url: /t/contact_us/
+          - link "Creators" [ref=e551] [cursor=pointer]:
+            - /url: https://www.youtube.com/creators/
+          - link "Advertise" [ref=e552] [cursor=pointer]:
+            - /url: https://www.youtube.com/ads/
+          - link "Developers" [ref=e553] [cursor=pointer]:
+            - /url: https://developers.google.com/youtube
+          - link "Impressum" [ref=e554] [cursor=pointer]:
+            - /url: https://www.youtube.com/t/impressum?hl=de&gl=DE
+          - link "Cancel Memberships" [ref=e555] [cursor=pointer]:
+            - /url: https://support.google.com/youtube/contact/de_cancellation
+        - generic [ref=e556]:
+          - link "Terms" [ref=e557] [cursor=pointer]:
+            - /url: /t/terms
+          - link "Privacy" [ref=e558] [cursor=pointer]:
+            - /url: /t/privacy
+          - link "Policy & Safety" [ref=e559] [cursor=pointer]:
+            - /url: https://www.youtube.com/about/policies/
+          - link "How YouTube works" [ref=e560] [cursor=pointer]:
+            - /url: https://www.youtube.com/howyoutubeworks?utm_campaign=ytgen&utm_source=ythp&utm_medium=LeftNav&utm_content=txt&u=https%3A%2F%2Fwww.youtube.com%2Fhowyoutubeworks%3Futm_source%3Dythp%26utm_medium%3DLeftNav%26utm_campaign%3Dytgen
+          - link "Test new features" [ref=e561] [cursor=pointer]:
+            - /url: /new
+        - generic [ref=e562]: © 2026 Google LLC
+  - generic [ref=e57]:
+    - main [ref=e58]:
+      - generic [ref=e59]:
+        - generic [ref=e61]:
+          - tablist [ref=e66]:
+            - tab "All" [selected] [ref=e70] [cursor=pointer]:
+              - generic [ref=e72]: All
+            - tab "Shorts" [ref=e79] [cursor=pointer]:
+              - generic [ref=e81]: Shorts
+            - tab "Unwatched" [ref=e88] [cursor=pointer]:
+              - generic [ref=e90]: Unwatched
+            - tab "Watched" [ref=e97] [cursor=pointer]:
+              - generic [ref=e99]: Watched
+            - tab "Videos" [ref=e106] [cursor=pointer]:
+              - generic [ref=e108]: Videos
+            - tab "Recently uploaded" [ref=e115] [cursor=pointer]:
+              - generic [ref=e117]: Recently uploaded
+            - tab "Live" [ref=e124] [cursor=pointer]:
+              - generic [ref=e126]: Live
+          - link "About these results" [ref=e133] [cursor=pointer]:
+            - /url: https://www.youtube.com/howyoutubeworks/product-features/search/
+            - generic: About these results
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+          - generic [ref=e138]:
+            - button "Search filters" [ref=e140] [cursor=pointer]:
+              - generic: Filters
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img
+            - tooltip "tooltip"
+        - generic [ref=e149]:
+          - generic [ref=e151]:
+            - link [ref=e153] [cursor=pointer]:
+              - /url: /watch?v=p8nJSKWnmxY&pp=ygUlTGVhcm4gR2VybWFuIEExIFJlaXNlbiB0cmF2ZWwgdG91cmlzbQ%3D%3D
+              - img [ref=e563]
+              - img [ref=e566]:
+                - generic [ref=e567]: 10:46
+              - generic:
+                - generic: Now playing
+                - generic:
+                  - img
+            - generic [ref=e155] [cursor=pointer]:
+              - generic [ref=e156]:
+                - generic [ref=e157]:
+                  - heading "Learn German | German Vocabulary | Urlaub und Reisen | Vacation & Travel | A2 | B1 10 minutes, 46 seconds" [level=3] [ref=e158]:
+                    - link "Learn German | German Vocabulary | Urlaub und Reisen | Vacation & Travel | A2 | B1 10 minutes, 46 seconds" [ref=e159]:
+                      - /url: /watch?v=p8nJSKWnmxY&pp=ygUlTGVhcm4gR2VybWFuIEExIFJlaXNlbiB0cmF2ZWwgdG91cmlzbQ%3D%3D
+                      - text: Learn German | German Vocabulary | Urlaub und Reisen | Vacation & Travel | A2 | B1
+                  - button "Action menu" [ref=e571]:
+                    - generic [ref=e574]:
+                      - img
+                - generic [ref=e162]:
+                  - generic [ref=e163]: 193K views
+                  - generic [ref=e164]: •7 years ago
+              - generic [ref=e165]:
+                - link "Go to channel Learn German" [ref=e166]:
+                  - /url: /@LearnGermanOriginal
+                - generic [ref=e167]:
+                  - link "Learn German" [ref=e171]:
+                    - /url: /@LearnGermanOriginal
+                  - img "Verified" [ref=e176]:
+                    - generic [ref=e577]:
+                      - img
+              - generic [ref=e178]:
+                - generic [ref=e179]: "learngermanoriginal #LearnGerman #GermanVocabulary LEARN GERMAN FASTER In just 75 days, learn more than 500 new ..."
+                - tooltip "tooltip"
+              - generic [ref=e182]:
+                - generic [ref=e183]:
+                  - generic [ref=e187]: 3 moments
+                  - button "Sehenswürdigkeiten besichtigen | gut essen und trinken | viel fotografieren" [ref=e188]
+                - button "More" [ref=e193]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img
+          - generic [ref=e198]:
+            - link [ref=e200] [cursor=pointer]:
+              - /url: /watch?v=PRo7eQczMB8&pp=ygUlTGVhcm4gR2VybWFuIEExIFJlaXNlbiB0cmF2ZWwgdG91cmlzbQ%3D%3D
+              - img [ref=e578]
+              - img [ref=e581]:
+                - generic [ref=e582]: 11:08
+              - generic:
+                - generic: Now playing
+                - generic:
+                  - img
+            - generic [ref=e202] [cursor=pointer]:
+              - generic [ref=e203]:
+                - generic [ref=e204]:
+                  - heading "A1 - Lesson 47 | Perfekt | Was hast du im Urlaub gemacht? | Learn German for beginners 11 minutes, 8 seconds" [level=3] [ref=e205]:
+                    - link "A1 - Lesson 47 | Perfekt | Was hast du im Urlaub gemacht? | Learn German for beginners 11 minutes, 8 seconds" [ref=e206]:
+                      - /url: /watch?v=PRo7eQczMB8&pp=ygUlTGVhcm4gR2VybWFuIEExIFJlaXNlbiB0cmF2ZWwgdG91cmlzbQ%3D%3D
+                      - text: A1 - Lesson 47 | Perfekt | Was hast du im Urlaub gemacht? | Learn German for beginners
+                  - button "Action menu" [ref=e586]:
+                    - generic [ref=e589]:
+                      - img
+                - generic [ref=e209]:
+                  - generic [ref=e210]: 442K views
+                  - generic [ref=e211]: •8 years ago
+              - generic [ref=e212]:
+                - link "Go to channel Learn German" [ref=e213]:
+                  - /url: /@LearnGermanOriginal
+                - generic [ref=e214]:
+                  - link "Learn German" [ref=e218]:
+                    - /url: /@LearnGermanOriginal
+                  - img "Verified" [ref=e223]:
+                    - generic [ref=e592]:
+                      - img
+              - generic [ref=e225]:
+                - generic [ref=e226]: "LearnGermanOriginal #LearnGerman #germanlevela1 Check out our FREE A1 Course here - A1 - https://goo.gl/YuxM9T A1 ..."
+                - tooltip "tooltip"
+              - generic [ref=e229]:
+                - generic [ref=e230]:
+                  - generic [ref=e234]: 4 moments
+                  - button "übernachten (hat übernachtet) to stay overnight | besichtigen (hat besichtigt) to visit | Wo hast du übernachtet? Where did you stay overnight? | Ich habe einen Roman gelesen." [ref=e235]
+                - button "More" [ref=e240]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img
+          - generic [ref=e252] [cursor=pointer]:
+            - link [ref=e253]:
+              - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=C2EFdMvpEavuXL6HmkeQPjJnwkAeN0OmOiAGUiuSq9RWwkB8QAiAAYJWCgICwB4IBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAHumu6UAakCuDVKgxsfsz6oAwTIAwqqBL4CT9DHtfIjeamadxU5jBcxMgLgDD-ERkMoQsZGSe5ei9elVL9avWCLK7JR_1qxWYm75VvCnTBGuQHJ3J-GuBNNCcZGDy6w6nZpsOYywWsl-iOf8f_9_ed6hw0q4CC2CIUSMDAytO2ktfFC2xZIrlkSd1YZzzM-el3kY_CbU8hEPqOjHm4xFJc_MycAVBDNVTsomZcmmCtdaplyptmmGz6FCBVbS6jhrb8mLPfMd0wNQlUiYBSYOCrXztYHDRPYiXXzJRKvRSw8J4KobDJPkVUSvCLj_DBlvFM1LKUpKaVRGOZZF0P9qPvexONA1wDuc53kiuMBRtomd4N9dOnr8q29ZBKr5VXRkvgZERQ-K-dkMEj8Rf00m3YUWtlteXc0pVYMrOl2mNPg7eDVAvFwtKpC4cTf1wb4PLJcRcJx_Gj1iAXix-z4WJIFCAgTeIutouwCoAahAYAH-uSR6wKQBwSoB_LAsQKoB7jEsQKoB-G2sQKoB6XPsQKoB-edsQKoB-idsQKoB--1sQKoB_C1sQKoB_nTsQKoB8nasQKoB6ngsQKoB4QIqAem1LECqAeo0huoB7YHqAex3BuoB7CbsQKoB66xsQKoB_2ysQKoB8jPsQKoB8nPsQKoB83HsQKoB_HRsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5risQKoB5visQKoB53XsQKoB53UsQKoB4HGG6gH_K-xAqgH1c4bqAe-2bECqAerxRuoB5zcG6gHt6GxAqgH1amxAqgH59qxAqgH3rWxAqgH6rGxAqgHvrexAqgHmbWxAqgHhcGxAqgH66WxAqgHyqmxApIIC2o4T09JRUZ2clU4qAgB0gg8CIjFkHgQARheMgjzgoGAgICgDDoVgMCYiICIgAaAgICAgJCAgAKqgIAQSNmg0jVQFFiYyeSVsLGVA2ABmglAaHR0cHM6Ly93d3cucml0dGFsLmNvbS9kZS1kZS9wcm9kdWN0cy9SaU1hdHJpeC1NaWNyby1EYXRhLUNlbnRlcrEJp1eTvMvihfDICRfICY8ByAnCAZgLAboLgQEIAxAFGAQgBygBMBxAAUgAUAFYfWAAaABwAYgBAJgBAaIBTQpFCAEoAdq4BD0yOzo5CjcKBgju85PSBig_mBfZoNI1wiQI8YKBgICAoAzKJBWAwJiIgIiABoCAgICAkICAAqqAgBDCOwECqAIC2AIE2AEBgAIBiAIFugMFdmlicnXQCxKiDBxqFQoTZGUudTJkLmEyZS52My5lcGxhbngAiAEA0gwCEAHaDCUKChDwoZWlxJG143YSAgEDGg0Y4sfs-Fgghpz4ktgFQAFKAhAfmg0BEqoNAkRFyA0B0g3gAmh0dHBzOi8vd3d3LnJpdHRhbC5jb20vZGUtZGUvcHJvZHVjdHMvUmlNYXRyaXgtTWljcm8tRGF0YS1DZW50ZXI_dXRtX3Rlcm09JnV0bV9jYW1wYWlnbj1ERSslN0MrQUxXQVlTLU9OKyU3QytELUdFTislN0MrSVQmdXRtX3NvdXJjZT1hZHdvcmRzJnV0bV9tZWRpdW09cHBjJmhzYV9hY2M9Nzg4NTMxMDgxMSZoc2FfY2FtPTIzODc1NzU3MDI2JmhzYV9ncnA9MTk1NDYwNzMwMzc0JmhzYV9hZD04MDk3Nzk0NTYwMTAmaHNhX3NyYz0maHNhX3RndD1hdWQtMjQ4NDY3NjkyMzk3NiZoc2Ffa3c9JmhzYV9tdD0maHNhX25ldD1hZHdvcmRzJmhzYV92ZXI9MyZnYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjM4NzU3NTcwMja4E____________wGIFAKwFAPAFYGAgEDQFQHYFQGYFgHiFgIIAYAXAYoXGAgDGAEgASgBMAE4AUABSAFQAVgBYAJoAaAXAakXlTD-iky1NBS6FwYoADAAOAHQGAHwGAHCGQIIAQ&ase=2&gclid=EAIaIQobChMI-_jklbCxlQMVIXOEBh2MDBxyEAEYAiAAEgJj3vD_BwE&num=2&cid=CAASFeRoUQNO8gVIcYmR8wMriKt8sqUH4Q&ad_cpn=%5BCPN%5D&sig=AOD64_1xXmHYe9vR3cdFn0lPL8_Qm8L4wg&ctype=110&video_id=j8OOIEFvrU8&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=21&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+              - button [ref=e258]:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img
+            - generic [ref=e262]:
+              - generic [ref=e263]:
+                - generic [ref=e264]:
+                  - 'link "Kurze Latenzen, hohe Verfügbarkeit: RiMatrix ist Ihr Edge Rechenzentrum von Rittal." [ref=e267]':
+                    - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=C2EFdMvpEavuXL6HmkeQPjJnwkAeN0OmOiAGUiuSq9RWwkB8QAiAAYJWCgICwB4IBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAHumu6UAakCuDVKgxsfsz6oAwTIAwqqBL4CT9DHtfIjeamadxU5jBcxMgLgDD-ERkMoQsZGSe5ei9elVL9avWCLK7JR_1qxWYm75VvCnTBGuQHJ3J-GuBNNCcZGDy6w6nZpsOYywWsl-iOf8f_9_ed6hw0q4CC2CIUSMDAytO2ktfFC2xZIrlkSd1YZzzM-el3kY_CbU8hEPqOjHm4xFJc_MycAVBDNVTsomZcmmCtdaplyptmmGz6FCBVbS6jhrb8mLPfMd0wNQlUiYBSYOCrXztYHDRPYiXXzJRKvRSw8J4KobDJPkVUSvCLj_DBlvFM1LKUpKaVRGOZZF0P9qPvexONA1wDuc53kiuMBRtomd4N9dOnr8q29ZBKr5VXRkvgZERQ-K-dkMEj8Rf00m3YUWtlteXc0pVYMrOl2mNPg7eDVAvFwtKpC4cTf1wb4PLJcRcJx_Gj1iAXix-z4WJIFCAgTeIutouwCoAahAYAH-uSR6wKQBwSoB_LAsQKoB7jEsQKoB-G2sQKoB6XPsQKoB-edsQKoB-idsQKoB--1sQKoB_C1sQKoB_nTsQKoB8nasQKoB6ngsQKoB4QIqAem1LECqAeo0huoB7YHqAex3BuoB7CbsQKoB66xsQKoB_2ysQKoB8jPsQKoB8nPsQKoB83HsQKoB_HRsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5risQKoB5visQKoB53XsQKoB53UsQKoB4HGG6gH_K-xAqgH1c4bqAe-2bECqAerxRuoB5zcG6gHt6GxAqgH1amxAqgH59qxAqgH3rWxAqgH6rGxAqgHvrexAqgHmbWxAqgHhcGxAqgH66WxAqgHyqmxApIIC2o4T09JRUZ2clU4qAgB0gg8CIjFkHgQARheMgjzgoGAgICgDDoVgMCYiICIgAaAgICAgJCAgAKqgIAQSNmg0jVQFFiYyeSVsLGVA2ABmglAaHR0cHM6Ly93d3cucml0dGFsLmNvbS9kZS1kZS9wcm9kdWN0cy9SaU1hdHJpeC1NaWNyby1EYXRhLUNlbnRlcrEJp1eTvMvihfDICRfICY8ByAnCAZgLAboLgQEIAxAFGAQgBygBMBxAAUgAUAFYfWAAaABwAYgBAJgBAaIBTQpFCAEoAdq4BD0yOzo5CjcKBgju85PSBig_mBfZoNI1wiQI8YKBgICAoAzKJBWAwJiIgIiABoCAgICAkICAAqqAgBDCOwECqAIC2AIE2AEBgAIBiAIFugMFdmlicnXQCxKiDBxqFQoTZGUudTJkLmEyZS52My5lcGxhbngAiAEA0gwCEAHaDCUKChDwoZWlxJG143YSAgEDGg0Y4sfs-Fgghpz4ktgFQAFKAhAfmg0BEqoNAkRFyA0B0g3gAmh0dHBzOi8vd3d3LnJpdHRhbC5jb20vZGUtZGUvcHJvZHVjdHMvUmlNYXRyaXgtTWljcm8tRGF0YS1DZW50ZXI_dXRtX3Rlcm09JnV0bV9jYW1wYWlnbj1ERSslN0MrQUxXQVlTLU9OKyU3QytELUdFTislN0MrSVQmdXRtX3NvdXJjZT1hZHdvcmRzJnV0bV9tZWRpdW09cHBjJmhzYV9hY2M9Nzg4NTMxMDgxMSZoc2FfY2FtPTIzODc1NzU3MDI2JmhzYV9ncnA9MTk1NDYwNzMwMzc0JmhzYV9hZD04MDk3Nzk0NTYwMTAmaHNhX3NyYz0maHNhX3RndD1hdWQtMjQ4NDY3NjkyMzk3NiZoc2Ffa3c9JmhzYV9tdD0maHNhX25ldD1hZHdvcmRzJmhzYV92ZXI9MyZnYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjM4NzU3NTcwMja4E____________wGIFAKwFAPAFYGAgEDQFQHYFQGYFgHiFgIIAYAXAYoXGAgDGAEgASgBMAE4AUABSAFQAVgBYAJoAaAXAakXlTD-iky1NBS6FwYoADAAOAHQGAHwGAHCGQIIAQ&ase=2&gclid=EAIaIQobChMI-_jklbCxlQMVIXOEBh2MDBxyEAEYAiAAEgJj3vD_BwE&num=2&cid=CAASFeRoUQNO8gVIcYmR8wMriKt8sqUH4Q&ad_cpn=%5BCPN%5D&sig=AOD64_1xXmHYe9vR3cdFn0lPL8_Qm8L4wg&ctype=110&video_id=j8OOIEFvrU8&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=0&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+                  - link "Edge Datacenter von Rittal. Hohe Sicherheit & flexibel einsetzbar. Jetzt beraten lassen!" [ref=e270]:
+                    - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=C2EFdMvpEavuXL6HmkeQPjJnwkAeN0OmOiAGUiuSq9RWwkB8QAiAAYJWCgICwB4IBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAHumu6UAakCuDVKgxsfsz6oAwTIAwqqBL4CT9DHtfIjeamadxU5jBcxMgLgDD-ERkMoQsZGSe5ei9elVL9avWCLK7JR_1qxWYm75VvCnTBGuQHJ3J-GuBNNCcZGDy6w6nZpsOYywWsl-iOf8f_9_ed6hw0q4CC2CIUSMDAytO2ktfFC2xZIrlkSd1YZzzM-el3kY_CbU8hEPqOjHm4xFJc_MycAVBDNVTsomZcmmCtdaplyptmmGz6FCBVbS6jhrb8mLPfMd0wNQlUiYBSYOCrXztYHDRPYiXXzJRKvRSw8J4KobDJPkVUSvCLj_DBlvFM1LKUpKaVRGOZZF0P9qPvexONA1wDuc53kiuMBRtomd4N9dOnr8q29ZBKr5VXRkvgZERQ-K-dkMEj8Rf00m3YUWtlteXc0pVYMrOl2mNPg7eDVAvFwtKpC4cTf1wb4PLJcRcJx_Gj1iAXix-z4WJIFCAgTeIutouwCoAahAYAH-uSR6wKQBwSoB_LAsQKoB7jEsQKoB-G2sQKoB6XPsQKoB-edsQKoB-idsQKoB--1sQKoB_C1sQKoB_nTsQKoB8nasQKoB6ngsQKoB4QIqAem1LECqAeo0huoB7YHqAex3BuoB7CbsQKoB66xsQKoB_2ysQKoB8jPsQKoB8nPsQKoB83HsQKoB_HRsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5risQKoB5visQKoB53XsQKoB53UsQKoB4HGG6gH_K-xAqgH1c4bqAe-2bECqAerxRuoB5zcG6gHt6GxAqgH1amxAqgH59qxAqgH3rWxAqgH6rGxAqgHvrexAqgHmbWxAqgHhcGxAqgH66WxAqgHyqmxApIIC2o4T09JRUZ2clU4qAgB0gg8CIjFkHgQARheMgjzgoGAgICgDDoVgMCYiICIgAaAgICAgJCAgAKqgIAQSNmg0jVQFFiYyeSVsLGVA2ABmglAaHR0cHM6Ly93d3cucml0dGFsLmNvbS9kZS1kZS9wcm9kdWN0cy9SaU1hdHJpeC1NaWNyby1EYXRhLUNlbnRlcrEJp1eTvMvihfDICRfICY8ByAnCAZgLAboLgQEIAxAFGAQgBygBMBxAAUgAUAFYfWAAaABwAYgBAJgBAaIBTQpFCAEoAdq4BD0yOzo5CjcKBgju85PSBig_mBfZoNI1wiQI8YKBgICAoAzKJBWAwJiIgIiABoCAgICAkICAAqqAgBDCOwECqAIC2AIE2AEBgAIBiAIFugMFdmlicnXQCxKiDBxqFQoTZGUudTJkLmEyZS52My5lcGxhbngAiAEA0gwCEAHaDCUKChDwoZWlxJG143YSAgEDGg0Y4sfs-Fgghpz4ktgFQAFKAhAfmg0BEqoNAkRFyA0B0g3gAmh0dHBzOi8vd3d3LnJpdHRhbC5jb20vZGUtZGUvcHJvZHVjdHMvUmlNYXRyaXgtTWljcm8tRGF0YS1DZW50ZXI_dXRtX3Rlcm09JnV0bV9jYW1wYWlnbj1ERSslN0MrQUxXQVlTLU9OKyU3QytELUdFTislN0MrSVQmdXRtX3NvdXJjZT1hZHdvcmRzJnV0bV9tZWRpdW09cHBjJmhzYV9hY2M9Nzg4NTMxMDgxMSZoc2FfY2FtPTIzODc1NzU3MDI2JmhzYV9ncnA9MTk1NDYwNzMwMzc0JmhzYV9hZD04MDk3Nzk0NTYwMTAmaHNhX3NyYz0maHNhX3RndD1hdWQtMjQ4NDY3NjkyMzk3NiZoc2Ffa3c9JmhzYV9tdD0maHNhX25ldD1hZHdvcmRzJmhzYV92ZXI9MyZnYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjM4NzU3NTcwMja4E____________wGIFAKwFAPAFYGAgEDQFQHYFQGYFgHiFgIIAYAXAYoXGAgDGAEgASgBMAE4AUABSAFQAVgBYAJoAaAXAakXlTD-iky1NBS6FwYoADAAOAHQGAHwGAHCGQIIAQ&ase=2&gclid=EAIaIQobChMI-_jklbCxlQMVIXOEBh2MDBxyEAEYAiAAEgJj3vD_BwE&num=2&cid=CAASFeRoUQNO8gVIcYmR8wMriKt8sqUH4Q&ad_cpn=%5BCPN%5D&sig=AOD64_1xXmHYe9vR3cdFn0lPL8_Qm8L4wg&ctype=110&video_id=j8OOIEFvrU8&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=7&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+                  - generic [ref=e271]:
+                    - button "Rittal Germany" [ref=e275]
+                    - generic [ref=e279]:
+                      - generic [ref=e280]: Sponsored
+                      - text: ·
+                    - generic [ref=e282]: Rittal GmbH & Co. KG
+                - button "My Ad Center" [ref=e285]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img
+              - generic [ref=e291]:
+                - link "Watch" [ref=e294]:
+                  - /url: /watch?v=j8OOIEFvrU8
+                  - generic: Watch
+                - link "Visit site" [ref=e300]:
+                  - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=C2EFdMvpEavuXL6HmkeQPjJnwkAeN0OmOiAGUiuSq9RWwkB8QAiAAYJWCgICwB4IBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAHumu6UAakCuDVKgxsfsz6oAwTIAwqqBL4CT9DHtfIjeamadxU5jBcxMgLgDD-ERkMoQsZGSe5ei9elVL9avWCLK7JR_1qxWYm75VvCnTBGuQHJ3J-GuBNNCcZGDy6w6nZpsOYywWsl-iOf8f_9_ed6hw0q4CC2CIUSMDAytO2ktfFC2xZIrlkSd1YZzzM-el3kY_CbU8hEPqOjHm4xFJc_MycAVBDNVTsomZcmmCtdaplyptmmGz6FCBVbS6jhrb8mLPfMd0wNQlUiYBSYOCrXztYHDRPYiXXzJRKvRSw8J4KobDJPkVUSvCLj_DBlvFM1LKUpKaVRGOZZF0P9qPvexONA1wDuc53kiuMBRtomd4N9dOnr8q29ZBKr5VXRkvgZERQ-K-dkMEj8Rf00m3YUWtlteXc0pVYMrOl2mNPg7eDVAvFwtKpC4cTf1wb4PLJcRcJx_Gj1iAXix-z4WJIFCAgTeIutouwCoAahAYAH-uSR6wKQBwSoB_LAsQKoB7jEsQKoB-G2sQKoB6XPsQKoB-edsQKoB-idsQKoB--1sQKoB_C1sQKoB_nTsQKoB8nasQKoB6ngsQKoB4QIqAem1LECqAeo0huoB7YHqAex3BuoB7CbsQKoB66xsQKoB_2ysQKoB8jPsQKoB8nPsQKoB83HsQKoB_HRsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5risQKoB5visQKoB53XsQKoB53UsQKoB4HGG6gH_K-xAqgH1c4bqAe-2bECqAerxRuoB5zcG6gHt6GxAqgH1amxAqgH59qxAqgH3rWxAqgH6rGxAqgHvrexAqgHmbWxAqgHhcGxAqgH66WxAqgHyqmxApIIC2o4T09JRUZ2clU4qAgB0gg8CIjFkHgQARheMgjzgoGAgICgDDoVgMCYiICIgAaAgICAgJCAgAKqgIAQSNmg0jVQFFiYyeSVsLGVA2ABmglAaHR0cHM6Ly93d3cucml0dGFsLmNvbS9kZS1kZS9wcm9kdWN0cy9SaU1hdHJpeC1NaWNyby1EYXRhLUNlbnRlcrEJp1eTvMvihfDICRfICY8ByAnCAZgLAboLgQEIAxAFGAQgBygBMBxAAUgAUAFYfWAAaABwAYgBAJgBAaIBTQpFCAEoAdq4BD0yOzo5CjcKBgju85PSBig_mBfZoNI1wiQI8YKBgICAoAzKJBWAwJiIgIiABoCAgICAkICAAqqAgBDCOwECqAIC2AIE2AEBgAIBiAIFugMFdmlicnXQCxKiDBxqFQoTZGUudTJkLmEyZS52My5lcGxhbngAiAEA0gwCEAHaDCUKChDwoZWlxJG143YSAgEDGg0Y4sfs-Fgghpz4ktgFQAFKAhAfmg0BEqoNAkRFyA0B0g3gAmh0dHBzOi8vd3d3LnJpdHRhbC5jb20vZGUtZGUvcHJvZHVjdHMvUmlNYXRyaXgtTWljcm8tRGF0YS1DZW50ZXI_dXRtX3Rlcm09JnV0bV9jYW1wYWlnbj1ERSslN0MrQUxXQVlTLU9OKyU3QytELUdFTislN0MrSVQmdXRtX3NvdXJjZT1hZHdvcmRzJnV0bV9tZWRpdW09cHBjJmhzYV9hY2M9Nzg4NTMxMDgxMSZoc2FfY2FtPTIzODc1NzU3MDI2JmhzYV9ncnA9MTk1NDYwNzMwMzc0JmhzYV9hZD04MDk3Nzk0NTYwMTAmaHNhX3NyYz0maHNhX3RndD1hdWQtMjQ4NDY3NjkyMzk3NiZoc2Ffa3c9JmhzYV9tdD0maHNhX25ldD1hZHdvcmRzJmhzYV92ZXI9MyZnYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjM4NzU3NTcwMja4E____________wGIFAKwFAPAFYGAgEDQFQHYFQGYFgHiFgIIAYAXAYoXGAgDGAEgASgBMAE4AUABSAFQAVgBYAJoAaAXAakXlTD-iky1NBS6FwYoADAAOAHQGAHwGAHCGQIIAQ&ase=2&gclid=EAIaIQobChMI-_jklbCxlQMVIXOEBh2MDBxyEAEYAiAAEgJj3vD_BwE&num=2&cid=CAASFeRoUQNO8gVIcYmR8wMriKt8sqUH4Q&ad_cpn=%5BCPN%5D&sig=AOD64_1xXmHYe9vR3cdFn0lPL8_Qm8L4wg&ctype=110&video_id=j8OOIEFvrU8&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=8&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+                  - generic: Visit site
+          - generic [ref=e305]:
+            - link [ref=e307] [cursor=pointer]:
+              - /url: /watch?v=batZd6-aKZQ&pp=ygUlTGVhcm4gR2VybWFuIEExIFJlaXNlbiB0cmF2ZWwgdG91cmlzbQ%3D%3D
+              - img [ref=e1577]
+              - img [ref=e1580]:
+                - generic [ref=e1581]: 3:08
+              - generic:
+                - generic: Now playing
+                - generic:
+                  - img
+            - generic [ref=e309] [cursor=pointer]:
+              - generic [ref=e310]:
+                - generic [ref=e311]:
+                  - heading "🇩🇪 Reisen — Travel | A1 German Podcast | Learn German Daily [ EP 01 ] 3 minutes, 8 seconds" [level=3] [ref=e312]:
+                    - link "🇩🇪 Reisen — Travel | A1 German Podcast | Learn German Daily [ EP 01 ] 3 minutes, 8 seconds" [ref=e313]:
+                      - /url: /watch?v=batZd6-aKZQ&pp=ygUlTGVhcm4gR2VybWFuIEExIFJlaXNlbiB0cmF2ZWwgdG91cmlzbQ%3D%3D
+                      - text: 🇩🇪 Reisen — Travel | A1 German Podcast | Learn German Daily [ EP 01 ]
+                  - button "Action menu" [ref=e596]:
+                    - generic [ref=e599]:
+                      - img
+                - generic [ref=e316]:
+                  - generic [ref=e317]: 117 views
+                  - generic [ref=e318]: •1 month ago
+              - generic [ref=e319]:
+                - link "Go to channel Learn German Daily" [ref=e320]:
+                  - /url: /@Learngermandaily2
+                - link "Learn German Daily" [ref=e325]:
+                  - /url: /@Learngermandaily2
+              - generic [ref=e326]:
+                - generic [ref=e327]: Learn German through a natural conversation about Travel! ✈️ Join Anna and Max as they talk about their favorite travel ...
+                - tooltip "tooltip"
+              - img "4K" [ref=e332]:
+                - generic [ref=e333]: 4K
+          - generic [ref=e335]:
+            - link [ref=e337] [cursor=pointer]:
+              - /url: /watch?v=XKR7k583iIY&pp=ygUlTGVhcm4gR2VybWFuIEExIFJlaXNlbiB0cmF2ZWwgdG91cmlzbQ%3D%3D
+            - generic [ref=e339] [cursor=pointer]:
+              - generic [ref=e340]:
+                - generic [ref=e341]:
+                  - heading "🇩🇪 🗺️ German Travel Conversations Every Beginner Should Learn | A1-A2 21 minutes" [level=3] [ref=e342]:
+                    - link "🇩🇪 🗺️ German Travel Conversations Every Beginner Should Learn | A1-A2 21 minutes" [ref=e343]:
+                      - /url: /watch?v=XKR7k583iIY&pp=ygUlTGVhcm4gR2VybWFuIEExIFJlaXNlbiB0cmF2ZWwgdG91cmlzbQ%3D%3D
+                      - text: 🇩🇪 🗺️ German Travel Conversations Every Beginner Should Learn | A1-A2
+                  - button "Action menu" [ref=e604]:
+                    - generic [ref=e607]:
+                      - img
+                - generic [ref=e346]:
+                  - generic [ref=e347]: 3.3K views
+                  - generic [ref=e348]: •2 months ago
+              - generic [ref=e349]:
+                - link "Go to channel Deutsch Lernen Mit Spass" [ref=e350]:
+                  - /url: /@DeutschLernenMitSpass416
+                - generic [ref=e351]:
+                  - link "Deutsch Lernen Mit Spass" [ref=e355]:
+                    - /url: /@DeutschLernenMitSpass416
+                  - img "Verified" [ref=e360]:
+                    - generic [ref=e609]:
+                      - img
+              - generic [ref=e362]:
+                - text: "📖 WHAT YOU'LL LEARN: ✅ Essential German travel vocabulary for A1-A2 learners ✅ How to ask for directions and local ..."
+                - tooltip "tooltip"
+              - img "Closed captions" [ref=e367]:
+                - generic [ref=e368]: CC
+              - generic [ref=e371]:
+                - generic [ref=e372]:
+                  - generic [ref=e373]:
+                    - generic [ref=e611]:
+                      - img
+                    - generic [ref=e375]: Summary
+                  - button "Deutsch Lernen Mit Spass vermittelt praxisnahe Vokabeln und hilfreiche Redewendungen für den touristischen Alltag. Diese Dialoge simulieren typische Situationen bei der Reiseplanung, wie das Einholen von Informationen zu Sehenswürdigkeiten, lokalen Märkten, Restaurants und Ausflugszielen. Lernende üben dabei wichtige Fragen und Antworten, um sich im deutschsprachigen Raum sicher zu orientieren." [ref=e376]
+                  - text: ·
+                - button "More" [ref=e381]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img
+          - generic [ref=e613]:
+            - link [ref=e615] [cursor=pointer]:
+              - /url: /watch?v=WmPA9y6Jr4k&pp=ygUlTGVhcm4gR2VybWFuIEExIFJlaXNlbiB0cmF2ZWwgdG91cmlzbQ%3D%3D
+            - generic [ref=e617] [cursor=pointer]:
+              - generic [ref=e618]:
+                - generic [ref=e619]:
+                  - heading "Urlaub Ferien und Reisen - Vacation & Travel | Vocabulary in German | Learn German A1 - A2 5 minutes, 14 seconds" [level=3] [ref=e620]:
+                    - link "Urlaub Ferien und Reisen - Vacation & Travel | Vocabulary in German | Learn German A1 - A2 5 minutes, 14 seconds" [ref=e621]:
+                      - /url: /watch?v=WmPA9y6Jr4k&pp=ygUlTGVhcm4gR2VybWFuIEExIFJlaXNlbiB0cmF2ZWwgdG91cmlzbQ%3D%3D
+                      - text: Urlaub Ferien und Reisen - Vacation & Travel | Vocabulary in German | Learn German A1 - A2
+                  - button "Action menu" [ref=e625]:
+                    - generic [ref=e628]:
+                      - img
+                - generic [ref=e631]:
+                  - generic [ref=e632]: 286 views
+                  - generic [ref=e633]: •5 years ago
+              - generic [ref=e634]:
+                - link "Go to channel zenith institute" [ref=e635]:
+                  - /url: /@zenithinstituteyt
+                - link "zenith institute" [ref=e640]:
+                  - /url: /@zenithinstituteyt
+              - generic [ref=e641]:
+                - generic [ref=e642]: Urlaub Ferien und Reisen - Vacation & Travel | Vocabulary in German | Learn German A1 - A2 Learn German Vocabulary related ...
+                - tooltip "tooltip"
+          - generic [ref=e644]:
+            - link [ref=e646] [cursor=pointer]:
+              - /url: /watch?v=ZqCevnsyMAQ&pp=ygUlTGVhcm4gR2VybWFuIEExIFJlaXNlbiB0cmF2ZWwgdG91cmlzbQ%3D%3D
+            - generic [ref=e648] [cursor=pointer]:
+              - generic [ref=e649]:
+                - generic [ref=e650]:
+                  - heading "Our Vacation in Slow German | Super Easy German 234 13 minutes, 21 seconds" [level=3] [ref=e651]:
+                    - link "Our Vacation in Slow German | Super Easy German 234 13 minutes, 21 seconds" [ref=e652]:
+                      - /url: /watch?v=ZqCevnsyMAQ&pp=ygUlTGVhcm4gR2VybWFuIEExIFJlaXNlbiB0cmF2ZWwgdG91cmlzbQ%3D%3D
+                      - text: Our Vacation in Slow German | Super Easy German 234
+                  - button "Action menu" [ref=e656]:
+                    - generic [ref=e659]:
+                      - img
+                - generic [ref=e662]:
+                  - generic [ref=e663]: 387K views
+                  - generic [ref=e664]: •2 years ago
+              - generic [ref=e665]:
+                - link "Go to channel Easy German" [ref=e666]:
+                  - /url: /@EasyGerman
+                - generic [ref=e667]:
+                  - link "Easy German" [ref=e671]:
+                    - /url: /@EasyGerman
+                  - img "Verified" [ref=e676]:
+                    - generic [ref=e679]:
+                      - img
+              - generic [ref=e680]:
+                - generic [ref=e681]: "LEARN GERMAN WITH US: JOIN OUR COMMUNITY: https://www.easygerman.org/membership LISTEN TO OUR ..."
+                - tooltip "tooltip"
+          - generic [ref=e683]:
+            - link [ref=e685] [cursor=pointer]:
+              - /url: /watch?v=oWnQyHw8QNU&pp=ygUlTGVhcm4gR2VybWFuIEExIFJlaXNlbiB0cmF2ZWwgdG91cmlzbdIHCQlOCwGHKiGM7w%3D%3D
+            - generic [ref=e687] [cursor=pointer]:
+              - generic [ref=e688]:
+                - generic [ref=e689]:
+                  - heading "Travel & Holidays | Urlaub und Reisen | Learn German Vocabulary | start Deutsch A1 6 minutes, 26 seconds" [level=3] [ref=e690]:
+                    - link "Travel & Holidays | Urlaub und Reisen | Learn German Vocabulary | start Deutsch A1 6 minutes, 26 seconds" [ref=e691]:
+                      - /url: /watch?v=oWnQyHw8QNU&pp=ygUlTGVhcm4gR2VybWFuIEExIFJlaXNlbiB0cmF2ZWwgdG91cmlzbdIHCQlOCwGHKiGM7w%3D%3D
+                      - text: Travel & Holidays | Urlaub und Reisen | Learn German Vocabulary | start Deutsch A1
+                  - button "Action menu" [ref=e695]:
+                    - generic [ref=e698]:
+                      - img
+                - generic [ref=e701]:
+                  - generic [ref=e702]: 483 views
+                  - generic [ref=e703]: •5 years ago
+              - generic [ref=e704]:
+                - link "Go to channel zenith institute" [ref=e705]:
+                  - /url: /@zenithinstituteyt
+                - link "zenith institute" [ref=e710]:
+                  - /url: /@zenithinstituteyt
+              - generic [ref=e711]:
+                - generic [ref=e712]: Hallo zusammen, In this video, we are going to learn Top 30 German verbs ,related to travelling. So, if you planning to go to ...
+                - tooltip "tooltip"
+          - generic [ref=e714]:
+            - link [ref=e716] [cursor=pointer]:
+              - /url: /watch?v=Oq3wDWmt-7U&pp=ygUlTGVhcm4gR2VybWFuIEExIFJlaXNlbiB0cmF2ZWwgdG91cmlzbQ%3D%3D
+            - generic [ref=e718] [cursor=pointer]:
+              - generic [ref=e719]:
+                - generic [ref=e720]:
+                  - heading "Travel Preparations in Slow German | Super Easy German 251 14 minutes, 55 seconds" [level=3] [ref=e721]:
+                    - link "Travel Preparations in Slow German | Super Easy German 251 14 minutes, 55 seconds" [ref=e722]:
+                      - /url: /watch?v=Oq3wDWmt-7U&pp=ygUlTGVhcm4gR2VybWFuIEExIFJlaXNlbiB0cmF2ZWwgdG91cmlzbQ%3D%3D
+                      - text: Travel Preparations in Slow German | Super Easy German 251
+                  - button "Action menu" [ref=e726]:
+                    - generic [ref=e729]:
+                      - img
+                - generic [ref=e732]:
+                  - generic [ref=e733]: 249K views
+                  - generic [ref=e734]: •2 years ago
+              - generic [ref=e735]:
+                - link "Go to channel Easy German" [ref=e736]:
+                  - /url: /@EasyGerman
+                - generic [ref=e737]:
+                  - link "Easy German" [ref=e741]:
+                    - /url: /@EasyGerman
+                  - img "Verified" [ref=e746]:
+                    - generic [ref=e749]:
+                      - img
+              - generic [ref=e750]:
+                - generic [ref=e751]: "Learn more German with our partner app Seedlang, in a fun and engaging way: https://www.seedlang.com --- LEARN GERMAN ..."
+                - tooltip "tooltip"
+              - generic [ref=e754]:
+                - generic [ref=e755]:
+                  - generic [ref=e759]: 8 chapters
+                  - 'button "Intro | Reiseziel festlegen | Zugtickets buchen | Unterkunft reservieren | Midroll: Seedlang | Sehenswürdigkeiten recherchieren | Koffer packen | Outro" [ref=e760]'
+                - button "More" [ref=e765]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img
+          - generic [ref=e769]:
+            - generic [ref=e772]:
+              - img [ref=e774]:
+                - generic [ref=e776]:
+                  - img
+              - heading "Shorts" [level=2] [ref=e779]
+            - generic [ref=e781]:
+              - generic [ref=e784]:
+                - link [ref=e785] [cursor=pointer]:
+                  - /url: /shorts/QE2wAkCbNeI
+                - generic [ref=e789] [cursor=pointer]:
+                  - 'link "Important Travel and Tourism in German Language 🇩🇪 | Reisen | A1 Words #youtubeshorts #germanbasics" [ref=e790]':
+                    - /url: /shorts/QE2wAkCbNeI
+                  - generic [ref=e791]: 82 views
+                - button "More actions" [ref=e793] [cursor=pointer]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img
+              - generic [ref=e799]:
+                - link [ref=e800] [cursor=pointer]:
+                  - /url: /shorts/ZY5307Wur1s
+                - generic [ref=e804] [cursor=pointer]:
+                  - link "✈️Travel Vocab in German|German A1" [ref=e805]:
+                    - /url: /shorts/ZY5307Wur1s
+                  - generic [ref=e806]: 146 views
+                - button "More actions" [ref=e808] [cursor=pointer]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img
+              - generic [ref=e814]:
+                - link [ref=e815] [cursor=pointer]:
+                  - /url: /shorts/S7eBQEuEKf4
+                - generic [ref=e819] [cursor=pointer]:
+                  - 'link "Learn Essential Travel-Related Phrases and Vocabulary #german #GermanforTravelers #deutsch" [ref=e820]':
+                    - /url: /shorts/S7eBQEuEKf4
+                  - generic [ref=e821]: 129 views
+                - button "More actions" [ref=e823] [cursor=pointer]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img
+              - generic [ref=e829]:
+                - link [ref=e830] [cursor=pointer]:
+                  - /url: /shorts/qUtGxdgidFw
+                - generic [ref=e834] [cursor=pointer]:
+                  - link "Learn German Conversation | Hotel Dialogue | A1 - A2" [ref=e835]:
+                    - /url: /shorts/qUtGxdgidFw
+                  - generic [ref=e836]: 46K views
+                - button "More actions" [ref=e838] [cursor=pointer]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img
+              - generic [ref=e844]:
+                - link [ref=e845] [cursor=pointer]:
+                  - /url: /shorts/XzqJaN-c-tE
+                - generic [ref=e849] [cursor=pointer]:
+                  - link "das Reisen - German Vocabulary" [ref=e850]:
+                    - /url: /shorts/XzqJaN-c-tE
+                  - generic [ref=e851]: 1.1K views
+                - button "More actions" [ref=e853] [cursor=pointer]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img
+          - generic [ref=e858]:
+            - link [ref=e860] [cursor=pointer]:
+              - /url: /watch?v=i5pSy5qBtFo&pp=ygUlTGVhcm4gR2VybWFuIEExIFJlaXNlbiB0cmF2ZWwgdG91cmlzbQ%3D%3D
+            - generic [ref=e862] [cursor=pointer]:
+              - generic [ref=e863]:
+                - generic [ref=e864]:
+                  - heading "How was your vacation? | Wie war dein Urlaub? | Deutsch im Alltag | Learn German | A1-A2 7 minutes, 4 seconds" [level=3] [ref=e865]:
+                    - link "How was your vacation? | Wie war dein Urlaub? | Deutsch im Alltag | Learn German | A1-A2 7 minutes, 4 seconds" [ref=e866]:
+                      - /url: /watch?v=i5pSy5qBtFo&pp=ygUlTGVhcm4gR2VybWFuIEExIFJlaXNlbiB0cmF2ZWwgdG91cmlzbQ%3D%3D
+                      - text: How was your vacation? | Wie war dein Urlaub? | Deutsch im Alltag | Learn German | A1-A2
+                  - button "Action menu" [ref=e870]:
+                    - generic [ref=e873]:
+                      - img
+                - generic [ref=e876]:
+                  - generic [ref=e877]: 36K views
+                  - generic [ref=e878]: •4 years ago
+              - generic [ref=e879]:
+                - link "Go to channel Learn German" [ref=e880]:
+                  - /url: /@LearnGermanOriginal
+                - generic [ref=e881]:
+                  - link "Learn German" [ref=e885]:
+                    - /url: /@LearnGermanOriginal
+                  - img "Verified" [ref=e890]:
+                    - generic [ref=e893]:
+                      - img
+              - generic [ref=e894]:
+                - generic [ref=e895]: "LearnGermanOriginal #LearnGerman #DeutschImAlltag #SummerSpecial In our summer special series “Deutsch im Alltag” we ..."
+                - tooltip "tooltip"
+              - generic [ref=e898]:
+                - generic [ref=e899]:
+                  - generic [ref=e903]: 4 chapters
+                  - button "Intro | allgemein | Wetter | Unterkunft" [ref=e904]
+                - button "More" [ref=e909]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img
+          - generic [ref=e914]:
+            - link [ref=e916] [cursor=pointer]:
+              - /url: /watch?v=rLol2GGyDls&pp=ygUlTGVhcm4gR2VybWFuIEExIFJlaXNlbiB0cmF2ZWwgdG91cmlzbQ%3D%3D
+            - generic [ref=e918] [cursor=pointer]:
+              - generic [ref=e919]:
+                - generic [ref=e920]:
+                  - 'heading "Learn German for beginners: 10 German Travel Situations Everyone Needs to Know (A1-A2) 26 minutes" [level=3] [ref=e921]':
+                    - 'link "Learn German for beginners: 10 German Travel Situations Everyone Needs to Know (A1-A2) 26 minutes" [ref=e922]':
+                      - /url: /watch?v=rLol2GGyDls&pp=ygUlTGVhcm4gR2VybWFuIEExIFJlaXNlbiB0cmF2ZWwgdG91cmlzbQ%3D%3D
+                      - text: "Learn German for beginners: 10 German Travel Situations Everyone Needs to Know (A1-A2)"
+                  - button "Action menu" [ref=e926]:
+                    - generic [ref=e929]:
+                      - img
+                - generic [ref=e932]:
+                  - generic [ref=e933]: 31K views
+                  - generic [ref=e934]: •2 months ago
+              - generic [ref=e935]:
+                - link "Go to channel GermanTalks" [ref=e936]:
+                  - /url: /@TalksGerman
+                - link "GermanTalks" [ref=e941]:
+                  - /url: /@TalksGerman
+              - generic [ref=e942]:
+                - text: "10 Short and Easy German dialogues (A1-A2 level). Learn German for Beginners: 10 German Travel Situations You MUST Know (A1-A2 ..."
+                - tooltip "tooltip"
+              - img "Closed captions" [ref=e947]:
+                - generic [ref=e948]: CC
+              - generic [ref=e951]:
+                - generic [ref=e952]:
+                  - generic [ref=e953]:
+                    - generic [ref=e956]:
+                      - img
+                    - generic [ref=e957]: Summary
+                  - button "GermanTalks begleitet Lernende durch verschiedene Reiseszenarien, vom Check-in am Flughafen bis zum Hotelaufenthalt und Ausflügen auf Sylt. Die Dialoge bieten praxisnahe Beispiele für typische Interaktionen auf Reisen, die dabei helfen, den Wortschatz zu erweitern und die Sprachkenntnisse auf dem Niveau A1 bis A2 in realen Situationen sicher anzuwenden." [ref=e958]
+                  - text: ·
+                - button "More" [ref=e963]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img
+          - generic [ref=e968]:
+            - link [ref=e970] [cursor=pointer]:
+              - /url: /watch?v=waGFzMlmB2U&pp=ygUlTGVhcm4gR2VybWFuIEExIFJlaXNlbiB0cmF2ZWwgdG91cmlzbQ%3D%3D
+            - generic [ref=e972] [cursor=pointer]:
+              - generic [ref=e973]:
+                - generic [ref=e974]:
+                  - heading "Easy German Phrases for tourists | Get ready for your next trip! 6 minutes, 37 seconds" [level=3] [ref=e975]:
+                    - link "Easy German Phrases for tourists | Get ready for your next trip! 6 minutes, 37 seconds" [ref=e976]:
+                      - /url: /watch?v=waGFzMlmB2U&pp=ygUlTGVhcm4gR2VybWFuIEExIFJlaXNlbiB0cmF2ZWwgdG91cmlzbQ%3D%3D
+                      - text: Easy German Phrases for tourists | Get ready for your next trip!
+                  - button "Action menu" [ref=e980]:
+                    - generic [ref=e983]:
+                      - img
+                - generic [ref=e986]:
+                  - generic [ref=e987]: 36K views
+                  - generic [ref=e988]: •2 years ago
+              - generic [ref=e989]:
+                - link "Go to channel Speak Fluent German" [ref=e990]:
+                  - /url: /@SpeakFluentGerman
+                - link "Speak Fluent German" [ref=e995]:
+                  - /url: /@SpeakFluentGerman
+              - generic [ref=e996]:
+                - generic [ref=e997]: Easy German Phrases for tourists | Get ready for your next trip! // Planning a trip to Germany, Switzerland, or Austria? Whether it's ...
+                - tooltip "tooltip"
+              - generic [ref=e1000]:
+                - generic [ref=e1001]:
+                  - generic [ref=e1005]: 6 chapters
+                  - button "Intro | Greetings in German | Basic German Responses | Ways to say Thank You in German | Common German Expressions | Important German phrases when Travelling" [ref=e1006]
+                - button "More" [ref=e1011]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img
+          - generic [ref=e1015]:
+            - generic [ref=e1018]:
+              - img [ref=e1020]:
+                - generic [ref=e1022]:
+                  - img
+              - heading "Shorts" [level=2] [ref=e1025]
+            - generic [ref=e1026]:
+              - generic [ref=e1027]:
+                - generic [ref=e1030]:
+                  - link [ref=e1031] [cursor=pointer]:
+                    - /url: /shorts/PZ14H_6unnc
+                  - generic [ref=e1035] [cursor=pointer]:
+                    - 'link "\"Learn German A1 Fast! 🇩🇪 Easy Words & Fun Practice 🎯\"#germanforbeginners#learngermanfast #germana1" [ref=e1036]':
+                      - /url: /shorts/PZ14H_6unnc
+                    - generic [ref=e1037]: 2M views
+                  - button "More actions" [ref=e1039] [cursor=pointer]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - img
+                - generic [ref=e1045]:
+                  - link [ref=e1046] [cursor=pointer]:
+                    - /url: /shorts/-WVcF2NGDDU
+                  - generic [ref=e1050] [cursor=pointer]:
+                    - 'link "Learn German With Dialog | Traveling and Tourism #deutsch #germanlevela1 #hörena1 #hörena1 #lernen" [ref=e1051]':
+                      - /url: /shorts/-WVcF2NGDDU
+                    - generic [ref=e1052]: 128 views
+                  - button "More actions" [ref=e1054] [cursor=pointer]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - img
+                - generic [ref=e1060]:
+                  - link [ref=e1061] [cursor=pointer]:
+                    - /url: /shorts/QrsukskQjgA
+                  - generic [ref=e1065] [cursor=pointer]:
+                    - 'link "Reisen (Travelling) #learngerman #germanlearning" [ref=e1066]':
+                      - /url: /shorts/QrsukskQjgA
+                    - generic [ref=e1067]: 2.4K views
+                  - button "More actions" [ref=e1069] [cursor=pointer]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - img
+                - generic [ref=e1075]:
+                  - link [ref=e1076] [cursor=pointer]:
+                    - /url: /shorts/D9Q3WQ6f5hY
+                  - generic [ref=e1080] [cursor=pointer]:
+                    - link "Learn German Food & Restaurant Vocabulary 🇩🇪 | Learn German" [ref=e1081]:
+                      - /url: /shorts/D9Q3WQ6f5hY
+                    - generic [ref=e1082]: 34K views
+                  - button "More actions" [ref=e1084] [cursor=pointer]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - img
+                - generic [ref=e1090]:
+                  - link [ref=e1091] [cursor=pointer]:
+                    - /url: /shorts/oPlP0RVXYnc
+                  - generic [ref=e1095] [cursor=pointer]:
+                    - link "Useful essential important German phrases for travel 🇩🇪" [ref=e1096]:
+                      - /url: /shorts/oPlP0RVXYnc
+                    - generic [ref=e1097]: 11K views
+                  - button "More actions" [ref=e1099] [cursor=pointer]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - img
+              - generic [ref=e1103]:
+                - generic [ref=e1106]:
+                  - link [ref=e1107] [cursor=pointer]:
+                    - /url: /shorts/as8xExQrQBs
+                  - generic [ref=e1111] [cursor=pointer]:
+                    - link "Learn German Words Before Travel" [ref=e1112]:
+                      - /url: /shorts/as8xExQrQBs
+                    - generic [ref=e1113]: 517 views
+                  - button "More actions" [ref=e1115] [cursor=pointer]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - img
+                - generic [ref=e1121]:
+                  - link [ref=e1122] [cursor=pointer]:
+                    - /url: /shorts/7D4s-P2da8s
+                    - img [ref=e1127]:
+                      - generic [ref=e1128]: New
+                  - generic [ref=e1129] [cursor=pointer]:
+                    - link "Check into a Hotel in German 🏨🇩🇪 | Useful Hotel Phrases | German A1 | Journey to Deutsch" [ref=e1130]:
+                      - /url: /shorts/7D4s-P2da8s
+                    - generic [ref=e1131]: 11 views
+                  - button "More actions" [ref=e1133] [cursor=pointer]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - img
+                - generic [ref=e1139]:
+                  - link [ref=e1140] [cursor=pointer]:
+                    - /url: /shorts/L9u6Pvemx4U
+                  - generic [ref=e1144] [cursor=pointer]:
+                    - 'link "german self introduction 🗣️#easy #learn #deutsch #quiz #selfintroduction #germanlanguage #easy" [ref=e1145]':
+                      - /url: /shorts/L9u6Pvemx4U
+                    - generic [ref=e1146]: 296K views
+                  - button "More actions" [ref=e1148] [cursor=pointer]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - img
+                - generic [ref=e1154]:
+                  - link [ref=e1155] [cursor=pointer]:
+                    - /url: /shorts/q1qog8l0THk
+                  - generic [ref=e1159] [cursor=pointer]:
+                    - link "German You Need at a Hotel in Germany | Easy Travel Phrases | Watch Full Video On Youtube Channel" [ref=e1160]:
+                      - /url: /shorts/q1qog8l0THk
+                    - generic [ref=e1161]: 168 views
+                  - button "More actions" [ref=e1163] [cursor=pointer]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - img
+                - generic [ref=e1169]:
+                  - link [ref=e1170] [cursor=pointer]:
+                    - /url: /shorts/UlhGmBrpmGk
+                  - generic [ref=e1174] [cursor=pointer]:
+                    - 'link "#germany #germanytourism #germanytravel #deutschland #learngerman #easygerman #germanlanguage" [ref=e1175]':
+                      - /url: /shorts/UlhGmBrpmGk
+                    - generic [ref=e1176]: 5.5K views
+                  - button "More actions" [ref=e1178] [cursor=pointer]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - img
+            - button "Show more" [ref=e1185] [cursor=pointer]:
+              - generic: Show more
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img
+          - generic [ref=e1190]:
+            - link [ref=e1192] [cursor=pointer]:
+              - /url: /watch?v=6s-XXlV-jE0&pp=ygUlTGVhcm4gR2VybWFuIEExIFJlaXNlbiB0cmF2ZWwgdG91cmlzbQ%3D%3D
+            - generic [ref=e1194] [cursor=pointer]:
+              - generic [ref=e1195]:
+                - generic [ref=e1196]:
+                  - 'heading "A1- German lesson 64 | Sprechen A1 | Thema: Urlaub/Ferien und Reisen | Fragen und Antworten 7 minutes, 12 seconds" [level=3] [ref=e1197]':
+                    - 'link "A1- German lesson 64 | Sprechen A1 | Thema: Urlaub/Ferien und Reisen | Fragen und Antworten 7 minutes, 12 seconds" [ref=e1198]':
+                      - /url: /watch?v=6s-XXlV-jE0&pp=ygUlTGVhcm4gR2VybWFuIEExIFJlaXNlbiB0cmF2ZWwgdG91cmlzbQ%3D%3D
+                      - text: "A1- German lesson 64 | Sprechen A1 | Thema: Urlaub/Ferien und Reisen | Fragen und Antworten"
+                  - button "Action menu" [ref=e1202]:
+                    - generic [ref=e1205]:
+                      - img
+                - generic [ref=e1208]:
+                  - generic [ref=e1209]: 40K views
+                  - generic [ref=e1210]: •5 years ago
+              - generic [ref=e1211]:
+                - link "Go to channel Deutsch mit Inap" [ref=e1212]:
+                  - /url: /@DeutschmitInap
+                - link "Deutsch mit Inap" [ref=e1217]:
+                  - /url: /@DeutschmitInap
+              - generic [ref=e1218]:
+                - generic [ref=e1219]: "Deutsch lernen (Sprechen A1) | Thema: Urlaub/Ferien und Reisen : In diesem Video lernt ihr einige Fragen und Antworten zum ..."
+                - tooltip "tooltip"
+          - generic [ref=e1221]:
+            - link [ref=e1223] [cursor=pointer]:
+              - /url: /watch?v=0resMskO4Ss&pp=ygUlTGVhcm4gR2VybWFuIEExIFJlaXNlbiB0cmF2ZWwgdG91cmlzbQ%3D%3D
+            - generic [ref=e1225] [cursor=pointer]:
+              - generic [ref=e1226]:
+                - generic [ref=e1227]:
+                  - heading "Speak German Like a Pro While Traveling! | Essential German Phrases for Tourists 7 minutes, 29 seconds" [level=3] [ref=e1228]:
+                    - link "Speak German Like a Pro While Traveling! | Essential German Phrases for Tourists 7 minutes, 29 seconds" [ref=e1229]:
+                      - /url: /watch?v=0resMskO4Ss&pp=ygUlTGVhcm4gR2VybWFuIEExIFJlaXNlbiB0cmF2ZWwgdG91cmlzbQ%3D%3D
+                      - text: Speak German Like a Pro While Traveling! | Essential German Phrases for Tourists
+                  - button "Action menu" [ref=e1233]:
+                    - generic [ref=e1236]:
+                      - img
+                - generic [ref=e1239]:
+                  - generic [ref=e1240]: 6.9K views
+                  - generic [ref=e1241]: •1 year ago
+              - generic [ref=e1242]:
+                - link "Go to channel Learn German with Herr Antrim" [ref=e1243]:
+                  - /url: /@MrLAntrim
+                - generic [ref=e1244]:
+                  - link "Learn German with Herr Antrim" [ref=e1248]:
+                    - /url: /@MrLAntrim
+                  - img "Verified" [ref=e1253]:
+                    - generic [ref=e1256]:
+                      - img
+              - generic [ref=e1257]:
+                - generic [ref=e1258]: "Learn the most useful phrases for navigating German-speaking countries with confidence: ordering food, buying tickets, asking for ..."
+                - tooltip "tooltip"
+              - generic [ref=e1261]:
+                - generic [ref=e1262]:
+                  - generic [ref=e1263]:
+                    - generic [ref=e1266]:
+                      - img
+                    - generic [ref=e1267]: Summary
+                  - button "Herr Antrim equips travelers with essential German vocabulary for common scenarios like asking for directions, ordering food at restaurants, and managing hotel reservations. These key phrases help overcome language barriers, ensuring a smoother and more confident experience during a trip to Germany." [ref=e1268]
+                  - text: ·
+                - button "More" [ref=e1273]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img
+          - generic [ref=e1278]:
+            - link [ref=e1280] [cursor=pointer]:
+              - /url: /watch?v=22eCsF7kGOY&pp=ygUlTGVhcm4gR2VybWFuIEExIFJlaXNlbiB0cmF2ZWwgdG91cmlzbdIHCQlOCwGHKiGM7w%3D%3D
+            - generic [ref=e1282] [cursor=pointer]:
+              - generic [ref=e1283]:
+                - generic [ref=e1284]:
+                  - heading "Essential German Hotel Phrases for Tourists | Easy Travel Phrases (A1) 1 minute, 42 seconds" [level=3] [ref=e1285]:
+                    - link "Essential German Hotel Phrases for Tourists | Easy Travel Phrases (A1) 1 minute, 42 seconds" [ref=e1286]:
+                      - /url: /watch?v=22eCsF7kGOY&pp=ygUlTGVhcm4gR2VybWFuIEExIFJlaXNlbiB0cmF2ZWwgdG91cmlzbdIHCQlOCwGHKiGM7w%3D%3D
+                      - text: Essential German Hotel Phrases for Tourists | Easy Travel Phrases (A1)
+                  - button "Action menu" [ref=e1290]:
+                    - generic [ref=e1293]:
+                      - img
+                - generic [ref=e1296]:
+                  - generic [ref=e1297]: 17 views
+                  - generic [ref=e1298]: •4 months ago
+              - generic [ref=e1299]:
+                - link "Go to channel Learn German Together" [ref=e1300]:
+                  - /url: /@GermanLearningTogether
+                - link "Learn German Together" [ref=e1305]:
+                  - /url: /@GermanLearningTogether
+              - generic [ref=e1306]:
+                - generic [ref=e1307]: Planning to visit Germany? Learn useful German sentences used at a hotel in Germany. In this beginner-friendly German lesson, ...
+                - tooltip "tooltip"
+          - generic [ref=e1309]:
+            - link [ref=e1311] [cursor=pointer]:
+              - /url: /watch?v=UB0KLTGcJRs&pp=ygUlTGVhcm4gR2VybWFuIEExIFJlaXNlbiB0cmF2ZWwgdG91cmlzbQ%3D%3D
+            - generic [ref=e1313] [cursor=pointer]:
+              - generic [ref=e1314]:
+                - generic [ref=e1315]:
+                  - heading "🇩🇪 Master Ferry Travel in German Fast | A1-A2 Beginner Conversations | Learn Easy German 29 minutes" [level=3] [ref=e1316]:
+                    - link "🇩🇪 Master Ferry Travel in German Fast | A1-A2 Beginner Conversations | Learn Easy German 29 minutes" [ref=e1317]:
+                      - /url: /watch?v=UB0KLTGcJRs&pp=ygUlTGVhcm4gR2VybWFuIEExIFJlaXNlbiB0cmF2ZWwgdG91cmlzbQ%3D%3D
+                      - text: 🇩🇪 Master Ferry Travel in German Fast | A1-A2 Beginner Conversations | Learn Easy German
+                  - button "Action menu" [ref=e1321]:
+                    - generic [ref=e1324]:
+                      - img
+                - generic [ref=e1327]:
+                  - generic [ref=e1328]: 6.7K views
+                  - generic [ref=e1329]: •6 months ago
+              - generic [ref=e1330]:
+                - link "Go to channel Deutsch Lernen Mit Spass" [ref=e1331]:
+                  - /url: /@DeutschLernenMitSpass416
+                - generic [ref=e1332]:
+                  - link "Deutsch Lernen Mit Spass" [ref=e1336]:
+                    - /url: /@DeutschLernenMitSpass416
+                  - img "Verified" [ref=e1341]:
+                    - generic [ref=e1344]:
+                      - img
+              - generic [ref=e1345]:
+                - text: Learn German ferry travel conversations with 15 real-world dialogues! Perfect for A1-A2 beginners planning trips or traveling ...
+                - tooltip "tooltip"
+              - img "Closed captions" [ref=e1350]:
+                - generic [ref=e1351]: CC
+              - generic [ref=e1354]:
+                - generic [ref=e1355]:
+                  - generic [ref=e1356]:
+                    - generic [ref=e1359]:
+                      - img
+                    - generic [ref=e1360]: Summary
+                  - button "Deutsch Lernen Mit Spass bietet praktische Dialoge für Fährreisen. Die Teilnehmenden lernen wichtige Sätze für den Ticketkauf, den Umgang mit Verspätungen und das Verhalten an Bord. Übungen zum Bestellen von Snacks und zur Sicherheit runden die Übungen ab." [ref=e1361]
+                  - text: ·
+                - button "More" [ref=e1366]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img
+          - generic [ref=e1371]:
+            - link [ref=e1373] [cursor=pointer]:
+              - /url: /watch?v=ugKI1-XIMn8&pp=ygUlTGVhcm4gR2VybWFuIEExIFJlaXNlbiB0cmF2ZWwgdG91cmlzbQ%3D%3D
+            - generic [ref=e1375] [cursor=pointer]:
+              - generic [ref=e1376]:
+                - generic [ref=e1377]:
+                  - heading "Learn German | German Vocabulary | In der Stadt | In the city | A1 13 minutes, 20 seconds" [level=3] [ref=e1378]:
+                    - link "Learn German | German Vocabulary | In der Stadt | In the city | A1 13 minutes, 20 seconds" [ref=e1379]:
+                      - /url: /watch?v=ugKI1-XIMn8&pp=ygUlTGVhcm4gR2VybWFuIEExIFJlaXNlbiB0cmF2ZWwgdG91cmlzbQ%3D%3D
+                      - text: Learn German | German Vocabulary | In der Stadt | In the city | A1
+                  - button "Action menu" [ref=e1383]:
+                    - generic [ref=e1386]:
+                      - img
+                - generic [ref=e1389]:
+                  - generic [ref=e1390]: 398K views
+                  - generic [ref=e1391]: •8 years ago
+              - generic [ref=e1392]:
+                - link "Go to channel Learn German" [ref=e1393]:
+                  - /url: /@LearnGermanOriginal
+                - generic [ref=e1394]:
+                  - link "Learn German" [ref=e1398]:
+                    - /url: /@LearnGermanOriginal
+                  - img "Verified" [ref=e1403]:
+                    - generic [ref=e1406]:
+                      - img
+              - generic [ref=e1407]:
+                - generic [ref=e1408]: "LearnGermanOriginal #LearnGerman #GermanVocabulary LEARN GERMAN FASTER In just 75 days, learn more than 500 new ..."
+                - tooltip "tooltip"
+              - generic [ref=e1411]:
+                - generic [ref=e1412]:
+                  - generic [ref=e1413]:
+                    - generic [ref=e1416]:
+                      - img
+                    - generic [ref=e1417]: Summary
+                  - button "Lerne die wichtigsten deutschen Vokabeln zum Thema Stadt. Learn German präsentiert Begriffe für verschiedene öffentliche Orte wie Bäckereien, Apotheken oder Bahnhöfe sowie die passende Verwendung im Alltag, um den eigenen Wortschatz auf A1-Niveau zu erweitern." [ref=e1418]
+                  - text: ·
+                - button "More" [ref=e1423]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img
+          - generic [ref=e1428]:
+            - link [ref=e1430] [cursor=pointer]:
+              - /url: /watch?v=kZr7pk1S7qc&pp=ygUlTGVhcm4gR2VybWFuIEExIFJlaXNlbiB0cmF2ZWwgdG91cmlzbQ%3D%3D
+            - generic [ref=e1432] [cursor=pointer]:
+              - generic [ref=e1433]:
+                - generic [ref=e1434]:
+                  - heading "Reisen (Traveling) - Simple German A1 Conversation 30 seconds" [level=3] [ref=e1435]:
+                    - link "Reisen (Traveling) - Simple German A1 Conversation 30 seconds" [ref=e1436]:
+                      - /url: /watch?v=kZr7pk1S7qc&pp=ygUlTGVhcm4gR2VybWFuIEExIFJlaXNlbiB0cmF2ZWwgdG91cmlzbQ%3D%3D
+                      - text: Reisen (Traveling) - Simple German A1 Conversation
+                  - button "Action menu" [ref=e1440]:
+                    - generic [ref=e1443]:
+                      - img
+                - generic [ref=e1446]:
+                  - generic [ref=e1447]: 147 views
+                  - generic [ref=e1448]: •6 months ago
+              - generic [ref=e1449]:
+                - link "Go to channel Dear Language" [ref=e1450]:
+                  - /url: /@language-german
+                - link "Dear Language" [ref=e1455]:
+                  - /url: /@language-german
+              - generic [ref=e1456]:
+                - generic [ref=e1457]: "German A1–C2 Master German from beginner (A1) to advanced (C2)! ✔️ Quick, easy lessons ✔️ All levels: A1, A2, B1, B2, C1, ..."
+                - tooltip "tooltip"
+          - generic [ref=e1459]:
+            - link [ref=e1461] [cursor=pointer]:
+              - /url: /watch?v=7cBobnfZYGY&pp=ygUlTGVhcm4gR2VybWFuIEExIFJlaXNlbiB0cmF2ZWwgdG91cmlzbQ%3D%3D
+            - generic [ref=e1463] [cursor=pointer]:
+              - generic [ref=e1464]:
+                - generic [ref=e1465]:
+                  - heading "How to Planning a Trip in German | Easy German Conversation Practice 20 minutes" [level=3] [ref=e1466]:
+                    - link "How to Planning a Trip in German | Easy German Conversation Practice 20 minutes" [ref=e1467]:
+                      - /url: /watch?v=7cBobnfZYGY&pp=ygUlTGVhcm4gR2VybWFuIEExIFJlaXNlbiB0cmF2ZWwgdG91cmlzbQ%3D%3D
+                      - text: How to Planning a Trip in German | Easy German Conversation Practice
+                  - button "Action menu" [ref=e1471]:
+                    - generic [ref=e1474]:
+                      - img
+                - generic [ref=e1477]:
+                  - generic [ref=e1478]: 18K views
+                  - generic [ref=e1479]: •7 months ago
+              - generic [ref=e1480]:
+                - link "Go to channel Talk Mund" [ref=e1481]:
+                  - /url: /@Talkmund
+                - link "Talk Mund" [ref=e1486]:
+                  - /url: /@Talkmund
+              - generic [ref=e1487]:
+                - generic [ref=e1488]: Hello dear German learners! Today, Anna and Ben are planning a trip – in German! In this video, you'll hear a real, slow ...
+                - tooltip "tooltip"
+              - generic [ref=e1491]:
+                - generic [ref=e1492]:
+                  - generic [ref=e1493]:
+                    - generic [ref=e1496]:
+                      - img
+                    - generic [ref=e1497]: Summary
+                  - button "Anna und Ben planen eine gemeinsame Reise an den Bodensee und besprechen dabei Unterkunft, Transport und Aktivitäten. Sie erstellen eine Packliste, kalkulieren ihr Budget und lernen nützliche deutsche Vokabeln für den Urlaub." [ref=e1498]
+                  - text: ·
+                - button "More" [ref=e1503]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img
+          - generic [ref=e1508]:
+            - link [ref=e1510] [cursor=pointer]:
+              - /url: /watch?v=k15wRdRYDCY&pp=ygUlTGVhcm4gR2VybWFuIEExIFJlaXNlbiB0cmF2ZWwgdG91cmlzbQ%3D%3D
+            - generic [ref=e1512] [cursor=pointer]:
+              - generic [ref=e1513]:
+                - generic [ref=e1514]:
+                  - heading "Lesson 1| German vocabulary A1 level | Travel | Reisen | Learn German in English 🇩🇪✅ 4 minutes, 17 seconds" [level=3] [ref=e1515]:
+                    - link "Lesson 1| German vocabulary A1 level | Travel | Reisen | Learn German in English 🇩🇪✅ 4 minutes, 17 seconds" [ref=e1516]:
+                      - /url: /watch?v=k15wRdRYDCY&pp=ygUlTGVhcm4gR2VybWFuIEExIFJlaXNlbiB0cmF2ZWwgdG91cmlzbQ%3D%3D
+                      - text: Lesson 1| German vocabulary A1 level | Travel | Reisen | Learn German in English 🇩🇪✅
+                  - button "Action menu" [ref=e1520]:
+                    - generic [ref=e1523]:
+                      - img
+                - generic [ref=e1526]:
+                  - generic [ref=e1527]: 52 views
+                  - generic [ref=e1528]: •6 months ago
+              - generic [ref=e1529]:
+                - link "Go to channel Everyday Deutsch" [ref=e1530]:
+                  - /url: /@everydaydeutsch_12
+                - link "Everyday Deutsch" [ref=e1535]:
+                  - /url: /@everydaydeutsch_12
+              - generic [ref=e1536]:
+                - generic [ref=e1537]: "German language A1 level Disclaimers: 1. I am not native German speaker, so my word accent will be different . 2. Please make ..."
+                - tooltip "tooltip"
+          - generic [ref=e1539]:
+            - link [ref=e1541] [cursor=pointer]:
+              - /url: /watch?v=_dddL1ddmXQ&pp=ygUlTGVhcm4gR2VybWFuIEExIFJlaXNlbiB0cmF2ZWwgdG91cmlzbQ%3D%3D
+            - generic [ref=e1543] [cursor=pointer]:
+              - generic [ref=e1544]:
+                - generic [ref=e1545]:
+                  - heading "At the Hotel in Slow German | Super Easy German 283 14 minutes, 41 seconds" [level=3] [ref=e1546]:
+                    - link "At the Hotel in Slow German | Super Easy German 283 14 minutes, 41 seconds" [ref=e1547]:
+                      - /url: /watch?v=_dddL1ddmXQ&pp=ygUlTGVhcm4gR2VybWFuIEExIFJlaXNlbiB0cmF2ZWwgdG91cmlzbQ%3D%3D
+                      - text: At the Hotel in Slow German | Super Easy German 283
+                  - button "Action menu" [ref=e1551]:
+                    - generic [ref=e1554]:
+                      - img
+                - generic [ref=e1557]:
+                  - generic [ref=e1558]: 250K views
+                  - generic [ref=e1559]: •11 months ago
+              - generic [ref=e1560]:
+                - link "Go to channel Easy German" [ref=e1561]:
+                  - /url: /@EasyGerman
+                - generic [ref=e1562]:
+                  - link "Easy German" [ref=e1566]:
+                    - /url: /@EasyGerman
+                  - img "Verified" [ref=e1571]:
+                    - generic [ref=e1574]:
+                      - img
+              - generic [ref=e1575]:
+                - generic [ref=e1576]: "Practice more German with fun video stories on our partner app Seedlang: https://www.seedlang.com/promotion/seg-283 ..."
+                - tooltip "tooltip"
+    - text: •

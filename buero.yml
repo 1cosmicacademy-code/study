@@ -1,0 +1,1140 @@
+- generic [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e4]:
+      - generic [ref=e6]:
+        - generic [ref=e7]:
+          - button "Guide" [active] [pressed] [ref=e9] [cursor=pointer]:
+            - generic [ref=e1254]:
+              - img
+          - generic [ref=e11]:
+            - link "YouTube Home" [ref=e12] [cursor=pointer]:
+              - /url: /
+              - generic [ref=e1256]:
+                - img
+            - generic [ref=e16]: DE
+          - button "Skip navigation" [ref=e20] [cursor=pointer]:
+            - generic: Skip navigation
+        - generic [ref=e24]:
+          - search [ref=e25]:
+            - generic [ref=e27]:
+              - generic [ref=e28]:
+                - combobox "Search" [expanded] [ref=e30]: Learn German A1 lesson Im Büro Office vocabulary
+                - button "Clear search query" [ref=e32] [cursor=pointer]:
+                  - generic [ref=e1258]:
+                    - img
+              - button "Search" [ref=e37] [cursor=pointer]:
+                - generic [ref=e1260]:
+                  - img
+          - generic [ref=e40]:
+            - button "Search with your voice" [ref=e42] [cursor=pointer]:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img
+            - tooltip "tooltip"
+        - generic [ref=e442]:
+          - button "Settings" [ref=e447] [cursor=pointer]:
+            - generic [ref=e1262]:
+              - img
+          - link "Sign in" [ref=e451] [cursor=pointer]:
+            - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fresults%253Fsearch_query%253DLearn%252BGerman%252BA1%252Blesson%252BIm%252BB%2525C3%2525BCro%252BOffice%252Bvocabulary&hl=en&ec=65620
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - generic: Sign in
+    - navigation [ref=e51]:
+      - generic [ref=e1263]:
+        - generic [ref=e1264]:
+          - generic [ref=e1266]:
+            - link "Home" [ref=e1268] [cursor=pointer]:
+              - /url: /
+              - link "Home" [ref=e1269]:
+                - generic [ref=e1272]:
+                  - img
+                - generic [ref=e1273]: Home
+            - link "Shorts" [ref=e1275] [cursor=pointer]:
+              - link "Shorts" [ref=e1276]:
+                - generic [ref=e1279]:
+                  - img
+                - generic [ref=e1280]: Shorts
+            - link "Subscriptions" [ref=e1282] [cursor=pointer]:
+              - /url: /feed/subscriptions
+              - link "Subscriptions" [ref=e1283]:
+                - generic [ref=e1286]:
+                  - img
+                - generic [ref=e1287]: Subscriptions
+            - link "You" [ref=e1289] [cursor=pointer]:
+              - /url: /feed/you
+              - link "You" [ref=e1290]:
+                - generic [ref=e1293]:
+                  - img
+                - generic [ref=e1294]: You
+            - link "History" [ref=e1296] [cursor=pointer]:
+              - /url: /feed/history
+              - link "History" [ref=e1297]:
+                - generic [ref=e1300]:
+                  - img
+                - generic [ref=e1301]: History
+          - generic [ref=e1302]:
+            - generic [ref=e1303]: Sign in to like videos, comment, and subscribe.
+            - link "Sign in" [ref=e1306] [cursor=pointer]:
+              - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fresults%253Fsearch_query%253DLearn%252BGerman%252BA1%252Blesson%252BIm%252BB%2525C3%2525BCro%252BOffice%252Bvocabulary&hl=en
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img
+              - generic: Sign in
+          - generic [ref=e1310]:
+            - heading "Explore" [level=3] [ref=e1311]:
+              - generic [ref=e1312]: Explore
+            - generic [ref=e1313]:
+              - link "Music" [ref=e1315] [cursor=pointer]:
+                - /url: /channel/UC-9-kyTW8ZkZNDHQJ6FgpwQ
+                - link "Music" [ref=e1316]:
+                  - generic [ref=e1319]:
+                    - img
+                  - generic [ref=e1320]: Music
+              - link "Movies & TV" [ref=e1322] [cursor=pointer]:
+                - /url: /feed/storefront?bp=ogUCKAU%3D
+                - link "Movies & TV" [ref=e1323]:
+                  - generic [ref=e1326]:
+                    - img
+                  - generic [ref=e1327]: Movies & TV
+              - link "Live" [ref=e1329] [cursor=pointer]:
+                - /url: /channel/UC4R8DWoMoI7CAwX8_LjQHig
+                - link "Live" [ref=e1330]:
+                  - generic [ref=e1333]:
+                    - img
+                  - generic [ref=e1334]: Live
+              - button "Show more" [ref=e1336]:
+                - link "Show more" [ref=e1337] [cursor=pointer]:
+                  - link "Show more" [ref=e1338]:
+                    - generic [ref=e1341]:
+                      - img
+                    - generic [ref=e1342]: Show more
+          - generic [ref=e1343]:
+            - heading "More from YouTube" [level=3] [ref=e1344]:
+              - generic [ref=e1345]: More from YouTube
+            - generic [ref=e1346]:
+              - link "YouTube Premium" [ref=e1348] [cursor=pointer]:
+                - /url: /premium
+                - link "YouTube Premium" [ref=e1349]:
+                  - generic [ref=e1352]:
+                    - img
+                  - generic [ref=e1353]: YouTube Premium
+              - link "YouTube Music" [ref=e1355] [cursor=pointer]:
+                - /url: https://music.youtube.com/
+                - link "YouTube Music" [ref=e1356]:
+                  - generic [ref=e1359]:
+                    - img
+                  - generic [ref=e1360]: YouTube Music
+              - link "YouTube Kids" [ref=e1362] [cursor=pointer]:
+                - /url: https://www.youtubekids.com/?source=youtube_web
+                - link "YouTube Kids" [ref=e1363]:
+                  - generic [ref=e1366]:
+                    - img
+                  - generic [ref=e1367]: YouTube Kids
+          - link "Report history" [ref=e1371] [cursor=pointer]:
+            - /url: /reporthistory
+            - link "Report history" [ref=e1372]:
+              - generic [ref=e1375]:
+                - img
+              - generic [ref=e1376]: Report history
+        - generic [ref=e1377]:
+          - generic [ref=e1378]:
+            - link "About" [ref=e1379] [cursor=pointer]:
+              - /url: https://www.youtube.com/about/
+            - link "Press" [ref=e1380] [cursor=pointer]:
+              - /url: https://www.youtube.com/about/press/
+            - link "Copyright" [ref=e1381] [cursor=pointer]:
+              - /url: https://www.youtube.com/about/copyright/
+            - link "Contact us" [ref=e1382] [cursor=pointer]:
+              - /url: /t/contact_us/
+            - link "Creators" [ref=e1383] [cursor=pointer]:
+              - /url: https://www.youtube.com/creators/
+            - link "Advertise" [ref=e1384] [cursor=pointer]:
+              - /url: https://www.youtube.com/ads/
+            - link "Developers" [ref=e1385] [cursor=pointer]:
+              - /url: https://developers.google.com/youtube
+            - link "Impressum" [ref=e1386] [cursor=pointer]:
+              - /url: https://www.youtube.com/t/impressum?hl=de&gl=DE
+            - link "Cancel Memberships" [ref=e1387] [cursor=pointer]:
+              - /url: https://support.google.com/youtube/contact/de_cancellation
+          - generic [ref=e1388]:
+            - link "Terms" [ref=e1389] [cursor=pointer]:
+              - /url: /t/terms
+            - link "Privacy" [ref=e1390] [cursor=pointer]:
+              - /url: /t/privacy
+            - link "Policy & Safety" [ref=e1391] [cursor=pointer]:
+              - /url: https://www.youtube.com/about/policies/
+            - link "How YouTube works" [ref=e1392] [cursor=pointer]:
+              - /url: https://www.youtube.com/howyoutubeworks?utm_campaign=ytgen&utm_source=ythp&utm_medium=LeftNav&utm_content=txt&u=https%3A%2F%2Fwww.youtube.com%2Fhowyoutubeworks%3Futm_source%3Dythp%26utm_medium%3DLeftNav%26utm_campaign%3Dytgen
+            - link "Test new features" [ref=e1393] [cursor=pointer]:
+              - /url: /new
+          - generic [ref=e1394]: © 2026 Google LLC
+    - generic [ref=e57]:
+      - main [ref=e58]:
+        - generic [ref=e59]:
+          - generic [ref=e61]:
+            - tablist [ref=e66]:
+              - tab "All" [selected] [ref=e70] [cursor=pointer]:
+                - generic [ref=e72]: All
+              - tab "Shorts" [ref=e79] [cursor=pointer]:
+                - generic [ref=e81]: Shorts
+              - tab "Unwatched" [ref=e88] [cursor=pointer]:
+                - generic [ref=e90]: Unwatched
+              - tab "Watched" [ref=e97] [cursor=pointer]:
+                - generic [ref=e99]: Watched
+              - tab "Videos" [ref=e106] [cursor=pointer]:
+                - generic [ref=e108]: Videos
+              - tab "Recently uploaded" [ref=e115] [cursor=pointer]:
+                - generic [ref=e117]: Recently uploaded
+              - tab "Live" [ref=e124] [cursor=pointer]:
+                - generic [ref=e126]: Live
+            - link "About these results" [ref=e133] [cursor=pointer]:
+              - /url: https://www.youtube.com/howyoutubeworks/product-features/search/
+              - generic: About these results
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img
+            - generic [ref=e138]:
+              - button "Search filters" [ref=e140] [cursor=pointer]:
+                - generic: Filters
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img
+              - tooltip "tooltip"
+          - generic [ref=e149]:
+            - generic [ref=e151]:
+              - text: "Did you mean:"
+              - link "Learn German A1 lesson In Büro Office vocabulary" [ref=e152] [cursor=pointer]:
+                - /url: /results?search_query=Learn+German+A1+lesson+In+B%C3%BCro+Office+vocabulary
+                - generic [ref=e153]: Learn German A1 lesson In Büro Office vocabulary
+            - generic [ref=e162] [cursor=pointer]:
+              - link [ref=e163]:
+                - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CLVj1LPpEavO7Nouy1LsPiq6O4QjyquKEiAHE4ZXW6BSwkB8QASAAYJWCgICwB4IBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAHUy6roA6kCuDVKgxsfsz6oAwTIAwqqBMkCT9BXPeeq8VShDaJEb1vzVqN8F5oJ-MblLYNUd9heKnwqCQnDVThYDNxkqEr5dR51t36mt_FFTLAMKRcgRsYNqtMImhWhxQAenSC4ZkcU7fSXdNYPzefZdRy7cB7qCu_-T2Z1VOfilnpoMnXR2YxA3Hh6JDbn2vZekgjpuvYBKrELIu-8bGp41f0xghRHejYbZwDMzOUQ_4keDURLh1xLdoSJRnqsuf_LhmyiE8SrOtMWYbnjjpdtIFZljkY4IqlszjzK4CAJh3ZbDKTlmWVfeoYPUBasILFd9yiMZDGFfyBjtFNfAKY5Ucz38x1smlf5wDq3EaYcX832YAW5-hCYAwdfNRtL2gNakmPjJYs9q_TSowyVkzgFfj4s3kCd9EyWDnOJ8-5Pa1ppOg6Wp1kOwDkDz5j2ubdhyWhEbcmHJFCxP5jOoV4y9MeIBe_SkchVkgUHCBN4uMO1GKAGoQGAB5S01ReQBwSoB_LAsQKoB7jEsQKoB-G2sQKoB6XPsQKoB-edsQKoB-idsQKoB--1sQKoB_C1sQKoB_nTsQKoB8nasQKoB6ngsQKoB4QIqAem1LECqAeo0huoB7YHqAex3BuoB7CbsQKoB66xsQKoB_2ysQKoB8jPsQKoB8nPsQKoB83HsQKoB_HRsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5risQKoB5visQKoB53XsQKoB53UsQKoB4HGG6gH_K-xAqgH1c4bqAe-2bECqAerxRuoB5zcG6gHt6GxAqgH1amxAqgH59qxAqgH3rWxAqgH6rGxAqgHvrexAqgHmbWxAqgHhcGxAqgH66WxAqgHyqmxApIIC2dCQjJxVWk1VjdRqAgB0gg8CIjFkHgQARheMgjzgoGAgICgDDoVgMCYiICIgAaAgICAgJCAgAKqgIAQSNmg0jVQFFiQ7_2SsLGVA2ABmgkeaHR0cHM6Ly93d3cuZGVrcmEtYWthZGVtaWUuZGUvsQl2PAgj3JSJqcgJF8gJjwHICcIBuguBAQgDEAUYBCAHKAEwHEABSABQAVh9YABoAHABiAEAmAEBogFNCkUIASgB2rgEPTI7OjkKNwoGCO7zk9IGKD-YF9mg0jXCJAjxgoGAgICgDMokFYDAmIiAiIAGgICAgICQgIACqoCAEMI7AQKoAgLYAgTYAQGAAgGIAgW6AwV2aWdycdALEuALAdIMAhAB2gwlCgoQsKPhuZrQ7KhjEgIBAxoNGO_SkchVIIS32MjDBUABSgIQH5oNARKqDQJERcgNAdINngJodHRwczovL2F4ZnpmcC5kZWtyYS1ha2FkZW1pZS5kZS9UcmFja0l0P3RpZD0xMDI5MzcxMEM1MTQ2UFBDJmhjX3VybD1odHRwcyUzQSUyRiUyRnd3dy5kZWtyYS1ha2FkZW1pZS5kZSUyRiUzRmFjYyUzRGZrJTI2Z2FkX3NvdXJjZSUzRDIlMjZnYWRfY2FtcGFpZ25pZCUzRDIyOTY4Mjk3ODM5JmRldj1jJmhfZXh0PTA6MDoyMjk2ODI5NzgzOToxODk5MzYzMTExNzI6OiZwb3M9JmFmZWU9JmFtYXQ9JmFkaWQ9NzcyMjA0NjkzODQ5JmFsb2NwPTIwMjM1JmFsb2NpPTIwMjM1JmFuZXQ9JmFwbGE9JmFkZXY9uBP___________8BsBQDwBWBgIBA0BUB2BUB4hYCCAGAFwGKFxgIAxgBIAEoATABOAFAAUgBUAFYAWACaAGgFwGpF9MSDdspI3WKuhcGKAAwADgB0BgB8BgBwhkCCAE&ase=2&gclid=EAIaIQobChMI84H-krCxlQMVCxl1AR0KlyOMEAEYASAAEgLzl_D_BwE&num=1&cid=CAASFeRoGI1UtusV_bdLQTUf6aDurOysDw&ad_cpn=%5BCPN%5D&sig=AOD64_0iOXL4LDYY_unqeCMMPcwBXzEC0g&ctype=110&video_id=gBB2qUi5V7Q&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=21&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+                - button [ref=e168]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img
+              - generic [ref=e172]:
+                - generic [ref=e173]:
+                  - generic [ref=e174]:
+                    - link "Weiterbildungen für Arbeitskräfte und Privatpersonen" [ref=e177]:
+                      - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CLVj1LPpEavO7Nouy1LsPiq6O4QjyquKEiAHE4ZXW6BSwkB8QASAAYJWCgICwB4IBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAHUy6roA6kCuDVKgxsfsz6oAwTIAwqqBMkCT9BXPeeq8VShDaJEb1vzVqN8F5oJ-MblLYNUd9heKnwqCQnDVThYDNxkqEr5dR51t36mt_FFTLAMKRcgRsYNqtMImhWhxQAenSC4ZkcU7fSXdNYPzefZdRy7cB7qCu_-T2Z1VOfilnpoMnXR2YxA3Hh6JDbn2vZekgjpuvYBKrELIu-8bGp41f0xghRHejYbZwDMzOUQ_4keDURLh1xLdoSJRnqsuf_LhmyiE8SrOtMWYbnjjpdtIFZljkY4IqlszjzK4CAJh3ZbDKTlmWVfeoYPUBasILFd9yiMZDGFfyBjtFNfAKY5Ucz38x1smlf5wDq3EaYcX832YAW5-hCYAwdfNRtL2gNakmPjJYs9q_TSowyVkzgFfj4s3kCd9EyWDnOJ8-5Pa1ppOg6Wp1kOwDkDz5j2ubdhyWhEbcmHJFCxP5jOoV4y9MeIBe_SkchVkgUHCBN4uMO1GKAGoQGAB5S01ReQBwSoB_LAsQKoB7jEsQKoB-G2sQKoB6XPsQKoB-edsQKoB-idsQKoB--1sQKoB_C1sQKoB_nTsQKoB8nasQKoB6ngsQKoB4QIqAem1LECqAeo0huoB7YHqAex3BuoB7CbsQKoB66xsQKoB_2ysQKoB8jPsQKoB8nPsQKoB83HsQKoB_HRsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5risQKoB5visQKoB53XsQKoB53UsQKoB4HGG6gH_K-xAqgH1c4bqAe-2bECqAerxRuoB5zcG6gHt6GxAqgH1amxAqgH59qxAqgH3rWxAqgH6rGxAqgHvrexAqgHmbWxAqgHhcGxAqgH66WxAqgHyqmxApIIC2dCQjJxVWk1VjdRqAgB0gg8CIjFkHgQARheMgjzgoGAgICgDDoVgMCYiICIgAaAgICAgJCAgAKqgIAQSNmg0jVQFFiQ7_2SsLGVA2ABmgkeaHR0cHM6Ly93d3cuZGVrcmEtYWthZGVtaWUuZGUvsQl2PAgj3JSJqcgJF8gJjwHICcIBuguBAQgDEAUYBCAHKAEwHEABSABQAVh9YABoAHABiAEAmAEBogFNCkUIASgB2rgEPTI7OjkKNwoGCO7zk9IGKD-YF9mg0jXCJAjxgoGAgICgDMokFYDAmIiAiIAGgICAgICQgIACqoCAEMI7AQKoAgLYAgTYAQGAAgGIAgW6AwV2aWdycdALEuALAdIMAhAB2gwlCgoQsKPhuZrQ7KhjEgIBAxoNGO_SkchVIIS32MjDBUABSgIQH5oNARKqDQJERcgNAdINngJodHRwczovL2F4ZnpmcC5kZWtyYS1ha2FkZW1pZS5kZS9UcmFja0l0P3RpZD0xMDI5MzcxMEM1MTQ2UFBDJmhjX3VybD1odHRwcyUzQSUyRiUyRnd3dy5kZWtyYS1ha2FkZW1pZS5kZSUyRiUzRmFjYyUzRGZrJTI2Z2FkX3NvdXJjZSUzRDIlMjZnYWRfY2FtcGFpZ25pZCUzRDIyOTY4Mjk3ODM5JmRldj1jJmhfZXh0PTA6MDoyMjk2ODI5NzgzOToxODk5MzYzMTExNzI6OiZwb3M9JmFmZWU9JmFtYXQ9JmFkaWQ9NzcyMjA0NjkzODQ5JmFsb2NwPTIwMjM1JmFsb2NpPTIwMjM1JmFuZXQ9JmFwbGE9JmFkZXY9uBP___________8BsBQDwBWBgIBA0BUB2BUB4hYCCAGAFwGKFxgIAxgBIAEoATABOAFAAUgBUAFYAWACaAGgFwGpF9MSDdspI3WKuhcGKAAwADgB0BgB8BgBwhkCCAE&ase=2&gclid=EAIaIQobChMI84H-krCxlQMVCxl1AR0KlyOMEAEYASAAEgLzl_D_BwE&num=1&cid=CAASFeRoGI1UtusV_bdLQTUf6aDurOysDw&ad_cpn=%5BCPN%5D&sig=AOD64_0iOXL4LDYY_unqeCMMPcwBXzEC0g&ctype=110&video_id=gBB2qUi5V7Q&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=0&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+                    - link "DEKRA Akademie – Dein Partner für sichere und anerkannte Qualifikationen" [ref=e180]:
+                      - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CLVj1LPpEavO7Nouy1LsPiq6O4QjyquKEiAHE4ZXW6BSwkB8QASAAYJWCgICwB4IBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAHUy6roA6kCuDVKgxsfsz6oAwTIAwqqBMkCT9BXPeeq8VShDaJEb1vzVqN8F5oJ-MblLYNUd9heKnwqCQnDVThYDNxkqEr5dR51t36mt_FFTLAMKRcgRsYNqtMImhWhxQAenSC4ZkcU7fSXdNYPzefZdRy7cB7qCu_-T2Z1VOfilnpoMnXR2YxA3Hh6JDbn2vZekgjpuvYBKrELIu-8bGp41f0xghRHejYbZwDMzOUQ_4keDURLh1xLdoSJRnqsuf_LhmyiE8SrOtMWYbnjjpdtIFZljkY4IqlszjzK4CAJh3ZbDKTlmWVfeoYPUBasILFd9yiMZDGFfyBjtFNfAKY5Ucz38x1smlf5wDq3EaYcX832YAW5-hCYAwdfNRtL2gNakmPjJYs9q_TSowyVkzgFfj4s3kCd9EyWDnOJ8-5Pa1ppOg6Wp1kOwDkDz5j2ubdhyWhEbcmHJFCxP5jOoV4y9MeIBe_SkchVkgUHCBN4uMO1GKAGoQGAB5S01ReQBwSoB_LAsQKoB7jEsQKoB-G2sQKoB6XPsQKoB-edsQKoB-idsQKoB--1sQKoB_C1sQKoB_nTsQKoB8nasQKoB6ngsQKoB4QIqAem1LECqAeo0huoB7YHqAex3BuoB7CbsQKoB66xsQKoB_2ysQKoB8jPsQKoB8nPsQKoB83HsQKoB_HRsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5risQKoB5visQKoB53XsQKoB53UsQKoB4HGG6gH_K-xAqgH1c4bqAe-2bECqAerxRuoB5zcG6gHt6GxAqgH1amxAqgH59qxAqgH3rWxAqgH6rGxAqgHvrexAqgHmbWxAqgHhcGxAqgH66WxAqgHyqmxApIIC2dCQjJxVWk1VjdRqAgB0gg8CIjFkHgQARheMgjzgoGAgICgDDoVgMCYiICIgAaAgICAgJCAgAKqgIAQSNmg0jVQFFiQ7_2SsLGVA2ABmgkeaHR0cHM6Ly93d3cuZGVrcmEtYWthZGVtaWUuZGUvsQl2PAgj3JSJqcgJF8gJjwHICcIBuguBAQgDEAUYBCAHKAEwHEABSABQAVh9YABoAHABiAEAmAEBogFNCkUIASgB2rgEPTI7OjkKNwoGCO7zk9IGKD-YF9mg0jXCJAjxgoGAgICgDMokFYDAmIiAiIAGgICAgICQgIACqoCAEMI7AQKoAgLYAgTYAQGAAgGIAgW6AwV2aWdycdALEuALAdIMAhAB2gwlCgoQsKPhuZrQ7KhjEgIBAxoNGO_SkchVIIS32MjDBUABSgIQH5oNARKqDQJERcgNAdINngJodHRwczovL2F4ZnpmcC5kZWtyYS1ha2FkZW1pZS5kZS9UcmFja0l0P3RpZD0xMDI5MzcxMEM1MTQ2UFBDJmhjX3VybD1odHRwcyUzQSUyRiUyRnd3dy5kZWtyYS1ha2FkZW1pZS5kZSUyRiUzRmFjYyUzRGZrJTI2Z2FkX3NvdXJjZSUzRDIlMjZnYWRfY2FtcGFpZ25pZCUzRDIyOTY4Mjk3ODM5JmRldj1jJmhfZXh0PTA6MDoyMjk2ODI5NzgzOToxODk5MzYzMTExNzI6OiZwb3M9JmFmZWU9JmFtYXQ9JmFkaWQ9NzcyMjA0NjkzODQ5JmFsb2NwPTIwMjM1JmFsb2NpPTIwMjM1JmFuZXQ9JmFwbGE9JmFkZXY9uBP___________8BsBQDwBWBgIBA0BUB2BUB4hYCCAGAFwGKFxgIAxgBIAEoATABOAFAAUgBUAFYAWACaAGgFwGpF9MSDdspI3WKuhcGKAAwADgB0BgB8BgBwhkCCAE&ase=2&gclid=EAIaIQobChMI84H-krCxlQMVCxl1AR0KlyOMEAEYASAAEgLzl_D_BwE&num=1&cid=CAASFeRoGI1UtusV_bdLQTUf6aDurOysDw&ad_cpn=%5BCPN%5D&sig=AOD64_0iOXL4LDYY_unqeCMMPcwBXzEC0g&ctype=110&video_id=gBB2qUi5V7Q&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=7&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+                    - generic [ref=e181]:
+                      - button "DEKRA Akademie" [ref=e185]
+                      - generic [ref=e189]:
+                        - generic [ref=e190]: Sponsored
+                        - text: ·
+                      - generic [ref=e192]: DEKRA Akademie
+                  - button "My Ad Center" [ref=e195]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - img
+                - generic [ref=e201]:
+                  - link "Watch" [ref=e204]:
+                    - /url: /watch?v=gBB2qUi5V7Q
+                    - generic: Watch
+                  - link "Book now" [ref=e210]:
+                    - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CLVj1LPpEavO7Nouy1LsPiq6O4QjyquKEiAHE4ZXW6BSwkB8QASAAYJWCgICwB4IBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAHUy6roA6kCuDVKgxsfsz6oAwTIAwqqBMkCT9BXPeeq8VShDaJEb1vzVqN8F5oJ-MblLYNUd9heKnwqCQnDVThYDNxkqEr5dR51t36mt_FFTLAMKRcgRsYNqtMImhWhxQAenSC4ZkcU7fSXdNYPzefZdRy7cB7qCu_-T2Z1VOfilnpoMnXR2YxA3Hh6JDbn2vZekgjpuvYBKrELIu-8bGp41f0xghRHejYbZwDMzOUQ_4keDURLh1xLdoSJRnqsuf_LhmyiE8SrOtMWYbnjjpdtIFZljkY4IqlszjzK4CAJh3ZbDKTlmWVfeoYPUBasILFd9yiMZDGFfyBjtFNfAKY5Ucz38x1smlf5wDq3EaYcX832YAW5-hCYAwdfNRtL2gNakmPjJYs9q_TSowyVkzgFfj4s3kCd9EyWDnOJ8-5Pa1ppOg6Wp1kOwDkDz5j2ubdhyWhEbcmHJFCxP5jOoV4y9MeIBe_SkchVkgUHCBN4uMO1GKAGoQGAB5S01ReQBwSoB_LAsQKoB7jEsQKoB-G2sQKoB6XPsQKoB-edsQKoB-idsQKoB--1sQKoB_C1sQKoB_nTsQKoB8nasQKoB6ngsQKoB4QIqAem1LECqAeo0huoB7YHqAex3BuoB7CbsQKoB66xsQKoB_2ysQKoB8jPsQKoB8nPsQKoB83HsQKoB_HRsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5risQKoB5visQKoB53XsQKoB53UsQKoB4HGG6gH_K-xAqgH1c4bqAe-2bECqAerxRuoB5zcG6gHt6GxAqgH1amxAqgH59qxAqgH3rWxAqgH6rGxAqgHvrexAqgHmbWxAqgHhcGxAqgH66WxAqgHyqmxApIIC2dCQjJxVWk1VjdRqAgB0gg8CIjFkHgQARheMgjzgoGAgICgDDoVgMCYiICIgAaAgICAgJCAgAKqgIAQSNmg0jVQFFiQ7_2SsLGVA2ABmgkeaHR0cHM6Ly93d3cuZGVrcmEtYWthZGVtaWUuZGUvsQl2PAgj3JSJqcgJF8gJjwHICcIBuguBAQgDEAUYBCAHKAEwHEABSABQAVh9YABoAHABiAEAmAEBogFNCkUIASgB2rgEPTI7OjkKNwoGCO7zk9IGKD-YF9mg0jXCJAjxgoGAgICgDMokFYDAmIiAiIAGgICAgICQgIACqoCAEMI7AQKoAgLYAgTYAQGAAgGIAgW6AwV2aWdycdALEuALAdIMAhAB2gwlCgoQsKPhuZrQ7KhjEgIBAxoNGO_SkchVIIS32MjDBUABSgIQH5oNARKqDQJERcgNAdINngJodHRwczovL2F4ZnpmcC5kZWtyYS1ha2FkZW1pZS5kZS9UcmFja0l0P3RpZD0xMDI5MzcxMEM1MTQ2UFBDJmhjX3VybD1odHRwcyUzQSUyRiUyRnd3dy5kZWtyYS1ha2FkZW1pZS5kZSUyRiUzRmFjYyUzRGZrJTI2Z2FkX3NvdXJjZSUzRDIlMjZnYWRfY2FtcGFpZ25pZCUzRDIyOTY4Mjk3ODM5JmRldj1jJmhfZXh0PTA6MDoyMjk2ODI5NzgzOToxODk5MzYzMTExNzI6OiZwb3M9JmFmZWU9JmFtYXQ9JmFkaWQ9NzcyMjA0NjkzODQ5JmFsb2NwPTIwMjM1JmFsb2NpPTIwMjM1JmFuZXQ9JmFwbGE9JmFkZXY9uBP___________8BsBQDwBWBgIBA0BUB2BUB4hYCCAGAFwGKFxgIAxgBIAEoATABOAFAAUgBUAFYAWACaAGgFwGpF9MSDdspI3WKuhcGKAAwADgB0BgB8BgBwhkCCAE&ase=2&gclid=EAIaIQobChMI84H-krCxlQMVCxl1AR0KlyOMEAEYASAAEgLzl_D_BwE&num=1&cid=CAASFeRoGI1UtusV_bdLQTUf6aDurOysDw&ad_cpn=%5BCPN%5D&sig=AOD64_0iOXL4LDYY_unqeCMMPcwBXzEC0g&ctype=110&video_id=gBB2qUi5V7Q&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=8&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+                    - generic: Book now
+            - generic [ref=e215]:
+              - link [ref=e217] [cursor=pointer]:
+                - /url: /watch?v=kYEBu6dG2MM&pp=ygUxTGVhcm4gR2VybWFuIEExIGxlc3NvbiBJbSBCw7xybyBPZmZpY2Ugdm9jYWJ1bGFyedIHCQlOCwGHKiGM7w%3D%3D
+                - img [ref=e219]
+                - img [ref=e457]:
+                  - generic [ref=e458]: 9:09
+                - generic:
+                  - generic: Now playing
+                  - generic:
+                    - img
+              - generic [ref=e220] [cursor=pointer]:
+                - generic [ref=e221]:
+                  - generic [ref=e222]:
+                    - heading "A Day in our Office in slow German | Super Easy German 235 9 minutes, 9 seconds" [level=3] [ref=e223]:
+                      - link "A Day in our Office in slow German | Super Easy German 235 9 minutes, 9 seconds" [ref=e224]:
+                        - /url: /watch?v=kYEBu6dG2MM&pp=ygUxTGVhcm4gR2VybWFuIEExIGxlc3NvbiBJbSBCw7xybyBPZmZpY2Ugdm9jYWJ1bGFyedIHCQlOCwGHKiGM7w%3D%3D
+                        - text: A Day in our Office in slow German | Super Easy German 235
+                    - button "Action menu" [ref=e1398]:
+                      - generic [ref=e1401]:
+                        - img
+                  - generic [ref=e227]:
+                    - generic [ref=e228]: 251K views
+                    - generic [ref=e229]: •2 years ago
+                - generic [ref=e230]:
+                  - link "Go to channel Easy German" [ref=e231]:
+                    - /url: /@EasyGerman
+                  - generic [ref=e233]:
+                    - link "Easy German" [ref=e237]:
+                      - /url: /@EasyGerman
+                    - img "Verified" [ref=e242]:
+                      - generic [ref=e1403]:
+                        - img
+                - generic [ref=e244]:
+                  - generic [ref=e245]: "LEARN GERMAN WITH US: JOIN OUR COMMUNITY: https://www.easygerman.org/membership LISTEN TO OUR ..."
+                  - tooltip "tooltip"
+                - generic [ref=e248]:
+                  - generic [ref=e249]:
+                    - generic [ref=e250]:
+                      - generic [ref=e1405]:
+                        - img
+                      - generic [ref=e252]: Summary
+                    - button "Begleitet Kari und Janusch durch ihren Arbeitsalltag bei Easy German. Sie zeigen, wie produktiv sie sind, wie sie Kaffeepausen genießen und wie sie mit typischen Büroherausforderungen umgehen." [ref=e253]
+                    - text: ·
+                  - button "More" [ref=e258]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - img
+            - generic [ref=e262]:
+              - generic [ref=e265]:
+                - img [ref=e267]:
+                  - generic [ref=e1407]:
+                    - img
+                - heading "Shorts" [level=2] [ref=e270]
+              - generic [ref=e272]:
+                - generic [ref=e275]:
+                  - link [ref=e276] [cursor=pointer]:
+                    - /url: /shorts/l32T6xhuOug
+                  - generic [ref=e280] [cursor=pointer]:
+                    - link "Learn German Vocabulary - A1 Beginner German" [ref=e281]:
+                      - /url: /shorts/l32T6xhuOug
+                    - generic [ref=e282]: 177K views
+                  - button "More actions" [ref=e284] [cursor=pointer]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - img
+                - generic [ref=e290]:
+                  - link [ref=e291] [cursor=pointer]:
+                    - /url: /shorts/bkVh9oOs3NQ
+                  - generic [ref=e295] [cursor=pointer]:
+                    - link "Büro Vokabeln | Office Vocabulary | Deutsch Lernen | Learn German | Mit Artikeln |" [ref=e296]:
+                      - /url: /shorts/bkVh9oOs3NQ
+                    - generic [ref=e297]: 586 views
+                  - button "More actions" [ref=e299] [cursor=pointer]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - img
+                - generic [ref=e305]:
+                  - link [ref=e306] [cursor=pointer]:
+                    - /url: /shorts/Aux-ezoJJXw
+                    - img [ref=e311]:
+                      - generic [ref=e312]: New
+                  - generic [ref=e313] [cursor=pointer]:
+                    - link "🇩🇪 Learn German Food Vocabulary | A1 German for Beginners | Essen auf Deutsch 🍎🥖" [ref=e314]:
+                      - /url: /shorts/Aux-ezoJJXw
+                    - generic [ref=e315]: 738 views
+                  - button "More actions" [ref=e317] [cursor=pointer]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - img
+                - generic [ref=e323]:
+                  - link [ref=e324] [cursor=pointer]:
+                    - /url: /shorts/evN-hvZkdqs
+                  - generic [ref=e328] [cursor=pointer]:
+                    - link "Learn German Office Vocabulary 🖇️🖊️ | Office supplies with audio & quiz for A1–A2" [ref=e329]:
+                      - /url: /shorts/evN-hvZkdqs
+                    - generic [ref=e330]: 275 views
+                  - button "More actions" [ref=e332] [cursor=pointer]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - img
+                - generic [ref=e338]:
+                  - link [ref=e339] [cursor=pointer]:
+                    - /url: /shorts/PZ14H_6unnc
+                  - generic [ref=e343] [cursor=pointer]:
+                    - 'link "\"Learn German A1 Fast! 🇩🇪 Easy Words & Fun Practice 🎯\"#germanforbeginners#learngermanfast #germana1" [ref=e344]':
+                      - /url: /shorts/PZ14H_6unnc
+                    - generic [ref=e345]: 2M views
+                  - button "More actions" [ref=e347] [cursor=pointer]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - img
+            - generic [ref=e359] [cursor=pointer]:
+              - link [ref=e360]:
+                - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=ChsopLPpEavO7Nouy1LsPiq6O4QiN0OmOiAGUiuSq9RWwkB8QAiAAYJWCgICwB4IBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAHumu6UAakCuDVKgxsfsz6oAwTIAwqqBMoCT9BXPeeq8VShDaJEb1vzVqN8F5oJ-MblLYNUd9heKnwqCQnDVThYDNxkqEr5dR51t36mt_FFTLAMKRcgRsYNqtMImhWhxQAenSC4ZkcU7fSXdNYPzefZdRy7cB7qCu_-T2Z1VOfilnpoMnXR2YxA3Hh6JDbn2vZekgjpuvYBKrELIu-8bGp41f0xghRHejYbZwDMzOUQ_4keDURLh1xLdoSJRnqsuf_LhmyiE8SrOtMWYbnjjpdtIFZljkY4IqlszjzK4CAJh3ZbDKTlmWVfeoYPUBasILFd9yiMZDGFfyBjtFNfAKY5Ucz38x1smlf5wDq3EaYcX832YAW5-l2dAwdSNRt660sqlmPjFuUqXxY1TjbSK9rAz5slPKZN_s4f_jNRa35mQKFDRhgLg-c0gyHa1x1RkZVhxXziV4qf_UKTP5bYQnRO4lqtiAXix-z4WJIFCAgTeIutouwCoAahAYAH-uSR6wKQBwSoB_LAsQKoB7jEsQKoB-G2sQKoB6XPsQKoB-edsQKoB-idsQKoB--1sQKoB_C1sQKoB_nTsQKoB8nasQKoB6ngsQKoB4QIqAem1LECqAeo0huoB7YHqAex3BuoB7CbsQKoB66xsQKoB_2ysQKoB8jPsQKoB8nPsQKoB83HsQKoB_HRsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5risQKoB5visQKoB53XsQKoB53UsQKoB4HGG6gH_K-xAqgH1c4bqAe-2bECqAerxRuoB5zcG6gHt6GxAqgH1amxAqgH59qxAqgH3rWxAqgH6rGxAqgHvrexAqgHmbWxAqgHhcGxAqgH66WxAqgHyqmxApIIC2o4T09JRUZ2clU4qAgB0gg8CIjFkHgQARheMgjzgoGAgICgDDoVgMCYiICIgAaAgICAgJCAgAKqgIAQSNmg0jVQFFiQ7_2SsLGVA2ABmglAaHR0cHM6Ly93d3cucml0dGFsLmNvbS9kZS1kZS9wcm9kdWN0cy9SaU1hdHJpeC1NaWNyby1EYXRhLUNlbnRlcrEJp1eTvMvihfDICRfICY8ByAnCAZgLAboLgQEIAxAFGAQgBygBMBxAAUgAUAFYfWAAaABwAYgBAJgBAaIBTQpFCAEoAdq4BD0yOzo5CjcKBgju85PSBig_mBfZoNI1wiQI8YKBgICAoAzKJBWAwJiIgIiABoCAgICAkICAAqqAgBDCOwECqAIC2AIE2AEBgAIBiAIFugMFdmlncnHQCxKiDBxqFQoTZGUudTJkLmEyZS52My5lcGxhbngAiAEA0gwCEAHaDCYKCxDgwNab4dzo2bEBEgIBAxoNGOLH7PhYIIac-JLYBUABSgIQH5oNARKqDQJERcgNAdIN4AJodHRwczovL3d3dy5yaXR0YWwuY29tL2RlLWRlL3Byb2R1Y3RzL1JpTWF0cml4LU1pY3JvLURhdGEtQ2VudGVyP3V0bV90ZXJtPSZ1dG1fY2FtcGFpZ249REUrJTdDK0FMV0FZUy1PTislN0MrRC1HRU4rJTdDK0lUJnV0bV9zb3VyY2U9YWR3b3JkcyZ1dG1fbWVkaXVtPXBwYyZoc2FfYWNjPTc4ODUzMTA4MTEmaHNhX2NhbT0yMzg3NTc1NzAyNiZoc2FfZ3JwPTE5NTQ2MDczMDM3NCZoc2FfYWQ9ODA5Nzc5NDU2MDEwJmhzYV9zcmM9JmhzYV90Z3Q9YXVkLTI0ODQ2NzY5MjM5NzYmaHNhX2t3PSZoc2FfbXQ9JmhzYV9uZXQ9YWR3b3JkcyZoc2FfdmVyPTMmZ2FkX3NvdXJjZT0yJmdhZF9jYW1wYWlnbmlkPTIzODc1NzU3MDI2uBP___________8BiBQCsBQDwBWBgIBA0BUB2BUBmBYB4hYCCAGAFwGKFxgIAxgBIAEoATABOAFAAUgBUAFYAWACaAGgFwGpF5Uw_opMtTQUuhcGKAAwADgB0BgB8BgBwhkCCAE&ase=2&gclid=EAIaIQobChMI84H-krCxlQMVCxl1AR0KlyOMEAEYAiAAEgKqivD_BwE&num=2&cid=CAASFeRoGI1UtusV_bdLQTUf6aDurOysDw&ad_cpn=%5BCPN%5D&sig=AOD64_3SCF16Z6C0fzISr6K80kP72fU4xQ&ctype=110&video_id=j8OOIEFvrU8&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=21&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+                - button [ref=e365]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img
+              - generic [ref=e369]:
+                - generic [ref=e370]:
+                  - generic [ref=e371]:
+                    - link "KRITIS-konforme Micro Data Center von Rittal. Perfekt für Datenverarbeitung in Echtzeit." [ref=e374]:
+                      - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=ChsopLPpEavO7Nouy1LsPiq6O4QiN0OmOiAGUiuSq9RWwkB8QAiAAYJWCgICwB4IBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAHumu6UAakCuDVKgxsfsz6oAwTIAwqqBMoCT9BXPeeq8VShDaJEb1vzVqN8F5oJ-MblLYNUd9heKnwqCQnDVThYDNxkqEr5dR51t36mt_FFTLAMKRcgRsYNqtMImhWhxQAenSC4ZkcU7fSXdNYPzefZdRy7cB7qCu_-T2Z1VOfilnpoMnXR2YxA3Hh6JDbn2vZekgjpuvYBKrELIu-8bGp41f0xghRHejYbZwDMzOUQ_4keDURLh1xLdoSJRnqsuf_LhmyiE8SrOtMWYbnjjpdtIFZljkY4IqlszjzK4CAJh3ZbDKTlmWVfeoYPUBasILFd9yiMZDGFfyBjtFNfAKY5Ucz38x1smlf5wDq3EaYcX832YAW5-l2dAwdSNRt660sqlmPjFuUqXxY1TjbSK9rAz5slPKZN_s4f_jNRa35mQKFDRhgLg-c0gyHa1x1RkZVhxXziV4qf_UKTP5bYQnRO4lqtiAXix-z4WJIFCAgTeIutouwCoAahAYAH-uSR6wKQBwSoB_LAsQKoB7jEsQKoB-G2sQKoB6XPsQKoB-edsQKoB-idsQKoB--1sQKoB_C1sQKoB_nTsQKoB8nasQKoB6ngsQKoB4QIqAem1LECqAeo0huoB7YHqAex3BuoB7CbsQKoB66xsQKoB_2ysQKoB8jPsQKoB8nPsQKoB83HsQKoB_HRsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5risQKoB5visQKoB53XsQKoB53UsQKoB4HGG6gH_K-xAqgH1c4bqAe-2bECqAerxRuoB5zcG6gHt6GxAqgH1amxAqgH59qxAqgH3rWxAqgH6rGxAqgHvrexAqgHmbWxAqgHhcGxAqgH66WxAqgHyqmxApIIC2o4T09JRUZ2clU4qAgB0gg8CIjFkHgQARheMgjzgoGAgICgDDoVgMCYiICIgAaAgICAgJCAgAKqgIAQSNmg0jVQFFiQ7_2SsLGVA2ABmglAaHR0cHM6Ly93d3cucml0dGFsLmNvbS9kZS1kZS9wcm9kdWN0cy9SaU1hdHJpeC1NaWNyby1EYXRhLUNlbnRlcrEJp1eTvMvihfDICRfICY8ByAnCAZgLAboLgQEIAxAFGAQgBygBMBxAAUgAUAFYfWAAaABwAYgBAJgBAaIBTQpFCAEoAdq4BD0yOzo5CjcKBgju85PSBig_mBfZoNI1wiQI8YKBgICAoAzKJBWAwJiIgIiABoCAgICAkICAAqqAgBDCOwECqAIC2AIE2AEBgAIBiAIFugMFdmlncnHQCxKiDBxqFQoTZGUudTJkLmEyZS52My5lcGxhbngAiAEA0gwCEAHaDCYKCxDgwNab4dzo2bEBEgIBAxoNGOLH7PhYIIac-JLYBUABSgIQH5oNARKqDQJERcgNAdIN4AJodHRwczovL3d3dy5yaXR0YWwuY29tL2RlLWRlL3Byb2R1Y3RzL1JpTWF0cml4LU1pY3JvLURhdGEtQ2VudGVyP3V0bV90ZXJtPSZ1dG1fY2FtcGFpZ249REUrJTdDK0FMV0FZUy1PTislN0MrRC1HRU4rJTdDK0lUJnV0bV9zb3VyY2U9YWR3b3JkcyZ1dG1fbWVkaXVtPXBwYyZoc2FfYWNjPTc4ODUzMTA4MTEmaHNhX2NhbT0yMzg3NTc1NzAyNiZoc2FfZ3JwPTE5NTQ2MDczMDM3NCZoc2FfYWQ9ODA5Nzc5NDU2MDEwJmhzYV9zcmM9JmhzYV90Z3Q9YXVkLTI0ODQ2NzY5MjM5NzYmaHNhX2t3PSZoc2FfbXQ9JmhzYV9uZXQ9YWR3b3JkcyZoc2FfdmVyPTMmZ2FkX3NvdXJjZT0yJmdhZF9jYW1wYWlnbmlkPTIzODc1NzU3MDI2uBP___________8BiBQCsBQDwBWBgIBA0BUB2BUBmBYB4hYCCAGAFwGKFxgIAxgBIAEoATABOAFAAUgBUAFYAWACaAGgFwGpF5Uw_opMtTQUuhcGKAAwADgB0BgB8BgBwhkCCAE&ase=2&gclid=EAIaIQobChMI84H-krCxlQMVCxl1AR0KlyOMEAEYAiAAEgKqivD_BwE&num=2&cid=CAASFeRoGI1UtusV_bdLQTUf6aDurOysDw&ad_cpn=%5BCPN%5D&sig=AOD64_3SCF16Z6C0fzISr6K80kP72fU4xQ&ctype=110&video_id=j8OOIEFvrU8&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=0&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+                    - 'link "Micro Data Center als IT‑Safe: Ideal für KRITIS, Behörden & medizinische Systeme." [ref=e377]':
+                      - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=ChsopLPpEavO7Nouy1LsPiq6O4QiN0OmOiAGUiuSq9RWwkB8QAiAAYJWCgICwB4IBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAHumu6UAakCuDVKgxsfsz6oAwTIAwqqBMoCT9BXPeeq8VShDaJEb1vzVqN8F5oJ-MblLYNUd9heKnwqCQnDVThYDNxkqEr5dR51t36mt_FFTLAMKRcgRsYNqtMImhWhxQAenSC4ZkcU7fSXdNYPzefZdRy7cB7qCu_-T2Z1VOfilnpoMnXR2YxA3Hh6JDbn2vZekgjpuvYBKrELIu-8bGp41f0xghRHejYbZwDMzOUQ_4keDURLh1xLdoSJRnqsuf_LhmyiE8SrOtMWYbnjjpdtIFZljkY4IqlszjzK4CAJh3ZbDKTlmWVfeoYPUBasILFd9yiMZDGFfyBjtFNfAKY5Ucz38x1smlf5wDq3EaYcX832YAW5-l2dAwdSNRt660sqlmPjFuUqXxY1TjbSK9rAz5slPKZN_s4f_jNRa35mQKFDRhgLg-c0gyHa1x1RkZVhxXziV4qf_UKTP5bYQnRO4lqtiAXix-z4WJIFCAgTeIutouwCoAahAYAH-uSR6wKQBwSoB_LAsQKoB7jEsQKoB-G2sQKoB6XPsQKoB-edsQKoB-idsQKoB--1sQKoB_C1sQKoB_nTsQKoB8nasQKoB6ngsQKoB4QIqAem1LECqAeo0huoB7YHqAex3BuoB7CbsQKoB66xsQKoB_2ysQKoB8jPsQKoB8nPsQKoB83HsQKoB_HRsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5risQKoB5visQKoB53XsQKoB53UsQKoB4HGG6gH_K-xAqgH1c4bqAe-2bECqAerxRuoB5zcG6gHt6GxAqgH1amxAqgH59qxAqgH3rWxAqgH6rGxAqgHvrexAqgHmbWxAqgHhcGxAqgH66WxAqgHyqmxApIIC2o4T09JRUZ2clU4qAgB0gg8CIjFkHgQARheMgjzgoGAgICgDDoVgMCYiICIgAaAgICAgJCAgAKqgIAQSNmg0jVQFFiQ7_2SsLGVA2ABmglAaHR0cHM6Ly93d3cucml0dGFsLmNvbS9kZS1kZS9wcm9kdWN0cy9SaU1hdHJpeC1NaWNyby1EYXRhLUNlbnRlcrEJp1eTvMvihfDICRfICY8ByAnCAZgLAboLgQEIAxAFGAQgBygBMBxAAUgAUAFYfWAAaABwAYgBAJgBAaIBTQpFCAEoAdq4BD0yOzo5CjcKBgju85PSBig_mBfZoNI1wiQI8YKBgICAoAzKJBWAwJiIgIiABoCAgICAkICAAqqAgBDCOwECqAIC2AIE2AEBgAIBiAIFugMFdmlncnHQCxKiDBxqFQoTZGUudTJkLmEyZS52My5lcGxhbngAiAEA0gwCEAHaDCYKCxDgwNab4dzo2bEBEgIBAxoNGOLH7PhYIIac-JLYBUABSgIQH5oNARKqDQJERcgNAdIN4AJodHRwczovL3d3dy5yaXR0YWwuY29tL2RlLWRlL3Byb2R1Y3RzL1JpTWF0cml4LU1pY3JvLURhdGEtQ2VudGVyP3V0bV90ZXJtPSZ1dG1fY2FtcGFpZ249REUrJTdDK0FMV0FZUy1PTislN0MrRC1HRU4rJTdDK0lUJnV0bV9zb3VyY2U9YWR3b3JkcyZ1dG1fbWVkaXVtPXBwYyZoc2FfYWNjPTc4ODUzMTA4MTEmaHNhX2NhbT0yMzg3NTc1NzAyNiZoc2FfZ3JwPTE5NTQ2MDczMDM3NCZoc2FfYWQ9ODA5Nzc5NDU2MDEwJmhzYV9zcmM9JmhzYV90Z3Q9YXVkLTI0ODQ2NzY5MjM5NzYmaHNhX2t3PSZoc2FfbXQ9JmhzYV9uZXQ9YWR3b3JkcyZoc2FfdmVyPTMmZ2FkX3NvdXJjZT0yJmdhZF9jYW1wYWlnbmlkPTIzODc1NzU3MDI2uBP___________8BiBQCsBQDwBWBgIBA0BUB2BUBmBYB4hYCCAGAFwGKFxgIAxgBIAEoATABOAFAAUgBUAFYAWACaAGgFwGpF5Uw_opMtTQUuhcGKAAwADgB0BgB8BgBwhkCCAE&ase=2&gclid=EAIaIQobChMI84H-krCxlQMVCxl1AR0KlyOMEAEYAiAAEgKqivD_BwE&num=2&cid=CAASFeRoGI1UtusV_bdLQTUf6aDurOysDw&ad_cpn=%5BCPN%5D&sig=AOD64_3SCF16Z6C0fzISr6K80kP72fU4xQ&ctype=110&video_id=j8OOIEFvrU8&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=7&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+                    - generic [ref=e378]:
+                      - button "Rittal Germany" [ref=e382]
+                      - generic [ref=e386]:
+                        - generic [ref=e387]: Sponsored
+                        - text: ·
+                      - generic [ref=e389]: Rittal GmbH & Co. KG
+                  - button "My Ad Center" [ref=e392]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - img
+                - generic [ref=e398]:
+                  - link "Watch" [ref=e401]:
+                    - /url: /watch?v=j8OOIEFvrU8
+                    - generic: Watch
+                  - link "Visit site" [ref=e407]:
+                    - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=ChsopLPpEavO7Nouy1LsPiq6O4QiN0OmOiAGUiuSq9RWwkB8QAiAAYJWCgICwB4IBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAHumu6UAakCuDVKgxsfsz6oAwTIAwqqBMoCT9BXPeeq8VShDaJEb1vzVqN8F5oJ-MblLYNUd9heKnwqCQnDVThYDNxkqEr5dR51t36mt_FFTLAMKRcgRsYNqtMImhWhxQAenSC4ZkcU7fSXdNYPzefZdRy7cB7qCu_-T2Z1VOfilnpoMnXR2YxA3Hh6JDbn2vZekgjpuvYBKrELIu-8bGp41f0xghRHejYbZwDMzOUQ_4keDURLh1xLdoSJRnqsuf_LhmyiE8SrOtMWYbnjjpdtIFZljkY4IqlszjzK4CAJh3ZbDKTlmWVfeoYPUBasILFd9yiMZDGFfyBjtFNfAKY5Ucz38x1smlf5wDq3EaYcX832YAW5-l2dAwdSNRt660sqlmPjFuUqXxY1TjbSK9rAz5slPKZN_s4f_jNRa35mQKFDRhgLg-c0gyHa1x1RkZVhxXziV4qf_UKTP5bYQnRO4lqtiAXix-z4WJIFCAgTeIutouwCoAahAYAH-uSR6wKQBwSoB_LAsQKoB7jEsQKoB-G2sQKoB6XPsQKoB-edsQKoB-idsQKoB--1sQKoB_C1sQKoB_nTsQKoB8nasQKoB6ngsQKoB4QIqAem1LECqAeo0huoB7YHqAex3BuoB7CbsQKoB66xsQKoB_2ysQKoB8jPsQKoB8nPsQKoB83HsQKoB_HRsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5risQKoB5visQKoB53XsQKoB53UsQKoB4HGG6gH_K-xAqgH1c4bqAe-2bECqAerxRuoB5zcG6gHt6GxAqgH1amxAqgH59qxAqgH3rWxAqgH6rGxAqgHvrexAqgHmbWxAqgHhcGxAqgH66WxAqgHyqmxApIIC2o4T09JRUZ2clU4qAgB0gg8CIjFkHgQARheMgjzgoGAgICgDDoVgMCYiICIgAaAgICAgJCAgAKqgIAQSNmg0jVQFFiQ7_2SsLGVA2ABmglAaHR0cHM6Ly93d3cucml0dGFsLmNvbS9kZS1kZS9wcm9kdWN0cy9SaU1hdHJpeC1NaWNyby1EYXRhLUNlbnRlcrEJp1eTvMvihfDICRfICY8ByAnCAZgLAboLgQEIAxAFGAQgBygBMBxAAUgAUAFYfWAAaABwAYgBAJgBAaIBTQpFCAEoAdq4BD0yOzo5CjcKBgju85PSBig_mBfZoNI1wiQI8YKBgICAoAzKJBWAwJiIgIiABoCAgICAkICAAqqAgBDCOwECqAIC2AIE2AEBgAIBiAIFugMFdmlncnHQCxKiDBxqFQoTZGUudTJkLmEyZS52My5lcGxhbngAiAEA0gwCEAHaDCYKCxDgwNab4dzo2bEBEgIBAxoNGOLH7PhYIIac-JLYBUABSgIQH5oNARKqDQJERcgNAdIN4AJodHRwczovL3d3dy5yaXR0YWwuY29tL2RlLWRlL3Byb2R1Y3RzL1JpTWF0cml4LU1pY3JvLURhdGEtQ2VudGVyP3V0bV90ZXJtPSZ1dG1fY2FtcGFpZ249REUrJTdDK0FMV0FZUy1PTislN0MrRC1HRU4rJTdDK0lUJnV0bV9zb3VyY2U9YWR3b3JkcyZ1dG1fbWVkaXVtPXBwYyZoc2FfYWNjPTc4ODUzMTA4MTEmaHNhX2NhbT0yMzg3NTc1NzAyNiZoc2FfZ3JwPTE5NTQ2MDczMDM3NCZoc2FfYWQ9ODA5Nzc5NDU2MDEwJmhzYV9zcmM9JmhzYV90Z3Q9YXVkLTI0ODQ2NzY5MjM5NzYmaHNhX2t3PSZoc2FfbXQ9JmhzYV9uZXQ9YWR3b3JkcyZoc2FfdmVyPTMmZ2FkX3NvdXJjZT0yJmdhZF9jYW1wYWlnbmlkPTIzODc1NzU3MDI2uBP___________8BiBQCsBQDwBWBgIBA0BUB2BUBmBYB4hYCCAGAFwGKFxgIAxgBIAEoATABOAFAAUgBUAFYAWACaAGgFwGpF5Uw_opMtTQUuhcGKAAwADgB0BgB8BgBwhkCCAE&ase=2&gclid=EAIaIQobChMI84H-krCxlQMVCxl1AR0KlyOMEAEYAiAAEgKqivD_BwE&num=2&cid=CAASFeRoGI1UtusV_bdLQTUf6aDurOysDw&ad_cpn=%5BCPN%5D&sig=AOD64_3SCF16Z6C0fzISr6K80kP72fU4xQ&ctype=110&video_id=j8OOIEFvrU8&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=8&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+                    - generic: Visit site
+            - generic [ref=e460]:
+              - link [ref=e462] [cursor=pointer]:
+                - /url: /@LearnGermanOriginal
+              - generic [ref=e465]:
+                - link "Learn German Verified @LearnGermanOriginal•2.13M subscribers Welcome to LearnGerman, your go-to destination for mastering the German language. Join us and embark on an exciting journey ..." [ref=e466] [cursor=pointer]:
+                  - /url: /@LearnGermanOriginal
+                  - generic [ref=e467]:
+                    - generic [ref=e468]:
+                      - generic [ref=e471]: Learn German
+                      - img "Verified" [ref=e476]:
+                        - generic [ref=e1409]:
+                          - img
+                    - generic [ref=e478]: "@LearnGermanOriginal•2.13M subscribers"
+                    - generic [ref=e479]: Welcome to LearnGerman, your go-to destination for mastering the German language. Join us and embark on an exciting journey ...
+                - link "Subscribe" [ref=e484] [cursor=pointer]:
+                  - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fresults%253Fsearch_query%253DLearn%252BGerman%252BA1%252Blesson%252BIm%252BB%2525C3%2525BCro%252BOffice%252Bvocabulary%26continue_action%3DQUFFLUhqbDliQVhXbU11WlI3TG9fVUZiQ3I0bXpyckoyd3xBQ3Jtc0tuLWtycHlLMEM2OFJxS1FpQmpmUWoyVE9NYkluM1RDWGFnMjZ3TE91dGZFN21tdnJTQ0RlX1hPcFRNb1ZtUkZZTEdtaC05LU1QUkJrOGg5dWFtX0VPMEltVzZ2aXBEVEZXTlpHSVR2Y2FnbEZCSWktbEx5TS03VTIzVjlWSmZvam1QR1VFWUlKZmlRX1JVc0JxYjNTSkZKOE1sUnZfYkQtdllVRUNxMUVQaUtUU3ZWVWlyNWI2ZzQ0MzkzcE5GTk1teElBemk&hl=en
+                  - generic: Subscribe
+            - generic [ref=e489]:
+              - link [ref=e491] [cursor=pointer]:
+                - /url: /watch?v=kbn-2JYKdKU&pp=ygUxTGVhcm4gR2VybWFuIEExIGxlc3NvbiBJbSBCw7xybyBPZmZpY2Ugdm9jYWJ1bGFyedIHCQlOCwGHKiGM7w%3D%3D
+              - generic [ref=e493] [cursor=pointer]:
+                - generic [ref=e494]:
+                  - generic [ref=e495]:
+                    - heading "Learn German - Vocabulary - in the Office 8 minutes, 12 seconds" [level=3] [ref=e496]:
+                      - link "Learn German - Vocabulary - in the Office 8 minutes, 12 seconds" [ref=e497]:
+                        - /url: /watch?v=kbn-2JYKdKU&pp=ygUxTGVhcm4gR2VybWFuIEExIGxlc3NvbiBJbSBCw7xybyBPZmZpY2Ugdm9jYWJ1bGFyedIHCQlOCwGHKiGM7w%3D%3D
+                        - text: Learn German - Vocabulary - in the Office
+                    - button "Action menu" [ref=e1413]:
+                      - generic [ref=e1416]:
+                        - img
+                  - generic [ref=e500]:
+                    - generic [ref=e501]: 27K views
+                    - generic [ref=e502]: •3 years ago
+                - generic [ref=e503]:
+                  - link "Go to channel Learn German with Pictures" [ref=e504]:
+                    - /url: /@learngermanwithpictures
+                  - link "Learn German with Pictures" [ref=e509]:
+                    - /url: /@learngermanwithpictures
+                - generic [ref=e510]:
+                  - text: This video is all about the German vocabulary used in the office. The vocabulary includes furniture such as desks, filing ...
+                  - tooltip "tooltip"
+                - generic [ref=e512]:
+                  - img "4K" [ref=e515]:
+                    - generic [ref=e516]: 4K
+                  - img "Closed captions" [ref=e519]:
+                    - generic [ref=e520]: CC
+            - generic [ref=e529] [cursor=pointer]:
+              - link [ref=e530]:
+                - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CXiq7LPpEavO7Nouy1LsPiq6O4QiS7ef5hwGc1ZndhBZkEAMgAGCVgoCAsAeCARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MaAB0ruZzAOpAisUras0OrY-qAMEyAMKqgTJAk_QVz3nqvFUoQ2iRG9b81ajfBeaCfjG5S2DVHfYXip8KgkJw1U4WAzcZKhK-XUedbd-prfxRUywDCkXIEbGDarTCJoVocUAHp0guGZHFO30l3TWD83n2XUcu3Ae6grv_k9mdVTn4pZ6aDJ10dmMQNx4eiQ259r2XpII6br2ASqxCyLvvGxqeNX9MYIUR3o2G2cAzMzlEP-JHg1ES4dcS3aEiUZ6rLn_y4ZsohPEqzrTFmG5446XbSBWZY5GOCKpbM48yuAgCYd2Wwyk5ZllX3qGD1AWrCCxXfcojGQxhX8gY7RTXwCmOVHM9_MdbJpX-cA6txGmHF_N9mAFufoblQMHWzUbE7sBAZNj4yveYIH00qMMlZM4Bdh1v95AnfRMliNBh_PuT2tHOTEamacgAdQmA8-r97m3YcloPWLdmCRQsT-YzrwOOeDIiAXeyp2hWZIFBwgTeLaW6DKgBqEBgAeWxOYzkAcEqAfywLECqAe4xLECqAfhtrECqAelz7ECqAfnnbECqAfonbECqAfvtbECqAfwtbECqAf507ECqAfJ2rECqAep4LECqAeECKgHptSxAqgHqNIbqAe2B6gHsdwbqAewm7ECqAeusbECqAf9srECqAfIz7ECqAfJz7ECqAfNx7ECqAfx0bECqAf81bECqAf71bECqAeM1rECqAeL1rECqAea4rECqAeb4rECqAed17ECqAed1LECqAeBxhuoB_yvsQKoB9XOG6gHvtmxAqgHq8UbqAec3BuoB7ehsQKoB9WpsQKoB-fasQKoB961sQKoB-qxsQKoB763sQKoB5m1sQKoB4XBsQKoB-ulsQKoB8qpsQKSCAthLWUxZ3loenBINKgIAdIIPAiIxZB4EAEYXjII84KBgICAoAw6FYDAmIiAiIAGgICAgICQgIACqoCAEEjZoNI1UBRYkO_9krCxlQNgAZoJMGh0dHBzOi8vd3d3LmNvcm5lcnN0b25lb25kZW1hbmQuY29tL2RlL3BsYXRmb3JtL7EJr0YXXd0Uue7ICRfICY8ByAnCAcgJlwKYCwG6C4EBCAMQBRgEIAcoATAcQAFIAFABWH1gAGgAcAGIAQCYAQGiAU0KRQgBKAHauAQ9Mjs6OQo3CgYI7vOT0gYoP5gX2aDSNcIkCPGCgYCAgKAMyiQVgMCYiICIgAaAgICAgJCAgAKqgIAQwjsBAqgCAtgCBNgBAYACAYgCBboDBXZpZ3Jx0AsS0gwCEAHaDCYKCxCAy43KkLD0n7oBEgIBAxoNGN7KnaFZIKTz5JGABkABSgIQH5oNARKqDQJERcgNAdINjANodHRwczovL3d3dy5jb3JuZXJzdG9uZW9uZGVtYW5kLmNvbS9kZS9wbGF0Zm9ybS8_dXRtX2NhbXBhaWduPUxHRU5fYWR3b3Jkcy1HZXJtYW55LWxlYXJuaW5nJnV0bV9tZWRpdW09Y3BjJnV0bV9zb3VyY2U9Z29vZ2xlJnV0bV9jb250ZW50PXJlcXVlc3QtZGVtbyZ1dG1fdGVybT0mdXRtX3Rlcm09JnV0bV9jYW1wYWlnbj0mdXRtX3NvdXJjZT1nb29nbGUmdXRtX21lZGl1bT1jcGMmaHNhX2FjYz02MzM0NTA3MTIwJmhzYV9jYW09MjM5NjA0NDYzMDImaHNhX2dycD0yMDYxOTU3MzQ5NDgmaHNhX2FkPTgxMzc4MTE2MTk5NCZoc2Ffc3JjPSZoc2FfdGd0PSZoc2Ffa3c9JmhzYV9tdD0maHNhX25ldD1hZHdvcmRzJmhzYV92ZXI9MyZnYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjM5NjA0NDYzMDK4E____________wGwFAPAFYGAgEDQFQHYFQHiFgIIAYAXAYoXGAgDGAEgASgBMAE4AUABSAFQAVgBYAJoAaAXAakXX50fDWHdyTq6FwYoADAAOAHQGAHwGAHCGQIIAQ&ase=2&gclid=EAIaIQobChMI84H-krCxlQMVCxl1AR0KlyOMEAEYAyAAEgJYCfD_BwE&num=3&cid=CAASFeRoGI1UtusV_bdLQTUf6aDurOysDw&ad_cpn=%5BCPN%5D&sig=AOD64_3l4r0Pho5dNFxbk0GMinPkHKNvVg&ctype=110&video_id=a-e1gyhzpH4&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=21&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+                - button [ref=e535]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img
+              - generic [ref=e539]:
+                - generic [ref=e540]:
+                  - generic [ref=e541]:
+                    - link "Die Intelligence-Plattform für Workforce-Readiness. Offen, agentisch und sicher." [ref=e544]:
+                      - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CXiq7LPpEavO7Nouy1LsPiq6O4QiS7ef5hwGc1ZndhBZkEAMgAGCVgoCAsAeCARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MaAB0ruZzAOpAisUras0OrY-qAMEyAMKqgTJAk_QVz3nqvFUoQ2iRG9b81ajfBeaCfjG5S2DVHfYXip8KgkJw1U4WAzcZKhK-XUedbd-prfxRUywDCkXIEbGDarTCJoVocUAHp0guGZHFO30l3TWD83n2XUcu3Ae6grv_k9mdVTn4pZ6aDJ10dmMQNx4eiQ259r2XpII6br2ASqxCyLvvGxqeNX9MYIUR3o2G2cAzMzlEP-JHg1ES4dcS3aEiUZ6rLn_y4ZsohPEqzrTFmG5446XbSBWZY5GOCKpbM48yuAgCYd2Wwyk5ZllX3qGD1AWrCCxXfcojGQxhX8gY7RTXwCmOVHM9_MdbJpX-cA6txGmHF_N9mAFufoblQMHWzUbE7sBAZNj4yveYIH00qMMlZM4Bdh1v95AnfRMliNBh_PuT2tHOTEamacgAdQmA8-r97m3YcloPWLdmCRQsT-YzrwOOeDIiAXeyp2hWZIFBwgTeLaW6DKgBqEBgAeWxOYzkAcEqAfywLECqAe4xLECqAfhtrECqAelz7ECqAfnnbECqAfonbECqAfvtbECqAfwtbECqAf507ECqAfJ2rECqAep4LECqAeECKgHptSxAqgHqNIbqAe2B6gHsdwbqAewm7ECqAeusbECqAf9srECqAfIz7ECqAfJz7ECqAfNx7ECqAfx0bECqAf81bECqAf71bECqAeM1rECqAeL1rECqAea4rECqAeb4rECqAed17ECqAed1LECqAeBxhuoB_yvsQKoB9XOG6gHvtmxAqgHq8UbqAec3BuoB7ehsQKoB9WpsQKoB-fasQKoB961sQKoB-qxsQKoB763sQKoB5m1sQKoB4XBsQKoB-ulsQKoB8qpsQKSCAthLWUxZ3loenBINKgIAdIIPAiIxZB4EAEYXjII84KBgICAoAw6FYDAmIiAiIAGgICAgICQgIACqoCAEEjZoNI1UBRYkO_9krCxlQNgAZoJMGh0dHBzOi8vd3d3LmNvcm5lcnN0b25lb25kZW1hbmQuY29tL2RlL3BsYXRmb3JtL7EJr0YXXd0Uue7ICRfICY8ByAnCAcgJlwKYCwG6C4EBCAMQBRgEIAcoATAcQAFIAFABWH1gAGgAcAGIAQCYAQGiAU0KRQgBKAHauAQ9Mjs6OQo3CgYI7vOT0gYoP5gX2aDSNcIkCPGCgYCAgKAMyiQVgMCYiICIgAaAgICAgJCAgAKqgIAQwjsBAqgCAtgCBNgBAYACAYgCBboDBXZpZ3Jx0AsS0gwCEAHaDCYKCxCAy43KkLD0n7oBEgIBAxoNGN7KnaFZIKTz5JGABkABSgIQH5oNARKqDQJERcgNAdINjANodHRwczovL3d3dy5jb3JuZXJzdG9uZW9uZGVtYW5kLmNvbS9kZS9wbGF0Zm9ybS8_dXRtX2NhbXBhaWduPUxHRU5fYWR3b3Jkcy1HZXJtYW55LWxlYXJuaW5nJnV0bV9tZWRpdW09Y3BjJnV0bV9zb3VyY2U9Z29vZ2xlJnV0bV9jb250ZW50PXJlcXVlc3QtZGVtbyZ1dG1fdGVybT0mdXRtX3Rlcm09JnV0bV9jYW1wYWlnbj0mdXRtX3NvdXJjZT1nb29nbGUmdXRtX21lZGl1bT1jcGMmaHNhX2FjYz02MzM0NTA3MTIwJmhzYV9jYW09MjM5NjA0NDYzMDImaHNhX2dycD0yMDYxOTU3MzQ5NDgmaHNhX2FkPTgxMzc4MTE2MTk5NCZoc2Ffc3JjPSZoc2FfdGd0PSZoc2Ffa3c9JmhzYV9tdD0maHNhX25ldD1hZHdvcmRzJmhzYV92ZXI9MyZnYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjM5NjA0NDYzMDK4E____________wGwFAPAFYGAgEDQFQHYFQHiFgIIAYAXAYoXGAgDGAEgASgBMAE4AUABSAFQAVgBYAJoAaAXAakXX50fDWHdyTq6FwYoADAAOAHQGAHwGAHCGQIIAQ&ase=2&gclid=EAIaIQobChMI84H-krCxlQMVCxl1AR0KlyOMEAEYAyAAEgJYCfD_BwE&num=3&cid=CAASFeRoGI1UtusV_bdLQTUf6aDurOysDw&ad_cpn=%5BCPN%5D&sig=AOD64_3l4r0Pho5dNFxbk0GMinPkHKNvVg&ctype=110&video_id=a-e1gyhzpH4&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=0&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+                    - link "Workforce-Readiness mit Skills, Learning und agentischer KI. In 7.000 Unternehmen bewährt." [ref=e547]:
+                      - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CXiq7LPpEavO7Nouy1LsPiq6O4QiS7ef5hwGc1ZndhBZkEAMgAGCVgoCAsAeCARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MaAB0ruZzAOpAisUras0OrY-qAMEyAMKqgTJAk_QVz3nqvFUoQ2iRG9b81ajfBeaCfjG5S2DVHfYXip8KgkJw1U4WAzcZKhK-XUedbd-prfxRUywDCkXIEbGDarTCJoVocUAHp0guGZHFO30l3TWD83n2XUcu3Ae6grv_k9mdVTn4pZ6aDJ10dmMQNx4eiQ259r2XpII6br2ASqxCyLvvGxqeNX9MYIUR3o2G2cAzMzlEP-JHg1ES4dcS3aEiUZ6rLn_y4ZsohPEqzrTFmG5446XbSBWZY5GOCKpbM48yuAgCYd2Wwyk5ZllX3qGD1AWrCCxXfcojGQxhX8gY7RTXwCmOVHM9_MdbJpX-cA6txGmHF_N9mAFufoblQMHWzUbE7sBAZNj4yveYIH00qMMlZM4Bdh1v95AnfRMliNBh_PuT2tHOTEamacgAdQmA8-r97m3YcloPWLdmCRQsT-YzrwOOeDIiAXeyp2hWZIFBwgTeLaW6DKgBqEBgAeWxOYzkAcEqAfywLECqAe4xLECqAfhtrECqAelz7ECqAfnnbECqAfonbECqAfvtbECqAfwtbECqAf507ECqAfJ2rECqAep4LECqAeECKgHptSxAqgHqNIbqAe2B6gHsdwbqAewm7ECqAeusbECqAf9srECqAfIz7ECqAfJz7ECqAfNx7ECqAfx0bECqAf81bECqAf71bECqAeM1rECqAeL1rECqAea4rECqAeb4rECqAed17ECqAed1LECqAeBxhuoB_yvsQKoB9XOG6gHvtmxAqgHq8UbqAec3BuoB7ehsQKoB9WpsQKoB-fasQKoB961sQKoB-qxsQKoB763sQKoB5m1sQKoB4XBsQKoB-ulsQKoB8qpsQKSCAthLWUxZ3loenBINKgIAdIIPAiIxZB4EAEYXjII84KBgICAoAw6FYDAmIiAiIAGgICAgICQgIACqoCAEEjZoNI1UBRYkO_9krCxlQNgAZoJMGh0dHBzOi8vd3d3LmNvcm5lcnN0b25lb25kZW1hbmQuY29tL2RlL3BsYXRmb3JtL7EJr0YXXd0Uue7ICRfICY8ByAnCAcgJlwKYCwG6C4EBCAMQBRgEIAcoATAcQAFIAFABWH1gAGgAcAGIAQCYAQGiAU0KRQgBKAHauAQ9Mjs6OQo3CgYI7vOT0gYoP5gX2aDSNcIkCPGCgYCAgKAMyiQVgMCYiICIgAaAgICAgJCAgAKqgIAQwjsBAqgCAtgCBNgBAYACAYgCBboDBXZpZ3Jx0AsS0gwCEAHaDCYKCxCAy43KkLD0n7oBEgIBAxoNGN7KnaFZIKTz5JGABkABSgIQH5oNARKqDQJERcgNAdINjANodHRwczovL3d3dy5jb3JuZXJzdG9uZW9uZGVtYW5kLmNvbS9kZS9wbGF0Zm9ybS8_dXRtX2NhbXBhaWduPUxHRU5fYWR3b3Jkcy1HZXJtYW55LWxlYXJuaW5nJnV0bV9tZWRpdW09Y3BjJnV0bV9zb3VyY2U9Z29vZ2xlJnV0bV9jb250ZW50PXJlcXVlc3QtZGVtbyZ1dG1fdGVybT0mdXRtX3Rlcm09JnV0bV9jYW1wYWlnbj0mdXRtX3NvdXJjZT1nb29nbGUmdXRtX21lZGl1bT1jcGMmaHNhX2FjYz02MzM0NTA3MTIwJmhzYV9jYW09MjM5NjA0NDYzMDImaHNhX2dycD0yMDYxOTU3MzQ5NDgmaHNhX2FkPTgxMzc4MTE2MTk5NCZoc2Ffc3JjPSZoc2FfdGd0PSZoc2Ffa3c9JmhzYV9tdD0maHNhX25ldD1hZHdvcmRzJmhzYV92ZXI9MyZnYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjM5NjA0NDYzMDK4E____________wGwFAPAFYGAgEDQFQHYFQHiFgIIAYAXAYoXGAgDGAEgASgBMAE4AUABSAFQAVgBYAJoAaAXAakXX50fDWHdyTq6FwYoADAAOAHQGAHwGAHCGQIIAQ&ase=2&gclid=EAIaIQobChMI84H-krCxlQMVCxl1AR0KlyOMEAEYAyAAEgJYCfD_BwE&num=3&cid=CAASFeRoGI1UtusV_bdLQTUf6aDurOysDw&ad_cpn=%5BCPN%5D&sig=AOD64_3l4r0Pho5dNFxbk0GMinPkHKNvVg&ctype=110&video_id=a-e1gyhzpH4&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=7&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+                    - generic [ref=e548]:
+                      - button "Cornerstone OnDemand" [ref=e552]
+                      - generic [ref=e556]:
+                        - generic [ref=e557]: Sponsored
+                        - text: ·
+                      - generic [ref=e559]: Cornerstone OnDemand
+                  - button "My Ad Center" [ref=e562]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - img
+                - generic [ref=e568]:
+                  - link "Watch" [ref=e571]:
+                    - /url: /watch?v=a-e1gyhzpH4
+                    - generic: Watch
+                  - link "Learn more" [ref=e577]:
+                    - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CXiq7LPpEavO7Nouy1LsPiq6O4QiS7ef5hwGc1ZndhBZkEAMgAGCVgoCAsAeCARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MaAB0ruZzAOpAisUras0OrY-qAMEyAMKqgTJAk_QVz3nqvFUoQ2iRG9b81ajfBeaCfjG5S2DVHfYXip8KgkJw1U4WAzcZKhK-XUedbd-prfxRUywDCkXIEbGDarTCJoVocUAHp0guGZHFO30l3TWD83n2XUcu3Ae6grv_k9mdVTn4pZ6aDJ10dmMQNx4eiQ259r2XpII6br2ASqxCyLvvGxqeNX9MYIUR3o2G2cAzMzlEP-JHg1ES4dcS3aEiUZ6rLn_y4ZsohPEqzrTFmG5446XbSBWZY5GOCKpbM48yuAgCYd2Wwyk5ZllX3qGD1AWrCCxXfcojGQxhX8gY7RTXwCmOVHM9_MdbJpX-cA6txGmHF_N9mAFufoblQMHWzUbE7sBAZNj4yveYIH00qMMlZM4Bdh1v95AnfRMliNBh_PuT2tHOTEamacgAdQmA8-r97m3YcloPWLdmCRQsT-YzrwOOeDIiAXeyp2hWZIFBwgTeLaW6DKgBqEBgAeWxOYzkAcEqAfywLECqAe4xLECqAfhtrECqAelz7ECqAfnnbECqAfonbECqAfvtbECqAfwtbECqAf507ECqAfJ2rECqAep4LECqAeECKgHptSxAqgHqNIbqAe2B6gHsdwbqAewm7ECqAeusbECqAf9srECqAfIz7ECqAfJz7ECqAfNx7ECqAfx0bECqAf81bECqAf71bECqAeM1rECqAeL1rECqAea4rECqAeb4rECqAed17ECqAed1LECqAeBxhuoB_yvsQKoB9XOG6gHvtmxAqgHq8UbqAec3BuoB7ehsQKoB9WpsQKoB-fasQKoB961sQKoB-qxsQKoB763sQKoB5m1sQKoB4XBsQKoB-ulsQKoB8qpsQKSCAthLWUxZ3loenBINKgIAdIIPAiIxZB4EAEYXjII84KBgICAoAw6FYDAmIiAiIAGgICAgICQgIACqoCAEEjZoNI1UBRYkO_9krCxlQNgAZoJMGh0dHBzOi8vd3d3LmNvcm5lcnN0b25lb25kZW1hbmQuY29tL2RlL3BsYXRmb3JtL7EJr0YXXd0Uue7ICRfICY8ByAnCAcgJlwKYCwG6C4EBCAMQBRgEIAcoATAcQAFIAFABWH1gAGgAcAGIAQCYAQGiAU0KRQgBKAHauAQ9Mjs6OQo3CgYI7vOT0gYoP5gX2aDSNcIkCPGCgYCAgKAMyiQVgMCYiICIgAaAgICAgJCAgAKqgIAQwjsBAqgCAtgCBNgBAYACAYgCBboDBXZpZ3Jx0AsS0gwCEAHaDCYKCxCAy43KkLD0n7oBEgIBAxoNGN7KnaFZIKTz5JGABkABSgIQH5oNARKqDQJERcgNAdINjANodHRwczovL3d3dy5jb3JuZXJzdG9uZW9uZGVtYW5kLmNvbS9kZS9wbGF0Zm9ybS8_dXRtX2NhbXBhaWduPUxHRU5fYWR3b3Jkcy1HZXJtYW55LWxlYXJuaW5nJnV0bV9tZWRpdW09Y3BjJnV0bV9zb3VyY2U9Z29vZ2xlJnV0bV9jb250ZW50PXJlcXVlc3QtZGVtbyZ1dG1fdGVybT0mdXRtX3Rlcm09JnV0bV9jYW1wYWlnbj0mdXRtX3NvdXJjZT1nb29nbGUmdXRtX21lZGl1bT1jcGMmaHNhX2FjYz02MzM0NTA3MTIwJmhzYV9jYW09MjM5NjA0NDYzMDImaHNhX2dycD0yMDYxOTU3MzQ5NDgmaHNhX2FkPTgxMzc4MTE2MTk5NCZoc2Ffc3JjPSZoc2FfdGd0PSZoc2Ffa3c9JmhzYV9tdD0maHNhX25ldD1hZHdvcmRzJmhzYV92ZXI9MyZnYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjM5NjA0NDYzMDK4E____________wGwFAPAFYGAgEDQFQHYFQHiFgIIAYAXAYoXGAgDGAEgASgBMAE4AUABSAFQAVgBYAJoAaAXAakXX50fDWHdyTq6FwYoADAAOAHQGAHwGAHCGQIIAQ&ase=2&gclid=EAIaIQobChMI84H-krCxlQMVCxl1AR0KlyOMEAEYAyAAEgJYCfD_BwE&num=3&cid=CAASFeRoGI1UtusV_bdLQTUf6aDurOysDw&ad_cpn=%5BCPN%5D&sig=AOD64_3l4r0Pho5dNFxbk0GMinPkHKNvVg&ctype=110&video_id=a-e1gyhzpH4&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=8&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+                    - generic: Learn more
+            - generic [ref=e582]:
+              - link [ref=e584] [cursor=pointer]:
+                - /url: /watch?v=LHFvuG0DUZA&pp=ygUxTGVhcm4gR2VybWFuIEExIGxlc3NvbiBJbSBCw7xybyBPZmZpY2Ugdm9jYWJ1bGFyeQ%3D%3D
+              - generic [ref=e586] [cursor=pointer]:
+                - generic [ref=e587]:
+                  - generic [ref=e588]:
+                    - heading "Learn German | Introducing yourself | sich vorstellen | German for beginners | A1 - Lesson 6 6 minutes, 3 seconds" [level=3] [ref=e589]:
+                      - link "Learn German | Introducing yourself | sich vorstellen | German for beginners | A1 - Lesson 6 6 minutes, 3 seconds" [ref=e590]:
+                        - /url: /watch?v=LHFvuG0DUZA&pp=ygUxTGVhcm4gR2VybWFuIEExIGxlc3NvbiBJbSBCw7xybyBPZmZpY2Ugdm9jYWJ1bGFyeQ%3D%3D
+                        - text: Learn German | Introducing yourself | sich vorstellen | German for beginners | A1 - Lesson 6
+                    - button "Action menu" [ref=e1420]:
+                      - generic [ref=e1423]:
+                        - img
+                  - generic [ref=e593]:
+                    - generic [ref=e594]: 1.1M views
+                    - generic [ref=e595]: •9 years ago
+                - generic [ref=e596]:
+                  - link "Go to channel Learn German" [ref=e597]:
+                    - /url: /@LearnGermanOriginal
+                  - generic [ref=e598]:
+                    - link "Learn German" [ref=e602]:
+                      - /url: /@LearnGermanOriginal
+                    - img "Verified" [ref=e607]:
+                      - generic [ref=e1425]:
+                        - img
+                - generic [ref=e609]:
+                  - generic [ref=e610]: "LearnGermanOriginal #LearnGerman #GermanLevelA1 A REVISED VERSION OF THIS VIDEO IS AVAILABLE HERE: ..."
+                  - tooltip "tooltip"
+                - generic [ref=e613]:
+                  - generic [ref=e614]:
+                    - generic [ref=e618]: 3 moments
+                    - button "Lean G man for beginners | sich vorstellen introducing yourself | Ich wohne in Berlin" [ref=e619]
+                  - button "More" [ref=e624]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - img
+            - generic [ref=e628]:
+              - generic [ref=e631]:
+                - img [ref=e633]:
+                  - generic [ref=e1427]:
+                    - img
+                - heading "Shorts" [level=2] [ref=e636]
+              - generic [ref=e637]:
+                - generic [ref=e638]:
+                  - generic [ref=e641]:
+                    - link [ref=e642] [cursor=pointer]:
+                      - /url: /shorts/DV7K9vPJl-M
+                    - generic [ref=e646] [cursor=pointer]:
+                      - 'link "German Language Vocabulary: A1/A2 to B1/B2 Synonyms for Natural Speech #deutschkurs #germanlanguage" [ref=e647]':
+                        - /url: /shorts/DV7K9vPJl-M
+                      - generic [ref=e648]: 146K views
+                    - button "More actions" [ref=e650] [cursor=pointer]:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - img
+                  - generic [ref=e656]:
+                    - link [ref=e657] [cursor=pointer]:
+                      - /url: /shorts/QCNF14CZI4w
+                    - generic [ref=e661] [cursor=pointer]:
+                      - link "Learn German Easily" [ref=e662]:
+                        - /url: /shorts/QCNF14CZI4w
+                      - generic [ref=e663]: 1.4M views
+                    - button "More actions" [ref=e665] [cursor=pointer]:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - img
+                  - generic [ref=e671]:
+                    - link [ref=e672] [cursor=pointer]:
+                      - /url: /shorts/ceWLtYn9fls
+                    - generic [ref=e676] [cursor=pointer]:
+                      - link "Learn German Conversation | Shopping for Clothes | A1 - B1" [ref=e677]:
+                        - /url: /shorts/ceWLtYn9fls
+                      - generic [ref=e678]: 39K views
+                    - button "More actions" [ref=e680] [cursor=pointer]:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - img
+                  - generic [ref=e686]:
+                    - link [ref=e687] [cursor=pointer]:
+                      - /url: /shorts/kI1BPVE__uE
+                    - generic [ref=e691] [cursor=pointer]:
+                      - link "Useful German verbs in past, present and future tenses" [ref=e692]:
+                        - /url: /shorts/kI1BPVE__uE
+                      - generic [ref=e693]: 558K views
+                    - button "More actions" [ref=e695] [cursor=pointer]:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - img
+                  - generic [ref=e701]:
+                    - link [ref=e702] [cursor=pointer]:
+                      - /url: /shorts/1meEaqDAprc
+                    - generic [ref=e706] [cursor=pointer]:
+                      - 'link "Learn German A1: Simple Supermarket Story for Beginners" [ref=e707]':
+                        - /url: /shorts/1meEaqDAprc
+                      - generic [ref=e708]: 14K views
+                    - button "More actions" [ref=e710] [cursor=pointer]:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - img
+                - generic [ref=e714]:
+                  - generic [ref=e717]:
+                    - link [ref=e718] [cursor=pointer]:
+                      - /url: /shorts/ZPKhjEDeukg
+                    - generic [ref=e722] [cursor=pointer]:
+                      - 'link "🇩🇪 Learn German with everyday dialogues - Today: at the post office" [ref=e723]':
+                        - /url: /shorts/ZPKhjEDeukg
+                      - generic [ref=e724]: 172K views
+                    - button "More actions" [ref=e726] [cursor=pointer]:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - img
+                  - generic [ref=e732]:
+                    - link [ref=e733] [cursor=pointer]:
+                      - /url: /shorts/K1Ieb4XZaFA
+                    - generic [ref=e737] [cursor=pointer]:
+                      - link "Basic German Words for Beginners | Learn Times of Day in German!" [ref=e738]:
+                        - /url: /shorts/K1Ieb4XZaFA
+                      - generic [ref=e739]: 1.3M views
+                    - button "More actions" [ref=e741] [cursor=pointer]:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - img
+                  - generic [ref=e747]:
+                    - link [ref=e748] [cursor=pointer]:
+                      - /url: /shorts/bR0LjNqbZqI
+                    - generic [ref=e752] [cursor=pointer]:
+                      - 'link "Learn German A1 | Short Story for Beginners with English Translation: Anna''s House and Day #a1german" [ref=e753]':
+                        - /url: /shorts/bR0LjNqbZqI
+                      - generic [ref=e754]: 76K views
+                    - button "More actions" [ref=e756] [cursor=pointer]:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - img
+                  - generic [ref=e762]:
+                    - link [ref=e763] [cursor=pointer]:
+                      - /url: /shorts/BmAcEzlkJeU
+                      - img [ref=e768]:
+                        - generic [ref=e769]: New
+                    - generic [ref=e770] [cursor=pointer]:
+                      - link "What you MUST know about German articles | German A1" [ref=e771]:
+                        - /url: /shorts/BmAcEzlkJeU
+                      - generic [ref=e772]: 362 views
+                    - button "More actions" [ref=e774] [cursor=pointer]:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - img
+                  - generic [ref=e780]:
+                    - link [ref=e781] [cursor=pointer]:
+                      - /url: /shorts/BLCPU3Aj-t8
+                    - generic [ref=e785] [cursor=pointer]:
+                      - link "Hospital vocabulary | Die Medikamente | Learn basic vocabulary for A1 german" [ref=e786]:
+                        - /url: /shorts/BLCPU3Aj-t8
+                      - generic [ref=e787]: 15K views
+                    - button "More actions" [ref=e789] [cursor=pointer]:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - img
+              - button "Show more" [ref=e796] [cursor=pointer]:
+                - generic: Show more
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img
+            - generic [ref=e801] [cursor=pointer]:
+              - link [ref=e802]:
+                - /url: /watch?v=RuGmc662HDg&list=PLF9mJC4RrjIhS4MMm0x72-qWEn1LRvPuW&pp=0gcJCe4COCosWNin
+                - generic [ref=e812]:
+                  - generic [ref=e1429]:
+                    - img
+                  - generic [ref=e814]: 67 lessons
+              - generic [ref=e817]:
+                - heading "A1 (Free Course) | Learn German for beginners" [level=3] [ref=e818]:
+                  - link "A1 (Free Course) | Learn German for beginners" [ref=e819]:
+                    - /url: /watch?v=RuGmc662HDg&list=PLF9mJC4RrjIhS4MMm0x72-qWEn1LRvPuW&pp=0gcJCe4COCosWNin
+                - generic [ref=e821]:
+                  - group [ref=e822]:
+                    - link "Learn German" [ref=e825]:
+                      - /url: /@LearnGermanOriginal
+                      - text: Learn German
+                      - img [ref=e828]:
+                        - generic [ref=e1431]:
+                          - img
+                    - generic [ref=e829]: •
+                    - link "Course" [ref=e832]:
+                      - /url: /@LearnGermanOriginal
+                  - group [ref=e833]
+                  - group [ref=e834]:
+                    - link "A1 - Lesson 1 | Begrüßungen | Greetings | Revised | German for beginners | Learn German · 10:04" [ref=e836]:
+                      - /url: /watch?v=RuGmc662HDg&list=PLF9mJC4RrjIhS4MMm0x72-qWEn1LRvPuW&pp=0gcJCcsE0aJEHMZM
+                  - group [ref=e837]:
+                    - link "A1 - Lesson 2 | Common Phrases | Revised | German for beginners | Learn German · 10:40" [ref=e839]:
+                      - /url: /watch?v=S8ukFF6SdGk&list=PLF9mJC4RrjIhS4MMm0x72-qWEn1LRvPuW
+                  - group [ref=e840]
+                  - group [ref=e841]:
+                    - link "View full course" [ref=e844]:
+                      - /url: /playlist?list=PLF9mJC4RrjIhS4MMm0x72-qWEn1LRvPuW
+            - generic [ref=e846]:
+              - link [ref=e848] [cursor=pointer]:
+                - /url: /watch?v=S8ukFF6SdGk&pp=ygUxTGVhcm4gR2VybWFuIEExIGxlc3NvbiBJbSBCw7xybyBPZmZpY2Ugdm9jYWJ1bGFyedIHCQlOCwGHKiGM7w%3D%3D
+              - generic [ref=e850] [cursor=pointer]:
+                - generic [ref=e851]:
+                  - generic [ref=e852]:
+                    - heading "A1 - Lesson 2 | Common Phrases | Revised | German for beginners | Learn German 10 minutes, 40 seconds" [level=3] [ref=e853]:
+                      - link "A1 - Lesson 2 | Common Phrases | Revised | German for beginners | Learn German 10 minutes, 40 seconds" [ref=e854]:
+                        - /url: /watch?v=S8ukFF6SdGk&pp=ygUxTGVhcm4gR2VybWFuIEExIGxlc3NvbiBJbSBCw7xybyBPZmZpY2Ugdm9jYWJ1bGFyedIHCQlOCwGHKiGM7w%3D%3D
+                        - text: A1 - Lesson 2 | Common Phrases | Revised | German for beginners | Learn German
+                    - button "Action menu" [ref=e1435]:
+                      - generic [ref=e1438]:
+                        - img
+                  - generic [ref=e857]:
+                    - generic [ref=e858]: 5.6M views
+                    - generic [ref=e859]: •7 years ago
+                - generic [ref=e860]:
+                  - link "Go to channel Learn German" [ref=e861]:
+                    - /url: /@LearnGermanOriginal
+                  - generic [ref=e862]:
+                    - link "Learn German" [ref=e866]:
+                      - /url: /@LearnGermanOriginal
+                    - img "Verified" [ref=e871]:
+                      - generic [ref=e1440]:
+                        - img
+                - generic [ref=e873]:
+                  - generic [ref=e874]: "LearnGermanOriginal #LearnGerman #germanlevela1 Master German faster with our A1 companion materials! Complement ..."
+                  - tooltip "tooltip"
+                - img "Closed captions" [ref=e879]:
+                  - generic [ref=e880]: CC
+                - generic [ref=e883]:
+                  - generic [ref=e884]:
+                    - generic [ref=e888]: 3 chapters
+                    - button "Intro | Common Phrases | Practice Phrases" [ref=e889]
+                  - button "More" [ref=e894]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - img
+            - generic [ref=e899]:
+              - link [ref=e901] [cursor=pointer]:
+                - /url: /watch?v=8vLRrKgOkD0&pp=ygUxTGVhcm4gR2VybWFuIEExIGxlc3NvbiBJbSBCw7xybyBPZmZpY2Ugdm9jYWJ1bGFyedIHCQlOCwGHKiGM7w%3D%3D
+              - generic [ref=e903] [cursor=pointer]:
+                - generic [ref=e904]:
+                  - generic [ref=e905]:
+                    - heading "A1 - Lesson 62 | Die Post | The post office | Learn German for beginners 10 minutes, 8 seconds" [level=3] [ref=e906]:
+                      - link "A1 - Lesson 62 | Die Post | The post office | Learn German for beginners 10 minutes, 8 seconds" [ref=e907]:
+                        - /url: /watch?v=8vLRrKgOkD0&pp=ygUxTGVhcm4gR2VybWFuIEExIGxlc3NvbiBJbSBCw7xybyBPZmZpY2Ugdm9jYWJ1bGFyedIHCQlOCwGHKiGM7w%3D%3D
+                        - text: A1 - Lesson 62 | Die Post | The post office | Learn German for beginners
+                    - button "Action menu" [ref=e1444]:
+                      - generic [ref=e1447]:
+                        - img
+                  - generic [ref=e910]:
+                    - generic [ref=e911]: 173K views
+                    - generic [ref=e912]: •7 years ago
+                - generic [ref=e913]:
+                  - link "Go to channel Learn German" [ref=e914]:
+                    - /url: /@LearnGermanOriginal
+                  - generic [ref=e915]:
+                    - link "Learn German" [ref=e919]:
+                      - /url: /@LearnGermanOriginal
+                    - img "Verified" [ref=e924]:
+                      - generic [ref=e1449]:
+                        - img
+                - generic [ref=e926]:
+                  - generic [ref=e927]: "LearnGermanOriginal #LearnGerman #germanlevela1 Check out our FREE A1 Course here - A1 - https://goo.gl/YuxM9T A1 ..."
+                  - tooltip "tooltip"
+                - generic [ref=e930]:
+                  - generic [ref=e931]:
+                    - generic [ref=e935]: 8 moments
+                    - button "Wo bist du? - Ich bin in der Post. | einen Brief abschicken / verschicken to post a letter | abschicken - hat abgeschickt | das Päckchen small parcel | packen - hat gepackt | einwerfen - hat eingeworfen to post a letter | der Paketaufkleber parcel label | die Sendungsnummer Tracking number" [ref=e936]
+                  - button "More" [ref=e941]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - img
+            - generic [ref=e953] [cursor=pointer]:
+              - link [ref=e954]:
+                - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CHRhiLPpEavO7Nouy1LsPiq6O4Qj814qJhwGX9vqc4BWwkB8QBCAAYJWCgICwB4IBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAH8obvNAakCuDVKgxsfsz6oAwTIAwqqBMkCT9BXPeeq8VShDaJEb1vzVqN8F5oJ-MblLYNUd9heKnwqCQnDVThYDNxkqEr5dR51t36mt_FFTLAMKRcgRsYNqtMImhWhxQAenSC4ZkcU7fSXdNYPzefZdRy7cB7qCu_-T2Z1VOfilnpoMnXR2YxA3Hh6JDbn2vZekgjpuvYBKrELIu-8bGp41f0xghRHejYbZwDMzOUQ_4keDURLh1xLdoSJRnqsuf_LhmyiE8SrOtMWYbnjjpdtIFZljkY4IqlszjzK4CAJh3ZbDKTlmWVfeoYPUBasILFd9yiMZDGFfyBjtFNfAKY5Ucz38x1smlf5wDq3EaYcX832YAW5-hqVAwdSNRtlnHZRlWPjKvViARY1TjbSK9rAz9sFtaZN_s4f_iji8-5Pa0cedz63pyd5hz0Mz5j2ubdhyWg6Go6DK1CxP5jOvCl_xOaIBYzx2OpYkgUICBN4t73qsgKgBqEBgAfK98SyApAHBKgH8sCxAqgHuMSxAqgH4baxAqgHpc-xAqgH552xAqgH6J2xAqgH77WxAqgH8LWxAqgH-dOxAqgHydqxAqgHqeCxAqgHhAioB6bUsQKoB6jSG6gHtgeoB7HcG6gHsJuxAqgHrrGxAqgH_bKxAqgHyM-xAqgHyc-xAqgHzcexAqgH8dGxAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHmuKxAqgHm-KxAqgHndexAqgHndSxAqgHgcYbqAf8r7ECqAfVzhuoB77ZsQKoB6vFG6gHnNwbqAe3obECqAfVqbECqAfn2rECqAfetbECqAfqsbECqAe-t7ECqAeZtbECqAeFwbECqAfrpbECqAfKqbECkggLa0hsOWw0dS1EcVWoCAHSCDwIiMWQeBABGF4yCPOCgYCAgKAMOhWAwJiIgIiABoCAgICAkICAAqqAgBBI2aDSNVAUWJDv_ZKwsZUDYAGaCURodHRwczovL3d3dy5pdS1ha2FkZW1pZS5kZS9scC93ZWl0ZXJiaWxkdW5nLW1pdC1iaWxkdW5nc2d1dHNjaGVpbi0xL7EJXHCJsK3dMV7ICRfICY8ByAnCAZgLAboLgQEIAxAFGAQgBygBMBxAAUgAUAFYfWAAaABwAYgBAJgBAaIBTQpFCAEoAdq4BD0yOzo5CjcKBgju85PSBig_mBfZoNI1wiQI8YKBgICAoAzKJBWAwJiIgIiABoCAgICAkICAAqqAgBDCOwECqAIC2AIE2AEBgAIBiAIGugMFdmlncnHQCxLSDAIQAdoMJQoKEOCqlv6w7J2BWxICAQMaDRiM8djqWCCY7PLS3QVAAUoCEB-aDQESqg0CREXIDQHSDfYBaHR0cHM6Ly93d3cuaXUtYWthZGVtaWUuZGUvbHAvd2VpdGVyYmlsZHVuZy1taXQtYmlsZHVuZ3NndXRzY2hlaW4tMS8_dXRtX3NvdXJjZT1nb29nbGUmdXRtX21lZGl1bT1jcGMmdXRtX2NhbXBhaWduPWRfYWthZF9hbGxlX2RlX2IyZytnZW5lcmljX2RlbWFuZCtnZW4mdXRtX2NvbnRlbnQ9MTk2OTM3MDM3MzM2JnV0bV90ZXJtPSZ1dG1faWQ9MjM4NDYwNzQ1MDgmZ2FkX3NvdXJjZT0yJmdhZF9jYW1wYWlnbmlkPTIzODQ2MDc0NTA4uBP___________8BiBQEsBQDwBWBgIBA0BUB2BUB4hYCCAGAFwGKFxgIAxgBIAEoATABOAFAAUgBUAFYAWACaAGgFwGpFy2xN4ZmCSebuhcGKAAwADgB0BgB8BgBwhkCCAE&ase=2&gclid=EAIaIQobChMI84H-krCxlQMVCxl1AR0KlyOMEAEYBCAAEgJ1v_D_BwE&num=4&cid=CAASFeRoGI1UtusV_bdLQTUf6aDurOysDw&ad_cpn=%5BCPN%5D&sig=AOD64_1O-Kqel7eWo0Cl2LE7VPF9v2W-DA&ctype=110&video_id=kHl9l4u-DqU&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=21&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+                - button [ref=e959]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img
+              - generic [ref=e963]:
+                - generic [ref=e964]:
+                  - generic [ref=e965]:
+                    - link "Online weiterbilden, 100 % gefördert mit Bildungsgutschein. Jetzt Infomaterial anfordern." [ref=e968]:
+                      - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CHRhiLPpEavO7Nouy1LsPiq6O4Qj814qJhwGX9vqc4BWwkB8QBCAAYJWCgICwB4IBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAH8obvNAakCuDVKgxsfsz6oAwTIAwqqBMkCT9BXPeeq8VShDaJEb1vzVqN8F5oJ-MblLYNUd9heKnwqCQnDVThYDNxkqEr5dR51t36mt_FFTLAMKRcgRsYNqtMImhWhxQAenSC4ZkcU7fSXdNYPzefZdRy7cB7qCu_-T2Z1VOfilnpoMnXR2YxA3Hh6JDbn2vZekgjpuvYBKrELIu-8bGp41f0xghRHejYbZwDMzOUQ_4keDURLh1xLdoSJRnqsuf_LhmyiE8SrOtMWYbnjjpdtIFZljkY4IqlszjzK4CAJh3ZbDKTlmWVfeoYPUBasILFd9yiMZDGFfyBjtFNfAKY5Ucz38x1smlf5wDq3EaYcX832YAW5-hqVAwdSNRtlnHZRlWPjKvViARY1TjbSK9rAz9sFtaZN_s4f_iji8-5Pa0cedz63pyd5hz0Mz5j2ubdhyWg6Go6DK1CxP5jOvCl_xOaIBYzx2OpYkgUICBN4t73qsgKgBqEBgAfK98SyApAHBKgH8sCxAqgHuMSxAqgH4baxAqgHpc-xAqgH552xAqgH6J2xAqgH77WxAqgH8LWxAqgH-dOxAqgHydqxAqgHqeCxAqgHhAioB6bUsQKoB6jSG6gHtgeoB7HcG6gHsJuxAqgHrrGxAqgH_bKxAqgHyM-xAqgHyc-xAqgHzcexAqgH8dGxAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHmuKxAqgHm-KxAqgHndexAqgHndSxAqgHgcYbqAf8r7ECqAfVzhuoB77ZsQKoB6vFG6gHnNwbqAe3obECqAfVqbECqAfn2rECqAfetbECqAfqsbECqAe-t7ECqAeZtbECqAeFwbECqAfrpbECqAfKqbECkggLa0hsOWw0dS1EcVWoCAHSCDwIiMWQeBABGF4yCPOCgYCAgKAMOhWAwJiIgIiABoCAgICAkICAAqqAgBBI2aDSNVAUWJDv_ZKwsZUDYAGaCURodHRwczovL3d3dy5pdS1ha2FkZW1pZS5kZS9scC93ZWl0ZXJiaWxkdW5nLW1pdC1iaWxkdW5nc2d1dHNjaGVpbi0xL7EJXHCJsK3dMV7ICRfICY8ByAnCAZgLAboLgQEIAxAFGAQgBygBMBxAAUgAUAFYfWAAaABwAYgBAJgBAaIBTQpFCAEoAdq4BD0yOzo5CjcKBgju85PSBig_mBfZoNI1wiQI8YKBgICAoAzKJBWAwJiIgIiABoCAgICAkICAAqqAgBDCOwECqAIC2AIE2AEBgAIBiAIGugMFdmlncnHQCxLSDAIQAdoMJQoKEOCqlv6w7J2BWxICAQMaDRiM8djqWCCY7PLS3QVAAUoCEB-aDQESqg0CREXIDQHSDfYBaHR0cHM6Ly93d3cuaXUtYWthZGVtaWUuZGUvbHAvd2VpdGVyYmlsZHVuZy1taXQtYmlsZHVuZ3NndXRzY2hlaW4tMS8_dXRtX3NvdXJjZT1nb29nbGUmdXRtX21lZGl1bT1jcGMmdXRtX2NhbXBhaWduPWRfYWthZF9hbGxlX2RlX2IyZytnZW5lcmljX2RlbWFuZCtnZW4mdXRtX2NvbnRlbnQ9MTk2OTM3MDM3MzM2JnV0bV90ZXJtPSZ1dG1faWQ9MjM4NDYwNzQ1MDgmZ2FkX3NvdXJjZT0yJmdhZF9jYW1wYWlnbmlkPTIzODQ2MDc0NTA4uBP___________8BiBQEsBQDwBWBgIBA0BUB2BUB4hYCCAGAFwGKFxgIAxgBIAEoATABOAFAAUgBUAFYAWACaAGgFwGpFy2xN4ZmCSebuhcGKAAwADgB0BgB8BgBwhkCCAE&ase=2&gclid=EAIaIQobChMI84H-krCxlQMVCxl1AR0KlyOMEAEYBCAAEgJ1v_D_BwE&num=4&cid=CAASFeRoGI1UtusV_bdLQTUf6aDurOysDw&ad_cpn=%5BCPN%5D&sig=AOD64_1O-Kqel7eWo0Cl2LE7VPF9v2W-DA&ctype=110&video_id=kHl9l4u-DqU&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=0&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+                    - 'link "KURSNET-Weiterbildungen von Personal, IT über Marketing bis Management: 100% förderbar." [ref=e971]':
+                      - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CHRhiLPpEavO7Nouy1LsPiq6O4Qj814qJhwGX9vqc4BWwkB8QBCAAYJWCgICwB4IBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAH8obvNAakCuDVKgxsfsz6oAwTIAwqqBMkCT9BXPeeq8VShDaJEb1vzVqN8F5oJ-MblLYNUd9heKnwqCQnDVThYDNxkqEr5dR51t36mt_FFTLAMKRcgRsYNqtMImhWhxQAenSC4ZkcU7fSXdNYPzefZdRy7cB7qCu_-T2Z1VOfilnpoMnXR2YxA3Hh6JDbn2vZekgjpuvYBKrELIu-8bGp41f0xghRHejYbZwDMzOUQ_4keDURLh1xLdoSJRnqsuf_LhmyiE8SrOtMWYbnjjpdtIFZljkY4IqlszjzK4CAJh3ZbDKTlmWVfeoYPUBasILFd9yiMZDGFfyBjtFNfAKY5Ucz38x1smlf5wDq3EaYcX832YAW5-hqVAwdSNRtlnHZRlWPjKvViARY1TjbSK9rAz9sFtaZN_s4f_iji8-5Pa0cedz63pyd5hz0Mz5j2ubdhyWg6Go6DK1CxP5jOvCl_xOaIBYzx2OpYkgUICBN4t73qsgKgBqEBgAfK98SyApAHBKgH8sCxAqgHuMSxAqgH4baxAqgHpc-xAqgH552xAqgH6J2xAqgH77WxAqgH8LWxAqgH-dOxAqgHydqxAqgHqeCxAqgHhAioB6bUsQKoB6jSG6gHtgeoB7HcG6gHsJuxAqgHrrGxAqgH_bKxAqgHyM-xAqgHyc-xAqgHzcexAqgH8dGxAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHmuKxAqgHm-KxAqgHndexAqgHndSxAqgHgcYbqAf8r7ECqAfVzhuoB77ZsQKoB6vFG6gHnNwbqAe3obECqAfVqbECqAfn2rECqAfetbECqAfqsbECqAe-t7ECqAeZtbECqAeFwbECqAfrpbECqAfKqbECkggLa0hsOWw0dS1EcVWoCAHSCDwIiMWQeBABGF4yCPOCgYCAgKAMOhWAwJiIgIiABoCAgICAkICAAqqAgBBI2aDSNVAUWJDv_ZKwsZUDYAGaCURodHRwczovL3d3dy5pdS1ha2FkZW1pZS5kZS9scC93ZWl0ZXJiaWxkdW5nLW1pdC1iaWxkdW5nc2d1dHNjaGVpbi0xL7EJXHCJsK3dMV7ICRfICY8ByAnCAZgLAboLgQEIAxAFGAQgBygBMBxAAUgAUAFYfWAAaABwAYgBAJgBAaIBTQpFCAEoAdq4BD0yOzo5CjcKBgju85PSBig_mBfZoNI1wiQI8YKBgICAoAzKJBWAwJiIgIiABoCAgICAkICAAqqAgBDCOwECqAIC2AIE2AEBgAIBiAIGugMFdmlncnHQCxLSDAIQAdoMJQoKEOCqlv6w7J2BWxICAQMaDRiM8djqWCCY7PLS3QVAAUoCEB-aDQESqg0CREXIDQHSDfYBaHR0cHM6Ly93d3cuaXUtYWthZGVtaWUuZGUvbHAvd2VpdGVyYmlsZHVuZy1taXQtYmlsZHVuZ3NndXRzY2hlaW4tMS8_dXRtX3NvdXJjZT1nb29nbGUmdXRtX21lZGl1bT1jcGMmdXRtX2NhbXBhaWduPWRfYWthZF9hbGxlX2RlX2IyZytnZW5lcmljX2RlbWFuZCtnZW4mdXRtX2NvbnRlbnQ9MTk2OTM3MDM3MzM2JnV0bV90ZXJtPSZ1dG1faWQ9MjM4NDYwNzQ1MDgmZ2FkX3NvdXJjZT0yJmdhZF9jYW1wYWlnbmlkPTIzODQ2MDc0NTA4uBP___________8BiBQEsBQDwBWBgIBA0BUB2BUB4hYCCAGAFwGKFxgIAxgBIAEoATABOAFAAUgBUAFYAWACaAGgFwGpFy2xN4ZmCSebuhcGKAAwADgB0BgB8BgBwhkCCAE&ase=2&gclid=EAIaIQobChMI84H-krCxlQMVCxl1AR0KlyOMEAEYBCAAEgJ1v_D_BwE&num=4&cid=CAASFeRoGI1UtusV_bdLQTUf6aDurOysDw&ad_cpn=%5BCPN%5D&sig=AOD64_1O-Kqel7eWo0Cl2LE7VPF9v2W-DA&ctype=110&video_id=kHl9l4u-DqU&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=7&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+                    - generic [ref=e972]:
+                      - button "IU Internationale Hochschule" [ref=e976]
+                      - generic [ref=e980]:
+                        - generic [ref=e981]: Sponsored
+                        - text: ·
+                      - generic [ref=e983]: IU Akademie
+                  - button "My Ad Center" [ref=e986]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - img
+                - generic [ref=e992]:
+                  - link "Watch" [ref=e995]:
+                    - /url: /watch?v=kHl9l4u-DqU
+                    - generic: Watch
+                  - link "Learn more" [ref=e1001]:
+                    - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CHRhiLPpEavO7Nouy1LsPiq6O4Qj814qJhwGX9vqc4BWwkB8QBCAAYJWCgICwB4IBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAH8obvNAakCuDVKgxsfsz6oAwTIAwqqBMkCT9BXPeeq8VShDaJEb1vzVqN8F5oJ-MblLYNUd9heKnwqCQnDVThYDNxkqEr5dR51t36mt_FFTLAMKRcgRsYNqtMImhWhxQAenSC4ZkcU7fSXdNYPzefZdRy7cB7qCu_-T2Z1VOfilnpoMnXR2YxA3Hh6JDbn2vZekgjpuvYBKrELIu-8bGp41f0xghRHejYbZwDMzOUQ_4keDURLh1xLdoSJRnqsuf_LhmyiE8SrOtMWYbnjjpdtIFZljkY4IqlszjzK4CAJh3ZbDKTlmWVfeoYPUBasILFd9yiMZDGFfyBjtFNfAKY5Ucz38x1smlf5wDq3EaYcX832YAW5-hqVAwdSNRtlnHZRlWPjKvViARY1TjbSK9rAz9sFtaZN_s4f_iji8-5Pa0cedz63pyd5hz0Mz5j2ubdhyWg6Go6DK1CxP5jOvCl_xOaIBYzx2OpYkgUICBN4t73qsgKgBqEBgAfK98SyApAHBKgH8sCxAqgHuMSxAqgH4baxAqgHpc-xAqgH552xAqgH6J2xAqgH77WxAqgH8LWxAqgH-dOxAqgHydqxAqgHqeCxAqgHhAioB6bUsQKoB6jSG6gHtgeoB7HcG6gHsJuxAqgHrrGxAqgH_bKxAqgHyM-xAqgHyc-xAqgHzcexAqgH8dGxAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHmuKxAqgHm-KxAqgHndexAqgHndSxAqgHgcYbqAf8r7ECqAfVzhuoB77ZsQKoB6vFG6gHnNwbqAe3obECqAfVqbECqAfn2rECqAfetbECqAfqsbECqAe-t7ECqAeZtbECqAeFwbECqAfrpbECqAfKqbECkggLa0hsOWw0dS1EcVWoCAHSCDwIiMWQeBABGF4yCPOCgYCAgKAMOhWAwJiIgIiABoCAgICAkICAAqqAgBBI2aDSNVAUWJDv_ZKwsZUDYAGaCURodHRwczovL3d3dy5pdS1ha2FkZW1pZS5kZS9scC93ZWl0ZXJiaWxkdW5nLW1pdC1iaWxkdW5nc2d1dHNjaGVpbi0xL7EJXHCJsK3dMV7ICRfICY8ByAnCAZgLAboLgQEIAxAFGAQgBygBMBxAAUgAUAFYfWAAaABwAYgBAJgBAaIBTQpFCAEoAdq4BD0yOzo5CjcKBgju85PSBig_mBfZoNI1wiQI8YKBgICAoAzKJBWAwJiIgIiABoCAgICAkICAAqqAgBDCOwECqAIC2AIE2AEBgAIBiAIGugMFdmlncnHQCxLSDAIQAdoMJQoKEOCqlv6w7J2BWxICAQMaDRiM8djqWCCY7PLS3QVAAUoCEB-aDQESqg0CREXIDQHSDfYBaHR0cHM6Ly93d3cuaXUtYWthZGVtaWUuZGUvbHAvd2VpdGVyYmlsZHVuZy1taXQtYmlsZHVuZ3NndXRzY2hlaW4tMS8_dXRtX3NvdXJjZT1nb29nbGUmdXRtX21lZGl1bT1jcGMmdXRtX2NhbXBhaWduPWRfYWthZF9hbGxlX2RlX2IyZytnZW5lcmljX2RlbWFuZCtnZW4mdXRtX2NvbnRlbnQ9MTk2OTM3MDM3MzM2JnV0bV90ZXJtPSZ1dG1faWQ9MjM4NDYwNzQ1MDgmZ2FkX3NvdXJjZT0yJmdhZF9jYW1wYWlnbmlkPTIzODQ2MDc0NTA4uBP___________8BiBQEsBQDwBWBgIBA0BUB2BUB4hYCCAGAFwGKFxgIAxgBIAEoATABOAFAAUgBUAFYAWACaAGgFwGpFy2xN4ZmCSebuhcGKAAwADgB0BgB8BgBwhkCCAE&ase=2&gclid=EAIaIQobChMI84H-krCxlQMVCxl1AR0KlyOMEAEYBCAAEgJ1v_D_BwE&num=4&cid=CAASFeRoGI1UtusV_bdLQTUf6aDurOysDw&ad_cpn=%5BCPN%5D&sig=AOD64_1O-Kqel7eWo0Cl2LE7VPF9v2W-DA&ctype=110&video_id=kHl9l4u-DqU&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=8&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+                    - generic: Learn more
+            - generic [ref=e1006]:
+              - link [ref=e1008] [cursor=pointer]:
+                - /url: /watch?v=JybuldB6q5M&pp=ygUxTGVhcm4gR2VybWFuIEExIGxlc3NvbiBJbSBCw7xybyBPZmZpY2Ugdm9jYWJ1bGFyeQ%3D%3D
+              - generic [ref=e1010] [cursor=pointer]:
+                - generic [ref=e1011]:
+                  - generic [ref=e1012]:
+                    - heading "A1 - Lesson 59 | Beim Arzt | At the Doctor's | Arzttermin vereinbaren | Learn German 11 minutes, 51 seconds" [level=3] [ref=e1013]:
+                      - link "A1 - Lesson 59 | Beim Arzt | At the Doctor's | Arzttermin vereinbaren | Learn German 11 minutes, 51 seconds" [ref=e1014]:
+                        - /url: /watch?v=JybuldB6q5M&pp=ygUxTGVhcm4gR2VybWFuIEExIGxlc3NvbiBJbSBCw7xybyBPZmZpY2Ugdm9jYWJ1bGFyeQ%3D%3D
+                        - text: A1 - Lesson 59 | Beim Arzt | At the Doctor's | Arzttermin vereinbaren | Learn German
+                    - button "Action menu" [ref=e1453]:
+                      - generic [ref=e1456]:
+                        - img
+                  - generic [ref=e1017]:
+                    - generic [ref=e1018]: 269K views
+                    - generic [ref=e1019]: •7 years ago
+                - generic [ref=e1020]:
+                  - link "Go to channel Learn German" [ref=e1021]:
+                    - /url: /@LearnGermanOriginal
+                  - generic [ref=e1022]:
+                    - link "Learn German" [ref=e1026]:
+                      - /url: /@LearnGermanOriginal
+                    - img "Verified" [ref=e1031]:
+                      - generic [ref=e1458]:
+                        - img
+                - generic [ref=e1033]:
+                  - generic [ref=e1034]: "LearnGermanOriginal #LearnGerman #germanlevela1 Check out our FREE A1 Course here - A1 - https://goo.gl/YuxM9T A1 ..."
+                  - tooltip "tooltip"
+                - generic [ref=e1037]:
+                  - generic [ref=e1038]:
+                    - generic [ref=e1042]: 3 chapters
+                    - button "Intro | Important words | Fix an appointment" [ref=e1043]
+                  - button "More" [ref=e1048]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - img
+            - generic [ref=e1053]:
+              - link [ref=e1055] [cursor=pointer]:
+                - /url: /watch?v=sNyFuTUCLzY&pp=ygUxTGVhcm4gR2VybWFuIEExIGxlc3NvbiBJbSBCw7xybyBPZmZpY2Ugdm9jYWJ1bGFyeQ%3D%3D
+              - generic [ref=e1057] [cursor=pointer]:
+                - generic [ref=e1058]:
+                  - generic [ref=e1059]:
+                    - 'heading "German at Work: What to Say in the Office (A1 Beginner) 19 minutes" [level=3] [ref=e1060]':
+                      - 'link "German at Work: What to Say in the Office (A1 Beginner) 19 minutes" [ref=e1061]':
+                        - /url: /watch?v=sNyFuTUCLzY&pp=ygUxTGVhcm4gR2VybWFuIEExIGxlc3NvbiBJbSBCw7xybyBPZmZpY2Ugdm9jYWJ1bGFyeQ%3D%3D
+                        - text: "German at Work: What to Say in the Office (A1 Beginner)"
+                    - button "Action menu" [ref=e1462]:
+                      - generic [ref=e1465]:
+                        - img
+                  - generic [ref=e1064]:
+                    - generic [ref=e1065]: 32 views
+                    - generic [ref=e1066]: •4 months ago
+                - generic [ref=e1067]:
+                  - link "Go to channel Learn German Now" [ref=e1068]:
+                    - /url: /@LearnGermanNow10
+                  - link "Learn German Now" [ref=e1073]:
+                    - /url: /@LearnGermanNow10
+                - generic [ref=e1074]:
+                  - generic [ref=e1075]: "Lerne typische Gespräche im Büro: Begrüßungen, Aufgaben & Kollegengespräche Verbessere dein Deutsch mit realen Dialogen ..."
+                  - tooltip "tooltip"
+            - generic [ref=e1077]:
+              - link [ref=e1079] [cursor=pointer]:
+                - /url: /watch?v=KYmkPHijIb4&pp=ygUxTGVhcm4gR2VybWFuIEExIGxlc3NvbiBJbSBCw7xybyBPZmZpY2Ugdm9jYWJ1bGFyeQ%3D%3D
+              - generic [ref=e1081] [cursor=pointer]:
+                - generic [ref=e1082]:
+                  - generic [ref=e1083]:
+                    - heading "Learn German | German Vocabulary | Im Klassenzimmer | Classroom objects | A1 12 minutes, 40 seconds" [level=3] [ref=e1084]:
+                      - link "Learn German | German Vocabulary | Im Klassenzimmer | Classroom objects | A1 12 minutes, 40 seconds" [ref=e1085]:
+                        - /url: /watch?v=KYmkPHijIb4&pp=ygUxTGVhcm4gR2VybWFuIEExIGxlc3NvbiBJbSBCw7xybyBPZmZpY2Ugdm9jYWJ1bGFyeQ%3D%3D
+                        - text: Learn German | German Vocabulary | Im Klassenzimmer | Classroom objects | A1
+                    - button "Action menu" [ref=e1469]:
+                      - generic [ref=e1472]:
+                        - img
+                  - generic [ref=e1088]:
+                    - generic [ref=e1089]: 240K views
+                    - generic [ref=e1090]: •9 years ago
+                - generic [ref=e1091]:
+                  - link "Go to channel Learn German" [ref=e1092]:
+                    - /url: /@LearnGermanOriginal
+                  - generic [ref=e1093]:
+                    - link "Learn German" [ref=e1097]:
+                      - /url: /@LearnGermanOriginal
+                    - img "Verified" [ref=e1102]:
+                      - generic [ref=e1474]:
+                        - img
+                - generic [ref=e1104]:
+                  - generic [ref=e1105]: "LearnGermanOriginal #LearnGerman #GermanVocabulary LEARN GERMAN FASTER In just 75 days, learn more than 500 new ..."
+                  - tooltip "tooltip"
+            - generic [ref=e1107]:
+              - link [ref=e1109] [cursor=pointer]:
+                - /url: /watch?v=_EvcUxsmE6k&pp=ygUxTGVhcm4gR2VybWFuIEExIGxlc3NvbiBJbSBCw7xybyBPZmZpY2Ugdm9jYWJ1bGFyeQ%3D%3D
+              - generic [ref=e1111] [cursor=pointer]:
+                - generic [ref=e1112]:
+                  - generic [ref=e1113]:
+                    - heading "A1 - Lesson 36 | mir, dir, euch, Ihnen... | Personal Pronouns | Revised | Learn German for beginners 10 minutes, 37 seconds" [level=3] [ref=e1114]:
+                      - link "A1 - Lesson 36 | mir, dir, euch, Ihnen... | Personal Pronouns | Revised | Learn German for beginners 10 minutes, 37 seconds" [ref=e1115]:
+                        - /url: /watch?v=_EvcUxsmE6k&pp=ygUxTGVhcm4gR2VybWFuIEExIGxlc3NvbiBJbSBCw7xybyBPZmZpY2Ugdm9jYWJ1bGFyeQ%3D%3D
+                        - text: A1 - Lesson 36 | mir, dir, euch, Ihnen... | Personal Pronouns | Revised | Learn German for beginners
+                    - button "Action menu" [ref=e1478]:
+                      - generic [ref=e1481]:
+                        - img
+                  - generic [ref=e1118]:
+                    - generic [ref=e1119]: 39K views
+                    - generic [ref=e1120]: •5 months ago
+                - generic [ref=e1121]:
+                  - link "Go to channel Learn German" [ref=e1122]:
+                    - /url: /@LearnGermanOriginal
+                  - generic [ref=e1123]:
+                    - link "Learn German" [ref=e1127]:
+                      - /url: /@LearnGermanOriginal
+                    - img "Verified" [ref=e1132]:
+                      - generic [ref=e1483]:
+                        - img
+                - generic [ref=e1134]:
+                  - generic [ref=e1135]: "LearnGermanOriginal #LearnGerman #germanlevela1 Master German faster with our A1 companion materials! Complement ..."
+                  - tooltip "tooltip"
+                - generic [ref=e1138]:
+                  - generic [ref=e1139]:
+                    - generic [ref=e1140]:
+                      - generic [ref=e1485]:
+                        - img
+                      - generic [ref=e1142]: Summary
+                    - button "This lesson explains how to use German personal pronouns in the dative case to indicate indirect objects, using examples like ich/mir and du/dir. Learn how these pronouns change to correctly identify who is receiving an action in daily conversations." [ref=e1143]
+                    - text: ·
+                  - button "More" [ref=e1148]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - img
+            - generic [ref=e1153]:
+              - link [ref=e1155] [cursor=pointer]:
+                - /url: /watch?v=u8M5d4XyNYQ&pp=ygUxTGVhcm4gR2VybWFuIEExIGxlc3NvbiBJbSBCw7xybyBPZmZpY2Ugdm9jYWJ1bGFyeQ%3D%3D
+              - generic [ref=e1157] [cursor=pointer]:
+                - generic [ref=e1158]:
+                  - generic [ref=e1159]:
+                    - heading "Our Weekend in Slow German | Super Easy German 262 15 minutes" [level=3] [ref=e1160]:
+                      - link "Our Weekend in Slow German | Super Easy German 262 15 minutes" [ref=e1161]:
+                        - /url: /watch?v=u8M5d4XyNYQ&pp=ygUxTGVhcm4gR2VybWFuIEExIGxlc3NvbiBJbSBCw7xybyBPZmZpY2Ugdm9jYWJ1bGFyeQ%3D%3D
+                        - text: Our Weekend in Slow German | Super Easy German 262
+                    - button "Action menu" [ref=e1489]:
+                      - generic [ref=e1492]:
+                        - img
+                  - generic [ref=e1164]:
+                    - generic [ref=e1165]: 502K views
+                    - generic [ref=e1166]: •1 year ago
+                - generic [ref=e1167]:
+                  - link "Go to channel Easy German" [ref=e1168]:
+                    - /url: /@EasyGerman
+                  - generic [ref=e1169]:
+                    - link "Easy German" [ref=e1173]:
+                      - /url: /@EasyGerman
+                    - img "Verified" [ref=e1178]:
+                      - generic [ref=e1494]:
+                        - img
+                - generic [ref=e1180]:
+                  - generic [ref=e1181]: "LEARN GERMAN WITH US: JOIN OUR COMMUNITY: https://www.easygerman.org/membership LISTEN TO OUR ..."
+                  - tooltip "tooltip"
+            - generic [ref=e1183]:
+              - link [ref=e1185] [cursor=pointer]:
+                - /url: /watch?v=_Hy9_tDhgtc&pp=ygUxTGVhcm4gR2VybWFuIEExIGxlc3NvbiBJbSBCw7xybyBPZmZpY2Ugdm9jYWJ1bGFyeQ%3D%3D
+              - generic [ref=e1187] [cursor=pointer]:
+                - generic [ref=e1188]:
+                  - generic [ref=e1189]:
+                    - heading "Learn German for beginners A1 - Personal Pronouns in German - Lesson 11 8 minutes, 46 seconds" [level=3] [ref=e1190]:
+                      - link "Learn German for beginners A1 - Personal Pronouns in German - Lesson 11 8 minutes, 46 seconds" [ref=e1191]:
+                        - /url: /watch?v=_Hy9_tDhgtc&pp=ygUxTGVhcm4gR2VybWFuIEExIGxlc3NvbiBJbSBCw7xybyBPZmZpY2Ugdm9jYWJ1bGFyeQ%3D%3D
+                        - text: Learn German for beginners A1 - Personal Pronouns in German - Lesson 11
+                    - button "Action menu" [ref=e1498]:
+                      - generic [ref=e1501]:
+                        - img
+                  - generic [ref=e1194]:
+                    - generic [ref=e1195]: 724K views
+                    - generic [ref=e1196]: •9 years ago
+                - generic [ref=e1197]:
+                  - link "Go to channel Learn German" [ref=e1198]:
+                    - /url: /@LearnGermanOriginal
+                  - generic [ref=e1199]:
+                    - link "Learn German" [ref=e1203]:
+                      - /url: /@LearnGermanOriginal
+                    - img "Verified" [ref=e1208]:
+                      - generic [ref=e1503]:
+                        - img
+                - generic [ref=e1210]:
+                  - generic [ref=e1211]: "LearnGermanOriginal #LearnGerman #GermanLevelA1 WATCH THE REVISED VERSION OF THIS VIDEO HERE: ..."
+                  - tooltip "tooltip"
+                - generic [ref=e1214]:
+                  - generic [ref=e1215]:
+                    - generic [ref=e1219]: 6 moments
+                    - button "Was sind Pronomen? What are pronouns? | Personal pronomen | First person | Second person (informal) | Second person (formal) | Third person" [ref=e1220]
+                  - button "More" [ref=e1225]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - img
+            - generic [ref=e1230]:
+              - link [ref=e1232] [cursor=pointer]:
+                - /url: /watch?v=Q6zScEuI3Ws&pp=ygUxTGVhcm4gR2VybWFuIEExIGxlc3NvbiBJbSBCw7xybyBPZmZpY2Ugdm9jYWJ1bGFyeQ%3D%3D
+              - generic [ref=e1234] [cursor=pointer]:
+                - generic [ref=e1235]:
+                  - generic [ref=e1236]:
+                    - 'heading "Das Büro / The office (Part 1) - Learn German (A1-B1) #learngermanvocabulary 4 minutes, 40 seconds" [level=3] [ref=e1237]':
+                      - 'link "Das Büro / The office (Part 1) - Learn German (A1-B1) #learngermanvocabulary 4 minutes, 40 seconds" [ref=e1238]':
+                        - /url: /watch?v=Q6zScEuI3Ws&pp=ygUxTGVhcm4gR2VybWFuIEExIGxlc3NvbiBJbSBCw7xybyBPZmZpY2Ugdm9jYWJ1bGFyeQ%3D%3D
+                        - text: "Das Büro / The office (Part 1) - Learn German (A1-B1) #learngermanvocabulary"
+                    - button "Action menu" [ref=e1507]:
+                      - generic [ref=e1510]:
+                        - img
+                  - generic [ref=e1241]:
+                    - generic [ref=e1242]: 178 views
+                    - generic [ref=e1243]: •1 year ago
+                - generic [ref=e1244]:
+                  - link "Go to channel MasterYourGermanVocabulary" [ref=e1245]:
+                    - /url: /@MasterYourGermanVocabulary
+                  - link "MasterYourGermanVocabulary" [ref=e1250]:
+                    - /url: /@MasterYourGermanVocabulary
+                - generic [ref=e1251]:
+                  - generic [ref=e1252]: This video is part of the Master Your German Vocabulary series, designed to improve your German vocabulary through engaging ...
+                  - tooltip "tooltip"
+            - generic [ref=e1512]:
+              - link [ref=e1514] [cursor=pointer]:
+                - /url: /watch?v=RuGmc662HDg&pp=ygUxTGVhcm4gR2VybWFuIEExIGxlc3NvbiBJbSBCw7xybyBPZmZpY2Ugdm9jYWJ1bGFyeQ%3D%3D
+              - generic [ref=e1516] [cursor=pointer]:
+                - generic [ref=e1517]:
+                  - generic [ref=e1518]:
+                    - heading "A1 - Lesson 1 | Begrüßungen | Greetings | Revised | German for beginners | Learn German 10 minutes, 4 seconds" [level=3] [ref=e1519]:
+                      - link "A1 - Lesson 1 | Begrüßungen | Greetings | Revised | German for beginners | Learn German 10 minutes, 4 seconds" [ref=e1520]:
+                        - /url: /watch?v=RuGmc662HDg&pp=ygUxTGVhcm4gR2VybWFuIEExIGxlc3NvbiBJbSBCw7xybyBPZmZpY2Ugdm9jYWJ1bGFyeQ%3D%3D
+                        - text: A1 - Lesson 1 | Begrüßungen | Greetings | Revised | German for beginners | Learn German
+                    - button "Action menu" [ref=e1524]:
+                      - generic [ref=e1527]:
+                        - img
+                  - generic [ref=e1530]:
+                    - generic [ref=e1531]: 12M views
+                    - generic [ref=e1532]: •7 years ago
+                - generic [ref=e1533]:
+                  - link "Go to channel Learn German" [ref=e1534]:
+                    - /url: /@LearnGermanOriginal
+                  - generic [ref=e1535]:
+                    - link "Learn German" [ref=e1539]:
+                      - /url: /@LearnGermanOriginal
+                    - img "Verified" [ref=e1544]:
+                      - generic [ref=e1547]:
+                        - img
+                - generic [ref=e1548]:
+                  - generic [ref=e1549]: "LearnGermanOriginal #LearnGerman #germanlevela1 Master German faster with our A1 companion materials! Complement ..."
+                  - tooltip "tooltip"
+                - img "Closed captions" [ref=e1554]:
+                  - generic [ref=e1555]: CC
+                - generic [ref=e1558]:
+                  - generic [ref=e1559]:
+                    - generic [ref=e1563]: 12 chapters
+                    - button "Intro | Greetings | Guten Tag | Guten morgen | Guten abend | Guter nacht | Z | Choose | auf wiedersehen | biss bald | biss schpeter | summary" [ref=e1564]
+                  - button "More" [ref=e1569]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - img
+            - generic [ref=e1574]:
+              - link [ref=e1576] [cursor=pointer]:
+                - /url: /watch?v=-FA9Eyde-Ow&pp=ygUxTGVhcm4gR2VybWFuIEExIGxlc3NvbiBJbSBCw7xybyBPZmZpY2Ugdm9jYWJ1bGFyedIHCQlOCwGHKiGM7w%3D%3D
+              - generic [ref=e1578] [cursor=pointer]:
+                - generic [ref=e1579]:
+                  - generic [ref=e1580]:
+                    - 'heading "Learn German: mein Büro - my office / Explaining my office in German - Video for Beginners - A1, A2 8 minutes, 25 seconds" [level=3] [ref=e1581]':
+                      - 'link "Learn German: mein Büro - my office / Explaining my office in German - Video for Beginners - A1, A2 8 minutes, 25 seconds" [ref=e1582]':
+                        - /url: /watch?v=-FA9Eyde-Ow&pp=ygUxTGVhcm4gR2VybWFuIEExIGxlc3NvbiBJbSBCw7xybyBPZmZpY2Ugdm9jYWJ1bGFyedIHCQlOCwGHKiGM7w%3D%3D
+                        - text: "Learn German: mein Büro - my office / Explaining my office in German - Video for Beginners - A1, A2"
+                    - button "Action menu" [ref=e1586]:
+                      - generic [ref=e1589]:
+                        - img
+                  - generic [ref=e1592]:
+                    - generic [ref=e1593]: 24K views
+                    - generic [ref=e1594]: •4 years ago
+                - generic [ref=e1595]:
+                  - link "Go to channel Useful German with Chris" [ref=e1596]:
+                    - /url: /@UsefulGerman
+                  - link "Useful German with Chris" [ref=e1601]:
+                    - /url: /@UsefulGerman
+                - generic [ref=e1602]:
+                  - text: "Useful German Cartoons: mein Büro - my office / Explaining how my office looks like == Download the WORKSHEET file: == https ..."
+                  - tooltip "tooltip"
+                - img "Closed captions" [ref=e1607]:
+                  - generic [ref=e1608]: CC
+                - generic [ref=e1611]:
+                  - generic [ref=e1612]:
+                    - generic [ref=e1616]: 27 chapters
+                    - button [ref=e1617]
+                  - button "More" [ref=e1622]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - img
+      - text: •
+  - generic:
+    - generic:
+      - generic:
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic "YouTube Video Player":
+                          - generic:
+                            - button "Play":
+                              - img

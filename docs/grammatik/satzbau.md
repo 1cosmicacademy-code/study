@@ -1,0 +1,132 @@
+# بناء الجملة (Satzbau) في اللغة الألمانية
+
+🎯 في الألمانية، ترتيب الكلمات **محدد بقواعد ثابتة** — الفعل دائماً في مكانه! فهم بناء الجملة هو مفتاح التحدث صحيحاً.
+
+---
+
+## 💡 القاعدة الأساسية: الفعل في الموضع الثاني
+
+في الجملة الخبرية (Aussagesatz)، **الفعل دائماً في الموضع الثاني**.
+
+```
+1         2
+Ich       lerne    Deutsch.
+الموضع 1  الفعل    الباقي
+```
+
+```
+1            2
+Heute         lerne    ich Deutsch.
+اليوم (الموضع 1)   الفعل   الفاعل الباقي
+```
+
+**ملاحظة:** "الموضع الثاني" لا يعني الكلمة الثانية، بل العنصر الثاني (قد يكون كلمة أو مجموعة كلمات).
+
+## 💡 أنواع الجمل في الألمانية
+
+### 1. الجملة الخبرية (Aussagesatz) — Verb Position 2
+
+```
+Ich komme aus Syrien.
+Jetzt wohne ich in Berlin.
+Mein Bruder arbeitet in München.
+```
+
+### 2. سؤال بـ W-Frage — Verb Position 2
+
+```
+Wo wohnst du? → أين تسكن؟
+Wie heißt du? → ما اسمك؟
+Was machst du? → ماذا تفعل؟
+```
+
+### 3. سؤال بـ Ja/Nein — Verb Position 1
+
+```
+Kommst du aus Ägypten? → هل أنت من مصر؟
+Hast du Kinder? → هل عندك أطفال?
+Lernst du Deutsch? → هل تتعلم الألمانية؟
+```
+
+### 4. الأمر (Imperativ) — Verb Position 1
+
+```
+Komm her! → تعال إلى هنا!
+Gehen Sie! → اذهب!
+```
+
+## ⚠️ الجملة الثانوية (Nebensatz) — الفعل في آخر الجملة
+
+في الجملة الثانوية (التي تبدأ بـ dass, weil, wenn, obwohl)، **الفعل يذهب لآخر الجملة**.
+
+```
+... weil ich Deutsch lerne.
+... dass er morgen kommt.
+... wenn du Zeit hast.
+```
+
+**جملة كاملة:**
+- Ich lerne Deutsch, **weil ich in Deutschland wohne.** 
+- **Wenn ich Zeit habe**, komme ich zu dir.
+
+## 📊 جدول ترتيب الكلمات
+
+| نوع الجملة | Position 1 | Position 2 (Verb) | Rest | End |
+|-----------|-----------|-------------------|------|-----|
+| خبرية | Ich | **lerne** | Deutsch | — |
+| خبرية (ظرف في البداية) | Heute | **lerne** | ich Deutsch | — |
+| W-Frage | Wo | **wohnst** | du? | — |
+| Ja/Nein | — | **Kommst** | du? | — |
+| جملة ثانوية | ..., weil | ich | Deutsch | **lerne** |
+
+## 🎯 قاعدة ذهبية
+
+```
+الجملة الخبرية:    الفعل في الموضع 2
+W-Frage:           أداة السؤال + الفعل في الموضع 2
+Ja/Nein-Frage:     الفعل في الموضع 1
+الجملة الثانوية:   الفعل في آخر الجملة
+```
+
+## 📝 تمارين
+
+### تمرين 1: رتب الجملة
+
+1. (lerne / Ich / Deutsch) → ___
+2. (wohnst / du / Wo) → ___?
+3. (Kinder / hast / du / ?) → ___?
+4. (heute / Ich / kaufe / ein / Brot) → ___
+5. (... weil / lerne / ich / Deutsch) → ___
+
+### تمرين 2: أكمل الجملة — الفعل في الموضع الصحيح
+
+1. Ich ___ (wohnen) in Berlin.
+2. Wo ___ (arbeiten) du?
+3. ___ (haben) du einen Bruder?
+4. Heute ___ (sein) ich zu Hause.
+5. ... weil ich kein Auto ___ (haben).
+
+### تمرين 3: حدد نوع الجملة
+
+1. Kommst du mit? → ___
+2. Ich heiße Ali. → ___
+3. Was machst du? → ___
+4. Geh nach Hause! → ___
+5. ... weil es regnet. → ___
+
+## ✅ الحلول
+
+### حل تمرين 1
+1. Ich lerne Deutsch.
+2. Wo wohnst du?
+3. Hast du Kinder?
+4. Heute kaufe ich ein Brot.
+5. ... weil ich Deutsch lerne.
+
+### حل تمرين 2
+1. wohne | 2. arbeitest | 3. Hast | 4. bin | 5. habe
+
+### حل تمرين 3
+1. Ja/Nein-Frage | 2. Aussagesatz | 3. W-Frage | 4. Imperativ | 5. Nebensatz
+
+---
