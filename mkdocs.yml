@@ -1,6 +1,6 @@
 site_name: تعلم الألمانية | Learn German
 site_description: موقع تعلم اللغة الألمانية للمبتدئين — Integrationskurs A1/A2
-site_author: Delta Mentor
+site_author: Ahmad Sharf
 
 theme:
   name: material
@@ -37,7 +37,7 @@ extra:
       link: /en/
       lang: en
 
-copyright: Copyright &copy; 2026 Delta Mentor
+copyright: Copyright &copy; 2026 Ahmad Sharf
 
 extra_javascript:
   - assets/js/video-switcher.js
@@ -64,6 +64,48 @@ plugins:
             Grammar: القواعد (Grammatik)
             Grammar Overview: نظرة عامة
             Study Plan: الخطة التعليمية
+            ## A1 Kursbuch + Übungsbuch
+            Lektion 1 - Hallo!: الدرس 1 - Hallo!
+            Lektion 2 - Berufe: الدرس 2 - Berufe
+            Lektion 3 - Orte und Dinge: الدرس 3 - Orte und Dinge
+            Lektion 4 - Familie: الدرس 4 - Familie
+            Lektion 5 - Alltag und Freizeit: الدرس 5 - Alltag und Freizeit
+            Lektion 6 - Arbeitszeiten: الدرس 6 - Arbeitszeiten
+            Lektion 7 - Essen: الدرس 7 - Essen
+            Lektion 8 - Party: الدرس 8 - Party
+            Lektion 9 - Termine: الدرس 9 - Termine
+            Lektion 10 - Bus und Bahn: الدرس 10 - Bus und Bahn
+            Lektion 11 - Wohnen: الدرس 11 - Wohnen
+            Lektion 12 - Ausbildung: الدرس 12 - Ausbildung
+            Lektion 13 - Beim Arzt: الدرس 13 - Beim Arzt
+            Lektion 14 - Krankschreibung: الدرس 14 - Krankschreibung
+            Lektion 15 - Wege in der Stadt: الدرس 15 - Wege in der Stadt
+            Lektion 16 - Im Laden: الدرس 16 - Im Laden
+            Lektion 17 - Arbeit: الدرس 17 - Arbeit
+            Lektion 18 - Im Büro: الدرس 18 - Im Büro
+            Lektion 19 - Reisen in Deutschland: الدرس 19 - Reisen in Deutschland
+            Lektion 20 - Feste und Feiern: الدرس 20 - Feste und Feiern
+            ## A2 Kursbuch + Übungsbuch
+            Lektion 1 - Unser neuer Weg: الدرس 1 - Unser neuer Weg
+            Lektion 2 - Arbeiten und Lernen: الدرس 2 - Arbeiten und Lernen
+            Lektion 3 - In unserer Freizeit: الدرس 3 - In unserer Freizeit
+            Lektion 4 - Wohnen und Nachbarn: الدرس 4 - Wohnen und Nachbarn
+            Lektion 5 - Mein neuer Job: الدرس 5 - Mein neuer Job
+            Lektion 6 - Auf dem Weg zur Arbeit: الدرس 6 - Auf dem Weg zur Arbeit
+            Lektion 7 - Gesundheit erhalten: الدرس 7 - Gesundheit erhalten
+            Lektion 8 - Sicherheit am Arbeitsplatz: الدرس 8 - Sicherheit am Arbeitsplatz
+            Lektion 9 - Große und kleine Dinge: الدرس 9 - Große und kleine Dinge
+            Lektion 10 - Durch die Stadt: الدرس 10 - Durch die Stadt
+            Lektion 11 - Information und Unterhaltung: الدرس 11 - Information und Unterhaltung
+            Lektion 12 - In der Schule: الدرس 12 - In der Schule
+            Lektion 13 - Selbstständig arbeiten: الدرس 13 - Selbstständig arbeiten
+            Lektion 14 - Zusammenleben: الدرس 14 - Zusammenleben
+            Lektion 15 - Mit dem Auto reisen: الدرس 15 - Mit dem Auto reisen
+            Lektion 16 - Sport und Ernährung: الدرس 16 - Sport und Ernährung
+            Lektion 17 - Geschäfte: الدرس 17 - Geschäfte
+            Lektion 18 - Alles über Geld: الدرس 18 - Alles über Geld
+            Lektion 19 - Unterwegs: الدرس 19 - Unterwegs
+            Lektion 20 - Erinnerungen und Wünsche: الدرس 20 - Erinnerungen und Wünsche
         - locale: en
           name: English
           build: true
