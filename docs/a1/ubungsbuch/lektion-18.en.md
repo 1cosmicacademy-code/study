@@ -1,33 +1,39 @@
-# 📝 Exercises Lektion 18: Im Büro — At the Office
+# 📝 Exercises Lektion 18: Beim Amt — At the Government Office
 
-> 🏢 **Goal:** Test yourself on office vocabulary, phone communication, and writing emails.
+> 🏛️ **Goal:** Test yourself on government office vocabulary, official procedures, and using Modalverben (müssen, dürfen, können, sollen) in formal contexts.
 > 💡 **Tip:** Try to solve the exercises by yourself first, then check the answers!
 
 ---
 
-## Exercise 1: Fill in the blank — At the Office 🖊️
+## Exercise 1: Fill in the blank — At the Government Office 🏛️
 
 **Put the correct word in the blank:**
 
-**Words:** der Schreibtisch — das Telefon — der Computer — der Kollege — die Besprechung
+**Words:** das Amt — der Beamte — das Formular — der Antrag — der Pass — der Ausweis — die Unterschrift — der Schalter
 
 | # | Sentence | Correct Word |
 |---|----------|--------------|
-| 1 | Ich arbeite am ______________. (I work on the computer) | ______________ |
-| 2 | Das ______________ klingelt. (The telephone is ringing) | ______________ |
-| 3 | Das ist mein ______________. (This is my desk) | ______________ |
-| 4 | Herr Müller ist in einer ______________. (Mr. Müller is in a meeting) | ______________ |
-| 5 | Mein ______________ heißt Peter. (My colleague's name is Peter) | ______________ |
+| 1 | Ich muss zum ______________ gehen. (I have to go to the government office) | ______________ |
+| 2 | Der ______________ hilft mir. (The civil servant helps me) | ______________ |
+| 3 | Ich muss ein ______________ ausfüllen. (I have to fill out a form) | ______________ |
+| 4 | Der ______________ kostet 60 Euro. (The passport application) | ______________ |
+| 5 | Wo ist ______________ Nummer 3? (Where is counter number 3?) | ______________ |
+| 6 | Ich brauche einen neuen ______________. (I need a new passport) | ______________ |
+| 7 | Bitte ______________ Sie hier. (Please sign here) | ______________ |
+| 8 | Haben Sie Ihren ______________ dabei? (Do you have your ID card with you?) | ______________ |
 
 ✅ **Answers:**
 
 | # | Answer |
 |---|--------|
-| 1 | **Computer** |
-| 2 | **Telefon** |
-| 3 | **Schreibtisch** |
-| 4 | **Besprechung** |
-| 5 | **Kollege** |
+| 1 | **Amt** |
+| 2 | **Beamte** |
+| 3 | **Formular** |
+| 4 | **Antrag** |
+| 5 | **Schalter** |
+| 6 | **Pass** |
+| 7 | **unterschreiben** *(Note: Unterschrift = noun, unterschreiben = verb)* |
+| 8 | **Ausweis** |
 
 ---
 
@@ -37,31 +43,31 @@
 
 | # | Sentence | Choices |
 |---|----------|---------|
-| 1 | Ich ______________ Herrn Schmidt an. | a) rufe / b) rufst / c) ruft |
-| 2 | ______________ Sie bitte Herrn Müller? (Can you connect me?) | a) Sprechen / b) Verbinden / c) Sagen |
-| 3 | Kann ich eine ______________ hinterlassen? | a) Termin / b) Nachricht / c) Büro |
-| 4 | Das Telefon ______________. (The phone rings) | a) klingelt / b) kauft / c) arbeitet |
-| 5 | Er ______________ Deutsch. (He speaks German) | a) sprecht / b) sprichst / c) spricht |
-| 6 | ______________ ich bitte Frau Schmidt sprechen? | a) Kann / b) Kannst / c) Könnt |
-| 7 | Ich schreibe eine ______________. | a) Anruf / b) E-Mail / c) Büro |
-| 8 | Guten Morgen, ______________ Schmidt! (Mr. Schmidt) | a) Frau / b) Herr / c) Kollege |
-| 9 | Auf Wiederhören! (means…) | a) Goodbye (on phone) / b) Good morning / c) See you later |
-| 10 | Der ______________ ist mein Chef. (The supervisor is my boss) | a) Kollegin / b) Sekretärin / c) Vorgesetzte |
+| 1 | Ich ______________ ein Formular ausfüllen. (must) | a) muss / b) darf / c) kann |
+| 2 | ______________ ich hereinkommen? (may I / am I allowed to) | a) Muss / b) Darf / c) Soll |
+| 3 | Sie ______________ Ihren Pass mitbringen. (are supposed to) | a) müssen / b) dürfen / c) sollen |
+| 4 | ______________ Sie mir bitte helfen? (can) | a) Müssen / b) Dürfen / c) Können |
+| 5 | Hier ______________ Sie nicht parken. (not allowed) | a) müssen / b) dürfen / c) können |
+| 6 | Der ______________ ist am Schalter 4. (the counter) | a) Antrag / b) Schalter / c) Termin |
+| 7 | Ich möchte einen ______________ machen. (appointment) | a) Antrag / b) Termin / c) Ausweis |
+| 8 | Die ______________ für den Pass ist 60 Euro. (the fee) | a) Unterschrift / b) Gebühr / c) Öffnungszeiten |
+| 9 | Sie ______________ das Formular ausfüllen. (must — formal) | a) musst / b) müssen / c) müsst |
+| 10 | ______________ ich morgen kommen? (can I — ich) | a) Darf / b) Kann / c) Soll |
 
 ✅ **Answers:**
 
 | # | Answer | Explanation |
 |---|--------|-------------|
-| 1 | **a) rufe** | Ich rufe… an (ich → rufe) |
-| 2 | **b) Verbinden** | verbinden = to connect a call |
-| 3 | **b) Nachricht** | eine Nachricht hinterlassen = to leave a message |
-| 4 | **a) klingelt** | klingeln = to ring |
-| 5 | **c) spricht** | er/sie spricht (e changes to i) |
-| 6 | **a) Kann** | Kann ich…? (ich → Kann) |
-| 7 | **b) E-Mail** | eine E-Mail schreiben = to write an email |
-| 8 | **b) Herr** | Herr = Mr. (for men) / Frau = Ms. |
-| 9 | **a) Goodbye (on phone)** | Auf Wiederhören = goodbye (on the phone only) |
-| 10 | **c) Vorgesetzte** | der Vorgesetzte = the supervisor |
+| 1 | **a) muss** | müssen = must / have to |
+| 2 | **b) Darf** | Darf ich = Am I allowed to |
+| 3 | **c) sollen** | sollen = are supposed to |
+| 4 | **c) Können** | Können Sie = Can you (formal) |
+| 5 | **b) dürfen** | dürfen + nicht = not allowed |
+| 6 | **b) Schalter** | der Schalter = counter / service window |
+| 7 | **b) Termin** | einen Termin machen = to make an appointment |
+| 8 | **b) Gebühr** | die Gebühr = fee |
+| 9 | **b) müssen** | Sie müssen (formal: you must) |
+| 10 | **b) Kann** | Kann ich = Can I |
 
 ---
 
@@ -71,284 +77,204 @@
 
 | # | German | English |
 |---|--------|---------|
-| 1. Einen Moment, bitte. | a. Goodbye (on the phone) |
-| 2. Kann ich … sprechen? | b. One moment, please. |
-| 3. Hier ist Anna. | c. He is in a meeting. |
-| 4. Auf Wiederhören! | d. Can I speak to …? |
-| 5. Tut mir leid. | e. Can I leave a message? |
-| 6. Er ist in einer Besprechung. | f. I'll connect you. |
-| 7. Ich verbinde Sie. | g. This is Anna. |
-| 8. Kann ich eine Nachricht hinterlassen? | h. I'm sorry. |
+| 1. Ich muss zum Amt. | a. Do you have an ID with you? |
+| 2. Können Sie mir helfen? | b. Where is the counter? |
+| 3. Ich möchte einen Pass beantragen. | c. I have to go to the office. |
+| 4. Haben Sie einen Termin? | d. Can you help me? |
+| 5. Bitte füllen Sie das Formular aus. | e. I want to apply for a passport. |
+| 6. Hier ist Ihr Antrag. | f. Please fill out the form. |
+| 7. Wo ist der Schalter? | g. Do you have an appointment? |
+| 8. Haben Sie Ihren Ausweis dabei? | h. Here is your application. |
 
 ✅ **Answers:**
 
 | # | Answer | Translation |
 |---|--------|-------------|
-| 1 | **b** — Einen Moment, bitte = One moment, please |
-| 2 | **d** — Kann ich … sprechen = Can I speak to … |
-| 3 | **g** — Hier ist Anna = This is Anna |
-| 4 | **a** — Auf Wiederhören = Goodbye (on the phone) |
-| 5 | **h** — Tut mir leid = I'm sorry |
-| 6 | **c** — Er ist in einer Besprechung = He is in a meeting |
-| 7 | **f** — Ich verbinde Sie = I'll connect you |
-| 8 | **e** — Kann ich eine Nachricht hinterlassen? = Can I leave a message? |
+| 1 | **c** — Ich muss zum Amt = I have to go to the office |
+| 2 | **d** — Können Sie mir helfen? = Can you help me? |
+| 3 | **e** — einen Pass beantragen = to apply for a passport |
+| 4 | **g** — Haben Sie einen Termin? = Do you have an appointment? |
+| 5 | **f** — Bitte füllen Sie das Formular aus = Please fill out the form |
+| 6 | **h** — Hier ist Ihr Antrag = Here is your application |
+| 7 | **b** — Wo ist der Schalter? = Where is the counter? |
+| 8 | **a** — Haben Sie Ihren Ausweis dabei? = Do you have your ID with you? |
 
 ---
 
-## Exercise 4: Fill in the blank — Verb conjugation 📝
-
-**Write the correct conjugation of the verb in brackets:**
-
-| # | Sentence | Correct form |
-|---|----------|-------------|
-| 1 | Ich ______________ Herrn Meier an. (anrufen) | ______________ |
-| 2 | Du ______________ sehr gut Deutsch. (sprechen) | ______________ |
-| 3 | Er ______________ "Hallo" am Telefon. (sagen) | ______________ |
-| 4 | Wir ______________ im Büro. (arbeiten) | ______________ |
-| 5 | Ihr ______________ Frau Schmidt? (fragen) | ______________ |
-| 6 | Sie ______________ eine E-Mail. (schreiben) | ______________ |
-| 7 | Das Telefon ______________ laut. (klingeln) | ______________ |
-| 8 | Ich ______________ eine Nachricht. (bekommen) | ______________ |
-
-✅ **Answers:**
-
-| # | Answer | Translation |
-|---|--------|-------------|
-| 1 | **rufe** an | I am calling Mr. Meier |
-| 2 | **sprichst** | You speak German very well |
-| 3 | **sagt** | He says "Hello" on the phone |
-| 4 | **arbeiten** | We work in the office |
-| 5 | **fragt** | You (all) ask for Ms. Schmidt? |
-| 6 | **schreiben** | They write an email / You (formal) write an email |
-| 7 | **klingelt** | The telephone is ringing loudly |
-| 8 | **bekomme** | I receive a message |
-
----
-
-## Exercise 5: Translate 🌍
+## Exercise 4: Translate 🌍
 
 **Translate these sentences from English to German:**
 
 | # | English | German |
 |---|---------|--------|
-| 1 | Can I speak to Mr. Müller, please? | ______________ |
-| 2 | This is Anna Weber. | ______________ |
-| 3 | One moment, please. I'll connect you. | ______________ |
-| 4 | I'm sorry, Mr. Müller is in a meeting. | ______________ |
-| 5 | Can I leave a message? | ______________ |
-| 6 | I'll call later. | ______________ |
-| 7 | Goodbye! (on the phone) | ______________ |
-| 8 | I work on the computer. | ______________ |
+| 1 | I must fill out a form. | ______________ |
+| 2 | Can you help me, please? | ______________ |
+| 3 | Where is the counter? | ______________ |
+| 4 | I want to apply for a passport. | ______________ |
+| 5 | Please sign here. | ______________ |
+| 6 | Do you have an appointment? | ______________ |
+| 7 | The office is open from 9 to 4. | ______________ |
+| 8 | Smoking is not allowed here. | ______________ |
 
 ✅ **Answers:**
 
 | # | English | German |
 |---|---------|--------|
-| 1 | Can I speak to Mr. Müller, please? | **Kann ich bitte Herrn Müller sprechen?** |
-| 2 | This is Anna Weber. | **Hier ist Anna Weber.** |
-| 3 | One moment, please. I'll connect you. | **Einen Moment, bitte. Ich verbinde Sie.** |
-| 4 | I'm sorry, Mr. Müller is in a meeting. | **Tut mir leid, Herr Müller ist in einer Besprechung.** |
-| 5 | Can I leave a message? | **Kann ich eine Nachricht hinterlassen?** |
-| 6 | I'll call later. | **Ich rufe später an.** |
-| 7 | Goodbye! (on the phone) | **Auf Wiederhören!** |
-| 8 | I work on the computer. | **Ich arbeite am Computer.** |
+| 1 | I must fill out a form. | **Ich muss ein Formular ausfüllen.** |
+| 2 | Can you help me, please? | **Können Sie mir bitte helfen?** |
+| 3 | Where is the counter? | **Wo ist der Schalter?** |
+| 4 | I want to apply for a passport. | **Ich möchte einen Pass beantragen.** |
+| 5 | Please sign here. | **Unterschreiben Sie bitte hier.** |
+| 6 | Do you have an appointment? | **Haben Sie einen Termin?** |
+| 7 | The office is open from 9 to 4. | **Das Amt ist von 9 bis 16 Uhr geöffnet.** |
+| 8 | Smoking is not allowed here. | **Hier dürfen Sie nicht rauchen.** |
 
 ---
 
-## Exercise 6: Form a sentence — Order the words 🧩
+## Exercise 5: Dialogue at the Government Office 💬
 
-**Put the words in order to make a correct sentence:**
+**Complete the dialogue between Mr. Khaled (citizen) and Ms. Weber (clerk):**
 
-| # | Words | Correct Sentence |
-|---|-------|------------------|
-| 1 | Herrn Müller / ich / anrufen | ______________ |
-| 2 | Sie / verbinden / ich | ______________ |
-| 3 | kann / sprechen / ich / Herrn Klein | ______________ |
-| 4 | in / Besprechung / ist / einer / sie | ______________ |
-| 5 | eine / schreibe / E-Mail / ich | ______________ |
-| 6 | Telefon / klingelt / das | ______________ |
-| 7 | am / arbeite / Computer / ich | ______________ |
-| 8 | später / rufe / ich / an | ______________ |
+> **Frau Weber:** Guten Morgen! Haben Sie einen (1) ______________?
+> *(Good morning! Do you have an appointment?)*
+>
+> **Herr Khaled:** Ja, um 10 Uhr. Ich möchte einen neuen (2) ______________ beantragen.
+> *(Yes, at 10 o'clock. I want to apply for a new passport.)*
+>
+> **Frau Weber:** Haben Sie Ihren alten Pass und Ihren (3) ______________ dabei?
+> *(Do you have your old passport and your ID with you?)*
+>
+> **Herr Khaled:** Ja, hier bitte.
+> *(Yes, here you go.)*
+>
+> **Frau Weber:** Gut. Dann (4) ______________ Sie dieses Formular ausfüllen.
+> *(Good. Then you must fill out this form.)*
+>
+> **Herr Khaled:** Wo muss ich (5) ______________?
+> *(Where must I sign?)*
+>
+> **Frau Weber:** Hier unten, bitte. Die (6) ______________ ist 60 Euro.
+> *(Here at the bottom, please. The fee is 60 euros.)*
+>
+> **Herr Khaled:** Kann ich mit Karte (7) ______________?
+> *(Can I pay by card?)*
+>
+> **Frau Weber:** Ja, natürlich! In (8) ______________ Wochen ist der Pass fertig.
+> *(Yes, of course! In four weeks the passport will be ready.)*
 
 ✅ **Answers:**
 
-| # | Correct Sentence | Translation |
-|---|------------------|-------------|
-| 1 | **Ich rufe Herrn Müller an.** | I am calling Mr. Müller. |
-| 2 | **Ich verbinde Sie.** | I'll connect you. |
-| 3 | **Kann ich Herrn Klein sprechen?** | Can I speak to Mr. Klein? |
-| 4 | **Sie ist in einer Besprechung.** | She is in a meeting. |
-| 5 | **Ich schreibe eine E-Mail.** | I am writing an email. |
-| 6 | **Das Telefon klingelt.** | The telephone is ringing. |
-| 7 | **Ich arbeite am Computer.** | I work on the computer. |
-| 8 | **Ich rufe später an.** | I'll call later. |
+(1) **Termin** | (2) **Pass / Reisepass** | (3) **Personalausweis** | (4) **müssen** | (5) **unterschreiben** | (6) **Gebühr** | (7) **bezahlen** | (8) **vier**
 
 ---
 
-## Exercise 7: True or False? ❌✅
+## Exercise 6: True or False? ❌✅
 
 **Is the sentence correct (✅) or wrong (❌)?**
 
 | # | Sentence | Correct/Wrong |
 |---|----------|:-------------:|
-| 1 | Ich rufe Herrn Müller an. (I am calling Mr. Müller) | |
-| 2 | Du sprecht gut Deutsch. (You speak German well) | |
-| 3 | Er sagt „Hallo" am Telefon. (He says "Hello" on the phone) | |
-| 4 | Das Telefon klingelt. (The telephone is ringing) | |
-| 5 | Wir schreibt eine E-Mail. (We are writing an email) | |
-| 6 | Sie ist in einer Besprechung. (She is in a meeting) | |
-| 7 | Kann ich eine Nachricht hinterlassen? (Can I leave a message?) | |
-| 8 | Ich verbinde Sie. means "I am calling" | |
-| 9 | You say "Auf Wiederhören" when you end a phone call | |
-| 10 | Der Kollege means "the boss" | |
+| 1 | Ich muss ein Formular ausfüllen. (I have to fill out a form) | |
+| 2 | Du darfst hier parken. means "You are NOT allowed to park here" | |
+| 3 | Können Sie mir bitte helfen? (Can you help me, please?) | |
+| 4 | Sie sollen den Pass mitbringen. (You are supposed to bring your passport) | |
+| 5 | Der Beamte = the civil servant | |
+| 6 | Die Gebühr kostet 20 Euro. means "the appointment" | |
+| 7 | Wo ist der Schalter? (Where is the counter?) | |
+| 8 | Ich möchte einen Termin machen. (I want to make an appointment) | |
+| 9 | Die Öffnungszeiten = opening hours | |
+| 10 | Der Antrag = the signature | |
 
 ✅ **Answers:**
 
 | # | Sentence | Correct/Wrong | Correction (if wrong) |
 |---|----------|:-------------:|-----------------------|
-| 1 | Ich rufe Herrn Müller an. | ✅ | Correct! (anrufen is separable → an at the end) |
-| 2 | Du sprecht gut Deutsch. | ❌ | **sprichst** (du → sprichst) |
-| 3 | Er sagt „Hallo" am Telefon. | ✅ | Correct! |
-| 4 | Das Telefon klingelt. | ✅ | Correct! |
-| 5 | Wir schreibt eine E-Mail. | ❌ | **schreiben** (wir → schreiben) |
-| 6 | Sie ist in einer Besprechung. | ✅ | Correct! |
-| 7 | Kann ich eine Nachricht hinterlassen? | ✅ | Correct! |
-| 8 | Ich verbinde Sie. | ❌ | **It means "I'll connect you"** not "I am calling" |
-| 9 | "Auf Wiederhören" — phone goodbye | ✅ | Correct! |
-| 10 | Der Kollege means "the boss" | ❌ | **der Kollege = the colleague** (the boss = der Chef) |
+| 1 | Ich muss ein Formular ausfüllen. | ✅ | Correct! (müssen + ausfüllen) |
+| 2 | Du darfst hier parken. | ❌ | It means **"You ARE allowed to park here"** not "not allowed". Negation: **Du darfst hier nicht parken.** |
+| 3 | Können Sie mir bitte helfen? | ✅ | Correct! (können = can) |
+| 4 | Sie sollen den Pass mitbringen. | ✅ | Correct! (sollen = supposed to) |
+| 5 | Der Beamte = the civil servant | ✅ | Correct! (die Beamtin = female civil servant) |
+| 6 | Die Gebühr kostet 20 Euro. | ❌ | **die Gebühr = the fee** not the appointment. Appointment = der Termin |
+| 7 | Wo ist der Schalter? | ✅ | Correct! |
+| 8 | Ich möchte einen Termin machen. | ✅ | Correct! |
+| 9 | Die Öffnungszeiten = opening hours | ✅ | Correct! |
+| 10 | Der Antrag = the signature | ❌ | **der Antrag = the application**, signature = die Unterschrift |
 
 ---
 
-## Exercise 8: Dialogue at the Office 💬
+## Exercise 7: Form a sentence — Order the words with Modalverben 🧩
 
-**Complete the dialogue between Anna (employee) and Mr. Klein (caller):**
+**Put the words in order to make a correct sentence with Modalverb (remember: the main verb goes to the end!):**
 
-> **Anna:** Firma Weber, guten Tag. Anna Weber ______________ Telefon.
-> *(Weber Company, good day. Anna Weber on the phone.)*
->
-> **Herr Klein:** Guten Tag, Frau Weber. Hier ist Hans Klein. Kann ich ______________ Herrn Müller sprechen?
-> *(Good day, Ms. Weber. This is Hans Klein. Can I speak to Mr. Müller, please?)*
->
-> **Anna:** Einen ______________, bitte. Ich ______________ Sie.
-> *(One moment, please. I'll connect you.)*
->
-> **Anna:** Tut mir ______________, Herr Klein. Herr Müller ist ______________ in einer Besprechung.
-> *(I'm sorry, Mr. Klein. Mr. Müller is currently in a meeting.)*
->
-> **Herr Klein:** Kann ich eine ______________ hinterlassen?
-> *(Can I leave a message?)*
->
-> **Anna:** Ja, ______________! Ich sage es Herrn Müller.
-> *(Yes, of course! I'll tell Mr. Müller.)*
->
-> **Herr Klein:** ______________ sagen Sie: Hans Klein ruft an. Ich rufe später ______________ einmal an.
-> *(Please say: Hans Klein called. I'll call again later.)*
->
-> **Anna:** Kein Problem. Ich richte es ______________.
-> *(No problem. I'll pass it on.)*
->
-> **Herr Klein:** Vielen ______________! Auf Wiederhören!
-> *(Thank you very much! Goodbye!)*
->
-> **Anna:** Auf Wiederhören, Herr Klein!
-> *(Goodbye, Mr. Klein!)*
+| # | Words | Correct Sentence |
+|---|-------|------------------|
+| 1 | zum Amt / Ich / gehen / muss | ______________ |
+| 2 | ein Formular / ausfüllen / Sie / müssen | ______________ |
+| 3 | kann / Wo / einen Termin / ich / machen? | ______________ |
+| 4 | hier / Sie / dürfen / nicht / parken | ______________ |
+| 5 | den Pass / sollen / Sie / mitbringen | ______________ |
+| 6 | mir / Können / helfen / Sie / bitte? | ______________ |
+| 7 | Antrag / müssen / unterschreiben / Sie / den | ______________ |
+| 8 | die Karte / Ich / können / mit / bezahlen | ______________ |
 
 ✅ **Answers:**
 
-> **Anna:** Firma Weber, guten Tag. Anna Weber **am** Telefon.
->
-> **Herr Klein:** Guten Tag, Frau Weber. Hier ist Hans Klein. Kann ich **bitte** Herrn Müller sprechen?
->
-> **Anna:** Einen **Moment**, bitte. Ich **verbinde** Sie.
->
-> **Anna:** Tut mir **leid**, Herr Klein. Herr Müller ist **gerade** in einer Besprechung.
->
-> **Herr Klein:** Kann ich eine **Nachricht** hinterlassen?
->
-> **Anna:** Ja, **natürlich**! Ich sage es Herrn Müller.
->
-> **Herr Klein:** **Bitte** sagen Sie: Hans Klein ruft an. Ich rufe später **noch** einmal an.
->
-> **Anna:** Kein Problem. Ich richte es **aus**.
->
-> **Herr Klein:** Vielen **Dank**! Auf Wiederhören!
->
-> **Anna:** Auf Wiederhören, Herr Klein!
-
-> 💡 **Note:** **gerade** = right now / at the moment. **noch einmal** = once more / again.
+| # | Correct Sentence | Translation |
+|---|------------------|-------------|
+| 1 | **Ich muss zum Amt gehen.** | I have to go to the government office. |
+| 2 | **Sie müssen ein Formular ausfüllen.** | You (formal) must fill out a form. |
+| 3 | **Wo kann ich einen Termin machen?** | Where can I make an appointment? |
+| 4 | **Hier dürfen Sie nicht parken.** | You are not allowed to park here. |
+| 5 | **Sie sollen den Pass mitbringen.** | You are supposed to bring your passport. |
+| 6 | **Können Sie mir bitte helfen?** | Can you help me, please? |
+| 7 | **Sie müssen den Antrag unterschreiben.** | You must sign the application. |
+| 8 | **Ich kann mit der Karte bezahlen.** | I can pay by card. |
 
 ---
 
-## Exercise 9: Write the Opposite (Gegenteil) 🔄
+## Exercise 8: Fill Out a Passport Application (Antrag ausfüllen) 📄
 
-**Write the opposite of the word:**
-
-| # | Word | Opposite |
-|---|------|----------|
-| 1 | **der Chef** (the boss) → | ______________ (________) |
-| 2 | **morgens** (in the morning) → | ______________ (________) |
-| 3 | **anrufen** (to call) → | ______________ (to answer the phone) |
-| 4 | **sagen** (to say) → | ______________ (to ask) |
-| 5 | **kommen** (to come) → | ______________ (to go) |
-
-✅ **Answers:**
-
-| # | Word | Opposite | Pronunciation |
-|---|------|----------|---------------|
-| 1 | der Chef (the boss) | **der Mitarbeiter** (the employee) | deer MIT-ar-bye-ter |
-| 2 | morgens (in the morning) | **abends** (in the evening) | AH-bents |
-| 3 | anrufen (to call) | **ans Telefon gehen** (to answer the phone) | ahns teh-LEH-fohn GAY-en |
-| 4 | sagen (to say) | **fragen** (to ask) | FRAH-gen |
-| 5 | kommen (to come) | **gehen** (to go) | GAY-en |
-
----
-
-## Exercise 10: Write a Short Email 📧
-
-**Use the words to form a correct email. Put the sentences in order:**
-
-**Subject:** Termin am Montag
-
-**Words:** Lieber / Hallo / Herr Müller / vielen Dank / E-Mail / Termin / Montag / 9 Uhr / gut / ich / kommen / Büro / Viele Grüße / Anna
-
-**The correct email:**
+**Fill out the passport application form — translate the information from English to German:**
 
 ```
-Betreff: ______________
+═══════════════════════════════════════
+         ANTRAG AUF EINEN REISEPASS
+           (Passport Application)
+═══════════════════════════════════════
 
-______________,
+1. Vorname:        → Ahmad → ______________
+2. Nachname:       → Sharaf → ______________
+3. Geburtsdatum:   → 15.03.1995 → ______________
+4. Geburtsort:     → Damascus → ______________
+5. Staatsangehörigkeit: → Syrian → ______________
+6. Wohnort:        → Berlin → ______________
+7. Straße:         → Hauptstraße 25 → ______________
+8. Telefonnummer:  → 0157 12345678 → ______________
+9. E-Mail:         → ahmad@email.com → ______________
+10. Datum:         → 01.07.2026 → ______________
+11. Unterschrift:  → ______________
 
-______________ für Ihre ______________.
-Der ______________ am ______________ um ______________ ist ______________.
-______________ komme ins ______________.
-
-______________
-______________
 ```
 
 ✅ **Answers:**
 
 ```
-Betreff: Termin am Montag
+═══════════════════════════════════════
+         ANTRAG AUF EINEN REISEPASS
+═══════════════════════════════════════
 
-Lieber Herr Müller,
-
-Vielen Dank für Ihre E-Mail.
-Der Termin am Montag um 9 Uhr ist gut.
-Ich komme ins Büro.
-
-Viele Grüße
-Anna
+1. Vorname:        → Ahmad
+2. Nachname:       → Scharf / Sharaf
+3. Geburtsdatum:   → 15.03.1995
+4. Geburtsort:     → Damaskus
+5. Staatsangehörigkeit: → syrisch
+6. Wohnort:        → Berlin
+7. Straße:         → Hauptstraße 25
+8. Telefonnummer:  → 0157 12345678
+9. E-Mail:         → ahmad@email.com
+10. Datum:         → 01.07.2026
+11. Unterschrift:  → ________________
 ```
-
-> **Translation:**  
-> Subject: Appointment on Monday  
-> Dear Mr. Müller,  
-> Thank you very much for your email.  
-> The appointment on Monday at 9 o'clock is good.  
-> I'll come to the office.  
-> Best regards  
-> Anna
 
 ---
 
@@ -356,18 +282,16 @@ Anna
 
 | Exercise | Topic | ✔️ Done? |
 |----------|-------|:--------:|
-| 1 | Office vocabulary — fill in | ⬜ |
-| 2 | Choose the correct answer | ⬜ |
-| 3 | Match phrases | ⬜ |
-| 4 | Verb conjugation | ⬜ |
-| 5 | Translate sentences | ⬜ |
-| 6 | Order the sentences | ⬜ |
-| 7 | True or false | ⬜ |
-| 8 | Office phone dialogue | ⬜ |
-| 9 | Write the opposite | ⬜ |
-| 10 | Write a short email | ⬜ |
+| 1 | Government office vocabulary — fill in | ⬜ |
+| 2 | Choose the correct answer — Modalverben | ⬜ |
+| 3 | Match phrases (German → English) | ⬜ |
+| 4 | Translate sentences — At the Amt | ⬜ |
+| 5 | Dialogue at the government office | ⬜ |
+| 6 | True or false | ⬜ |
+| 7 | Word order with Modalverben | ⬜ |
+| 8 | Fill out a passport application form | ⬜ |
 
-> 🎉 **Well done!** If you solved all the exercises, you're ready to make phone calls in German and communicate in any office!
+> 🎉 **Well done!** If you solved all the exercises, you're ready to visit any Amt in Germany and communicate with government officials in German!
 > 👉 Go to the next lesson: [Lektion 19: Reisen in Deutschland](index.md)
 
 [🔙 Back to Exercises](index.md)

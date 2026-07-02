@@ -25,7 +25,7 @@
 | 15 | [Lektion 15: Wege in der Stadt](lektion-15.md) | الطرق في المدينة — اتجاهات |
 | 16 | [Lektion 16: Im Laden](lektion-16.md) | في المتجر — التسوق |
 | 17 | [Lektion 17: Arbeit](lektion-17.md) | العمل — المهن والواجبات |
-| 18 | [Lektion 18: Im Büro](lektion-18.md) | في المكتب — الاتصالات |
+| 18 | [Lektion 18: Beim Amt](lektion-18.md) | في الدائرة الحكومية — المعاملات الرسمية |
 | 19 | [Lektion 19: Reisen in Deutschland](lektion-19.md) | السفر في ألمانيا |
 | 20 | [Lektion 20: Feste und Feiern](lektion-20.md) | الأعياد والاحتفالات |
 

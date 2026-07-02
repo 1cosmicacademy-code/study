@@ -1,378 +1,361 @@
-# 📕 Lektion 18: Im Büro — At the Office (Communication)
+# 📕 Lektion 18: Beim Amt — At the Government Office
 
-> 🏢 **Welcome!** In this lesson you'll learn how to communicate in the office in German! How to make phone calls, say "hello," ask for a colleague, and write a simple email. A very important lesson for work!
+> 🏛️ **Welcome!** In this lesson you'll learn how to deal with government offices (Amt) in German. How to request a form, apply for a passport, understand official opening hours, and use modal verbs (Modalverben) in formal contexts. An essential lesson for anyone living in or visiting Germany!
 
 ---
 
 ## 🎬 Lesson Video
----
-
-## 1. 🏢 New Words (Neue Wörter) — At the Office
-
-Let's learn important words about the office and communication. These words will help you talk at work!
-
-### 🪑 Office Furniture (Büromöbel)
-
-| German | Pronunciation | English |
-|--------|---------------|---------|
-| **das Büro** | **dahs bü-ROH** | the office |
-| **der Schreibtisch** | **deer SHRIPE-tish** | the desk |
-| **der Computer** | **deer com-PYOO-ter** | the computer |
-| **der Laptop** | **deer LAP-top** | the laptop |
-| **das Telefon** | **dahs TEH-leh-fohn** | the telephone |
-| **das Handy** | **dahs HAN-dee** | the mobile phone / cell phone |
-| **der Stuhl** | **deer shtool** | the chair |
-| **der Tisch** | **deer tish** | the table |
-| **der Drucker** | **deer DRU-ker** | the printer |
-
-### 👥 People at the Office (Die Leute im Büro)
-
-| German | Pronunciation | English |
-|--------|---------------|---------|
-| **der Kollege** | **deer ko-LAY-guh** | the colleague (male) |
-| **die Kollegin** | **dee ko-LAY-gin** | the colleague (female) |
-| **der Chef** | **deer shef** | the boss / manager (male) |
-| **die Chefin** | **dee SHEF-in** | the boss / manager (female) |
-| **der Mitarbeiter** | **deer MIT-ar-bye-ter** | the employee / coworker (male) |
-| **die Mitarbeiterin** | **dee MIT-ar-bye-ter-in** | the employee / coworker (female) |
-| **der Sekretär** | **deer zeh-kreh-TEHR** | the secretary (male) |
-| **die Sekretärin** | **dee zeh-kreh-TEH-rin** | the secretary (female) |
-| **der Vorgesetzte** | **deer FOR-ge-set-stuh** | the supervisor / superior |
-
-### 📞 Communication (Kommunikation)
-
-| German | Pronunciation | English |
-|--------|---------------|---------|
-| **das Telefonat** | **dahs teh-leh-foh-NAHT** | the phone call |
-| **der Anruf** | **deer AHN-roof** | the call |
-| **die E-Mail** | **dee EE-mayl** | the email |
-| **die Nachricht** | **dee NAKH-risht** | the message |
-| **das Gespräch** | **dahs ge-SHPRERKH** | the conversation |
-| **der Termin** | **deer ter-MEEN** | the appointment / meeting |
-| **die Besprechung** | **dee be-SHPRER-khoong** | the meeting |
-| **das Meeting** | **dahs MEE-ting** | the meeting |
-| **die Notiz** | **dee no-TEETS** | the note |
-
-### 🖊️ Office Supplies (Büromaterial)
-
-| German | Pronunciation | English |
-|--------|---------------|---------|
-| **der Stift** | **deer shtift** | the pen |
-| **der Kugelschreiber** | **deer KOO-gel-shry-ber** | the ballpoint pen |
-| **das Papier** | **dahs pa-PEER** | the paper |
-| **der Bleistift** | **deer BLY-shtift** | the pencil |
-| **der Notizblock** | **deer no-TEETS-blok** | the notepad |
-
-> 💡 **Tip:** In Germany, people at the office say **"Herr"** for Mr. and **"Frau"** for Ms./Mrs. For example: **Herr Müller** = Mr. Müller, **Frau Schmidt** = Ms. Schmidt.
 
 ---
 
-## 2. 📞 Grammar: How to Make Phone Calls (Telefonieren)
+## 1. 🏛️ New Words (Neue Wörter) — At the Government Office
 
-Let's learn how to call and answer the phone in German. Super easy!
+Let's learn important words about government offices and official procedures. These words will be very useful if you need to visit an Amt in Germany.
 
-### 🟢 Starting a call (answering the phone):
-
-| German | English |
-|--------|---------|
-| **Hallo?** | Hello? |
-| **Guten Tag, Firma Schmidt.** | Good day, Schmidt Company. |
-| **Firma Meyer, guten Tag.** | Meyer Company, good day. |
-| **Hier ist Peter Müller.** | This is Peter Müller. |
-
-### 🟢 Saying who you are:
-
-| German | English |
-|--------|---------|
-| **Hier ist Anna.** | This is Anna. |
-| **Mein Name ist Anna Weber.** | My name is Anna Weber. |
-| **Ich bin Anna Weber.** | I am Anna Weber. |
-| **Anna Weber, guten Tag.** | Anna Weber, good day. |
-
-### 🟢 Asking for someone:
-
-| German | English |
-|--------|---------|
-| **Kann ich bitte Herrn Müller sprechen?** | Can I speak to Mr. Müller, please? |
-| **Ich möchte bitte Frau Schmidt sprechen.** | I would like to speak to Ms. Schmidt, please. |
-| **Ist Herr Müller da, bitte?** | Is Mr. Müller there, please? |
-| **Ich hätte gern Frau Schmidt, bitte.** | I'd like Ms. Schmidt, please. |
-
-### 🟢 Responding:
-
-| German | English |
-|--------|---------|
-| **Ja, einen Moment bitte.** | Yes, one moment please. |
-| **Einen Augenblick, bitte.** | One moment, please. |
-| **Ich verbinde Sie.** | I'll connect you. |
-| **Tut mir leid, er ist nicht da.** | Sorry, he's not here. |
-| **Er ist in einer Besprechung.** | He's in a meeting. |
-| **Kann ich etwas ausrichten?** | Can I pass on a message? |
-| **Möchten Sie eine Nachricht hinterlassen?** | Would you like to leave a message? |
-
-### 🟢 Important verbs for phone calls:
+### 🏢 The Place and People
 
 | German | Pronunciation | English |
 |--------|---------------|---------|
-| **anrufen** | **AHN-roo-fen** | to call (on the phone) |
-| **telefonieren** | **teh-leh-foh-NEE-ren** | to talk on the phone |
-| **sprechen** | **SHPRER-khen** | to speak |
-| **sagen** | **ZAH-gen** | to say |
-| **fragen** | **FRAH-gen** | to ask |
-| **antworten** | **ANT-for-ten** | to answer |
-| **wählen** | **VEH-len** | to dial |
-| **klingeln** | **KLING-eln** | to ring |
-| **verbinden** | **fer-BIN-den** | to connect (a call) |
-| **ausrichten** | **OUS-rish-ten** | to pass on (a message) |
+| **das Amt** | **dahs AMT** | the government office / authority |
+| **der Beamte** | **deer be-AM-tuh** | the civil servant (male) |
+| **die Beamtin** | **dee be-AM-tin** | the civil servant (female) |
+| **der Bürger** | **deer BUR-ger** | the citizen (male) |
+| **die Bürgerin** | **dee BUR-ger-in** | the citizen (female) |
+| **der Sachbearbeiter** | **deer ZAKH-bar-bye-ter** | the officer in charge (male) |
+| **die Sachbearbeiterin** | **dee ZAKH-bar-bye-ter-in** | the officer in charge (female) |
 
-### 🟢 Conjugation of **sprechen** (to speak) — very important!
+### 📄 Documents and Applications
+
+| German | Pronunciation | English |
+|--------|---------------|---------|
+| **das Formular** | **dahs for-moo-LAHR** | the form |
+| **der Antrag** | **deer AHN-trahk** | the application (formal) |
+| **der Pass** | **deer pahs** | the passport |
+| **der Ausweis** | **deer OUS-vays** | the ID card |
+| **der Personalausweis** | **deer per-zoh-NAHL-ous-vays** | the personal ID card |
+| **die Unterschrift** | **dee UN-ter-shrift** | the signature |
+| **der Antragsteller** | **deer AHN-trahk-shtel-er** | the applicant |
+| **das Dokument** | **dahs doh-koo-MENT** | the document |
+| **die Bescheinigung** | **dee be-SHY-nee-goong** | the certificate / proof |
+| **die Gebühr** | **dee ge-BUHR** | the fee / charge |
+
+### 🕐 Practical Information
+
+| German | Pronunciation | English |
+|--------|---------------|---------|
+| **der Schalter** | **deer SHAL-ter** | the counter / window |
+| **die Öffnungszeiten** | **dee UFF-noongs-tsy-ten** | the opening hours |
+| **die Sprechzeiten** | **dee SHRERKH-tsy-ten** | the office hours / consultation times |
+| **das Anliegen** | **dahs AHN-lee-gen** | the concern / matter |
+| **die Nummer** | **dee NUM-mer** | the number (queue) |
+| **das Wartezeichen** | **dahs VAR-te-tsy-khen** | the waiting number |
+| **der Termin** | **deer ter-MEEN** | the appointment |
+
+### ⚠️ Important Adjectives
+
+| German | Pronunciation | English |
+|--------|---------------|---------|
+| **zuständig** | **tsoo-SHTEN-dikh** | responsible / in charge |
+| **gültig** | **GUL-tikh** | valid |
+| **ungültig** | **UN-gul-tikh** | invalid |
+| **kostenlos** | **KOS-ten-lohs** | free of charge |
+| **gebührenpflichtig** | **ge-BUHR-en-pflikh-tikh** | subject to a fee |
+
+> 💡 **Tip:** In Germany, most government offices require an **appointment (Termin)** in advance. You can book online or by phone. The word **"Amt"** refers to any government office: Bürgeramt (citizens' office), Ausländeramt (foreigners' office), Finanzamt (tax office).
+
+---
+
+## 2. ⚠️ Grammar: Modal Verbs (Modalverben) in Formal Contexts
+
+In government offices, modal verbs are very important. Let's learn the four most commonly used ones in formal contexts.
+
+### 🟢 müssen — must / have to
+
+We use **müssen** at the Amt to express obligation — something you have to do.
 
 | Pronoun | Conjugation | Pronunciation |
 |:-------:|------------|---------------|
-| ich (I) | **spreche** | SHPREH-khuh |
-| du (you, informal) | **sprichst** | shprikhst |
-| er / sie / es (he/she/it) | **spricht** | shprikht |
-| wir (we) | **sprechen** | SHPREH-khen |
-| ihr (you all) | **sprecht** | shprekht |
-| sie (they) | **sprechen** | SHPREH-khen |
-| Sie (you, formal) | **sprechen** | SHPREH-khen |
+| ich | **muss** | mooss |
+| du | **musst** | moosst |
+| er / sie / es | **muss** | mooss |
+| wir | **müssen** | MUU-sen |
+| ihr | **müsst** | muusst |
+| sie | **müssen** | MUU-sen |
+| Sie | **müssen** | MUU-sen |
 
-> ⚠️ **Attention!** The verb **sprechen** changes in **du** and **er/sie/es**: **sprichst** and **spricht** (the letter **e** changes to **i**)
+**Examples:**
+- **Ich muss ein Formular ausfüllen.** — I have to fill out a form.
+- **Sie müssen den Antrag unterschreiben.** — You must sign the application.
+- **Wir müssen einen Termin machen.** — We have to make an appointment.
 
-### 🟢 Conjugation of **anrufen** (to call):
+### 🟢 dürfen — may / be allowed to
+
+We use **dürfen** for permission or prohibition (with **nicht**).
 
 | Pronoun | Conjugation | Pronunciation |
 |:-------:|------------|---------------|
-| ich (I) | **rufe an** | ROO-fuh ahn |
-| du (you, informal) | **rufst an** | roofst ahn |
-| er / sie / es (he/she/it) | **ruft an** | rooft ahn |
-| wir (we) | **rufen an** | ROO-fen ahn |
-| ihr (you all) | **ruft an** | rooft ahn |
-| sie (they) | **rufen an** | ROO-fen ahn |
-| Sie (you, formal) | **rufen an** | ROO-fen ahn |
+| ich | **darf** | darf |
+| du | **darfst** | darfst |
+| er / sie / es | **darf** | darf |
+| wir | **dürfen** | DUR-fen |
+| ihr | **dürft** | durft |
+| sie | **dürfen** | DUR-fen |
+| Sie | **dürfen** | DUR-fen |
 
-> 💡 **Note:** Verbs that start with **an-** are separable verbs. In a sentence, **an** goes to the end!
-> Example: **Ich rufe Herrn Müller an.** (I'm calling Mr. Müller.)
+**Examples:**
+- **Hier dürfen Sie nicht parken.** — You are not allowed to park here.
+- **Darf ich hereinkommen?** — May I come in?
+- **Sie dürfen den Raum erst verlassen, wenn Sie aufgerufen werden.** — You may not leave the room until you are called.
 
-### 🗣️ Useful Sentences in the Office
+### 🟢 können — can / be able to
 
-| German | English |
-|--------|---------|
-| **Guten Morgen, Herr Schmidt!** | Good morning, Mr. Schmidt! |
-| **Kann ich Ihnen helfen?** | Can I help you? |
-| **Ich arbeite im Büro.** | I work in the office. |
-| **Ich schreibe eine E-Mail.** | I'm writing an email. |
-| **Das Telefon klingelt.** | The telephone is ringing. |
-| **Wer ist am Telefon?** | Who is on the phone? |
-| **Ich rufe später an.** | I'll call later. |
-| **Können Sie mich bitte zurückrufen?** | Can you please call me back? |
-| **Schreiben Sie mir bitte eine E-Mail.** | Please write me an email. |
-| **Auf Wiederhören!** | Goodbye! (on the phone) |
+| Pronoun | Conjugation | Pronunciation |
+|:-------:|------------|---------------|
+| ich | **kann** | kan |
+| du | **kannst** | kanst |
+| er / sie / es | **kann** | kan |
+| wir | **können** | KUR-nen |
+| ihr | **könnt** | kurnt |
+| sie | **können** | KUR-nen |
+| Sie | **können** | KUR-nen |
+
+**Examples:**
+- **Können Sie mir bitte helfen?** — Can you help me, please?
+- **Ich kann den Antrag online stellen.** — I can submit the application online.
+- **Wo kann ich das Formular bekommen?** — Where can I get the form?
+
+### 🟢 sollen — should / be supposed to
+
+| Pronoun | Conjugation | Pronunciation |
+|:-------:|------------|---------------|
+| ich | **soll** | zol |
+| du | **sollst** | zolst |
+| er / sie / es | **soll** | zol |
+| wir | **sollen** | ZOL-en |
+| ihr | **sollt** | zolt |
+| sie | **sollen** | ZOL-en |
+| Sie | **sollen** | ZOL-en |
+
+**Examples:**
+- **Sie sollen den Pass mitbringen.** — You are supposed to bring your passport.
+- **Was soll ich hier machen?** — What am I supposed to do here?
+- **Sie sollen das Formular in Druckbuchstaben ausfüllen.** — You should fill out the form in block letters.
+
+### 🗣️ Quick Comparison
+
+| Verb | Meaning | At the Amt |
+|------|---------|------------|
+| **müssen** | must / have to | **You must sign the application.** |
+| **dürfen** | may / be allowed to | **You may not smoke here.** |
+| **können** | can / be able to | **You can pay online.** |
+| **sollen** | should / be supposed to | **You should bring your ID.** |
+
+> 💡 **Remember:** In a sentence, the modal verb is conjugated and goes in the second position. The main verb goes **at the end** of the sentence in the infinitive form.
+> Example: **Ich muss heute zum Amt gehen.** (I have to go to the office today.)
 
 ---
 
-## 3. 💬 Conversation (Gespräch) — At the Office
+## 3. 💬 Dialogue (Dialog) — At the Government Office
 
-This is a conversation between **Mr. Müller** (boss) and **Anna** (new employee), then a phone call:
+This is a conversation between **Mr. Schmidt** (citizen) and **Ms. Weber** (employee) at the Bürgeramt (Citizens' Office).
 
-### Part 1: At the Office
+### Part 1: Reception
 
-> **Herr Müller:** Guten Morgen, Frau Weber! Willkommen im Büro!
-> *(Good morning, Ms. Weber! Welcome to the office!)*
+> **Frau Weber:** Guten Morgen! Sie sind Herr Schmidt, nicht wahr? Haben Sie einen Termin?
+> *(Good morning! You are Mr. Schmidt, right? Do you have an appointment?)*
 
-> **Anna:** Guten Morgen, Herr Müller! Danke schön!
-> *(Good morning, Mr. Müller! Thank you very much!)*
+> **Herr Schmidt:** Ja, guten Morgen. Ich habe um 10 Uhr einen Termin.
+> *(Yes, good morning. I have an appointment at 10 o'clock.)*
 
-> **Herr Müller:** Das ist Ihr Schreibtisch. Hier sind Computer, Telefon und Papier.
-> *(This is your desk. Here are the computer, telephone, and paper.)*
+> **Frau Weber:** Gut, bitte nehmen Sie Platz. Ich bin gleich für Sie da.
+> *(Good, please take a seat. I'll be with you shortly.)*
 
-> **Anna:** Super! Und wo ist Frau Schmidt?
-> *(Great! And where is Ms. Schmidt?)*
+### Part 2: Submitting the Application
 
-> **Herr Müller:** Frau Schmidt ist in einer Besprechung. Sie kommt um 10 Uhr.
-> *(Ms. Schmidt is in a meeting. She comes at 10 o'clock.)*
+> **Frau Weber:** So, Herr Schmidt. Was ist Ihr Anliegen?
+> *(So, Mr. Schmidt. What is your concern?)*
 
-### Part 2: A Phone Call ☎️
+> **Herr Schmidt:** Ich möchte einen neuen Reisepass beantragen. Mein Pass ist ungültig.
+> *(I would like to apply for a new passport. My passport is invalid.)*
 
-*(The telephone rings — **Das Telefon klingelt!**)*
+> **Frau Weber:** Haben Sie Ihren alten Pass und Ihren Personalausweis dabei?
+> *(Do you have your old passport and your personal ID with you?)*
 
-> **Anna:** Firma Weber, guten Tag. Anna Weber am Telefon.
-> *(Weber Company, good day. Anna Weber on the phone.)*
+> **Herr Schmidt:** Ja, hier bitte.
+> *(Yes, here you are.)*
 
-> **Herr Klein:** Guten Tag, Frau Weber. Hier ist Hans Klein von der Firma Meyer. Kann ich bitte Herrn Müller sprechen?
-> *(Good day, Ms. Weber. This is Hans Klein from Meyer Company. Can I speak to Mr. Müller, please?)*
+> **Frau Weber:** Danke. Dann müssen Sie dieses Formular ausfüllen und unterschreiben.
+> *(Thank you. Then you have to fill out this form and sign it.)*
 
-> **Anna:** Einen Moment, bitte. Ich verbinde Sie.
-> *(One moment, please. I'll connect you.)*
+> **Herr Schmidt:** Kein Problem. Wo muss ich unterschreiben?
+> *(No problem. Where do I have to sign?)*
 
-> *(After a moment)*
+> **Frau Weber:** Hier unten, bitte. Und hier müssen Sie Ihr Geburtsdatum eintragen.
+> *(Here at the bottom, please. And here you have to enter your date of birth.)*
 
-> **Anna:** Tut mir leid, Herr Klein. Herr Müller ist gerade in einer Besprechung.
-> *(I'm sorry, Mr. Klein. Mr. Müller is in a meeting right now.)*
+### Part 3: Payment and Fees
 
-> **Herr Klein:** Ach so. Kann ich eine Nachricht hinterlassen?
-> *(Oh, I see. Can I leave a message?)*
+> **Herr Schmidt:** So, ich bin fertig. Was kostet der neue Pass?
+> *(So, I'm done. How much does the new passport cost?)*
 
-> **Anna:** Ja, natürlich! Ich sage es Herrn Müller.
-> *(Yes, of course! I'll tell Mr. Müller.)*
+> **Frau Weber:** Die Gebühr beträgt 60 Euro. Sie können bar oder mit Karte bezahlen.
+> *(The fee is 60 euros. You can pay in cash or by card.)*
 
-> **Herr Klein:** Bitte sagen Sie: Hans Klein ruft an. Ich rufe später noch einmal an.
-> *(Please say: Hans Klein called. I'll call again later.)*
+> **Herr Schmidt:** Ich zahle mit Karte, bitte.
+> *(I'll pay by card, please.)*
 
-> **Anna:** Kein Problem, Herr Klein. Ich richte es aus.
-> *(No problem, Mr. Klein. I'll pass it on.)*
+> **Frau Weber:** Gut. Hier ist Ihre Quittung. Der neue Pass ist in etwa vier Wochen fertig. Sie können ihn hier abholen.
+> *(Good. Here is your receipt. The new passport will be ready in about four weeks. You can pick it up here.)*
 
-> **Herr Klein:** Vielen Dank! Auf Wiederhören!
+> **Herr Schmidt:** Vielen Dank! Auf Wiedersehen!
 > *(Thank you very much! Goodbye!)*
 
-> **Anna:** Auf Wiederhören, Herr Klein!
-> *(Goodbye, Mr. Klein!)*
+> **Frau Weber:** Auf Wiedersehen, Herr Schmidt!
+> *(Goodbye, Mr. Schmidt!)*
 
 ### 🧐 Questions about the conversation:
 
 | Question in German | English |
 |-------------------|---------|
-| **Wer ist am Telefon?** | Who is on the phone? |
-| **Wen möchte Herr Klein sprechen?** | Who does Mr. Klein want to speak to? |
-| **Wo ist Herr Müller?** | Where is Mr. Müller? |
-| **Kann Herr Klein Herrn Müller sprechen?** | Can Mr. Klein speak to Mr. Müller? |
-| **Was sagt Herr Klein?** | What does Mr. Klein say? |
-| **Was macht Anna?** | What does Anna do? |
+| **Hat Herr Schmidt einen Termin?** | Does Mr. Schmidt have an appointment? |
+| **Was möchte Herr Schmidt beantragen?** | What does Mr. Schmidt want to apply for? |
+| **Welche Dokumente braucht er?** | Which documents does he need? |
+| **Was muss Herr Schmidt machen?** | What does Mr. Schmidt have to do? |
+| **Wie viel kostet der neue Pass?** | How much does the new passport cost? |
+| **Wann ist der Pass fertig?** | When will the passport be ready? |
 
 ### ✅ Answers:
 
-1. **Anna Weber** is on the phone.
-2. Mr. Klein wants to speak to **Mr. Müller**.
-3. Mr. Müller is **in a meeting**.
-4. No, Mr. Klein **cannot** speak to Mr. Müller.
-5. Mr. Klein says: **"I'll call again later."**
-6. Anna **connects** the call and **passes on a message**.
+1. **Yes**, he has an appointment at 10 o'clock.
+2. He wants to apply for a **new passport**.
+3. He needs his **old passport** and his **personal ID**.
+4. He has to **fill out a form** and **sign it**.
+5. The passport costs **60 euros**.
+6. The passport will be ready in **about four weeks**.
 
 ---
 
-## 4. 📧 Grammar: Email and Writing (E-Mail und Schreiben)
+## 4. 📝 Exercises
 
-Let's learn how to write a simple email in German!
+### Exercise 1: Complete the dialogue with the missing words 🏛️
 
-### 🟢 Starting an email:
+Fill in the blanks with the correct words: (Formular — Termin — Anliegen — unterschreiben — Reisepass — Gebühr)
 
-| German | English |
-|--------|---------|
-| **Sehr geehrte Frau Schmidt,** | Dear Ms. Schmidt, (formal) |
-| **Sehr geehrter Herr Müller,** | Dear Mr. Müller, (formal) |
-| **Liebe Frau Schmidt,** | Dear Ms. Schmidt, |
-| **Lieber Herr Müller,** | Dear Mr. Müller, |
-| **Hallo Anna,** | Hello Anna, |
-
-### 🟢 Ending an email:
-
-| German | English |
-|--------|---------|
-| **Mit freundlichen Grüßen** | With kind regards (formal) |
-| **Viele Grüße** | Best regards |
-| **Liebe Grüße** | Warm regards |
-| **Bis bald!** | See you soon! |
-| **Vielen Dank!** | Thank you very much! |
-
-### 🟢 Short email — Example:
-
-> **Betreff:** Termin am Freitag
-> *(Subject: Appointment on Friday)*
+> **Frau Weber:** Guten Morgen! Haben Sie einen (1) ______________?
 >
-> Liebe Frau Schmidt,
-> 
-> Vielen Dank für Ihre E-Mail.
-> Der Termin am Freitag um 10 Uhr ist gut.
-> Ich komme ins Büro.
-> 
-> Mit freundlichen Grüßen
-> Anna Weber
+> **Herr Schmidt:** Ja, um 10 Uhr. Ich möchte einen neuen (2) ______________ beantragen.
 >
-> *(Dear Ms. Schmidt,*
-> *Thank you very much for your email.*
-> *The appointment on Friday at 10 o'clock is good.*
-> *I'll come to the office.*
-> *With kind regards,*
-> *Anna Weber)*
-
----
-
-## 5. ✏️ Quick Exercises
-
-### Exercise 1: Complete the sentence ☎️
-
-| # | Sentence | Missing word |
-|---|----------|--------------|
-| 1 | Ich ______________ Herrn Müller an. (I call Mr. Müller) | ______________ |
-| 2 | Das Telefon _______________. (The telephone is ringing) | ______________ |
-| 3 | Kann ich eine ______________ hinterlassen? (Can I leave a message?) | ______________ |
-| 4 | Einen ______________, bitte. (One moment, please) | ______________ |
-| 5 | Ich schreibe eine ______________. (I'm writing an email) | ______________ |
+> **Frau Weber:** Was ist Ihr (3) ______________?
+>
+> **Herr Schmidt:** Mein Pass ist ungültig.
+>
+> **Frau Weber:** Dann müssen Sie dieses (4) ______________ ausfüllen und (5) ______________.
+>
+> **Herr Schmidt:** Die (6) ______________ ist 60 Euro, richtig?
+>
+> **Frau Weber:** Ja, genau.
 
 ✅ **Answers:**
 
-| # | Answer |
-|---|--------|
-| 1 | **rufe** an |
-| 2 | **klingelt** |
-| 3 | **Nachricht** |
-| 4 | **Moment** |
-| 5 | **E-Mail** |
-
-### Exercise 2: What do you say on the phone? 🤔
-
-**What do you say in these situations? (Write the correct sentence)**
-
-| # | Situation | Sentence in German |
-|---|-----------|-------------------|
-| 1 | You answer the phone at the office | ______________ |
-| 2 | You ask for Mr. Müller | ______________ |
-| 3 | You say "one moment please" | ______________ |
-| 4 | You say "goodbye" on the phone | ______________ |
-| 5 | You say "sorry, he's not here" | ______________ |
-
-✅ **Answers:**
-
-| # | Correct Sentence |
-|---|-----------------|
-| 1 | **Firma Weber, guten Tag.** or **Anna Weber, guten Tag.** |
-| 2 | **Kann ich bitte Herrn Müller sprechen?** |
-| 3 | **Einen Moment, bitte.** |
-| 4 | **Auf Wiederhören!** |
-| 5 | **Tut mir leid, er ist nicht da.** |
+(1) **Termin** | (2) **Reisepass** | (3) **Anliegen** | (4) **Formular** | (5) **unterschreiben** | (6) **Gebühr**
 
 ---
 
-## 6. 🗣️ Lesson Vocabulary (Wortschatz)
+### Exercise 2: Conjugate the modal verb in brackets ⚠️
+
+1. Ich ______________ (müssen) einen Antrag stellen.
+2. ______________ (dürfen) ich hereinkommen?
+3. Sie ______________ (sollen) Ihren Ausweis mitbringen.
+4. Wir ______________ (können) online bezahlen.
+5. Du ______________ (müssen) das Formular ausfüllen.
+6. Er ______________ (dürfen) nicht ohne Termin kommen.
+7. ______________ (können) Sie mir bitte helfen?
+8. Ihr ______________ (sollen) pünktlich sein.
+
+✅ **Answers:**
+
+1. **muss** | 2. **Darf** | 3. **sollen** | 4. **können** | 5. **musst** | 6. **darf** | 7. **Können** | 8. **sollt**
+
+---
+
+### Exercise 3: Arrange the words to form a correct sentence 🔀
+
+1. müssen / Ich / zum Amt / gehen
+   → ___________________________________
+
+2. Sie / das Formular / unterschreiben / müssen
+   → ___________________________________
+
+3. kann / Wo / ich / einen Termin / machen?
+   → ___________________________________
+
+4. dürfen / Hier / Sie / nicht / parken
+   → ___________________________________
+
+5. soll / Was / ich / machen?
+   → ___________________________________
+
+✅ **Answers:**
+
+1. **Ich muss zum Amt gehen.**
+2. **Sie müssen das Formular unterschreiben.**
+3. **Wo kann ich einen Termin machen?**
+4. **Hier dürfen Sie nicht parken.**
+5. **Was soll ich machen?**
+
+---
+
+### Exercise 4: Translate the following sentences into German 🌍
+
+1. I have to fill out a form.
+   → ___________________________________
+
+2. Can you help me, please?
+   → ___________________________________
+
+3. Where is the counter?
+   → ___________________________________
+
+4. This office is not responsible.
+   → ___________________________________
+
+5. You are supposed to bring a valid passport.
+   → ___________________________________
+
+✅ **Answers:**
+
+1. **Ich muss ein Formular ausfüllen.**
+2. **Können Sie mir bitte helfen?**
+3. **Wo ist der Schalter?**
+4. **Dieses Amt ist nicht zuständig.**
+5. **Sie sollen einen gültigen Pass mitbringen.**
+
+---
+
+## 5. 🗣️ Lesson Vocabulary (Wortschatz)
 
 | German | Pronunciation | English |
 |--------|---------------|---------|
-| **das Büro** | **dahs bü-ROH** | the office |
-| **der Schreibtisch** | **deer SHRIPE-tish** | the desk |
-| **das Telefon** | **dahs TEH-leh-fohn** | the telephone |
-| **das Handy** | **dahs HAN-dee** | the mobile phone |
-| **der Computer** | **deer com-PYOO-ter** | the computer |
-| **der Kollege / die Kollegin** | — | the colleague (m/f) |
-| **der Chef / die Chefin** | — | the boss (m/f) |
-| **der Anruf** | **deer AHN-roof** | the call |
-| **anrufen** | **AHN-roo-fen** | to call |
-| **telefonieren** | **teh-leh-foh-NEE-ren** | to talk on the phone |
-| **sprechen** | **SHPRER-khen** | to speak |
-| **sagen** | **ZAH-gen** | to say |
-| **fragen** | **FRAH-gen** | to ask |
-| **antworten** | **ANT-for-ten** | to answer |
-| **die E-Mail** | **dee EE-mayl** | the email |
-| **die Nachricht** | **dee NAKH-risht** | the message |
+| **das Amt** | **dahs AMT** | the government office |
+| **der Beamte / die Beamtin** | **deer be-AM-tuh / dee be-AM-tin** | the civil servant (m/f) |
+| **der Bürger / die Bürgerin** | **deer BUR-ger / dee BUR-ger-in** | the citizen (m/f) |
+| **das Formular** | **dahs for-moo-LAHR** | the form |
+| **der Antrag** | **deer AHN-trahk** | the application |
+| **der Pass** | **deer pahs** | the passport |
+| **der Ausweis** | **deer OUS-vays** | the ID card |
+| **die Unterschrift** | **dee UN-ter-shrift** | the signature |
+| **die Öffnungszeiten** | **dee UFF-noongs-tsy-ten** | the opening hours |
+| **der Schalter** | **deer SHAL-ter** | the counter |
+| **die Gebühr** | **dee ge-BUHR** | the fee |
+| **das Anliegen** | **dahs AHN-lee-gen** | the concern / matter |
+| **zuständig** | **tsoo-SHTEN-dikh** | responsible / in charge |
 | **der Termin** | **deer ter-MEEN** | the appointment |
-| **die Besprechung** | **dee be-SHPRER-khoong** | the meeting |
-| **klingeln** | **KLING-eln** | to ring |
-| **verbinden** | **fer-BIN-den** | to connect (a call) |
-| **ausrichten** | **OUS-rish-ten** | to pass on (a message) |
-| **Einen Moment, bitte.** | — | One moment, please. |
-| **Kann ich … sprechen?** | — | Can I speak to …? |
-| **Auf Wiederhören!** | — | Goodbye! (on the phone) |
-| **Hier ist …** | — | This is … (answering) |
-| **Tut mir leid, …** | — | I'm sorry, … |
+| **das Dokument** | **dahs doh-koo-MENT** | the document |
+| **ausfüllen** | **OUS-fuul-en** | to fill out |
+| **unterschreiben** | **UN-ter-shry-ben** | to sign |
+| **beantragen** | **be-AHN-trah-gen** | to apply for |
+| **mitbringen** | **MIT-bring-en** | to bring along |
+| **abholen** | **AP-hoh-len** | to pick up |
 
 ---
 
@@ -380,16 +363,16 @@ Let's learn how to write a simple email in German!
 
 | What did you learn? | Key Sentence |
 |--------------------|--------------|
-| Office furniture and things | **der Schreibtisch, das Telefon, der Computer** |
-| People at the office | **der Kollege, die Chefin, der Mitarbeiter** |
-| How to answer the phone | **Firma Weber, guten Tag!** |
-| How to ask for someone on the phone | **Kann ich bitte Herrn Müller sprechen?** |
-| How to say someone is busy/not here | **Tut mir leid, er ist in einer Besprechung.** |
-| Writing a simple email | **Liebe Frau Schmidt, … Viele Grüße** |
-| Difference between **sprechen** and **sagen** | **sprechen** = to speak (with someone) / **sagen** = to say (something) |
-| Conjugation of **anrufen** (separable verb) | **Ich rufe an.** (the **an** goes to the end) |
+| Office and staff names | **das Amt, der Beamte, der Bürger** |
+| Documents and applications | **der Antrag, das Formular, der Pass** |
+| Opening hours and counter | **die Öffnungszeiten, der Schalter** |
+| müssen (must/have to) | **You have to fill out a form.** |
+| dürfen (may/be allowed to) | **You may not park here.** |
+| können (can) | **Can you help me?** |
+| sollen (should/be supposed to) | **You should bring your passport.** |
+| Dialogue at the Amt | **"I would like to apply for a passport."** |
 
-> 🎉 **Great job!** You finished Lektion 18! Now you can make phone calls in German, answer the phone, and write a simple email!
+> 🎉 **Great job!** You finished Lektion 18! Now you can deal with the Amt in German, understand official procedures, and use modal verbs correctly!
 > 👉 **Next step:** Go to the exercises and solve them to practice!
 
 [🔙 Back to A1 Level](index.md)

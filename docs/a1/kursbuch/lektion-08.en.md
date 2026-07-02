@@ -1,8 +1,6 @@
-[🔙 Back to A1 Level](../index.md) | [📕 Course Book](index.md)
+# 📕 Lektion 8: Party
 
----
-
-# 🎉 Lektion 8 — Party
+> 🎉 Celebrate in German! In this lesson, you will learn how to talk about parties and past events using the Perfekt tense. Let's get the party started!
 
 **Topic:** The party and talking about the past with **Perfekt (Present Perfect)**
 
@@ -10,7 +8,8 @@
 
 ---
 
-## 🎬 YouTube Video
+## 🎬 Lesson Video
+---
 
 > Watch this video to learn how to talk about the party in the past tense:
 
@@ -20,7 +19,7 @@
 
 ---
 
-## 2. 🆕 New Words
+## 1. 🆕 New Words
 
 | Deutsch | Pronunciation | English |
 |---------|---------------|---------|
@@ -55,7 +54,7 @@
 
 ---
 
-## 3. 📖 Grammar — Perfekt (Present Perfect) Super Simple
+## 2. 📖 Grammar — Perfekt (Present Perfect) Super Simple
 
 ### 🧒 Imagine you are telling your mom what you did at a party yesterday.
 
@@ -109,7 +108,7 @@ helping verb (haben / sein) in present tense + Partizip II (past participle) at 
 |-----------|-------------|---------|
 | essen | **ge**gess**en** | ate (e → a) |
 | trinken | **ge**trunk**en** | drank (i → u) |
-| singen | **ge**sungen**en** | sang (i → u) |
+| singen | **ge**sung**en** | sang (i → u) |
 | kommen | **ge**komm**en** | came |
 | gehen | **ge**gang**en** | went (stem changes completely) |
 | helfen | **ge**holf**en** | helped (e → o) |
@@ -178,7 +177,7 @@ Example:
 
 ---
 
-## 4. 💬 Conversation (Dialogue)
+## 3. 💬 Conversation (Dialogue)
 
 ### 🎂 Dialogue 1: After the Party
 
@@ -218,7 +217,7 @@ Example:
 
 ---
 
-## 5. ✍️ Exercises with Answers
+## 4. ✍️ Exercises with Answers
 
 ### Exercise 1: Put the verb in Perfekt
 
@@ -278,7 +277,7 @@ Example:
 
 ---
 
-## 6. 📚 Lesson Vocabulary
+## 5. 📚 Lesson Vocabulary
 
 ### 🎊 The Party
 

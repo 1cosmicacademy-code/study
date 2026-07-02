@@ -16,14 +16,14 @@ theme:
     - content.code.copy
   palette:
     - scheme: default
-      primary: deep purple
-      accent: amber
+      primary: indigo
+      accent: green
       toggle:
         icon: material/brightness-7
         name: التبديل إلى الوضع المظلم
     - scheme: slate
-      primary: deep purple
-      accent: amber
+      primary: indigo
+      accent: green
       toggle:
         icon: material/brightness-4
         name: التبديل إلى الوضع الفاتح
@@ -82,7 +82,7 @@ plugins:
             Lektion 15 - Wege in der Stadt: الدرس 15 - Wege in der Stadt
             Lektion 16 - Im Laden: الدرس 16 - Im Laden
             Lektion 17 - Arbeit: الدرس 17 - Arbeit
-            Lektion 18 - Im Büro: الدرس 18 - Im Büro
+            Lektion 18 - Beim Amt: الدرس 18 - Beim Amt
             Lektion 19 - Reisen in Deutschland: الدرس 19 - Reisen in Deutschland
             Lektion 20 - Feste und Feiern: الدرس 20 - Feste und Feiern
             ## A2 Kursbuch + Übungsbuch
@@ -122,6 +122,7 @@ plugins:
             Grammar: Grammar
             Grammar Overview: Grammar Overview
             Study Plan: Study Plan
+            Lektion 18 - Beim Amt: Lesson 18 - Beim Amt
 
 markdown_extensions:
   - pymdownx.highlight:
@@ -162,7 +163,7 @@ nav:
       - 'Lektion 15 - Wege in der Stadt': a1/kursbuch/lektion-15.md
       - 'Lektion 16 - Im Laden': a1/kursbuch/lektion-16.md
       - 'Lektion 17 - Arbeit': a1/kursbuch/lektion-17.md
-      - 'Lektion 18 - Im Büro': a1/kursbuch/lektion-18.md
+      - 'Lektion 18 - Beim Amt': a1/kursbuch/lektion-18.md
       - 'Lektion 19 - Reisen in Deutschland': a1/kursbuch/lektion-19.md
       - 'Lektion 20 - Feste und Feiern': a1/kursbuch/lektion-20.md
     - Exercise Book:
@@ -184,7 +185,7 @@ nav:
       - 'Lektion 15 - Wege in der Stadt': a1/ubungsbuch/lektion-15.md
       - 'Lektion 16 - Im Laden': a1/ubungsbuch/lektion-16.md
       - 'Lektion 17 - Arbeit': a1/ubungsbuch/lektion-17.md
-      - 'Lektion 18 - Im Büro': a1/ubungsbuch/lektion-18.md
+      - 'Lektion 18 - Beim Amt': a1/ubungsbuch/lektion-18.md
       - 'Lektion 19 - Reisen in Deutschland': a1/ubungsbuch/lektion-19.md
       - 'Lektion 20 - Feste und Feiern': a1/ubungsbuch/lektion-20.md
   - Level A2:
@@ -256,4 +257,14 @@ nav:
     - Trennbare Verben: grammatik/trennbare-verben.md
     - 'Verbkonjugation (Präsens)': grammatik/verbkonjugation.md
     - Wechselpräpositionen: grammatik/wechselprapositionen.md
+    - Nebensätze: grammatik/nebensatze.md
+    - Vergleiche: grammatik/vergleiche.md
+    - Reflexive Verben: grammatik/reflexive-verben.md
+    - Indirekte Fragen: grammatik/indirekte-fragen.md
+    - Futur I: grammatik/futur-i.md
+    - Adverbien: grammatik/adverbien.md
+    - Präpositionen: grammatik/prapositionen.md
+    - Kausal- und Konzessivsätze: grammatik/kausal-konzessivsatze.md
+    - Temporal- und Lokalangaben: grammatik/temporal-lokal-angaben.md
+    - Wortstellung (erweitert): grammatik/wortstellung-erweitert.md
   - Study Plan: plan/index.md

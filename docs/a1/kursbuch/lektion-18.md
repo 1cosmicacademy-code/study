@@ -1,378 +1,361 @@
-# 📕 Lektion 18: Im Büro — في المكتب (الاتصالات)
+# 📕 Lektion 18: Beim Amt — في الدائرة الحكومية
 
-> 🏢 **مرحباً!** في هذا الدرس ستتعلم كيف تتكلم في المكتب بالألمانية! كيف تتصل بالتليفون، تقول "ألو"، تسأل عن زميل، وتكتب إيميل. درس مهم جداً للعمل!
+> 🏛️ **مرحباً!** في هذا الدرس ستتعلم كيف تتعامل مع الدوائر الحكومية (Amt) بالألمانية. كيف تطلب استمارة، تقدم طلب جواز سفر، تفهم ساعات العمل الرسمية، وتستخدم الأفعال الناقصة (Modalverben) في السياقات الرسمية. درس ضروري لكل من يعيش أو يزور ألمانيا!
 
 ---
 
 ## 🎬 فيديو الدرس
+
 ---
 
-## 1. 🏢 كلمات جديدة (Neue Wörter) — في المكتب
+## 1. 🏛️ المفردات (Neue Wörter) — في الدائرة الحكومية
 
-خلينا نتعلم كلمات مهمة عن المكتب والاتصالات. هذي الكلمات راح تساعدك تتكلم في الشغل!
+خلينا نتعلم كلمات مهمة عن الدائرة الحكومية والمعاملات الرسمية. هذي الكلمات راح تفيدك كثير إذا احتجت تزور Amt في ألمانيا.
 
-### 🪑 أثاث المكتب (Büromöbel)
-
-| الألمانية | النطق | العربية |
-|-----------|-------|---------|
-| **das Büro** | **داس بيورو** — dahs bü-ROH | المكتب (مكان العمل) |
-| **der Schreibtisch** | **دير شرايب-تيش** — deer SHRIPE-tish | المكتب (الطاولة) |
-| **der Computer** | **دير كومبيوتر** — deer com-PYOO-ter | الكمبيوتر |
-| **der Laptop** | **دير لاب-توب** — deer LAP-top | اللابتوب |
-| **das Telefon** | **داس تيلي-فون** — dahs TEH-leh-fohn | التليفون / الهاتف |
-| **das Handy** | **داس هاندي** — dahs HAN-dee | الموبايل / الجوال |
-| **der Stuhl** | **دير شتول** — deer shtool | الكرسي |
-| **der Tisch** | **دير تيش** — deer tish | الطاولة |
-| **der Drucker** | **دير دروکر** — deer DRU-ker | الطابعة |
-
-### 👥 الناس في المكتب (Die Leute im Büro)
+### 🏢 المكان والأشخاص
 
 | الألمانية | النطق | العربية |
 |-----------|-------|---------|
-| **der Kollege** | **دير كوليگه** — deer ko-LAY-guh | الزميل |
-| **die Kollegin** | **دي كوليگن** — dee ko-LAY-gin | الزميلة |
-| **der Chef** | **دير شيف** — deer shef | المدير |
-| **die Chefin** | **دي شيفن** — dee SHEF-in | المديرة |
-| **der Mitarbeiter** | **دير ميت-آربايتر** — deer MIT-ar-bye-ter | الموظف / زميل العمل |
-| **die Mitarbeiterin** | **دي ميت-آربايترين** — dee MIT-ar-bye-ter-in | الموظفة |
-| **der Sekretär** | **دير زكريتير** — deer zeh-kreh-TEHR | السكرتير |
-| **die Sekretärin** | **دي زكريتيرين** — dee zeh-kreh-TEH-rin | السكرتيرة |
-| **der Vorgesetzte** | **دير فور-گه-زتستّه** — deer FOR-ge-set-stuh | المسؤول / الرئيس |
+| **das Amt** | **داس آمت** — dahs AMT | الدائرة الحكومية / المكتب الرسمي |
+| **der Beamte** | **دير بيه-آمته** — deer be-AM-tuh | الموظف الحكومي (رجل) |
+| **die Beamtin** | **دي بيه-آمتن** — dee be-AM-tin | الموظفة الحكومية |
+| **der Bürger** | **دير بورگر** — deer BUR-ger | المواطن |
+| **die Bürgerin** | **دي بورگرين** — dee BUR-ger-in | المواطنة |
+| **der Sachbearbeiter** | **دير زاخ-باربايتر** — deer ZAKH-bar-bye-ter | الموظف المختص |
+| **die Sachbearbeiterin** | **دي زاخ-باربايترين** — dee ZAKH-bar-bye-ter-in | الموظفة المختصة |
 
-### 📞 الاتصالات (Kommunikation)
+### 📄 المستندات والطلبات
 
 | الألمانية | النطق | العربية |
 |-----------|-------|---------|
-| **das Telefonat** | **داس تيلي-فونات** — dahs teh-leh-foh-NAHT | المكالمة التليفونية |
-| **der Anruf** | **دير آن-روف** — deer AHN-roof | المكالمة / الاتصال |
-| **die E-Mail** | **دي إي-ميل** — dee EE-mayl | الإيميل / البريد الإلكتروني |
-| **die Nachricht** | **دي ناخ-ريشت** — dee NAKH-risht | الرسالة |
-| **das Gespräch** | **داس گه-شپريخ** — dahs ge-SHPRERKH | الحديث / المحادثة |
+| **das Formular** | **داس فورمولار** — dahs for-moo-LAHR | الاستمارة / النموذج |
+| **der Antrag** | **دير آن-تراگ** — deer AHN-trahk | الطلب (رسمي) |
+| **der Pass** | **دير پاس** — deer pahs | جواز السفر |
+| **der Ausweis** | **دير آوس-فايس** — deer OUS-vays | بطاقة الهوية |
+| **der Personalausweis** | **دير پيرزونال-آوسفايس** — deer per-zoh-NAHL-ous-vays | بطاقة الشخصية |
+| **die Unterschrift** | **دي أونتر-شريفت** — dee UN-ter-shrift | التوقيع |
+| **der Antragsteller** | **دير آن-تراگ-شتلر** — deer AHN-trahk-shtel-er | مقدم الطلب |
+| **das Dokument** | **داس دوکومنت** — dahs doh-koo-MENT | المستند |
+| **die Bescheinigung** | **دي بيه-شاينيغونغ** — dee be-SHY-nee-goong | الشهادة / الإثبات |
+| **die Gebühr** | **دي گه-بور** — dee ge-BUHR | الرسم / الرسوم |
+
+### 🕐 المعلومات العملية
+
+| الألمانية | النطق | العربية |
+|-----------|-------|---------|
+| **der Schalter** | **دير شالتر** — deer SHAL-ter | الشباك / الكاونتر |
+| **die Öffnungszeiten** | **دي أوفنونغ-تسايتن** — dee UFF-noongs-tsy-ten | ساعات العمل |
+| **die Sprechzeiten** | **دي شپريخ-تسايتن** — dee SHRERKH-tsy-ten | أوقات الاستقبال |
+| **das Anliegen** | **داس آن-ليگن** — dahs AHN-lee-gen | الطلب / الأمر / الشأن |
+| **die Nummer** | **دي نومر** — dee NUM-mer | رقم (الدور) |
+| **das Wartezeichen** | **داس فارته-تسايخن** — dahs VAR-te-tsy-khen | رقم الانتظار |
 | **der Termin** | **دير تير-مين** — deer ter-MEEN | الموعد |
-| **die Besprechung** | **دي بيه-شپريخونغ** — dee be-SHPRER-khoong | الاجتماع |
-| **das Meeting** | **داس ميتينغ** — dahs MEE-ting | الاجتماع (كلمة إنجليزية) |
-| **die Notiz** | **دي نو-تيتس** — dee no-TEETS | الملاحظة / المذكرة |
 
-### 🖊️ أدوات المكتب (Büromaterial)
+### ⚠️ صفات مهمة
 
 | الألمانية | النطق | العربية |
 |-----------|-------|---------|
-| **der Stift** | **دير شتيفت** — deer shtift | القلم |
-| **der Kugelschreiber** | **دير كوگل-شرايبَر** — deer KOO-gel-shry-ber | القلم الجاف |
-| **das Papier** | **داس پاپير** — dahs pa-PEER | الورق |
-| **der Bleistift** | **دير بلاي-شتيفت** — deer BLY-shtift | قلم الرصاص |
-| **der Notizblock** | **دير نو-تيتس-بلوك** — deer no-TEETS-blok | دفتر الملاحظات |
+| **zuständig** | **تسو-شتنديخ** — tsoo-SHTEN-dikh | مختص / مسؤول |
+| **gültig** | **گولتيخ** — GUL-tikh | ساري المفعول |
+| **ungültig** | **أون-گولتيخ** — UN-gul-tikh | غير ساري |
+| **kostenlos** | **كوستن-لوس** — KOS-ten-lohs | مجاني |
+| **gebührenpflichtig** | **گه-بورن-پفليختيخ** — ge-BUHR-en-pflikh-tikh | مدفوع الرسوم |
 
-> 💡 **نصيحة:** في ألمانيا، الناس في المكتب يقولون **"Herr"** للسيد و **"Frau"** للسيدة. مثلاً: **Herr Müller** = السيد مولر، **Frau Schmidt** = السيدة شميت.
-
----
-
-## 2. 📞 القاعدة: كيف تتصل بالتليفون (Telefonieren)
-
-خلنا نتعلم كيف نتصل ونرد على التليفون بالألمانية. مرة سهلة!
-
-### 🟢 تبدأ المكالمة (الرد على التليفون):
-
-| الألمانية | العربية |
-|-----------|---------|
-| **Hallo?** | ألو؟ |
-| **Guten Tag, Firma Schmidt.** | مساء الخير، شركة شميت. |
-| **Firma Meyer, guten Tag.** | شركة ماير، مساء الخير. |
-| **Hier ist Peter Müller.** | هنا بيتر مولر. |
-
-### 🟢 تقول مين أنت:
-
-| الألمانية | العربية |
-|-----------|---------|
-| **Hier ist Anna.** | هنا أنا (آنا). |
-| **Mein Name ist Anna Weber.** | اسمي آنا فيبر. |
-| **Ich bin Anna Weber.** | أنا آنا فيبر. |
-| **Anna Weber, guten Tag.** | آنا فيبر، مساء الخير. |
-
-### 🟢 تطلب شخص:
-
-| الألمانية | العربية |
-|-----------|---------|
-| **Kann ich bitte Herrn Müller sprechen?** | هل أستطيع التحدث مع السيد مولر من فضلك؟ |
-| **Ich möchte bitte Frau Schmidt sprechen.** | أريد التحدث مع السيدة شميت من فضلك. |
-| **Ist Herr Müller da, bitte?** | هل السيد مولر موجود من فضلك؟ |
-| **Ich hätte gern Frau Schmidt, bitte.** | أريد السيدة شميت من فضلك. |
-
-### 🟢 تجاوب:
-
-| الألمانية | العربية |
-|-----------|---------|
-| **Ja, einen Moment bitte.** | نعم، لحظة من فضلك. |
-| **Einen Augenblick, bitte.** | لحظة واحدة من فضلك. |
-| **Ich verbinde Sie.** | سأوصلك (سأحولك). |
-| **Tut mir leid, er ist nicht da.** | آسفة، هو ليس موجوداً. |
-| **Er ist in einer Besprechung.** | هو في اجتماع. |
-| **Kann ich etwas ausrichten?** | هل أستطيع إيصال رسالة؟ |
-| **Möchten Sie eine Nachricht hinterlassen?** | هل تريد ترك رسالة؟ |
-
-### 🟢 أفعال مهمة للمكالمات:
-
-| الألمانية | النطق | العربية |
-|-----------|-------|---------|
-| **anrufen** | **آن-روفن** — AHN-roo-fen | يتصل (بالتليفون) |
-| **telefonieren** | **تيلي-فونيرن** — teh-leh-foh-NEE-ren | يتحدث بالتليفون |
-| **sprechen** | **شپريخن** — SHPRER-khen | يتكلم |
-| **sagen** | **زاگن** — ZAH-gen | يقول |
-| **fragen** | **فراگن** — FRAH-gen | يسأل |
-| **antworten** | **أنت-فورتن** — ANT-for-ten | يجيب |
-| **wählen** | **ڤيلن** — VEH-len | يطلب (رقم) / يتصل |
-| **klingeln** | **كلينگلن** — KLING-eln | يرن (التليفون) |
-| **verbinden** | **فير-بيندن** — fer-BIN-den | يوصل (المكالمة) |
-| **ausrichten** | **آوس-ريشتن** — OUS-rish-ten | يبلغ / يوصل رسالة |
-
-### 🟢 تصريف الفعل **sprechen** (يتكلم) — مهم جداً!
-
-| الضمير | التصريف | النطق |
-|:------:|---------|-------|
-| ich (أنا) | **spreche** | شپريخه |
-| du (أنت) | **sprichst** | شپريخشست |
-| er / sie / es (هو/هي) | **spricht** | شپريخت |
-| wir (نحن) | **sprechen** | شپريخن |
-| ihr (أنتم) | **sprecht** | شپريخت |
-| sie (هم) | **sprechen** | شپريخن |
-| Sie (حضرتك) | **sprechen** | شپريخن |
-
-> ⚠️ **انتبه!** الفعل **sprechen** يتغير في **du** و **er/sie/es**: **sprichst** و **spricht** (يتغير حرف **e** → **i**)
-
-### 🟢 تصريف الفعل **anrufen** (يتصل):
-
-| الضمير | التصريف | النطق |
-|:------:|---------|-------|
-| ich (أنا) | **rufe an** | روفه آن |
-| du (أنت) | **rufst an** | روفست آن |
-| er / sie / es (هو/هي) | **ruft an** | روفت آن |
-| wir (نحن) | **rufen an** | روفن آن |
-| ihr (أنتم) | **ruft an** | روفت آن |
-| sie (هم) | **rufen an** | روفن آن |
-| Sie (حضرتك) | **rufen an** | روفن آن |
-
-> 💡 **ملاحظة:** الأفعال التي تبدأ بـ **an-** هي أفعال منفصلة. في الجملة، **an** تروح آخر الجملة!
-> مثال: **Ich rufe Herrn Müller an.** (أنا أتصل بالسيد مولر.)
-
-### 🗣️ جمل مفيدة في المكتب
-
-| الألمانية | العربية |
-|-----------|---------|
-| **Guten Morgen, Herr Schmidt!** | صباح الخير يا سيد شميت! |
-| **Kann ich Ihnen helfen?** | هل أستطيع مساعدتك؟ |
-| **Ich arbeite im Büro.** | أنا أعمل في المكتب. |
-| **Ich schreibe eine E-Mail.** | أنا أكتب إيميلاً. |
-| **Das Telefon klingelt.** | التليفون يرن. |
-| **Wer ist am Telefon?** | من على التليفون؟ |
-| **Ich rufe später an.** | سأتصل لاحقاً. |
-| **Können Sie mich bitte zurückrufen?** | هل تستطيع الاتصال بي لاحقاً من فضلك؟ |
-| **Schreiben Sie mir bitte eine E-Mail.** | اكتب لي إيميلاً من فضلك. |
-| **Auf Wiederhören!** | مع السلامة (على التليفون)! |
+> 💡 **نصيحة:** في ألمانيا، معظم الدوائر تحتاج **موعد مسبق (Termin)**. تقدر تحجز عن طريق الإنترنت أو التليفون. وكلمة **"Amt"** تطلق على أي دائرة حكومية: Bürgeramt (دائرة المواطنين)، Ausländeramt (دائرة الأجانب)، Finanzamt (دائرة الضرائب).
 
 ---
 
-## 3. 💬 محادثة (Gespräch) — في المكتب
+## 2. ⚠️ القاعدة: Modalverben في السياقات الرسمية
 
-هذي محادثة بين **السيد مولر** (مدير) و **آنا** (موظفة جديدة) ثم مكالمة تليفون:
+في الدوائر الحكومية، الأفعال الناقصة (Modalverben) مهمة جداً. خلينا نتعلم الأربعة الأكثر استخداماً في السياقات الرسمية.
 
-### الجزء الأول: في المكتب
+### 🟢 müssen — يجب / مضطر
 
-> **Herr Müller:** Guten Morgen, Frau Weber! Willkommen im Büro!
-> *(صباح الخير يا سيدة فيبر! أهلاً بك في المكتب!)*
+نستخدم **müssen** في Amt للتعبير عن الإلزام — شيء لازم تسويه.
 
-> **Anna:** Guten Morgen, Herr Müller! Danke schön!
-> *(صباح الخير يا سيد مولر! شكراً جزيلاً!)*
+| الضمير | التصريف | النطق |
+|:------:|---------|-------|
+| ich | **muss** | موس |
+| du | **musst** | موست |
+| er / sie / es | **muss** | موس |
+| wir | **müssen** | موسن |
+| ihr | **müsst** | موست |
+| sie | **müssen** | موسن |
+| Sie | **müssen** | موسن |
 
-> **Herr Müller:** Das ist Ihr Schreibtisch. Hier sind Computer, Telefon und Papier.
-> *(هذا مكتبك. هنا الكمبيوتر والتليفون والورق.)*
+**أمثلة:**
+- **Ich muss ein Formular ausfüllen.** — أنا مضطر أملأ استمارة.
+- **Sie müssen den Antrag unterschreiben.** — حضرتك لازم توقع الطلب.
+- **Wir müssen einen Termin machen.** — لازم نحجز موعد.
 
-> **Anna:** Super! Und wo ist Frau Schmidt?
-> *(رائع! وأين السيدة شميت؟)*
+### 🟢 dürfen — يُسمح / مسموح
 
-> **Herr Müller:** Frau Schmidt ist in einer Besprechung. Sie kommt um 10 Uhr.
-> *(السيدة شميت في اجتماع. تأتي الساعة 10.)*
+نستخدم **dürfen** للسماح أو المنع (مع **nicht**).
 
-### الجزء الثاني: مكالمة تليفون ☎️
+| الضمير | التصريف | النطق |
+|:------:|---------|-------|
+| ich | **darf** | دارف |
+| du | **darfst** | دارفست |
+| er / sie / es | **darf** | دارف |
+| wir | **dürfen** | دورفن |
+| ihr | **dürft** | دورفت |
+| sie | **dürfen** | دورفن |
+| Sie | **dürfen** | دورفن |
 
-*(التليفون يرن — **Das Telefon klingelt!**)*
+**أمثلة:**
+- **Hier dürfen Sie nicht parken.** — غير مسموح لك الوقوف هنا.
+- **Darf ich hereinkommen?** — هل يُسمح لي بالدخول؟
+- **Sie dürfen den Raum erst verlassen, wenn Sie aufgerufen werden.** — لا يُسمح لك بمغادرة الغرفة إلا عندما يُنادى عليك.
 
-> **Anna:** Firma Weber, guten Tag. Anna Weber am Telefon.
-> *(شركة فيبر، مساء الخير. آنا فيبر على التليفون.)*
+### 🟢 können — يستطيع / يقدر
 
-> **Herr Klein:** Guten Tag, Frau Weber. Hier ist Hans Klein von der Firma Meyer. Kann ich bitte Herrn Müller sprechen?
-> *(مساء الخير يا سيدة فيبر. هنا هانس كلاين من شركة ماير. هل أستطيع التحدث مع السيد مولر من فضلك؟)*
+| الضمير | التصريف | النطق |
+|:------:|---------|-------|
+| ich | **kann** | كان |
+| du | **kannst** | كانست |
+| er / sie / es | **kann** | كان |
+| wir | **können** | كونن |
+| ihr | **könnt** | كوننت |
+| sie | **können** | كونن |
+| Sie | **können** | كونن |
 
-> **Anna:** Einen Moment, bitte. Ich verbinde Sie.
-> *(لحظة من فضلك. سأوصلك.)*
+**أمثلة:**
+- **Können Sie mir bitte helfen?** — هل تستطيع مساعدتي من فضلك؟
+- **Ich kann den Antrag online stellen.** — أستطيع تقديم الطلب أونلاين.
+- **Wo kann ich das Formular bekommen?** — أين أستطيع الحصول على الاستمارة؟
 
-> *(بعد لحظات)*
+### 🟢 sollen — من المفترض / يجب أن
 
-> **Anna:** Tut mir leid, Herr Klein. Herr Müller ist gerade in einer Besprechung.
-> *(آسفة يا سيد كلاين. السيد مولر في اجتماع الآن.)*
+| الضمير | التصريف | النطق |
+|:------:|---------|-------|
+| ich | **soll** | زول |
+| du | **sollst** | زولست |
+| er / sie / es | **soll** | زول |
+| wir | **sollen** | زولن |
+| ihr | **sollt** | زولت |
+| sie | **sollen** | زولن |
+| Sie | **sollen** | زولن |
 
-> **Herr Klein:** Ach so. Kann ich eine Nachricht hinterlassen?
-> *(آه، هكذا. هل أستطيع ترك رسالة؟)*
+**أمثلة:**
+- **Sie sollen den Pass mitbringen.** — من المفترض أن تحضر جواز السفر معك.
+- **Was soll ich hier machen?** — ماذا يفترض بي أن أفعل هنا؟
+- **Sie sollen das Formular in Druckbuchstaben ausfüllen.** — من المفترض أن تملأ الاستمارة بأحرف طباعية.
 
-> **Anna:** Ja, natürlich! Ich sage es Herrn Müller.
-> *(نعم، طبعاً! سأقولها للسيد مولر.)*
+### 🗣️ مقارنة سريعة — الفرق بينهم
 
-> **Herr Klein:** Bitte sagen Sie: Hans Klein ruft an. Ich rufe später noch einmal an.
-> *(من فضلك قل: هانس كلاين اتصل. سأتصل مرة أخرى لاحقاً.)*
+| الفعل | المعنى | في Amt |
+|-------|-------|--------|
+| **müssen** | يجب / مضطر | **Sie müssen den Antrag unterschreiben.** — لازم توقع. |
+| **dürfen** | يُسمح | **Sie dürfen hier nicht rauchen.** — غير مسموح. |
+| **können** | يستطيع | **Sie können online bezahlen.** — تقدر تدفع أونلاين. |
+| **sollen** | من المفترض | **Sie sollen Ihren Ausweis vorlegen.** — من المفترض تقدم هويتك. |
 
-> **Anna:** Kein Problem, Herr Klein. Ich richte es aus.
-> *(لا مشكلة يا سيد كلاين. سأبلغه.)*
+> 💡 **تذكير:** في الجملة، الفعل المساعد (Modalverb) يتصرف ويروح في المكان الثاني. الفعل الأساسي يروح **آخر الجملة** بصيغة المصدر (Infinitiv).
+> مثال: **Ich muss heute zum Amt gehen.** (أنا مضطر أروح للدائرة اليوم.)
 
-> **Herr Klein:** Vielen Dank! Auf Wiederhören!
+---
+
+## 3. 💬 الحوار (Dialog) — في الدائرة الحكومية
+
+هذا حوار بين **السيد شميت** (مواطن) و **السيدة فيبر** (موظفة) في Bürgeramt (دائرة المواطنين).
+
+### الجزء الأول: الاستقبال
+
+> **Frau Weber:** Guten Morgen! Sie sind Herr Schmidt, nicht wahr? Haben Sie einen Termin?
+> *(صباح الخير! أنت السيد شميت، صحيح؟ هل عندك موعد؟)*
+
+> **Herr Schmidt:** Ja, guten Morgen. Ich habe um 10 Uhr einen Termin.
+> *(نعم، صباح الخير. عندي موعد الساعة 10.)*
+
+> **Frau Weber:** Gut, bitte nehmen Sie Platz. Ich bin gleich für Sie da.
+> *(جيد، تفضل بالجلوس من فضلك. سأكون معك حالاً.)*
+
+### الجزء الثاني: تقديم الطلب
+
+> **Frau Weber:** So, Herr Schmidt. Was ist Ihr Anliegen?
+> *(إذاً، سيد شميت. ما هو طلبك؟)*
+
+> **Herr Schmidt:** Ich möchte einen neuen Reisepass beantragen. Mein Pass ist ungültig.
+> *(أريد تقديم طلب جواز سفر جديد. جواز سفري غير ساري المفعول.)*
+
+> **Frau Weber:** Haben Sie Ihren alten Pass und Ihren Personalausweis dabei?
+> *(هل معك جواز سفرك القديم وبطاقة هويتك الشخصية؟)*
+
+> **Herr Schmidt:** Ja, hier bitte.
+> *(نعم، تفضل من فضلك.)*
+
+> **Frau Weber:** Danke. Dann müssen Sie dieses Formular ausfüllen und unterschreiben.
+> *(شكراً. إذاً يجب أن تملأ هذه الاستمارة وتوقعها.)*
+
+> **Herr Schmidt:** Kein Problem. Wo muss ich unterschreiben?
+> *(لا مشكلة. أين يجب أن أوقع؟)*
+
+> **Frau Weber:** Hier unten, bitte. Und hier müssen Sie Ihr Geburtsdatum eintragen.
+> *(هنا في الأسفل من فضلك. وهنا يجب أن تدخل تاريخ ميلادك.)*
+
+### الجزء الثالث: الدفع والرسوم
+
+> **Herr Schmidt:** So, ich bin fertig. Was kostet der neue Pass?
+> *(خلصت. كم سعر جواز السفر الجديد؟)*
+
+> **Frau Weber:** Die Gebühr beträgt 60 Euro. Sie können bar oder mit Karte bezahlen.
+> *(الرسوم 60 يورو. تستطيع الدفع نقداً أو بالبطاقة.)*
+
+> **Herr Schmidt:** Ich zahle mit Karte, bitte.
+> *(سأدفع بالبطاقة من فضلك.)*
+
+> **Frau Weber:** Gut. Hier ist Ihre Quittung. Der neue Pass ist in etwa vier Wochen fertig. Sie können ihn hier abholen.
+> *(جيد. هذا إيصالك. جواز السفر الجديد سيكون جاهزاً خلال حوالي أربعة أسابيع. تستطيع استلامه هنا.)*
+
+> **Herr Schmidt:** Vielen Dank! Auf Wiedersehen!
 > *(شكراً جزيلاً! مع السلامة!)*
 
-> **Anna:** Auf Wiederhören, Herr Klein!
-> *(مع السلامة يا سيد كلاين!)*
+> **Frau Weber:** Auf Wiedersehen, Herr Schmidt!
+> *(مع السلامة يا سيد شميت!)*
 
 ### 🧐 أسئلة عن المحادثة:
 
 | السؤال بالألمانية | العربية |
 |------------------|---------|
-| **Wer ist am Telefon?** | من على التليفون؟ |
-| **Wen möchte Herr Klein sprechen?** | مع من يريد سيد كلاين التحدث؟ |
-| **Wo ist Herr Müller?** | أين السيد مولر؟ |
-| **Kann Herr Klein Herrn Müller sprechen?** | هل يستطيع سيد كلاين التحدث مع سيد مولر؟ |
-| **Was sagt Herr Klein?** | ماذا قال سيد كلاين؟ |
-| **Was macht Anna?** | ماذا تفعل آنا؟ |
+| **Hat Herr Schmidt einen Termin?** | هل السيد شميت عنده موعد؟ |
+| **Was möchte Herr Schmidt beantragen?** | ماذا يريد السيد شميت أن يقدم طلباً له؟ |
+| **Welche Dokumente braucht er?** | أي مستندات يحتاجها؟ |
+| **Was muss Herr Schmidt machen?** | ماذا يجب على السيد شميت أن يفعل؟ |
+| **Wie viel kostet der neue Pass?** | كم سعر جواز السفر الجديد؟ |
+| **Wann ist der Pass fertig?** | متى سيكون جواز السفر جاهزاً؟ |
 
 ### ✅ الأجوبة:
 
-1. **Anna Weber** ist am Telefon. (آنا فيبر على التليفون.)
-2. Herr Klein möchte **Herrn Müller** sprechen. (سيد كلاين يريد التحدث مع سيد مولر.)
-3. Herr Müller ist **in einer Besprechung**. (سيد مولر في اجتماع.)
-4. Nein, Herr Klein kann Herrn Müller **nicht** sprechen. (لا، سيد كلاين لا يستطيع التحدث مع سيد مولر.)
-5. Herr Klein sagt: **"Ich rufe später noch einmal an."** (سيد كلاين قال: سأتصل مرة أخرى لاحقاً.)
-6. Anna **verbindet** und **richtet eine Nachricht aus**. (آنا توصل المكالمة وتُبلغ رسالة.)
+1. **Ja**, er hat einen Termin um 10 Uhr. (نعم، عنده موعد الساعة 10.)
+2. Er möchte einen **neuen Reisepass** beantragen. (يريد تقديم طلب جواز سفر جديد.)
+3. Er braucht seinen **alten Pass** und seinen **Personalausweis**. (يحتاج جواز سفره القديم وبطاقة هويته.)
+4. Er muss ein **Formular ausfüllen** und **unterschreiben**. (يجب أن يملأ استمارة ويوقعها.)
+5. Der Pass kostet **60 Euro**. (جواز السفر سعره 60 يورو.)
+6. Der Pass ist in **etwa vier Wochen** fertig. (جواز السفر جاهز خلال حوالي أربعة أسابيع.)
 
 ---
 
-## 4. 📧 القاعدة: الإيميل والكتابة (E-Mail und Schreiben)
+## 4. 📝 تمارين
 
-خلنا نتعلم نكتب إيميل بسيط بالألمانية!
+### التمرين 1: أكمل الحوار بالكلمات الناقصة 🏛️
 
-### 🟢 بداية الإيميل:
+أكمل الفراغات بالكلمات المناسبة: (Formular — Termin — Anliegen — unterschreiben — Reisepass — Gebühr)
 
-| الألمانية | العربية |
-|-----------|---------|
-| **Sehr geehrte Frau Schmidt,** | سيدتي العزيزة شميت، (رسمي) |
-| **Sehr geehrter Herr Müller,** | سيدي العزيز مولر، (رسمي) |
-| **Liebe Frau Schmidt,** | عزيزتي السيدة شميت، |
-| **Lieber Herr Müller,** | عزيزي السيد مولر، |
-| **Hallo Anna,** | مرحباً آنا، |
-
-### 🟢 نهاية الإيميل:
-
-| الألمانية | العربية |
-|-----------|---------|
-| **Mit freundlichen Grüßen** | مع أطيب التحيات (رسمي) |
-| **Viele Grüße** | مع تحياتي |
-| **Liebe Grüße** | مع حبي / تحياتي الحارة |
-| **Bis bald!** | إلى اللقاء قريباً! |
-| **Vielen Dank!** | شكراً جزيلاً! |
-
-### 🟢 إيميل قصير — مثال:
-
-> **Betreff:** Termin am Freitag
-> *(الموضوع: موعد يوم الجمعة)*
+> **Frau Weber:** Guten Morgen! Haben Sie einen (1) ______________?
 >
-> Liebe Frau Schmidt,
-> 
-> Vielen Dank für Ihre E-Mail.
-> Der Termin am Freitag um 10 Uhr ist gut.
-> Ich komme ins Büro.
-> 
-> Mit freundlichen Grüßen
-> Anna Weber
+> **Herr Schmidt:** Ja, um 10 Uhr. Ich möchte einen neuen (2) ______________ beantragen.
 >
-> *(عزيزتي السيدة شميت،*
-> *شكراً جزيلاً على إيميلك.*
-> *الموعد يوم الجمعة الساعة 10 مناسب.*
-> *سآتي إلى المكتب.*
-> *مع أطيب التحيات،*
-> *آنا فيبر)*
-
----
-
-## 5. ✏️ تمارين سريعة
-
-### التمرين 1: أكمل الجملة ☎️
-
-| # | الجملة | الكلمة الناقصة |
-|---|--------|----------------|
-| 1 | Ich ______________ Herrn Müller an. (أنا أتصل بالسيد مولر) | ______________ |
-| 2 | Das Telefon _______________. (التليفون يرن) | ______________ |
-| 3 | Kann ich eine ______________ hinterlassen? (هل أستطيع ترك رسالة؟) | ______________ |
-| 4 | Einen ______________, bitte. (لحظة من فضلك) | ______________ |
-| 5 | Ich schreibe eine ______________. (أنا أكتب إيميلاً) | ______________ |
+> **Frau Weber:** Was ist Ihr (3) ______________?
+>
+> **Herr Schmidt:** Mein Pass ist ungültig.
+>
+> **Frau Weber:** Dann müssen Sie dieses (4) ______________ ausfüllen und (5) ______________.
+>
+> **Herr Schmidt:** Die (6) ______________ ist 60 Euro, richtig?
+>
+> **Frau Weber:** Ja, genau.
 
 ✅ **الحل:**
 
-| # | الإجابة |
-|---|---------|
-| 1 | **rufe** an |
-| 2 | **klingelt** |
-| 3 | **Nachricht** |
-| 4 | **Moment** |
-| 5 | **E-Mail** |
-
-### التمرين 2: شنو تقول عالتليفون؟ 🤔
-
-**شنو تقول في هالمواقف؟ (اكتب الجملة الصح)**
-
-| # | الموقف | الجملة بالألمانية |
-|---|--------|-------------------|
-| 1 | ترد على التليفون في المكتب | ______________ |
-| 2 | تطلب السيد مولر | ______________ |
-| 3 | تقول "لحظة من فضلك" | ______________ |
-| 4 | تقول "مع السلامة" عالتليفون | ______________ |
-| 5 | تقول "آسفة، هو مش موجود" | ______________ |
-
-✅ **الحل:**
-
-| # | الجملة الصحيحة |
-|---|----------------|
-| 1 | **Firma Weber, guten Tag.** أو **Anna Weber, guten Tag.** |
-| 2 | **Kann ich bitte Herrn Müller sprechen?** |
-| 3 | **Einen Moment, bitte.** |
-| 4 | **Auf Wiederhören!** |
-| 5 | **Tut mir leid, er ist nicht da.** |
+(1) **Termin** | (2) **Reisepass** | (3) **Anliegen** | (4) **Formular** | (5) **unterschreiben** | (6) **Gebühr**
 
 ---
 
-## 6. 🗣️ مفردات الدرس (Wortschatz)
+### التمرين 2: صرّف Modalverb بين القوسين ⚠️
+
+1. Ich ______________ (müssen) einen Antrag stellen.
+2. ______________ (dürfen) ich hereinkommen?
+3. Sie ______________ (sollen) Ihren Ausweis mitbringen.
+4. Wir ______________ (können) online bezahlen.
+5. Du ______________ (müssen) das Formular ausfüllen.
+6. Er ______________ (dürfen) nicht ohne Termin kommen.
+7. ______________ (können) Sie mir bitte helfen?
+8. Ihr ______________ (sollen) pünktlich sein.
+
+✅ **الحل:**
+
+1. **muss** | 2. **Darf** | 3. **sollen** | 4. **können** | 5. **musst** | 6. **darf** | 7. **Können** | 8. **sollt**
+
+---
+
+### التمرين 3: رتب الكلمات لتكوين جملة صحيحة 🔀
+
+1. müssen / Ich / zum Amt / gehen
+   → ___________________________________
+
+2. Sie / das Formular / unterschreiben / müssen
+   → ___________________________________
+
+3. kann / Wo / ich / einen Termin / machen?
+   → ___________________________________
+
+4. dürfen / Hier / Sie / nicht / parken
+   → ___________________________________
+
+5. soll / Was / ich / machen?
+   → ___________________________________
+
+✅ **الحل:**
+
+1. **Ich muss zum Amt gehen.**
+2. **Sie müssen das Formular unterschreiben.**
+3. **Wo kann ich einen Termin machen?**
+4. **Hier dürfen Sie nicht parken.**
+5. **Was soll ich machen?**
+
+---
+
+### التمرين 4: ترجم الجمل التالية إلى الألمانية 🌍
+
+1. أنا مضطر لملء استمارة.
+   → ___________________________________
+
+2. هل تستطيع مساعدتي من فضلك؟
+   → ___________________________________
+
+3. أين هو الشباك (الكاونتر)؟
+   → ___________________________________
+
+4. هذه الدائرة ليست هي المختصة.
+   → ___________________________________
+
+5. من المفترض أن تحضر جواز سفر ساري المفعول.
+   → ___________________________________
+
+✅ **الحل:**
+
+1. **Ich muss ein Formular ausfüllen.**
+2. **Können Sie mir bitte helfen?**
+3. **Wo ist der Schalter?**
+4. **Dieses Amt ist nicht zuständig.**
+5. **Sie sollen einen gültigen Pass mitbringen.**
+
+---
+
+## 5. 🗣️ مفردات الدرس (Wortschatz)
 
 | الألمانية | النطق | العربية |
 |-----------|-------|---------|
-| **das Büro** | **داس بيورو** — dahs bü-ROH | المكتب |
-| **der Schreibtisch** | **دير شرايب-تيش** — deer SHRIPE-tish | طاولة المكتب |
-| **das Telefon** | **داس تيلي-فون** — dahs TEH-leh-fohn | التليفون |
-| **das Handy** | **داس هاندي** — dahs HAN-dee | الموبايل |
-| **der Computer** | **دير كومبيوتر** — deer com-PYOO-ter | الكمبيوتر |
-| **der Kollege / die Kollegin** | — | الزميل / الزميلة |
-| **der Chef / die Chefin** | — | المدير / المديرة |
-| **der Anruf** | **دير آن-روف** — deer AHN-roof | المكالمة |
-| **anrufen** | **آن-روفن** — AHN-roo-fen | يتصل |
-| **telefonieren** | **تيلي-فونيرن** — teh-leh-foh-NEE-ren | يتحدث بالتليفون |
-| **sprechen** | **شپريخن** — SHPRER-khen | يتكلم |
-| **sagen** | **زاگن** — ZAH-gen | يقول |
-| **fragen** | **فراگن** — FRAH-gen | يسأل |
-| **antworten** | **أنت-فورتن** — ANT-for-ten | يجيب |
-| **die E-Mail** | **دي إي-ميل** — dee EE-mayl | الإيميل |
-| **die Nachricht** | **دي ناخ-ريشت** — dee NAKH-risht | الرسالة |
-| **der Termin** | **دير تير-مين** — deer ter-MEEN | الموعد |
-| **die Besprechung** | **دي بيه-شپريخونغ** — dee be-SHPRER-khoong | الاجتماع |
-| **klingeln** | **كلينگلن** — KLING-eln | يرن |
-| **verbinden** | **فير-بيندن** — fer-BIN-den | يوصل المكالمة |
-| **ausrichten** | **آوس-ريشتن** — OUS-rish-ten | يبلغ |
-| **Einen Moment, bitte.** | — | لحظة من فضلك. |
-| **Kann ich … sprechen?** | — | هل أستطيع التحدث مع …؟ |
-| **Auf Wiederhören!** | — | مع السلامة (في التليفون)! |
-| **Hier ist …** | — | هنا … (عند الرد) |
-| **Tut mir leid, …** | — | آسف / آسفة، … |
+| **das Amt** | **داس آمت** | الدائرة الحكومية |
+| **der Beamte / die Beamtin** | **دير بيه-آمته / دي بيه-آمتن** | الموظف / الموظفة الحكومية |
+| **der Bürger / die Bürgerin** | **دير بورگر / دي بورگرين** | المواطن / المواطنة |
+| **das Formular** | **داس فورمولار** | الاستمارة / النموذج |
+| **der Antrag** | **دير آن-تراگ** | الطلب الرسمي |
+| **der Pass** | **دير پاس** | جواز السفر |
+| **der Ausweis** | **دير آوس-فايس** | بطاقة الهوية |
+| **die Unterschrift** | **دي أونتر-شريفت** | التوقيع |
+| **die Öffnungszeiten** | **دي أوفنونغ-تسايتن** | ساعات العمل |
+| **der Schalter** | **دير شالتر** | الشباك / الكاونتر |
+| **die Gebühr** | **دي گه-بور** | الرسم / الرسوم |
+| **das Anliegen** | **داس آن-ليگن** | الطلب / الشأن |
+| **zuständig** | **تسو-شتنديخ** | مختص / مسؤول |
+| **der Termin** | **دير تير-مين** | الموعد |
+| **das Dokument** | **داس دوکومنت** | المستند |
+| **ausfüllen** | **آوس-فولن** | يملأ (استمارة) |
+| **unterschreiben** | **أونتر-شَرايبن** | يوقع |
+| **beantragen** | **بيه-آن-تراگن** | يقدم طلباً |
+| **mitbringen** | **ميت-برينگن** | يحضر معه |
+| **abholen** | **آب-هولن** | يستلم |
 
 ---
 
@@ -380,16 +363,16 @@
 
 | ماذا تعلمت؟ | الجملة المفتاحية |
 |------------|-----------------|
-| أسماء أثاث وأشياء المكتب | **der Schreibtisch, das Telefon, der Computer** |
-| الناس في المكتب | **der Kollege, die Chefin, der Mitarbeiter** |
-| كيف ترد على التليفون | **Firma Weber, guten Tag!** |
-| كيف تطلب شخص بالتليفون | **Kann ich bitte Herrn Müller sprechen?** |
-| تقول مش موجود/مشغول | **Tut mir leid, er ist in einer Besprechung.** |
-| كتابة إيميل بسيط | **Liebe Frau Schmidt, … Viele Grüße** |
-| الفرق بين **sprechen** و **sagen** | **sprechen** = يتكلم (مع شخص) / **sagen** = يقول (شيء) |
-| تصريف **anrufen** فعل منفصل | **Ich rufe an.** (الـ **an** تروح آخر الجملة) |
+| أسماء الدائرة والموظفين | **das Amt, der Beamte, der Bürger** |
+| المستندات والطلبات | **der Antrag, das Formular, der Pass** |
+| ساعات العمل والشباك | **die Öffnungszeiten, der Schalter** |
+| müssen (يجب) | **Sie müssen ein Formular ausfüllen.** |
+| dürfen (يُسمح) | **Hier dürfen Sie nicht parken.** |
+| können (يستطيع) | **Können Sie mir helfen?** |
+| sollen (من المفترض) | **Sie sollen den Pass mitbringen.** |
+| حوار في Amt | **"Ich möchte einen Pass beantragen."** |
 
-> 🎉 **ممتاز!** خلصت درس Lektion 18! الحين تقدر تتصل بالتليفون بالألماني، ترد على المكالمات، وتكتب إيميل بسيط!
+> 🎉 **ممتاز!** خلصت درس Lektion 18! الحين تقدر تتعامل مع Amt بالألماني، تفهم الإجراءات الرسمية، وتستخدم Modalverben صح!
 > 👉 **الخطوة التالية:** روح للتمارين وحلّها عشان تثبت المعلومات!
 
 [🔙 رجوع إلى المستوى A1](index.md)

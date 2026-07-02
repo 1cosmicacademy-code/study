@@ -20,3 +20,6 @@ site/
 
 # Playwright snapshots
 .playwright-mcp/
+
+# Local Netlify folder
+.netlify

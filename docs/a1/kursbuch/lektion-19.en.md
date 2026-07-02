@@ -1,28 +1,14 @@
-# 🇩🇪 Lesson 19 — Reisen in Deutschland
-## ✈️🎒 Traveling in Germany
+# 📕 Lesson 19: Reisen in Deutschland — Traveling in Germany
 
-[🔙 Back to A1 Level](../index.md) | [📕 Course Book](index.md)
-
----
-
-## 🎬 Video — Watch & Learn
-
-> **Video Code:** `2hkv4Fn6Mvo` (YouTube — English temporary)
-
-<details>
-<summary>📝 What will we learn from the video?</summary>
-
-- Say: I want to travel to Berlin
-- Name means of transport: train, car, bus, airplane, bicycle
-- Use the verb "fahren" (to go by vehicle)
-- Use "möchten" (would like to)
-- Ask for directions
-
-</details>
+> ✈️ **Welcome!** In this lesson you'll learn how to talk about traveling in Germany — means of transport, asking for directions, buying tickets, and booking hotels. All in German! Let's get started!
 
 ---
 
-## 2. 🆕 New Words — Neue Wörter
+## 🎬 Video Lesson
+
+---
+
+## 1. 🆕 New Words — Neue Wörter
 
 ### 🚗 Means of Transport — Verkehrsmittel
 
@@ -72,7 +58,7 @@
 
 ---
 
-## 3. 📖 Grammar — Grammatik (Very Simple!)
+## 2. 📖 Grammar — Grammatik (Very Simple!)
 
 ### 🅰️ The Verb "fahren" — to go (by vehicle)
 
@@ -144,7 +130,7 @@ We use **nach** to say "to" with cities and countries:
 
 ---
 
-## 4. 💬 Conversation — Gespräch
+## 3. 💬 Conversation — Gespräch
 
 ### Dialogue at the Train Station
 
@@ -209,7 +195,7 @@ We use **nach** to say "to" with cities and countries:
 
 ---
 
-## 5. ✍️ Exercises — Übungen
+## 4. ✍️ Exercises — Übungen
 
 ### 🥇 Exercise 1: Fill in the correct form of "fahren"
 
@@ -301,7 +287,7 @@ Choose: **fahre — fährst — fährt — fahren — fahrt**
 
 ---
 
-## 6. 📚 Lesson Vocabulary — Wortschatz
+## 5. 📚 Lesson Vocabulary — Wortschatz
 
 ### 🚗 Means of Transport
 
