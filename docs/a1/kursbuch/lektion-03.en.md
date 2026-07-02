@@ -304,7 +304,7 @@ And the answer is always: **Das ist...** (dahs ist) = **That is...**
 
 > 🎉 **Excellent!** You've completed Lektion 3! Now you can ask "Was ist das?" and answer with the correct article!
 >
-> 👉 Next step: Go to the exercises and practice to make it stick!
+> 👉 Next step: Go to the [📝 Übungsbuch exercises Lektion 03](../ubungsbuch/lektion-03.md) and practice to make it stick!
 >
 > 💡 **Magic tip:** Every day, pick 5 words from the lesson and review them WITH their article. Say: **der Tisch**, **die Lampe**, **das Buch** — out loud!
 
@@ -320,3 +320,4 @@ And the answer is always: **Das ist...** (dahs ist) = **That is...**
 </div>
 
 [🔙 Back to A1 Level](index.md)
+

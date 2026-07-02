@@ -269,7 +269,7 @@ When asking about duration, use these sentences:
 | How to ask about duration | **Wie lange dauert das?** |
 
 > 🎉 **Excellent!** You've completed Lektion 6! Now you can tell the time, talk about working hours, and ask about appointments in German.  
-> 👉 **Next step:** Go to the exercises and practice to make it stick!
+> 👉 **Next step:** Go to the [📝 Übungsbuch exercises Lektion 06](../ubungsbuch/lektion-06.md) and practice to make it stick!
 
 ---
 
@@ -282,3 +282,4 @@ When asking about duration, use these sentences:
 </div>
 
 [🔙 Back to A1 Level](index.md)
+

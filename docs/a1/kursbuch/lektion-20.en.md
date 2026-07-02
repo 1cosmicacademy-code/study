@@ -297,7 +297,7 @@ In German, **the verb is always in the second position**:
 > - Talk about German holidays 🇩🇪
 > - Use important celebration vocabulary
 >
-> 👉 **Next step:** Go to the exercises and practice to make it stick!
+> 👉 **Next step:** Go to the [📝 Übungsbuch exercises Lektion 20](../ubungsbuch/lektion-20.md) and practice to make it stick!
 
 ---
 
@@ -311,3 +311,4 @@ In German, **the verb is always in the second position**:
 </div>
 
 [🔙 Back to A1 Level](../index.md) | [📕 Course Book](index.md)
+

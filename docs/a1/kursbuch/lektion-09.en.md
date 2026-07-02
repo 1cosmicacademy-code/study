@@ -313,7 +313,7 @@ We need the verb **haben** (to have) to talk about appointments:
 > - Say the date and your birthday
 > - Book a full appointment!
 >
-> 👉 **Next step:** Go to the exercises and solve them to practice!
+> 👉 **Next step:** Go to the [📝 Übungsbuch exercises Lektion 09](../ubungsbuch/lektion-09.md) and solve them to practice!
 
 ---
 
@@ -327,3 +327,4 @@ We need the verb **haben** (to have) to talk about appointments:
 </div>
 
 [🔙 Back to A1 Level](index.md)
+

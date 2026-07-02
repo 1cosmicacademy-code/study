@@ -270,7 +270,7 @@ Notice:
 | How to ask for directions | **Wo ist der Ausgang / das Gleis / die Haltestelle?** |
 
 > 🎉 **Excellent!** You've completed Lektion 10! Now you can ask about buses and trains, buy a ticket, and ask for directions at the station in German.  
-> 👉 **Next step:** Go to the exercises and practice to make it stick!
+> 👉 **Next step:** Go to the [📝 Übungsbuch exercises Lektion 10](../ubungsbuch/lektion-10.md) and practice to make it stick!
 
 ---
 
@@ -284,3 +284,4 @@ Notice:
 </div>
 
 [🔙 Back to A1 Level](index.md)
+

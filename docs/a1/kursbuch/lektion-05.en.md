@@ -376,7 +376,7 @@ Now let's talk about our day from morning to night. These sentences are very sim
 > - ✅ Ask and tell the time
 > - ✅ Talk about your free time and what you like to do
 >
-> 👉 **Next step:** Go to the exercises and practice to make it stick!
+> 👉 **Next step:** Go to the [📝 Übungsbuch exercises Lektion 05](../ubungsbuch/lektion-05.md) and practice to make it stick!
 
 ---
 
@@ -389,3 +389,4 @@ Now let's talk about our day from morning to night. These sentences are very sim
 </div>
 
 [🔙 Back to A1 Level](../index.md) · [📕 Course Book](index.md) · [📝 Exercises](../ubungsbuch/lektion-05.en.md)
+

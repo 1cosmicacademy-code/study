@@ -196,7 +196,7 @@ In German, we say **"mein Kopf"** (my head) or **"meine Hand"** (my hand). The a
 - **mein** with der/das, **meine** with die/plural
 
 > 🎉 **Great job!** You've completed Lektion 13! Now you can name body parts, describe pain, and talk to a doctor in German.  
-> 👉 **Next step:** Go to the exercises and practice to make it stick!
+> 👉 **Next step:** Go to the [📝 Übungsbuch exercises Lektion 13](../ubungsbuch/lektion-13.md) and practice to make it stick!
 
 ---
 
@@ -209,3 +209,4 @@ In German, we say **"mein Kopf"** (my head) or **"meine Hand"** (my hand). The a
 </div>
 
 [🔙 Back to A1 Level](index.md)
+

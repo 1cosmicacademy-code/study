@@ -267,7 +267,7 @@ Let's learn to ask about people and answer:
 > - "This is **your book**" and "this is **our cat**"
 > - Ask "Who is this?" and answer!
 
-> 👉 **Next step:** Go to the exercises and practice to make possessive articles stick in your head!
+> 👉 **Next step:** Go to the [📝 Übungsbuch exercises Lektion 04](../ubungsbuch/lektion-04.md) and practice to make possessive articles stick in your head!
 
 ---
 
@@ -280,3 +280,4 @@ Let's learn to ask about people and answer:
 </div>
 
 [🔙 Back to A1 Level](../index.md)
+

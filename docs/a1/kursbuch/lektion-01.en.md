@@ -292,7 +292,7 @@ Here is a conversation between two people getting to know each other. Read it an
 ---
 
 > 🎉 **Excellent!** You've completed Lektion 1! Now you can greet people, introduce yourself, ask how they are, and count from 1 to 20.  
-> 👉 **Next step:** Go to the exercises and practice to make it stick!
+> 👉 **Next step:** Go to the [📝 Übungsbuch exercises Lektion 01](../ubungsbuch/lektion-01.md) and practice to make it stick!
 
 ---
 
@@ -306,3 +306,4 @@ Here is a conversation between two people getting to know each other. Read it an
 </div>
 
 [🔙 Back to A1 Level](index.md)
+

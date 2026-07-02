@@ -373,7 +373,7 @@ Fill in the blanks with the correct words: (Formular — Termin — Anliegen —
 | Dialogue at the Amt | **"I would like to apply for a passport."** |
 
 > 🎉 **Great job!** You finished Lektion 18! Now you can deal with the Amt in German, understand official procedures, and use modal verbs correctly!
-> 👉 **Next step:** Go to the exercises and solve them to practice!
+> 👉 **Next step:** Go to the [📝 Übungsbuch exercises Lektion 18](../ubungsbuch/lektion-18.md) and solve them to practice!
 
 ---
 
@@ -386,3 +386,4 @@ Fill in the blanks with the correct words: (Formular — Termin — Anliegen —
 </div>
 
 [🔙 Back to A1 Level](index.md)
+

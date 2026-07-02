@@ -292,7 +292,7 @@ This is a conversation between **Ahmed** (customer) and **Mrs. Müller** (the sa
 | Difference between **kaufen** and **einkaufen** | **kaufen** = to buy / **einkaufen** = to go shopping |
 
 > 🎉 **Great job!** You finished Lektion 16! Now you can shop in German, buy anything, and ask for the price!
-> 👉 **Next step:** Go to the exercises and solve them to practice!
+> 👉 **Next step:** Go to the [📝 Übungsbuch exercises Lektion 16](../ubungsbuch/lektion-16.md) and solve them to practice!
 
 ---
 
@@ -306,3 +306,4 @@ This is a conversation between **Ahmed** (customer) and **Mrs. Müller** (the sa
 </div>
 
 [🔙 Back to A1 Level](index.md)
+

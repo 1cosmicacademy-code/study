@@ -346,7 +346,7 @@ Here is a conversation between **Anna** (customer) and **Kellner** (waiter) at a
 | Describing food | **Das schmeckt lecker!** |
 
 > 🎉 **Excellent!** You've completed Lektion 7! Now you can talk about food, make words plural, and say negative sentences. Hungry yet? 😄
-> 👉 **Next step:** Go to the exercises and practice to make it stick!
+> 👉 **Next step:** Go to the [📝 Übungsbuch exercises Lektion 07](../ubungsbuch/lektion-07.md) and practice to make it stick!
 
 ---
 
@@ -360,3 +360,4 @@ Here is a conversation between **Anna** (customer) and **Kellner** (waiter) at a
 </div>
 
 [🔙 Back to A1 Level](index.md)
+

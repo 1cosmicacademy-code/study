@@ -317,7 +317,7 @@ The verb **arbeiten** means "to work." Let's see how it changes:
 ---
 
 > 🎉 **Excellent!** You've completed Lektion 2! Now you can ask people about their profession, tell yours, and use **Sie** correctly!
-> 👉 **Next step:** Go to the exercises and practice to make it stick!
+> 👉 **Next step:** Go to the [📝 Übungsbuch exercises Lektion 02](../ubungsbuch/lektion-02.md) and practice to make it stick!
 
 ---
 
@@ -331,3 +331,4 @@ The verb **arbeiten** means "to work." Let's see how it changes:
 </div>
 
 [🔙 Back to A1 Level](../index.md) • [📕 Course Book](index.md)
+

@@ -300,7 +300,7 @@ This is a conversation between **Leila** and **Karim** getting to know each othe
 | Difference between **lernen** and **studieren** | **lernen** = to learn / **studieren** = to study at university |
 
 > 🎉 **Great job!** You finished Lektion 17! Now you can talk about your job in German and ask others about theirs!
-> 👉 **Next step:** Go to the exercises and solve them to practice!
+> 👉 **Next step:** Go to the [📝 Übungsbuch exercises Lektion 17](../ubungsbuch/lektion-17.md) and solve them to practice!
 
 ---
 
@@ -314,3 +314,4 @@ This is a conversation between **Leila** and **Karim** getting to know each othe
 </div>
 
 [🔙 Back to A1 Level](../index.md) · [📕 Course Book](index.md)
+
