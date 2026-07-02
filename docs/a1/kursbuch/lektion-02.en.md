@@ -319,4 +319,15 @@ The verb **arbeiten** means "to work." Let's see how it changes:
 > 🎉 **Excellent!** You've completed Lektion 2! Now you can ask people about their profession, tell yours, and use **Sie** correctly!
 > 👉 **Next step:** Go to the exercises and practice to make it stick!
 
+---
+
+## 📚 Related Grammar
+
+<div class="grammar-links">
+  <a href="../grammatik/verbkonjugation.md" class="grammar-btn">🔤 Verb Conjugation (Verbkonjugation)</a>
+  <a href="../grammatik/artikel.md" class="grammar-btn">📦 Articles (Artikel)</a>
+  <a href="../grammatik/nominativ.md" class="grammar-btn">📌 Nominative Case (Nominativ)</a>
+  <a href="../grammatik/negation.md" class="grammar-btn">❌ Negation (Negation)</a>
+</div>
+
 [🔙 Back to A1 Level](../index.md) • [📕 Course Book](index.md)

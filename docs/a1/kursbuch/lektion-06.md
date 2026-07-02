@@ -271,4 +271,14 @@
 > 🎉 **ممتاز!** خلصت درس Lektion 6! الحين تقدر تقول كم الساعة، تتكلم عن أوقات العمل، وتسأل عن المواعيد بالألمانية.  
 > 👉 **الخطوة التالية:** روح للتمارين وحلّها عشان تثبت المعلومات!
 
+---
+
+## 📚 القواعد المرتبطة
+
+<div class="grammar-links">
+  <a href="../grammatik/modalverben.md" class="grammar-btn">⚡ Modalverben (الأفعال الناقصة)</a>
+  <a href="../grammatik/satzbau.md" class="grammar-btn">🏗️ Satzbau (بناء الجملة)</a>
+  <a href="../grammatik/temporal-lokal-angaben.md" class="grammar-btn">⏰ Temporal- und Lokalangaben (الوقت والمكان)</a>
+</div>
+
 [🔙 رجوع إلى المستوى A1](index.md)

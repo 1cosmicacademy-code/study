@@ -198,4 +198,14 @@
 > 🎉 **أحسنت!** خلصت درس Lektion 13! الحين تقدر تقول أجزاء الجسم، تصف الألم، وتتكلم مع الدكتور بالألماني.  
 > 👉 **الخطوة التالية:** روح للتمارين وحلّها عشان تثبت المعلومات!
 
+---
+
+## 📚 القواعد المرتبطة
+
+<div class="grammar-links">
+  <a href="../grammatik/modalverben.md" class="grammar-btn">🇩🇪 ⚡ Modalverben (Modalverben)</a>
+  <a href="../grammatik/imperativ.md" class="grammar-btn">🇩🇪 📢 Imperativ (Imperativ)</a>
+  <a href="../grammatik/personalpronomen.md" class="grammar-btn">🇩🇪 👤 Personalpronomen (Personalpronomen)</a>
+</div>
+
 [🔙 رجوع إلى المستوى A1](index.md)

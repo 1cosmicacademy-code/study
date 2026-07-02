@@ -294,4 +294,14 @@
 > 🎉 **Well done!** If you solved all the exercises, you're ready to visit any Amt in Germany and communicate with government officials in German!
 > 👉 Go to the next lesson: [Lektion 19: Reisen in Deutschland](index.md)
 
+---
+
+## 📚 Related Grammar
+
+<div class="grammar-links">
+  <a href="../../grammatik/modalverben.md" class="grammar-btn">🇩🇪 Modalverben ⚡</a>
+  <a href="../../grammatik/imperativ.md" class="grammar-btn">🇩🇪 Imperativ 📢</a>
+  <a href="../../grammatik/passiv.md" class="grammar-btn">🇩🇪 Passiv 🔄</a>
+</div>
+
 [🔙 Back to Exercises](index.md)

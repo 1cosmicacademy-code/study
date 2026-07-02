@@ -284,4 +284,15 @@
 > 🎉 **أحسنت!** إذا حلّيت كل التمارين، فأنت تتقن التكلم عن الأعياد والاحتفالات بالألمانية!  
 > 🎂 **Alles Gute zum Geburtstag!** — قدمت أداء رائعاً!
 
+---
+
+## 📚 القواعد المرتبطة
+
+<div class="grammar-links">
+  <a href="../../grammatik/perfekt.md" class="grammar-btn">🇩🇪 Perfekt (✅)</a>
+  <a href="../../grammatik/prateritum.md" class="grammar-btn">🇩🇪 Präteritum (📜)</a>
+  <a href="../../grammatik/vergleiche.md" class="grammar-btn">🇩🇪 Vergleiche (⚖️)</a>
+  <a href="../../grammatik/konjunktiv-2.md" class="grammar-btn">🇩🇪 Konjunktiv 2 (💭)</a>
+</div>
+
 [🔙 رجوع إلى التمارين](index.md)

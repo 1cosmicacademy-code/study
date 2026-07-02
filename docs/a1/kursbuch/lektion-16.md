@@ -294,4 +294,15 @@
 > 🎉 **ممتاز!** خلصت درس Lektion 16! الحين تقدر تتسوق بالألماني وتشتري أي شيء وتسأل عن السعر!
 > 👉 **الخطوة التالية:** روح للتمارين وحلّها عشان تثبت المعلومات!
 
+---
+
+## 📚 القواعد المرتبطة
+
+<div class="grammar-links">
+  <a href="../grammatik/akkusativ.md" class="grammar-btn">🎯 Akkusativ (Akkusativ)</a>
+  <a href="../grammatik/artikel.md" class="grammar-btn">📦 Artikel (Artikel)</a>
+  <a href="../grammatik/plural.md" class="grammar-btn">🔢 Plural (Plural)</a>
+  <a href="../grammatik/satzbau.md" class="grammar-btn">🏗️ Satzbau (Satzbau)</a>
+</div>
+
 [🔙 رجوع إلى المستوى A1](index.md)

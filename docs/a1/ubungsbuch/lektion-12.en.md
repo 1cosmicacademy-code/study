@@ -362,4 +362,15 @@
 
 🎉 **Well done!** Now you can talk about school, professions, and future dreams in German! Repeat the exercises if you feel you need more practice.
 
+---
+
+## 📚 Related Grammar
+
+<div class="grammar-links">
+  <a href="../../grammatik/modalverben.md" class="grammar-btn">🇩🇪 Modalverben ⚡</a>
+  <a href="../../grammatik/satzbau.md" class="grammar-btn">🇩🇪 Satzbau 🏗️</a>
+  <a href="../../grammatik/nebensatze.md" class="grammar-btn">🇩🇪 Nebensätze 🔗</a>
+  <a href="../../grammatik/verbkonjugation.md" class="grammar-btn">🇩🇪 Verbkonjugation 🔤</a>
+</div>
+
 [🔙 Back to A1 Level](../index.md) • [📕 Exercise Book](index.md)

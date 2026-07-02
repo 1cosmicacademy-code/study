@@ -294,4 +294,14 @@
 > 🎉 **أحسنت!** إذا حلّيت كل التمارين، فأنت جاهز تزور أي Amt في ألمانيا وتتعامل مع الموظفين الحكوميين بالألمانية!
 > 👉 روح للدرس الجاي: [Lektion 19: Reisen in Deutschland](index.md)
 
+---
+
+## 📚 القواعد المرتبطة
+
+<div class="grammar-links">
+  <a href="../../grammatik/modalverben.md" class="grammar-btn">🇩🇪 Modalverben (⚡)</a>
+  <a href="../../grammatik/imperativ.md" class="grammar-btn">🇩🇪 Imperativ (📢)</a>
+  <a href="../../grammatik/passiv.md" class="grammar-btn">🇩🇪 Passiv (🔄)</a>
+</div>
+
 [🔙 رجوع إلى التمارين](index.md)

@@ -375,4 +375,14 @@
 > 🎉 **ممتاز!** خلصت درس Lektion 18! الحين تقدر تتعامل مع Amt بالألماني، تفهم الإجراءات الرسمية، وتستخدم Modalverben صح!
 > 👉 **الخطوة التالية:** روح للتمارين وحلّها عشان تثبت المعلومات!
 
+---
+
+## 📚 القواعد المرتبطة
+
+<div class="grammar-links">
+  <a href="../grammatik/modalverben.md" class="grammar-btn">⚡ Modalverben (Modalverben)</a>
+  <a href="../grammatik/imperativ.md" class="grammar-btn">📢 Imperativ (Imperativ)</a>
+  <a href="../grammatik/passiv.md" class="grammar-btn">🔄 Passiv (Passiv)</a>
+</div>
+
 [🔙 رجوع إلى المستوى A1](index.md)

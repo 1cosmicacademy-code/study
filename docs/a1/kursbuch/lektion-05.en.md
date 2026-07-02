@@ -378,4 +378,14 @@ Now let's talk about our day from morning to night. These sentences are very sim
 >
 > 👉 **Next step:** Go to the exercises and practice to make it stick!
 
+---
+
+## 📚 Related Grammar
+
+<div class="grammar-links">
+  <a href="../grammatik/trennbare-verben.md" class="grammar-btn">🗂️ Separable Verbs (Trennbare Verben)</a>
+  <a href="../grammatik/verbkonjugation.md" class="grammar-btn">🔤 Verb Conjugation (Verbkonjugation)</a>
+  <a href="../grammatik/temporal-lokal-angaben.md" class="grammar-btn">⏰ Time & Place Expressions (Temporal- und Lokalangaben)</a>
+</div>
+
 [🔙 Back to A1 Level](../index.md) · [📕 Course Book](index.md) · [📝 Exercises](../ubungsbuch/lektion-05.en.md)

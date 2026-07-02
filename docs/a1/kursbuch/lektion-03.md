@@ -308,4 +308,16 @@
 > 
 > 💡 **نصيحة سحرية:** كل يوم، اختار 5 كلمات من الدرس وراجعها مع أداة التعريف. قل: **der Tisch**, **die Lampe**, **das Buch** — بصوت عالي!
 
+
+---
+
+## 📚 القواعد المرتبطة
+
+<div class="grammar-links">
+  <a href="../grammatik/artikel.md" class="grammar-btn">🇩🇪 📦 Artikel (Artikel)</a>
+  <a href="../grammatik/plural.md" class="grammar-btn">🇩🇪 🔢 Plural (Plural)</a>
+  <a href="../grammatik/nominativ.md" class="grammar-btn">🇩🇪 📌 Nominativ (Nominativ)</a>
+  <a href="../grammatik/akkusativ.md" class="grammar-btn">🇩🇪 🎯 Akkusativ (Akkusativ)</a>
+</div>
+
 [🔙 رجوع إلى المستوى A1](index.md)

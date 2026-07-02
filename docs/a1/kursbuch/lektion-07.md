@@ -356,4 +356,15 @@
 > 🎉 **ممتاز!** خلصت درس Lektion 7! الحين تقدر تتكلم عن الأكل، تجمع الكلمات، وتنفي الجمل. جوعان؟ 😄
 > 👉 **الخطوة التالية:** روح للتمارين وحلّها عشان تثبت المعلومات!
 
+---
+
+## 📚 القواعد المرتبطة
+
+<div class="grammar-links">
+  <a href="../grammatik/akkusativ.md" class="grammar-btn">🎯 Akkusativ (حالة النصب)</a>
+  <a href="../grammatik/negation.md" class="grammar-btn">❌ Negation (النفي)</a>
+  <a href="../grammatik/plural.md" class="grammar-btn">🔢 Plural (الجمع)</a>
+  <a href="../grammatik/artikel.md" class="grammar-btn">📦 Artikel (أدوات التعريف)</a>
+</div>
+
 [🔙 رجوع إلى المستوى A1](index.md)

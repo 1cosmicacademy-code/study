@@ -225,4 +225,15 @@
 
 > 🎉 **أحسنت!** إذا حلّيت كل التمارين، فأنت مستعد للدرس الثاني!
 
+---
+
+## 📚 القواعد المرتبطة
+
+<div class="grammar-links">
+  <a href="../../grammatik/verbkonjugation.md" class="grammar-btn">🇩🇪 Verbkonjugation 🔤</a>
+  <a href="../../grammatik/personalpronomen.md" class="grammar-btn">🇩🇪 Personalpronomen 👤</a>
+  <a href="../../grammatik/nominativ.md" class="grammar-btn">🇩🇪 Nominativ 📌</a>
+  <a href="../../grammatik/satzbau.md" class="grammar-btn">🇩🇪 Satzbau 🏗️</a>
+</div>
+
 [🔙 رجوع إلى التمارين](index.md)

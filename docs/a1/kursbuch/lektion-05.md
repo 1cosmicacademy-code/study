@@ -378,4 +378,15 @@
 >
 > 👉 **الخطوة التالية:** روح للتمارين وحلّها عشان تثبت المعلومات!
 
+
+---
+
+## 📚 القواعد المرتبطة
+
+<div class="grammar-links">
+  <a href="../grammatik/trennbare-verben.md" class="grammar-btn">🇩🇪 🗂️ Trennbare Verben (Trennbare Verben)</a>
+  <a href="../grammatik/verbkonjugation.md" class="grammar-btn">🇩🇪 🔤 Verbkonjugation (Verbkonjugation)</a>
+  <a href="../grammatik/temporal-lokal-angaben.md" class="grammar-btn">🇩🇪 ⏰ Temporal- und Lokalangaben (Temporal- und Lokalangaben)</a>
+</div>
+
 [🔙 رجوع إلى المستوى A1](../index.md) · [📕 كتاب الدروس](index.md) · [📝 التمارين](../ubungsbuch/lektion-05.md)

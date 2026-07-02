@@ -272,4 +272,15 @@ Notice:
 > 🎉 **Excellent!** You've completed Lektion 10! Now you can ask about buses and trains, buy a ticket, and ask for directions at the station in German.  
 > 👉 **Next step:** Go to the exercises and practice to make it stick!
 
+---
+
+## 📚 Related Grammar
+
+<div class="grammar-links">
+  <a href="../grammatik/wechselprapositionen.md" class="grammar-btn">🔀 Two-Way Prepositions</a>
+  <a href="../grammatik/dativ.md" class="grammar-btn">🎁 Dative Case</a>
+  <a href="../grammatik/imperativ.md" class="grammar-btn">📢 Imperative</a>
+  <a href="../grammatik/prapositionen.md" class="grammar-btn">📍 Prepositions</a>
+</div>
+
 [🔙 Back to A1 Level](index.md)

@@ -314,4 +314,14 @@
 
 > 🎉 **أحسنت!** إذا حلّيت كل التمارين، فأنت مستعد لاستخدام مفردات الطبيب في الحياة الحقيقية. **Gute Besserung!** 🩺
 
+---
+
+## 📚 القواعد المرتبطة
+
+<div class="grammar-links">
+  <a href="../../grammatik/modalverben.md" class="grammar-btn">🇩🇪 Modalverben ⚡</a>
+  <a href="../../grammatik/imperativ.md" class="grammar-btn">🇩🇪 Imperativ 📢</a>
+  <a href="../../grammatik/personalpronomen.md" class="grammar-btn">🇩🇪 Personalpronomen 👤</a>
+</div>
+
 [🔙 رجوع إلى التمارين](index.md)

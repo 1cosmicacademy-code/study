@@ -315,4 +315,15 @@ We need the verb **haben** (to have) to talk about appointments:
 >
 > 👉 **Next step:** Go to the exercises and solve them to practice!
 
+---
+
+## 📚 Related Grammar
+
+<div class="grammar-links">
+  <a href="../grammatik/modalverben.md" class="grammar-btn">⚡ Modal Verbs</a>
+  <a href="../grammatik/satzbau.md" class="grammar-btn">🏗️ Sentence Structure</a>
+  <a href="../grammatik/temporal-lokal-angaben.md" class="grammar-btn">⏰ Time & Place Expressions</a>
+  <a href="../grammatik/nebensatze.md" class="grammar-btn">🔗 Subordinate Clauses</a>
+</div>
+
 [🔙 Back to A1 Level](index.md)

@@ -347,4 +347,14 @@
 
 🎉 **أحسنت!** الحين تقدر تتكلم عن المرض والإجازة المرضية في الألمانية! صحتك وربك يشفيك! 💪
 
+---
+
+## 📚 القواعد المرتبطة
+
+<div class="grammar-links">
+  <a href="../../grammatik/perfekt.md" class="grammar-btn">🇩🇪 Perfekt ✅</a>
+  <a href="../../grammatik/prateritum.md" class="grammar-btn">🇩🇪 Präteritum 📜</a>
+  <a href="../../grammatik/temporal-lokal-angaben.md" class="grammar-btn">🇩🇪 Temporal- und Lokalangaben ⏰</a>
+</div>
+
 [🔙 العودة إلى المستوى A1](../index.md) • [📕 كتاب التمارين](index.md)

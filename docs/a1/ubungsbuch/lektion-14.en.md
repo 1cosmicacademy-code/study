@@ -347,4 +347,14 @@
 
 🎉 **Well done!** Now you can talk about being sick and sick leave in German! Get well soon and stay healthy! 💪
 
+---
+
+## 📚 Related Grammar
+
+<div class="grammar-links">
+  <a href="../../grammatik/perfekt.md" class="grammar-btn">🇩🇪 Perfekt ✅</a>
+  <a href="../../grammatik/prateritum.md" class="grammar-btn">🇩🇪 Präteritum 📜</a>
+  <a href="../../grammatik/temporal-lokal-angaben.md" class="grammar-btn">🇩🇪 Temporal- und Lokalangaben ⏰</a>
+</div>
+
 [🔙 Back to A1 Level](../index.md) • [📕 Exercise Book](index.md)

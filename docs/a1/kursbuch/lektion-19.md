@@ -364,4 +364,16 @@
 
 ---
 
+---
+
+## 📚 القواعد المرتبطة
+
+<div class="grammar-links">
+  <a href="../grammatik/wechselprapositionen.md" class="grammar-btn">🔀 Wechselpräpositionen (Wechselpräpositionen)</a>
+  <a href="../grammatik/dativ.md" class="grammar-btn">🎁 Dativ (Dativ)</a>
+  <a href="../grammatik/nebensatze.md" class="grammar-btn">🔗 Nebensätze (Nebensätze)</a>
+  <a href="../grammatik/vergleiche.md" class="grammar-btn">⚖️ Vergleiche (Vergleiche)</a>
+  <a href="../grammatik/prateritum.md" class="grammar-btn">📜 Präteritum (Präteritum)</a>
+</div>
+
 [🔙 العودة إلى المستوى A1](../index.md)

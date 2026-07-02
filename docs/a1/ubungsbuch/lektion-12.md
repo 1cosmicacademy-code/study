@@ -362,4 +362,15 @@
 
 🎉 **أحسنت!** الحين تقدر تتكلم عن المدرسة والمهن والأحلام المستقبلية بالألمانية! أعد التمارين إذا حسيت إنك محتاج مراجعة.
 
+---
+
+## 📚 القواعد المرتبطة
+
+<div class="grammar-links">
+  <a href="../../grammatik/modalverben.md" class="grammar-btn">🇩🇪 Modalverben ⚡</a>
+  <a href="../../grammatik/satzbau.md" class="grammar-btn">🇩🇪 Satzbau 🏗️</a>
+  <a href="../../grammatik/nebensatze.md" class="grammar-btn">🇩🇪 Nebensätze 🔗</a>
+  <a href="../../grammatik/verbkonjugation.md" class="grammar-btn">🇩🇪 Verbkonjugation 🔤</a>
+</div>
+
 [🔙 العودة إلى المستوى A1](../index.md) • [📕 كتاب التمارين](index.md)

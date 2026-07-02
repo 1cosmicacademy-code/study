@@ -332,4 +332,15 @@
 > 🎉 **Well done!** If you solved all the exercises, you're ready to talk about your job in German!
 > 👉 Go to the next lesson: [Lektion 18](lektion-18.md)
 
+---
+
+## 📚 Related Grammar
+
+<div class="grammar-links">
+  <a href="../../grammatik/modalverben.md" class="grammar-btn">🇩🇪 Modalverben ⚡</a>
+  <a href="../../grammatik/perfekt.md" class="grammar-btn">🇩🇪 Perfekt ✅</a>
+  <a href="../../grammatik/trennbare-verben.md" class="grammar-btn">🇩🇪 Trennbare Verben 🗂️</a>
+  <a href="../../grammatik/satzbau.md" class="grammar-btn">🇩🇪 Satzbau 🏗️</a>
+</div>
+
 [🔙 Back to Exercises](index.md)

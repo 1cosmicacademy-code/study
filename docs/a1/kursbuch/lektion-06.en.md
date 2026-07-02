@@ -271,4 +271,14 @@ When asking about duration, use these sentences:
 > 🎉 **Excellent!** You've completed Lektion 6! Now you can tell the time, talk about working hours, and ask about appointments in German.  
 > 👉 **Next step:** Go to the exercises and practice to make it stick!
 
+---
+
+## 📚 Related Grammar
+
+<div class="grammar-links">
+  <a href="../grammatik/modalverben.md" class="grammar-btn">⚡ Modal Verbs</a>
+  <a href="../grammatik/satzbau.md" class="grammar-btn">🏗️ Sentence Structure</a>
+  <a href="../grammatik/temporal-lokal-angaben.md" class="grammar-btn">⏰ Time & Place Expressions</a>
+</div>
+
 [🔙 Back to A1 Level](index.md)

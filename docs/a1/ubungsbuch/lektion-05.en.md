@@ -329,4 +329,14 @@
 >
 > 👉 **Next lesson:** Lektion 6 — You'll learn about family and people!
 
+---
+
+## 📚 Related Grammar
+
+<div class="grammar-links">
+  <a href="../../grammatik/trennbare-verben.md" class="grammar-btn">🇩🇪 Trennbare Verben 🗂️</a>
+  <a href="../../grammatik/verbkonjugation.md" class="grammar-btn">🇩🇪 Verbkonjugation 🔤</a>
+  <a href="../../grammatik/temporal-lokal-angaben.md" class="grammar-btn">🇩🇪 Temporal- und Lokalangaben ⏰</a>
+</div>
+
 [🔙 Back to Exercises](index.md) · [📕 Lesson Today](../kursbuch/lektion-05.en.md)

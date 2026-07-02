@@ -39,6 +39,9 @@ extra:
 
 copyright: Copyright &copy; 2026 Ahmad Sharf
 
+extra_css:
+  - assets/stylesheets/extra.css
+
 extra_javascript:
   - assets/js/video-switcher.js
 
@@ -236,35 +239,39 @@ nav:
       - 'Lektion 20 - Erinnerungen und Wünsche': a2/ubungsbuch/lektion-20.md
   - Grammar:
     - Grammar Overview: grammatik/index.md
-    - Adjektivdeklination: grammatik/adjektivdeklination.md
+    - '## A1:'
     - Akkusativ: grammatik/akkusativ.md
     - Artikel: grammatik/artikel.md
-    - Dativ: grammatik/dativ.md
-    - Genitiv: grammatik/genitiv.md
     - Imperativ: grammatik/imperativ.md
-    - Konjunktiv 2: grammatik/konjunktiv-2.md
-    - Modalverben: grammatik/modalverben.md
     - Negation: grammatik/negation.md
     - Nominativ: grammatik/nominativ.md
-    - Passiv: grammatik/passiv.md
-    - Perfekt: grammatik/perfekt.md
     - Personalpronomen: grammatik/personalpronomen.md
     - Plural: grammatik/plural.md
     - Possessivartikel: grammatik/possessivartikel.md
-    - Präteritum: grammatik/prateritum.md
-    - Relativsätze: grammatik/relativsatze.md
     - Satzbau: grammatik/satzbau.md
     - Trennbare Verben: grammatik/trennbare-verben.md
     - 'Verbkonjugation (Präsens)': grammatik/verbkonjugation.md
+    - '## A1-A2:'
+    - Adjektivdeklination: grammatik/adjektivdeklination.md
+    - Dativ: grammatik/dativ.md
+    - Modalverben: grammatik/modalverben.md
+    - Perfekt: grammatik/perfekt.md
     - Wechselpräpositionen: grammatik/wechselprapositionen.md
-    - Nebensätze: grammatik/nebensatze.md
-    - Vergleiche: grammatik/vergleiche.md
-    - Reflexive Verben: grammatik/reflexive-verben.md
-    - Indirekte Fragen: grammatik/indirekte-fragen.md
-    - Futur I: grammatik/futur-i.md
+    - '## A2:'
     - Adverbien: grammatik/adverbien.md
-    - Präpositionen: grammatik/prapositionen.md
+    - Futur I: grammatik/futur-i.md
+    - Indirekte Fragen: grammatik/indirekte-fragen.md
     - Kausal- und Konzessivsätze: grammatik/kausal-konzessivsatze.md
+    - Nebensätze: grammatik/nebensatze.md
+    - Präpositionen: grammatik/prapositionen.md
+    - Reflexive Verben: grammatik/reflexive-verben.md
     - Temporal- und Lokalangaben: grammatik/temporal-lokal-angaben.md
+    - Vergleiche: grammatik/vergleiche.md
     - Wortstellung (erweitert): grammatik/wortstellung-erweitert.md
+    - '## A2-B1:'
+    - Genitiv: grammatik/genitiv.md
+    - Konjunktiv 2: grammatik/konjunktiv-2.md
+    - Passiv: grammatik/passiv.md
+    - Präteritum: grammatik/prateritum.md
+    - Relativsätze: grammatik/relativsatze.md
   - Study Plan: plan/index.md

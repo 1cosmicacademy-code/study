@@ -269,4 +269,15 @@
 
 > 👉 **الخطوة التالية:** روح للتمارين وحلّها عشان تثبت صفات الملكية في راسك!
 
+
+---
+
+## 📚 القواعد المرتبطة
+
+<div class="grammar-links">
+  <a href="../grammatik/possessivartikel.md" class="grammar-btn">🇩🇪 💼 Possessivartikel (Possessivartikel)</a>
+  <a href="../grammatik/personalpronomen.md" class="grammar-btn">🇩🇪 👤 Personalpronomen (Personalpronomen)</a>
+  <a href="../grammatik/verbkonjugation.md" class="grammar-btn">🇩🇪 🔤 Verbkonjugation (Verbkonjugation)</a>
+</div>
+
 [🔙 العودة إلى المستوى A1](../index.md)

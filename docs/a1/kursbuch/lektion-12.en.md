@@ -340,4 +340,15 @@ And the answer is simple:
 
 🎉 **Congratulations!** You finished Lektion 12! Now you can talk about school, your profession, and your future dream in German.
 
+---
+
+## 📚 Related Grammar
+
+<div class="grammar-links">
+  <a href="../grammatik/modalverben.md" class="grammar-btn">🇩🇪 Modal Verbs ⚡</a>
+  <a href="../grammatik/satzbau.md" class="grammar-btn">🇩🇪 Sentence Structure 🏗️</a>
+  <a href="../grammatik/nebensatze.md" class="grammar-btn">🇩🇪 Subordinate Clauses 🔗</a>
+  <a href="../grammatik/verbkonjugation.md" class="grammar-btn">🇩🇪 Verb Conjugation 🔤</a>
+</div>
+
 [🔙 Back to A1 Level](../index.md) • [📕 Course Book](index.md)

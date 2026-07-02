@@ -353,4 +353,16 @@
 
 > 🎉 **Great job!** You have completed Lesson 19 exercises. Now you know how to talk about travel in German!
 
+---
+
+## 📚 Related Grammar
+
+<div class="grammar-links">
+  <a href="../../grammatik/wechselprapositionen.md" class="grammar-btn">🇩🇪 Wechselpräpositionen 🔀</a>
+  <a href="../../grammatik/dativ.md" class="grammar-btn">🇩🇪 Dativ 🎁</a>
+  <a href="../../grammatik/nebensatze.md" class="grammar-btn">🇩🇪 Nebensätze 🔗</a>
+  <a href="../../grammatik/vergleiche.md" class="grammar-btn">🇩🇪 Vergleiche ⚖️</a>
+  <a href="../../grammatik/prateritum.md" class="grammar-btn">🇩🇪 Präteritum 📜</a>
+</div>
+
 [🔙 Back to A1 Level](../index.md) | [📕 Back to Lesson](lektion-19.en.md)

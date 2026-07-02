@@ -332,4 +332,15 @@
 > 🎉 **أحسنت!** إذا حلّيت كل التمارين، فأنت مستعد تتكلم عن مهنتك بالألماني!
 > 👉 روح للدرس الجاي: [Lektion 18](lektion-18.md)
 
+---
+
+## 📚 القواعد المرتبطة
+
+<div class="grammar-links">
+  <a href="../../grammatik/modalverben.md" class="grammar-btn">🇩🇪 Modalverben (⚡)</a>
+  <a href="../../grammatik/perfekt.md" class="grammar-btn">🇩🇪 Perfekt (✅)</a>
+  <a href="../../grammatik/trennbare-verben.md" class="grammar-btn">🇩🇪 Trennbare Verben (🗂️)</a>
+  <a href="../../grammatik/satzbau.md" class="grammar-btn">🇩🇪 Satzbau (🏗️)</a>
+</div>
+
 [🔙 رجوع إلى التمارين](index.md)

@@ -424,4 +424,14 @@
 
 > 💡 **نصيحة:** تدرب على قراءة الجمل بصوت عالٍ. كلما تدربت أكثر، أصبح تكوين Perfekt أسهل!
 
+---
+
+## 📚 القواعد المرتبطة
+
+<div class="grammar-links">
+  <a href="../../grammatik/perfekt.md" class="grammar-btn">🇩🇪 Perfekt (الماضي التام)</a>
+  <a href="../../grammatik/prateritum.md" class="grammar-btn">🇩🇪 Präteritum (الماضي البسيط)</a>
+  <a href="../../grammatik/modalverben.md" class="grammar-btn">🇩🇪 Modalverben (الأفعال الناقصة)</a>
+</div>
+
 [🔙 العودة إلى المستوى A1](../index.md) | [📕 كتاب التمارين](index.md)

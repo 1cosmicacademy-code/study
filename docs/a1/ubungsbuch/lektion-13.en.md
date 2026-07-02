@@ -314,4 +314,14 @@ Example: Ich **habe** Fieber. / Der Kopf **tut** mir weh.
 
 > 🎉 **Well done!** If you solved all the exercises, you're ready to use doctor vocabulary in real life. **Gute Besserung!** 🩺
 
+---
+
+## 📚 Related Grammar
+
+<div class="grammar-links">
+  <a href="../../grammatik/modalverben.md" class="grammar-btn">🇩🇪 Modalverben ⚡</a>
+  <a href="../../grammatik/imperativ.md" class="grammar-btn">🇩🇪 Imperativ 📢</a>
+  <a href="../../grammatik/personalpronomen.md" class="grammar-btn">🇩🇪 Personalpronomen 👤</a>
+</div>
+
 [🔙 Back to Exercises](index.md)

@@ -225,4 +225,15 @@ For example: fünfzehn = fünf + zehn = 15
 
 > 🎉 **Great job!** If you solved all the exercises, you're ready for Lesson 2!
 
+---
+
+## 📚 Related Grammar
+
+<div class="grammar-links">
+  <a href="../../grammatik/verbkonjugation.md" class="grammar-btn">🇩🇪 Verbkonjugation 🔤</a>
+  <a href="../../grammatik/personalpronomen.md" class="grammar-btn">🇩🇪 Personalpronomen 👤</a>
+  <a href="../../grammatik/nominativ.md" class="grammar-btn">🇩🇪 Nominativ 📌</a>
+  <a href="../../grammatik/satzbau.md" class="grammar-btn">🇩🇪 Satzbau 🏗️</a>
+</div>
+
 [🔙 Back to Exercises](index.md)

@@ -369,4 +369,15 @@
 
 > 🎉 **أحسنت!** إذا حلّيت كل التمارين، فأنت مستعد للدرس الثامن! جوعان ولا لا؟ 😄
 
+---
+
+## 📚 القواعد المرتبطة
+
+<div class="grammar-links">
+  <a href="../../grammatik/akkusativ.md" class="grammar-btn">🇩🇪 Akkusativ (حالة النصب)</a>
+  <a href="../../grammatik/negation.md" class="grammar-btn">🇩🇪 Negation (النفي)</a>
+  <a href="../../grammatik/plural.md" class="grammar-btn">🇩🇪 Plural (الجمع)</a>
+  <a href="../../grammatik/artikel.md" class="grammar-btn">🇩🇪 Artikel (أدوات التعريف)</a>
+</div>
+
 [🔙 رجوع إلى التمارين](index.md)

@@ -303,4 +303,15 @@
 >
 > 👉 **الخطوة التالية:** روح للتمارين وحلّها عشان تثبت المعلومات!
 
+---
+
+## 📚 القواعد المرتبطة
+
+<div class="grammar-links">
+  <a href="../grammatik/modalverben.md" class="grammar-btn">⚡ Modalverben (الأفعال الناقصة)</a>
+  <a href="../grammatik/satzbau.md" class="grammar-btn">🏗️ Satzbau (بناء الجملة)</a>
+  <a href="../grammatik/temporal-lokal-angaben.md" class="grammar-btn">⏰ Temporal- und Lokalangaben (الوقت والمكان)</a>
+  <a href="../grammatik/nebensatze.md" class="grammar-btn">🔗 Nebensätze (الجمل الثانوية)</a>
+</div>
+
 [🔙 رجوع إلى المستوى A1](index.md)

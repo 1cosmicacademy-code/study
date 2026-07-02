@@ -336,4 +336,15 @@ schön · groß · klein · neu · alt
 >
 > 🧠 **Remember:** Every day, repeat 5 words with their article. The secret is repetition!
 
+---
+
+## 📚 Related Grammar
+
+<div class="grammar-links">
+  <a href="../../grammatik/artikel.md" class="grammar-btn">🇩🇪 Artikel 📦</a>
+  <a href="../../grammatik/plural.md" class="grammar-btn">🇩🇪 Plural 🔢</a>
+  <a href="../../grammatik/nominativ.md" class="grammar-btn">🇩🇪 Nominativ 📌</a>
+  <a href="../../grammatik/akkusativ.md" class="grammar-btn">🇩🇪 Akkusativ 🎯</a>
+</div>
+
 [🔙 Back to Exercises](index.md)

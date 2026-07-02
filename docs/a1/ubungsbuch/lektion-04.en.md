@@ -322,4 +322,14 @@
 
 > 🎉 **Great job!** If you solved all the exercises, you are the king / queen of possessive articles!
 
+---
+
+## 📚 Related Grammar
+
+<div class="grammar-links">
+  <a href="../../grammatik/possessivartikel.md" class="grammar-btn">🇩🇪 Possessivartikel 💼</a>
+  <a href="../../grammatik/personalpronomen.md" class="grammar-btn">🇩🇪 Personalpronomen 👤</a>
+  <a href="../../grammatik/verbkonjugation.md" class="grammar-btn">🇩🇪 Verbkonjugation 🔤</a>
+</div>
+
 [🔙 Back to Exercises](index.md)

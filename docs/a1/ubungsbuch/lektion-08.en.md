@@ -424,4 +424,14 @@
 
 > 💡 **Tip:** Practice reading the sentences out loud. The more you practice, the easier Perfekt becomes!
 
+---
+
+## 📚 Related Grammar
+
+<div class="grammar-links">
+  <a href="../../grammatik/perfekt.md" class="grammar-btn">🇩🇪 Perfekt ✅</a>
+  <a href="../../grammatik/prateritum.md" class="grammar-btn">🇩🇪 Präteritum 📜</a>
+  <a href="../../grammatik/modalverben.md" class="grammar-btn">🇩🇪 Modalverben ⚡</a>
+</div>
+
 [🔙 Back to A1 Level](../index.md) | [📕 Exercise Book](index.md)

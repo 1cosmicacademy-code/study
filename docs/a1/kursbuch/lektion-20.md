@@ -299,4 +299,15 @@
 >
 > 👉 **الخطوة التالية:** روح للتمارين وحلّها عشان تثبت المعلومات!
 
+---
+
+## 📚 القواعد المرتبطة
+
+<div class="grammar-links">
+  <a href="../grammatik/perfekt.md" class="grammar-btn">✅ Perfekt (Perfekt)</a>
+  <a href="../grammatik/prateritum.md" class="grammar-btn">📜 Präteritum (Präteritum)</a>
+  <a href="../grammatik/vergleiche.md" class="grammar-btn">⚖️ Vergleiche (Vergleiche)</a>
+  <a href="../grammatik/konjunktiv-2.md" class="grammar-btn">💭 Konjunktiv 2 (Konjunktiv 2)</a>
+</div>
+
 [🔙 العودة إلى المستوى A1](../index.md) | [📕 كتاب الدروس](index.md)

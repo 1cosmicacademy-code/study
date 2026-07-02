@@ -348,4 +348,15 @@ Here is a conversation between **Anna** (customer) and **Kellner** (waiter) at a
 > 🎉 **Excellent!** You've completed Lektion 7! Now you can talk about food, make words plural, and say negative sentences. Hungry yet? 😄
 > 👉 **Next step:** Go to the exercises and practice to make it stick!
 
+---
+
+## 📚 Related Grammar
+
+<div class="grammar-links">
+  <a href="../grammatik/akkusativ.md" class="grammar-btn">🎯 Accusative Case</a>
+  <a href="../grammatik/negation.md" class="grammar-btn">❌ Negation</a>
+  <a href="../grammatik/plural.md" class="grammar-btn">🔢 Plural Forms</a>
+  <a href="../grammatik/artikel.md" class="grammar-btn">📦 Articles</a>
+</div>
+
 [🔙 Back to A1 Level](index.md)

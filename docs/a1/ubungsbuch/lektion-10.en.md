@@ -323,4 +323,15 @@
 > 
 > 🚍 **Remember:** In Germany, public transport is excellent. Try saying **"Eine Fahrkarte bitte!"** next time!
 
+---
+
+## 📚 Related Grammar
+
+<div class="grammar-links">
+  <a href="../../grammatik/wechselprapositionen.md" class="grammar-btn">🇩🇪 Wechselpräpositionen 🔀</a>
+  <a href="../../grammatik/dativ.md" class="grammar-btn">🇩🇪 Dativ 🎁</a>
+  <a href="../../grammatik/imperativ.md" class="grammar-btn">🇩🇪 Imperativ 📢</a>
+  <a href="../../grammatik/prapositionen.md" class="grammar-btn">🇩🇪 Präpositionen 📍</a>
+</div>
+
 [🔙 Back to Exercises](index.md)

@@ -302,4 +302,15 @@
 > 🎉 **ممتاز!** خلصت درس Lektion 17! الحين تقدر تتكلم عن مهنتك بالألماني وتسأل غيرك عن شغله!
 > 👉 **الخطوة التالية:** روح للتمارين وحلّها عشان تثبت المعلومات!
 
+---
+
+## 📚 القواعد المرتبطة
+
+<div class="grammar-links">
+  <a href="../grammatik/modalverben.md" class="grammar-btn">⚡ Modalverben (Modalverben)</a>
+  <a href="../grammatik/perfekt.md" class="grammar-btn">✅ Perfekt (Perfekt)</a>
+  <a href="../grammatik/trennbare-verben.md" class="grammar-btn">🗂️ Trennbare Verben (Trennbare Verben)</a>
+  <a href="../grammatik/satzbau.md" class="grammar-btn">🏗️ Satzbau (Satzbau)</a>
+</div>
+
 [🔙 رجوع إلى المستوى A1](../index.md) · [📕 كتاب الدروس](index.md)

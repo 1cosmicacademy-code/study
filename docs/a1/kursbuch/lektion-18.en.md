@@ -375,4 +375,14 @@ Fill in the blanks with the correct words: (Formular — Termin — Anliegen —
 > 🎉 **Great job!** You finished Lektion 18! Now you can deal with the Amt in German, understand official procedures, and use modal verbs correctly!
 > 👉 **Next step:** Go to the exercises and solve them to practice!
 
+---
+
+## 📚 Related Grammar
+
+<div class="grammar-links">
+  <a href="../grammatik/modalverben.md" class="grammar-btn">🇩🇪 Modal Verbs ⚡</a>
+  <a href="../grammatik/imperativ.md" class="grammar-btn">🇩🇪 Imperative 📢</a>
+  <a href="../grammatik/passiv.md" class="grammar-btn">🇩🇪 Passive Voice 🔄</a>
+</div>
+
 [🔙 Back to A1 Level](index.md)

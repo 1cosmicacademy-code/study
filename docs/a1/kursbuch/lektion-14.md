@@ -323,4 +323,14 @@
 
 🎉 **مبروك!** أنهيت درس Lektion 14! الحين تقدر تتكلم عن المرض وتطلب إجازة مرضية بالألمانية. صحة! 🩺
 
+---
+
+## 📚 القواعد المرتبطة
+
+<div class="grammar-links">
+  <a href="../grammatik/perfekt.md" class="grammar-btn">🇩🇪 ✅ Perfekt (Perfekt)</a>
+  <a href="../grammatik/prateritum.md" class="grammar-btn">🇩🇪 📜 Präteritum (Präteritum)</a>
+  <a href="../grammatik/temporal-lokal-angaben.md" class="grammar-btn">🇩🇪 ⏰ Temporal- und Lokalangaben (Temporal- und Lokalangaben)</a>
+</div>
+
 [🔙 العودة إلى المستوى A1](../index.md) • [📕 كتاب الدروس](index.md)

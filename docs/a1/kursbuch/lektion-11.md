@@ -298,4 +298,14 @@
 
 🎉 **مبروك!** أنهيت درس Lektion 11! الحين تقدر تصف أين توجد الأشياء في البيت بالألمانية.
 
+---
+
+## 📚 القواعد المرتبطة
+
+<div class="grammar-links">
+  <a href="../grammatik/wechselprapositionen.md" class="grammar-btn">🇩🇪 🔀 Wechselpräpositionen (Wechselpräpositionen)</a>
+  <a href="../grammatik/dativ.md" class="grammar-btn">🇩🇪 🎁 Dativ (Dativ)</a>
+  <a href="../grammatik/prapositionen.md" class="grammar-btn">🇩🇪 📍 Präpositionen (Präpositionen)</a>
+</div>
+
 [🔙 العودة إلى المستوى A1](../index.md) • [📕 كتاب الدروس](index.md)

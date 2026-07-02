@@ -269,4 +269,14 @@ Let's learn to ask about people and answer:
 
 > 👉 **Next step:** Go to the exercises and practice to make possessive articles stick in your head!
 
+---
+
+## 📚 Related Grammar
+
+<div class="grammar-links">
+  <a href="../grammatik/possessivartikel.md" class="grammar-btn">💼 Possessive Articles (Possessivartikel)</a>
+  <a href="../grammatik/personalpronomen.md" class="grammar-btn">👤 Personal Pronouns (Personalpronomen)</a>
+  <a href="../grammatik/verbkonjugation.md" class="grammar-btn">🔤 Verb Conjugation (Verbkonjugation)</a>
+</div>
+
 [🔙 Back to A1 Level](../index.md)

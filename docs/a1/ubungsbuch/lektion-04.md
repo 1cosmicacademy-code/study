@@ -287,4 +287,14 @@
 
 > 🎉 **أحسنت!** إذا حلّيت كل التمارين، فأنت ملك / ملكة صفات الملكية!
 
+---
+
+## 📚 القواعد المرتبطة
+
+<div class="grammar-links">
+  <a href="../../grammatik/possessivartikel.md" class="grammar-btn">🇩🇪 Possessivartikel 💼</a>
+  <a href="../../grammatik/personalpronomen.md" class="grammar-btn">🇩🇪 Personalpronomen 👤</a>
+  <a href="../../grammatik/verbkonjugation.md" class="grammar-btn">🇩🇪 Verbkonjugation 🔤</a>
+</div>
+
 [🔙 رجوع إلى التمارين](index.md)

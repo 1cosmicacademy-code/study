@@ -328,4 +328,15 @@
 
 > 🎉 **أحسنت!** إذا حلّيت كل التمارين، فأنت مستعد للدرس الثالث!
 
+---
+
+## 📚 القواعد المرتبطة
+
+<div class="grammar-links">
+  <a href="../../grammatik/verbkonjugation.md" class="grammar-btn">🇩🇪 Verbkonjugation 🔤</a>
+  <a href="../../grammatik/artikel.md" class="grammar-btn">🇩🇪 Artikel 📦</a>
+  <a href="../../grammatik/nominativ.md" class="grammar-btn">🇩🇪 Nominativ 📌</a>
+  <a href="../../grammatik/negation.md" class="grammar-btn">🇩🇪 Negation ❌</a>
+</div>
+
 [🔙 رجوع إلى التمارين](index.md)

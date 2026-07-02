@@ -319,4 +319,16 @@
 > 🎉 **ممتاز!** خلصت درس Lektion 2! الحين تقدر تسأل الناس عن مهنتهم، تقول مهنتك، وتستخدم **Sie** الرسمي صح!
 > 👉 **الخطوة التالية:** روح للتمارين وحلّها عشان تثبت المعلومات!
 
+
+---
+
+## 📚 القواعد المرتبطة
+
+<div class="grammar-links">
+  <a href="../grammatik/verbkonjugation.md" class="grammar-btn">🇩🇪 🔤 Verbkonjugation (Verbkonjugation)</a>
+  <a href="../grammatik/artikel.md" class="grammar-btn">🇩🇪 📦 Artikel (Artikel)</a>
+  <a href="../grammatik/nominativ.md" class="grammar-btn">🇩🇪 📌 Nominativ (Nominativ)</a>
+  <a href="../grammatik/negation.md" class="grammar-btn">🇩🇪 ❌ Negation (Negation)</a>
+</div>
+
 [🔙 رجوع إلى المستوى A1](../index.md) • [📕 كتاب الدروس](index.md)

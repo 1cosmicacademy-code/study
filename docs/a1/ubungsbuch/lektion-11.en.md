@@ -344,4 +344,14 @@ Example:
 
 🎉 **Well done!** Now you can use location prepositions in German! Repeat the exercises if you feel you need more practice.
 
+---
+
+## 📚 Related Grammar
+
+<div class="grammar-links">
+  <a href="../../grammatik/wechselprapositionen.md" class="grammar-btn">🇩🇪 Wechselpräpositionen 🔀</a>
+  <a href="../../grammatik/dativ.md" class="grammar-btn">🇩🇪 Dativ 🎁</a>
+  <a href="../../grammatik/prapositionen.md" class="grammar-btn">🇩🇪 Präpositionen 📍</a>
+</div>
+
 [🔙 Back to A1 Level](../index.md) • [📕 Exercise Book](index.md)

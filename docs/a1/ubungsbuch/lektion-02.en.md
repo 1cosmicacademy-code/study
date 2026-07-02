@@ -328,4 +328,15 @@
 
 > 🎉 **Great job!** If you solved all the exercises, you're ready for Lesson 3!
 
+---
+
+## 📚 Related Grammar
+
+<div class="grammar-links">
+  <a href="../../grammatik/verbkonjugation.md" class="grammar-btn">🇩🇪 Verbkonjugation 🔤</a>
+  <a href="../../grammatik/artikel.md" class="grammar-btn">🇩🇪 Artikel 📦</a>
+  <a href="../../grammatik/nominativ.md" class="grammar-btn">🇩🇪 Nominativ 📌</a>
+  <a href="../../grammatik/negation.md" class="grammar-btn">🇩🇪 Negation ❌</a>
+</div>
+
 [🔙 Back to Exercises](index.md)

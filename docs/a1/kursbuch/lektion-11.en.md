@@ -298,4 +298,14 @@ When you ask **"Wo ist ...?"** (Where is ...?), the answer uses the **Dativ** ca
 
 🎉 **Congratulations!** You finished Lektion 11! Now you can describe where things are in the house in German.
 
+---
+
+## 📚 Related Grammar
+
+<div class="grammar-links">
+  <a href="../grammatik/wechselprapositionen.md" class="grammar-btn">🇩🇪 Two-Way Prepositions 🔀</a>
+  <a href="../grammatik/dativ.md" class="grammar-btn">🇩🇪 Dative Case 🎁</a>
+  <a href="../grammatik/prapositionen.md" class="grammar-btn">🇩🇪 Prepositions 📍</a>
+</div>
+
 [🔙 Back to A1 Level](../index.md) • [📕 Course Book](index.md)

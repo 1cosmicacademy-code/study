@@ -346,4 +346,14 @@
 
 🎉 **أحسنت!** الحين تقدر تستخدم حروف الجر المكانية في الألمانية! أعد التمارين إذا حسيت إنك محتاج مراجعة.
 
+---
+
+## 📚 القواعد المرتبطة
+
+<div class="grammar-links">
+  <a href="../../grammatik/wechselprapositionen.md" class="grammar-btn">🇩🇪 Wechselpräpositionen 🔀</a>
+  <a href="../../grammatik/dativ.md" class="grammar-btn">🇩🇪 Dativ 🎁</a>
+  <a href="../../grammatik/prapositionen.md" class="grammar-btn">🇩🇪 Präpositionen 📍</a>
+</div>
+
 [🔙 العودة إلى المستوى A1](../index.md) • [📕 كتاب التمارين](index.md)

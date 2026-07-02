@@ -291,4 +291,16 @@
 > 🎉 **ممتاز!** خلصت درس Lektion 1! الحين تقدر تلقي التحية، تعرّف عن نفسك، تسأل عن الحال، وتعد من 1 إلى 20.  
 > 👉 **الخطوة التالية:** روح للتمارين وحلّها عشان تثبت المعلومات!
 
+
+---
+
+## 📚 القواعد المرتبطة
+
+<div class="grammar-links">
+  <a href="../grammatik/verbkonjugation.md" class="grammar-btn">🇩🇪 🔤 Verbkonjugation (Verbkonjugation)</a>
+  <a href="../grammatik/personalpronomen.md" class="grammar-btn">🇩🇪 👤 Personalpronomen (Personalpronomen)</a>
+  <a href="../grammatik/nominativ.md" class="grammar-btn">🇩🇪 📌 Nominativ (Nominativ)</a>
+  <a href="../grammatik/satzbau.md" class="grammar-btn">🇩🇪 🏗️ Satzbau (Satzbau)</a>
+</div>
+
 [🔙 رجوع إلى المستوى A1](index.md)

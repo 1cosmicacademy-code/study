@@ -346,4 +346,15 @@
 > 🎉 **Well done!** If you solved all the exercises, you're ready to shop in German at any store!
 > 👉 Go to the next lesson: [Lektion 17: Work](index.md)
 
+---
+
+## 📚 Related Grammar
+
+<div class="grammar-links">
+  <a href="../../grammatik/akkusativ.md" class="grammar-btn">🇩🇪 Akkusativ 🎯</a>
+  <a href="../../grammatik/artikel.md" class="grammar-btn">🇩🇪 Artikel 📦</a>
+  <a href="../../grammatik/plural.md" class="grammar-btn">🇩🇪 Plural 🔢</a>
+  <a href="../../grammatik/satzbau.md" class="grammar-btn">🇩🇪 Satzbau 🏗️</a>
+</div>
+
 [🔙 Back to Exercises](index.md)

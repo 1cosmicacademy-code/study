@@ -310,4 +310,15 @@
 >
 > 👉 **Next lesson:** You'll learn how to talk about time and clocks in detail!
 
+---
+
+## 📚 Related Grammar
+
+<div class="grammar-links">
+  <a href="../../grammatik/modalverben.md" class="grammar-btn">🇩🇪 Modalverben ⚡</a>
+  <a href="../../grammatik/satzbau.md" class="grammar-btn">🇩🇪 Satzbau 🏗️</a>
+  <a href="../../grammatik/temporal-lokal-angaben.md" class="grammar-btn">🇩🇪 Temporal- und Lokalangaben ⏰</a>
+  <a href="../../grammatik/nebensatze.md" class="grammar-btn">🇩🇪 Nebensätze 🔗</a>
+</div>
+
 [🔙 Back to Exercises](index.md)

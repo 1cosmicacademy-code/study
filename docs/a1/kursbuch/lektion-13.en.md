@@ -198,4 +198,14 @@ In German, we say **"mein Kopf"** (my head) or **"meine Hand"** (my hand). The a
 > 🎉 **Great job!** You've completed Lektion 13! Now you can name body parts, describe pain, and talk to a doctor in German.  
 > 👉 **Next step:** Go to the exercises and practice to make it stick!
 
+---
+
+## 📚 Related Grammar
+
+<div class="grammar-links">
+  <a href="../grammatik/modalverben.md" class="grammar-btn">🇩🇪 Modal Verbs ⚡</a>
+  <a href="../grammatik/imperativ.md" class="grammar-btn">🇩🇪 Imperative 📢</a>
+  <a href="../grammatik/personalpronomen.md" class="grammar-btn">🇩🇪 Personal Pronouns 👤</a>
+</div>
+
 [🔙 Back to A1 Level](index.md)

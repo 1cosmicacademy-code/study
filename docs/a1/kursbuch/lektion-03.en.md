@@ -308,4 +308,15 @@ And the answer is always: **Das ist...** (dahs ist) = **That is...**
 >
 > 💡 **Magic tip:** Every day, pick 5 words from the lesson and review them WITH their article. Say: **der Tisch**, **die Lampe**, **das Buch** — out loud!
 
+---
+
+## 📚 Related Grammar
+
+<div class="grammar-links">
+  <a href="../grammatik/artikel.md" class="grammar-btn">📦 Articles (Artikel)</a>
+  <a href="../grammatik/plural.md" class="grammar-btn">🔢 Plural Forms (Plural)</a>
+  <a href="../grammatik/nominativ.md" class="grammar-btn">📌 Nominative Case (Nominativ)</a>
+  <a href="../grammatik/akkusativ.md" class="grammar-btn">🎯 Accusative Case (Akkusativ)</a>
+</div>
+
 [🔙 Back to A1 Level](index.md)

@@ -322,4 +322,14 @@
 > 
 > ⏰ **تذكر:** الوقت في ألمانيا مهم جداً. **Sei immer pünktlich!** (كن دائماً دقيق(ة)!)
 
+---
+
+## 📚 القواعد المرتبطة
+
+<div class="grammar-links">
+  <a href="../../grammatik/modalverben.md" class="grammar-btn">🇩🇪 Modalverben (الأفعال الناقصة)</a>
+  <a href="../../grammatik/satzbau.md" class="grammar-btn">🇩🇪 Satzbau (بناء الجملة)</a>
+  <a href="../../grammatik/temporal-lokal-angaben.md" class="grammar-btn">🇩🇪 Temporal- und Lokalangaben (الوقت والمكان)</a>
+</div>
+
 [🔙 رجوع إلى التمارين](index.md)

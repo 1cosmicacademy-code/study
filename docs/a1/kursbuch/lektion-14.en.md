@@ -324,4 +324,14 @@ We use **weh tun** (to hurt) + **Dativ**:
 
 🎉 **Congratulations!** You finished Lektion 14! Now you can talk about being sick and ask for a sick note in German. Get well soon! 🩺
 
+---
+
+## 📚 Related Grammar
+
+<div class="grammar-links">
+  <a href="../grammatik/perfekt.md" class="grammar-btn">🇩🇪 Perfect Tense ✅</a>
+  <a href="../grammatik/prateritum.md" class="grammar-btn">🇩🇪 Simple Past 📜</a>
+  <a href="../grammatik/temporal-lokal-angaben.md" class="grammar-btn">🇩🇪 Time & Place Expressions ⏰</a>
+</div>
+
 [🔙 Back to A1 Level](../index.md) • [📕 Course Book](index.md)

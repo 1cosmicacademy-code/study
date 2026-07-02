@@ -336,4 +336,15 @@ schön · groß · klein · neu · alt
 >
 > 🧠 **تذكر:** كل يوم كرّر 5 كلمات مع أداة التعريف. السر في التكرار!
 
+---
+
+## 📚 القواعد المرتبطة
+
+<div class="grammar-links">
+  <a href="../../grammatik/artikel.md" class="grammar-btn">🇩🇪 Artikel 📦</a>
+  <a href="../../grammatik/plural.md" class="grammar-btn">🇩🇪 Plural 🔢</a>
+  <a href="../../grammatik/nominativ.md" class="grammar-btn">🇩🇪 Nominativ 📌</a>
+  <a href="../../grammatik/akkusativ.md" class="grammar-btn">🇩🇪 Akkusativ 🎯</a>
+</div>
+
 [🔙 رجوع إلى التمارين](index.md)

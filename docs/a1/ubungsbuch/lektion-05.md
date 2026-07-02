@@ -330,4 +330,14 @@
 >
 > 👉 **الدرس الجاي:** Lektion 6 — راح تتعلم عن العائلة والأشخاص!
 
+---
+
+## 📚 القواعد المرتبطة
+
+<div class="grammar-links">
+  <a href="../../grammatik/trennbare-verben.md" class="grammar-btn">🇩🇪 Trennbare Verben 🗂️</a>
+  <a href="../../grammatik/verbkonjugation.md" class="grammar-btn">🇩🇪 Verbkonjugation 🔤</a>
+  <a href="../../grammatik/temporal-lokal-angaben.md" class="grammar-btn">🇩🇪 Temporal- und Lokalangaben ⏰</a>
+</div>
+
 [🔙 رجوع إلى التمارين](index.md) · [📕 درس اليوم](../kursbuch/lektion-05.md)
