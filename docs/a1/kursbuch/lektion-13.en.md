@@ -203,9 +203,9 @@ In German, we say **"mein Kopf"** (my head) or **"meine Hand"** (my hand). The a
 ## 📚 Related Grammar
 
 <div class="grammar-links">
-  <a href="../grammatik/modalverben.md" class="grammar-btn">🇩🇪 Modal Verbs ⚡</a>
-  <a href="../grammatik/imperativ.md" class="grammar-btn">🇩🇪 Imperative 📢</a>
-  <a href="../grammatik/personalpronomen.md" class="grammar-btn">🇩🇪 Personal Pronouns 👤</a>
+  <a href="/grammatik/modalverben/" class="grammar-btn">🇩🇪 Modal Verbs ⚡</a>
+  <a href="/grammatik/imperativ/" class="grammar-btn">🇩🇪 Imperative 📢</a>
+  <a href="/grammatik/personalpronomen/" class="grammar-btn">🇩🇪 Personal Pronouns 👤</a>
 </div>
 
 [🔙 Back to A1 Level](index.md)

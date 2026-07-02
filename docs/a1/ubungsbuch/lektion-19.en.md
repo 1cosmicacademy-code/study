@@ -358,11 +358,11 @@
 ## 📚 Related Grammar
 
 <div class="grammar-links">
-  <a href="../../grammatik/wechselprapositionen.md" class="grammar-btn">🇩🇪 Wechselpräpositionen 🔀</a>
-  <a href="../../grammatik/dativ.md" class="grammar-btn">🇩🇪 Dativ 🎁</a>
-  <a href="../../grammatik/nebensatze.md" class="grammar-btn">🇩🇪 Nebensätze 🔗</a>
-  <a href="../../grammatik/vergleiche.md" class="grammar-btn">🇩🇪 Vergleiche ⚖️</a>
-  <a href="../../grammatik/prateritum.md" class="grammar-btn">🇩🇪 Präteritum 📜</a>
+  <a href="/grammatik/wechselprapositionen/" class="grammar-btn">🇩🇪 Wechselpräpositionen 🔀</a>
+  <a href="/grammatik/dativ/" class="grammar-btn">🇩🇪 Dativ 🎁</a>
+  <a href="/grammatik/nebensatze/" class="grammar-btn">🇩🇪 Nebensätze 🔗</a>
+  <a href="/grammatik/vergleiche/" class="grammar-btn">🇩🇪 Vergleiche ⚖️</a>
+  <a href="/grammatik/prateritum/" class="grammar-btn">🇩🇪 Präteritum 📜</a>
 </div>
 
 [🔙 Back to A1 Level](../index.md) | [📕 Back to Lesson](lektion-19.en.md)

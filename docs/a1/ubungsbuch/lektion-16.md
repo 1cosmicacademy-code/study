@@ -351,10 +351,10 @@
 ## 📚 القواعد المرتبطة
 
 <div class="grammar-links">
-  <a href="../../grammatik/akkusativ.md" class="grammar-btn">🇩🇪 Akkusativ (🎯)</a>
-  <a href="../../grammatik/artikel.md" class="grammar-btn">🇩🇪 Artikel (📦)</a>
-  <a href="../../grammatik/plural.md" class="grammar-btn">🇩🇪 Plural (🔢)</a>
-  <a href="../../grammatik/satzbau.md" class="grammar-btn">🇩🇪 Satzbau (🏗️)</a>
+  <a href="/grammatik/akkusativ/" class="grammar-btn">🇩🇪 Akkusativ (🎯)</a>
+  <a href="/grammatik/artikel/" class="grammar-btn">🇩🇪 Artikel (📦)</a>
+  <a href="/grammatik/plural/" class="grammar-btn">🇩🇪 Plural (🔢)</a>
+  <a href="/grammatik/satzbau/" class="grammar-btn">🇩🇪 Satzbau (🏗️)</a>
 </div>
 
 [🔙 رجوع إلى التمارين](index.md)

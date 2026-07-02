@@ -374,10 +374,10 @@
 ## 📚 Related Grammar
 
 <div class="grammar-links">
-  <a href="../../grammatik/akkusativ.md" class="grammar-btn">🇩🇪 Akkusativ 🎯</a>
-  <a href="../../grammatik/negation.md" class="grammar-btn">🇩🇪 Negation ❌</a>
-  <a href="../../grammatik/plural.md" class="grammar-btn">🇩🇪 Plural 🔢</a>
-  <a href="../../grammatik/artikel.md" class="grammar-btn">🇩🇪 Artikel 📦</a>
+  <a href="/grammatik/akkusativ/" class="grammar-btn">🇩🇪 Akkusativ 🎯</a>
+  <a href="/grammatik/negation/" class="grammar-btn">🇩🇪 Negation ❌</a>
+  <a href="/grammatik/plural/" class="grammar-btn">🇩🇪 Plural 🔢</a>
+  <a href="/grammatik/artikel/" class="grammar-btn">🇩🇪 Artikel 📦</a>
 </div>
 
 [🔙 Back to Exercises](index.md)

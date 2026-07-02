@@ -376,10 +376,10 @@ In German, there are 3 words you can use to say "to" — but each has a differen
 ## 📚 Related Grammar
 
 <div class="grammar-links">
-  <a href="../grammatik/wechselprapositionen.md" class="grammar-btn">🇩🇪 Two-Way Prepositions 🔀</a>
-  <a href="../grammatik/dativ.md" class="grammar-btn">🇩🇪 Dative Case 🎁</a>
-  <a href="../grammatik/imperativ.md" class="grammar-btn">🇩🇪 Imperative 📢</a>
-  <a href="../grammatik/prapositionen.md" class="grammar-btn">🇩🇪 Prepositions 📍</a>
+  <a href="/grammatik/wechselprapositionen/" class="grammar-btn">🇩🇪 Two-Way Prepositions 🔀</a>
+  <a href="/grammatik/dativ/" class="grammar-btn">🇩🇪 Dative Case 🎁</a>
+  <a href="/grammatik/imperativ/" class="grammar-btn">🇩🇪 Imperative 📢</a>
+  <a href="/grammatik/prapositionen/" class="grammar-btn">🇩🇪 Prepositions 📍</a>
 </div>
 
 [🔙 Back to A1 Level](../index.md) • [📕 Course Book](index.md)

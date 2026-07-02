@@ -275,9 +275,9 @@
 ## 📚 القواعد المرتبطة
 
 <div class="grammar-links">
-  <a href="../grammatik/possessivartikel.md" class="grammar-btn">🇩🇪 💼 Possessivartikel (Possessivartikel)</a>
-  <a href="../grammatik/personalpronomen.md" class="grammar-btn">🇩🇪 👤 Personalpronomen (Personalpronomen)</a>
-  <a href="../grammatik/verbkonjugation.md" class="grammar-btn">🇩🇪 🔤 Verbkonjugation (Verbkonjugation)</a>
+  <a href="/grammatik/possessivartikel/" class="grammar-btn">🇩🇪 💼 Possessivartikel (Possessivartikel)</a>
+  <a href="/grammatik/personalpronomen/" class="grammar-btn">🇩🇪 👤 Personalpronomen (Personalpronomen)</a>
+  <a href="/grammatik/verbkonjugation/" class="grammar-btn">🇩🇪 🔤 Verbkonjugation (Verbkonjugation)</a>
 </div>
 
 [🔙 العودة إلى المستوى A1](../index.md)

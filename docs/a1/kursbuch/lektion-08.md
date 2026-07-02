@@ -352,9 +352,9 @@
 ## 📚 القواعد المرتبطة
 
 <div class="grammar-links">
-  <a href="../grammatik/perfekt.md" class="grammar-btn">✅ Perfekt (الماضي المساعد)</a>
-  <a href="../grammatik/prateritum.md" class="grammar-btn">📜 Präteritum (الماضي البسيط)</a>
-  <a href="../grammatik/modalverben.md" class="grammar-btn">⚡ Modalverben (الأفعال الناقصة)</a>
+  <a href="/grammatik/perfekt/" class="grammar-btn">✅ Perfekt (الماضي المساعد)</a>
+  <a href="/grammatik/prateritum/" class="grammar-btn">📜 Präteritum (الماضي البسيط)</a>
+  <a href="/grammatik/modalverben/" class="grammar-btn">⚡ Modalverben (الأفعال الناقصة)</a>
 </div>
 
 [🔙 العودة إلى المستوى A1](../index.md) | [📕 كتاب الدروس](index.md)

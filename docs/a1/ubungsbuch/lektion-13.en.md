@@ -319,9 +319,9 @@ Example: Ich **habe** Fieber. / Der Kopf **tut** mir weh.
 ## 📚 Related Grammar
 
 <div class="grammar-links">
-  <a href="../../grammatik/modalverben.md" class="grammar-btn">🇩🇪 Modalverben ⚡</a>
-  <a href="../../grammatik/imperativ.md" class="grammar-btn">🇩🇪 Imperativ 📢</a>
-  <a href="../../grammatik/personalpronomen.md" class="grammar-btn">🇩🇪 Personalpronomen 👤</a>
+  <a href="/grammatik/modalverben/" class="grammar-btn">🇩🇪 Modalverben ⚡</a>
+  <a href="/grammatik/imperativ/" class="grammar-btn">🇩🇪 Imperativ 📢</a>
+  <a href="/grammatik/personalpronomen/" class="grammar-btn">🇩🇪 Personalpronomen 👤</a>
 </div>
 
 [🔙 Back to Exercises](index.md)

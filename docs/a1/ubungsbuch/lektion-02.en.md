@@ -333,10 +333,10 @@
 ## 📚 Related Grammar
 
 <div class="grammar-links">
-  <a href="../../grammatik/verbkonjugation.md" class="grammar-btn">🇩🇪 Verbkonjugation 🔤</a>
-  <a href="../../grammatik/artikel.md" class="grammar-btn">🇩🇪 Artikel 📦</a>
-  <a href="../../grammatik/nominativ.md" class="grammar-btn">🇩🇪 Nominativ 📌</a>
-  <a href="../../grammatik/negation.md" class="grammar-btn">🇩🇪 Negation ❌</a>
+  <a href="/grammatik/verbkonjugation/" class="grammar-btn">🇩🇪 Verbkonjugation 🔤</a>
+  <a href="/grammatik/artikel/" class="grammar-btn">🇩🇪 Artikel 📦</a>
+  <a href="/grammatik/nominativ/" class="grammar-btn">🇩🇪 Nominativ 📌</a>
+  <a href="/grammatik/negation/" class="grammar-btn">🇩🇪 Negation ❌</a>
 </div>
 
 [🔙 Back to Exercises](index.md)

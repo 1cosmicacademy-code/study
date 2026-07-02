@@ -277,10 +277,10 @@
 ## 📚 القواعد المرتبطة
 
 <div class="grammar-links">
-  <a href="../grammatik/wechselprapositionen.md" class="grammar-btn">🔀 Wechselpräpositionen (حروف الجر المتغيرة)</a>
-  <a href="../grammatik/dativ.md" class="grammar-btn">🎁 Dativ (حالة الجر)</a>
-  <a href="../grammatik/imperativ.md" class="grammar-btn">📢 Imperativ (صيغة الأمر)</a>
-  <a href="../grammatik/prapositionen.md" class="grammar-btn">📍 Präpositionen (حروف الجر)</a>
+  <a href="/grammatik/wechselprapositionen/" class="grammar-btn">🔀 Wechselpräpositionen (حروف الجر المتغيرة)</a>
+  <a href="/grammatik/dativ/" class="grammar-btn">🎁 Dativ (حالة الجر)</a>
+  <a href="/grammatik/imperativ/" class="grammar-btn">📢 Imperativ (صيغة الأمر)</a>
+  <a href="/grammatik/prapositionen/" class="grammar-btn">📍 Präpositionen (حروف الجر)</a>
 </div>
 
 [🔙 رجوع إلى المستوى A1](index.md)

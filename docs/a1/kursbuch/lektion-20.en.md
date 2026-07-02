@@ -299,4 +299,15 @@ In German, **the verb is always in the second position**:
 >
 > 👉 **Next step:** Go to the exercises and practice to make it stick!
 
+---
+
+## 📚 Related Grammar
+
+<div class="grammar-links">
+  <a href="/grammatik/perfekt/" class="grammar-btn">🇩🇪 Perfect Tense ✅</a>
+  <a href="/grammatik/prateritum/" class="grammar-btn">🇩🇪 Simple Past 📜</a>
+  <a href="/grammatik/vergleiche/" class="grammar-btn">🇩🇪 Comparisons ⚖️</a>
+  <a href="/grammatik/konjunktiv-2/" class="grammar-btn">🇩🇪 Subjunctive 2 💭</a>
+</div>
+
 [🔙 Back to A1 Level](../index.md) | [📕 Course Book](index.md)

@@ -274,9 +274,9 @@ Let's learn to ask about people and answer:
 ## 📚 Related Grammar
 
 <div class="grammar-links">
-  <a href="../grammatik/possessivartikel.md" class="grammar-btn">💼 Possessive Articles (Possessivartikel)</a>
-  <a href="../grammatik/personalpronomen.md" class="grammar-btn">👤 Personal Pronouns (Personalpronomen)</a>
-  <a href="../grammatik/verbkonjugation.md" class="grammar-btn">🔤 Verb Conjugation (Verbkonjugation)</a>
+  <a href="/grammatik/possessivartikel/" class="grammar-btn">💼 Possessive Articles (Possessivartikel)</a>
+  <a href="/grammatik/personalpronomen/" class="grammar-btn">👤 Personal Pronouns (Personalpronomen)</a>
+  <a href="/grammatik/verbkonjugation/" class="grammar-btn">🔤 Verb Conjugation (Verbkonjugation)</a>
 </div>
 
 [🔙 Back to A1 Level](../index.md)

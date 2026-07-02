@@ -341,10 +341,10 @@ schön · groß · klein · neu · alt
 ## 📚 Related Grammar
 
 <div class="grammar-links">
-  <a href="../../grammatik/artikel.md" class="grammar-btn">🇩🇪 Artikel 📦</a>
-  <a href="../../grammatik/plural.md" class="grammar-btn">🇩🇪 Plural 🔢</a>
-  <a href="../../grammatik/nominativ.md" class="grammar-btn">🇩🇪 Nominativ 📌</a>
-  <a href="../../grammatik/akkusativ.md" class="grammar-btn">🇩🇪 Akkusativ 🎯</a>
+  <a href="/grammatik/artikel/" class="grammar-btn">🇩🇪 Artikel 📦</a>
+  <a href="/grammatik/plural/" class="grammar-btn">🇩🇪 Plural 🔢</a>
+  <a href="/grammatik/nominativ/" class="grammar-btn">🇩🇪 Nominativ 📌</a>
+  <a href="/grammatik/akkusativ/" class="grammar-btn">🇩🇪 Akkusativ 🎯</a>
 </div>
 
 [🔙 Back to Exercises](index.md)

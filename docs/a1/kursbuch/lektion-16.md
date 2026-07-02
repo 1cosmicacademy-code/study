@@ -299,10 +299,10 @@
 ## 📚 القواعد المرتبطة
 
 <div class="grammar-links">
-  <a href="../grammatik/akkusativ.md" class="grammar-btn">🎯 Akkusativ (Akkusativ)</a>
-  <a href="../grammatik/artikel.md" class="grammar-btn">📦 Artikel (Artikel)</a>
-  <a href="../grammatik/plural.md" class="grammar-btn">🔢 Plural (Plural)</a>
-  <a href="../grammatik/satzbau.md" class="grammar-btn">🏗️ Satzbau (Satzbau)</a>
+  <a href="/grammatik/akkusativ/" class="grammar-btn">🎯 Akkusativ (Akkusativ)</a>
+  <a href="/grammatik/artikel/" class="grammar-btn">📦 Artikel (Artikel)</a>
+  <a href="/grammatik/plural/" class="grammar-btn">🔢 Plural (Plural)</a>
+  <a href="/grammatik/satzbau/" class="grammar-btn">🏗️ Satzbau (Satzbau)</a>
 </div>
 
 [🔙 رجوع إلى المستوى A1](index.md)

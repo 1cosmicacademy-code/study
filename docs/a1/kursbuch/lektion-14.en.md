@@ -329,9 +329,9 @@ We use **weh tun** (to hurt) + **Dativ**:
 ## 📚 Related Grammar
 
 <div class="grammar-links">
-  <a href="../grammatik/perfekt.md" class="grammar-btn">🇩🇪 Perfect Tense ✅</a>
-  <a href="../grammatik/prateritum.md" class="grammar-btn">🇩🇪 Simple Past 📜</a>
-  <a href="../grammatik/temporal-lokal-angaben.md" class="grammar-btn">🇩🇪 Time & Place Expressions ⏰</a>
+  <a href="/grammatik/perfekt/" class="grammar-btn">🇩🇪 Perfect Tense ✅</a>
+  <a href="/grammatik/prateritum/" class="grammar-btn">🇩🇪 Simple Past 📜</a>
+  <a href="/grammatik/temporal-lokal-angaben/" class="grammar-btn">🇩🇪 Time & Place Expressions ⏰</a>
 </div>
 
 [🔙 Back to A1 Level](../index.md) • [📕 Course Book](index.md)

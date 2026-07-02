@@ -380,9 +380,9 @@ Fill in the blanks with the correct words: (Formular — Termin — Anliegen —
 ## 📚 Related Grammar
 
 <div class="grammar-links">
-  <a href="../grammatik/modalverben.md" class="grammar-btn">🇩🇪 Modal Verbs ⚡</a>
-  <a href="../grammatik/imperativ.md" class="grammar-btn">🇩🇪 Imperative 📢</a>
-  <a href="../grammatik/passiv.md" class="grammar-btn">🇩🇪 Passive Voice 🔄</a>
+  <a href="/grammatik/modalverben/" class="grammar-btn">🇩🇪 Modal Verbs ⚡</a>
+  <a href="/grammatik/imperativ/" class="grammar-btn">🇩🇪 Imperative 📢</a>
+  <a href="/grammatik/passiv/" class="grammar-btn">🇩🇪 Passive Voice 🔄</a>
 </div>
 
 [🔙 Back to A1 Level](index.md)

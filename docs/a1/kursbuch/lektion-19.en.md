@@ -369,11 +369,11 @@ Today we learned:
 ## 📚 Related Grammar
 
 <div class="grammar-links">
-  <a href="../grammatik/wechselprapositionen.md" class="grammar-btn">🇩🇪 Two-Way Prepositions 🔀</a>
-  <a href="../grammatik/dativ.md" class="grammar-btn">🇩🇪 Dative Case 🎁</a>
-  <a href="../grammatik/nebensatze.md" class="grammar-btn">🇩🇪 Subordinate Clauses 🔗</a>
-  <a href="../grammatik/vergleiche.md" class="grammar-btn">🇩🇪 Comparisons ⚖️</a>
-  <a href="../grammatik/prateritum.md" class="grammar-btn">🇩🇪 Simple Past 📜</a>
+  <a href="/grammatik/wechselprapositionen/" class="grammar-btn">🇩🇪 Two-Way Prepositions 🔀</a>
+  <a href="/grammatik/dativ/" class="grammar-btn">🇩🇪 Dative Case 🎁</a>
+  <a href="/grammatik/nebensatze/" class="grammar-btn">🇩🇪 Subordinate Clauses 🔗</a>
+  <a href="/grammatik/vergleiche/" class="grammar-btn">🇩🇪 Comparisons ⚖️</a>
+  <a href="/grammatik/prateritum/" class="grammar-btn">🇩🇪 Simple Past 📜</a>
 </div>
 
 [🔙 Back to A1 Level](../index.md)

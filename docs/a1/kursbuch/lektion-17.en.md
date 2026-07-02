@@ -307,10 +307,10 @@ This is a conversation between **Leila** and **Karim** getting to know each othe
 ## 📚 Related Grammar
 
 <div class="grammar-links">
-  <a href="../grammatik/modalverben.md" class="grammar-btn">🇩🇪 Modal Verbs ⚡</a>
-  <a href="../grammatik/perfekt.md" class="grammar-btn">🇩🇪 Perfect Tense ✅</a>
-  <a href="../grammatik/trennbare-verben.md" class="grammar-btn">🇩🇪 Separable Verbs 🗂️</a>
-  <a href="../grammatik/satzbau.md" class="grammar-btn">🇩🇪 Sentence Structure 🏗️</a>
+  <a href="/grammatik/modalverben/" class="grammar-btn">🇩🇪 Modal Verbs ⚡</a>
+  <a href="/grammatik/perfekt/" class="grammar-btn">🇩🇪 Perfect Tense ✅</a>
+  <a href="/grammatik/trennbare-verben/" class="grammar-btn">🇩🇪 Separable Verbs 🗂️</a>
+  <a href="/grammatik/satzbau/" class="grammar-btn">🇩🇪 Sentence Structure 🏗️</a>
 </div>
 
 [🔙 Back to A1 Level](../index.md) · [📕 Course Book](index.md)

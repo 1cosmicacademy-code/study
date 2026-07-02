@@ -299,10 +299,10 @@ This is a conversation between **Ahmed** (customer) and **Mrs. Müller** (the sa
 ## 📚 Related Grammar
 
 <div class="grammar-links">
-  <a href="../grammatik/akkusativ.md" class="grammar-btn">🇩🇪 Accusative Case 🎯</a>
-  <a href="../grammatik/artikel.md" class="grammar-btn">🇩🇪 Articles 📦</a>
-  <a href="../grammatik/plural.md" class="grammar-btn">🇩🇪 Plural Forms 🔢</a>
-  <a href="../grammatik/satzbau.md" class="grammar-btn">🇩🇪 Sentence Structure 🏗️</a>
+  <a href="/grammatik/akkusativ/" class="grammar-btn">🇩🇪 Accusative Case 🎯</a>
+  <a href="/grammatik/artikel/" class="grammar-btn">🇩🇪 Articles 📦</a>
+  <a href="/grammatik/plural/" class="grammar-btn">🇩🇪 Plural Forms 🔢</a>
+  <a href="/grammatik/satzbau/" class="grammar-btn">🇩🇪 Sentence Structure 🏗️</a>
 </div>
 
 [🔙 Back to A1 Level](index.md)

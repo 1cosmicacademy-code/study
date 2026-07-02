@@ -352,9 +352,9 @@ Example:
 ## 📚 Related Grammar
 
 <div class="grammar-links">
-  <a href="../grammatik/perfekt.md" class="grammar-btn">✅ Perfect Tense</a>
-  <a href="../grammatik/prateritum.md" class="grammar-btn">📜 Simple Past</a>
-  <a href="../grammatik/modalverben.md" class="grammar-btn">⚡ Modal Verbs</a>
+  <a href="/grammatik/perfekt/" class="grammar-btn">✅ Perfect Tense</a>
+  <a href="/grammatik/prateritum/" class="grammar-btn">📜 Simple Past</a>
+  <a href="/grammatik/modalverben/" class="grammar-btn">⚡ Modal Verbs</a>
 </div>
 
 [🔙 Back to A1 Level](../index.md) | [📕 Course Book](index.md)

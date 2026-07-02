@@ -284,4 +284,15 @@
 > 🎉 **Great job!** If you solved all the exercises, you now know how to talk about holidays and celebrations in German!  
 > 🎂 **Alles Gute zum Geburtstag!** — You did an amazing job!
 
+---
+
+## 📚 Related Grammar
+
+<div class="grammar-links">
+  <a href="/grammatik/perfekt/" class="grammar-btn">🇩🇪 Perfekt ✅</a>
+  <a href="/grammatik/prateritum/" class="grammar-btn">🇩🇪 Präteritum 📜</a>
+  <a href="/grammatik/vergleiche/" class="grammar-btn">🇩🇪 Vergleiche ⚖️</a>
+  <a href="/grammatik/konjunktiv-2/" class="grammar-btn">🇩🇪 Konjunktiv 2 💭</a>
+</div>
+
 [🔙 Back to Exercises](index.md)

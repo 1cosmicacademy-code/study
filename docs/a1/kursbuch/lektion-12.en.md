@@ -345,10 +345,10 @@ And the answer is simple:
 ## 📚 Related Grammar
 
 <div class="grammar-links">
-  <a href="../grammatik/modalverben.md" class="grammar-btn">🇩🇪 Modal Verbs ⚡</a>
-  <a href="../grammatik/satzbau.md" class="grammar-btn">🇩🇪 Sentence Structure 🏗️</a>
-  <a href="../grammatik/nebensatze.md" class="grammar-btn">🇩🇪 Subordinate Clauses 🔗</a>
-  <a href="../grammatik/verbkonjugation.md" class="grammar-btn">🇩🇪 Verb Conjugation 🔤</a>
+  <a href="/grammatik/modalverben/" class="grammar-btn">🇩🇪 Modal Verbs ⚡</a>
+  <a href="/grammatik/satzbau/" class="grammar-btn">🇩🇪 Sentence Structure 🏗️</a>
+  <a href="/grammatik/nebensatze/" class="grammar-btn">🇩🇪 Subordinate Clauses 🔗</a>
+  <a href="/grammatik/verbkonjugation/" class="grammar-btn">🇩🇪 Verb Conjugation 🔤</a>
 </div>
 
 [🔙 Back to A1 Level](../index.md) • [📕 Course Book](index.md)

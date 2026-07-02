@@ -297,10 +297,10 @@
 ## 📚 القواعد المرتبطة
 
 <div class="grammar-links">
-  <a href="../grammatik/verbkonjugation.md" class="grammar-btn">🇩🇪 🔤 Verbkonjugation (Verbkonjugation)</a>
-  <a href="../grammatik/personalpronomen.md" class="grammar-btn">🇩🇪 👤 Personalpronomen (Personalpronomen)</a>
-  <a href="../grammatik/nominativ.md" class="grammar-btn">🇩🇪 📌 Nominativ (Nominativ)</a>
-  <a href="../grammatik/satzbau.md" class="grammar-btn">🇩🇪 🏗️ Satzbau (Satzbau)</a>
+  <a href="/grammatik/verbkonjugation/" class="grammar-btn">🇩🇪 🔤 Verbkonjugation (Verbkonjugation)</a>
+  <a href="/grammatik/personalpronomen/" class="grammar-btn">🇩🇪 👤 Personalpronomen (Personalpronomen)</a>
+  <a href="/grammatik/nominativ/" class="grammar-btn">🇩🇪 📌 Nominativ (Nominativ)</a>
+  <a href="/grammatik/satzbau/" class="grammar-btn">🇩🇪 🏗️ Satzbau (Satzbau)</a>
 </div>
 
 [🔙 رجوع إلى المستوى A1](index.md)

@@ -299,10 +299,10 @@ Here is a conversation between two people getting to know each other. Read it an
 ## 📚 Related Grammar
 
 <div class="grammar-links">
-  <a href="../grammatik/verbkonjugation.md" class="grammar-btn">🔤 Verb Conjugation (Verbkonjugation)</a>
-  <a href="../grammatik/personalpronomen.md" class="grammar-btn">👤 Personal Pronouns (Personalpronomen)</a>
-  <a href="../grammatik/nominativ.md" class="grammar-btn">📌 Nominative Case (Nominativ)</a>
-  <a href="../grammatik/satzbau.md" class="grammar-btn">🏗️ Sentence Structure (Satzbau)</a>
+  <a href="/grammatik/verbkonjugation/" class="grammar-btn">🔤 Verb Conjugation (Verbkonjugation)</a>
+  <a href="/grammatik/personalpronomen/" class="grammar-btn">👤 Personal Pronouns (Personalpronomen)</a>
+  <a href="/grammatik/nominativ/" class="grammar-btn">📌 Nominative Case (Nominativ)</a>
+  <a href="/grammatik/satzbau/" class="grammar-btn">🏗️ Sentence Structure (Satzbau)</a>
 </div>
 
 [🔙 Back to A1 Level](index.md)

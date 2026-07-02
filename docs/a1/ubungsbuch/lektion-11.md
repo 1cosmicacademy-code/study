@@ -351,9 +351,9 @@
 ## 📚 القواعد المرتبطة
 
 <div class="grammar-links">
-  <a href="../../grammatik/wechselprapositionen.md" class="grammar-btn">🇩🇪 Wechselpräpositionen 🔀</a>
-  <a href="../../grammatik/dativ.md" class="grammar-btn">🇩🇪 Dativ 🎁</a>
-  <a href="../../grammatik/prapositionen.md" class="grammar-btn">🇩🇪 Präpositionen 📍</a>
+  <a href="/grammatik/wechselprapositionen/" class="grammar-btn">🇩🇪 Wechselpräpositionen 🔀</a>
+  <a href="/grammatik/dativ/" class="grammar-btn">🇩🇪 Dativ 🎁</a>
+  <a href="/grammatik/prapositionen/" class="grammar-btn">🇩🇪 Präpositionen 📍</a>
 </div>
 
 [🔙 العودة إلى المستوى A1](../index.md) • [📕 كتاب التمارين](index.md)

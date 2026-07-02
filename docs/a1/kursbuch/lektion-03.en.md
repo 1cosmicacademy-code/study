@@ -313,10 +313,10 @@ And the answer is always: **Das ist...** (dahs ist) = **That is...**
 ## 📚 Related Grammar
 
 <div class="grammar-links">
-  <a href="../grammatik/artikel.md" class="grammar-btn">📦 Articles (Artikel)</a>
-  <a href="../grammatik/plural.md" class="grammar-btn">🔢 Plural Forms (Plural)</a>
-  <a href="../grammatik/nominativ.md" class="grammar-btn">📌 Nominative Case (Nominativ)</a>
-  <a href="../grammatik/akkusativ.md" class="grammar-btn">🎯 Accusative Case (Akkusativ)</a>
+  <a href="/grammatik/artikel/" class="grammar-btn">📦 Articles (Artikel)</a>
+  <a href="/grammatik/plural/" class="grammar-btn">🔢 Plural Forms (Plural)</a>
+  <a href="/grammatik/nominativ/" class="grammar-btn">📌 Nominative Case (Nominativ)</a>
+  <a href="/grammatik/akkusativ/" class="grammar-btn">🎯 Accusative Case (Akkusativ)</a>
 </div>
 
 [🔙 Back to A1 Level](index.md)

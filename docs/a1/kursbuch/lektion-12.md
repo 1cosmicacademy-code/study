@@ -345,10 +345,10 @@
 ## 📚 القواعد المرتبطة
 
 <div class="grammar-links">
-  <a href="../grammatik/modalverben.md" class="grammar-btn">🇩🇪 ⚡ Modalverben (Modalverben)</a>
-  <a href="../grammatik/satzbau.md" class="grammar-btn">🇩🇪 🏗️ Satzbau (Satzbau)</a>
-  <a href="../grammatik/nebensatze.md" class="grammar-btn">🇩🇪 🔗 Nebensätze (Nebensätze)</a>
-  <a href="../grammatik/verbkonjugation.md" class="grammar-btn">🇩🇪 🔤 Verbkonjugation (Präsens) (Verbkonjugation (Präsens))</a>
+  <a href="/grammatik/modalverben/" class="grammar-btn">🇩🇪 ⚡ Modalverben (Modalverben)</a>
+  <a href="/grammatik/satzbau/" class="grammar-btn">🇩🇪 🏗️ Satzbau (Satzbau)</a>
+  <a href="/grammatik/nebensatze/" class="grammar-btn">🇩🇪 🔗 Nebensätze (Nebensätze)</a>
+  <a href="/grammatik/verbkonjugation/" class="grammar-btn">🇩🇪 🔤 Verbkonjugation (Präsens) (Verbkonjugation (Präsens))</a>
 </div>
 
 [🔙 العودة إلى المستوى A1](../index.md) • [📕 كتاب الدروس](index.md)

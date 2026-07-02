@@ -376,10 +376,10 @@
 ## 📚 القواعد المرتبطة
 
 <div class="grammar-links">
-  <a href="../grammatik/wechselprapositionen.md" class="grammar-btn">🇩🇪 🔀 Wechselpräpositionen (Wechselpräpositionen)</a>
-  <a href="../grammatik/dativ.md" class="grammar-btn">🇩🇪 🎁 Dativ (Dativ)</a>
-  <a href="../grammatik/imperativ.md" class="grammar-btn">🇩🇪 📢 Imperativ (Imperativ)</a>
-  <a href="../grammatik/prapositionen.md" class="grammar-btn">🇩🇪 📍 Präpositionen (Präpositionen)</a>
+  <a href="/grammatik/wechselprapositionen/" class="grammar-btn">🇩🇪 🔀 Wechselpräpositionen (Wechselpräpositionen)</a>
+  <a href="/grammatik/dativ/" class="grammar-btn">🇩🇪 🎁 Dativ (Dativ)</a>
+  <a href="/grammatik/imperativ/" class="grammar-btn">🇩🇪 📢 Imperativ (Imperativ)</a>
+  <a href="/grammatik/prapositionen/" class="grammar-btn">🇩🇪 📍 Präpositionen (Präpositionen)</a>
 </div>
 
 [🔙 العودة إلى المستوى A1](../index.md) • [📕 كتاب الدروس](index.md)

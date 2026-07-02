@@ -320,10 +320,10 @@ We need the verb **haben** (to have) to talk about appointments:
 ## 📚 Related Grammar
 
 <div class="grammar-links">
-  <a href="../grammatik/modalverben.md" class="grammar-btn">⚡ Modal Verbs</a>
-  <a href="../grammatik/satzbau.md" class="grammar-btn">🏗️ Sentence Structure</a>
-  <a href="../grammatik/temporal-lokal-angaben.md" class="grammar-btn">⏰ Time & Place Expressions</a>
-  <a href="../grammatik/nebensatze.md" class="grammar-btn">🔗 Subordinate Clauses</a>
+  <a href="/grammatik/modalverben/" class="grammar-btn">⚡ Modal Verbs</a>
+  <a href="/grammatik/satzbau/" class="grammar-btn">🏗️ Sentence Structure</a>
+  <a href="/grammatik/temporal-lokal-angaben/" class="grammar-btn">⏰ Time & Place Expressions</a>
+  <a href="/grammatik/nebensatze/" class="grammar-btn">🔗 Subordinate Clauses</a>
 </div>
 
 [🔙 Back to A1 Level](index.md)
