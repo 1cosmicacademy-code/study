@@ -189,4 +189,16 @@
 | 8 | du / haben / eine Einkaufsliste | **_____** (سؤال) |
 
 </div>
+
 ---
+
+## 📚 القواعد المرتبطة
+
+<div class="grammar-links">
+  <a href="/grammatik/akkusativ/" class="grammar-btn">🎯 Akkusativ</a>
+  <a href="/grammatik/artikel/" class="grammar-btn">📦 Artikel</a>
+  <a href="/grammatik/plural/" class="grammar-btn">🔢 Plural</a>
+  <a href="/grammatik/satzbau/" class="grammar-btn">🏗️ Satzbau</a>
+</div>
+
+[🔙 العودة إلى المستوى A1](../index.md) • [📕 كتاب التمارين](index.md)

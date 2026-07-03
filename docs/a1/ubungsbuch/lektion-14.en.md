@@ -220,4 +220,15 @@
 | 8 | You want to thank the doctor | **________________________** |
 
 </div>
+
 ---
+
+## 📚 Related Grammar
+
+<div class="grammar-links">
+  <a href="/grammatik/perfekt/" class="grammar-btn">🇩🇪 ✅ Perfekt</a>
+  <a href="/grammatik/prateritum/" class="grammar-btn">🇩🇪 📜 Präteritum</a>
+  <a href="/grammatik/temporal-lokal-angaben/" class="grammar-btn">🇩🇪 ⏰ Temporal- und Lokalangaben</a>
+</div>
+
+[🔙 Back to A1](../index.md) • [📕 Exercise Book](index.md)

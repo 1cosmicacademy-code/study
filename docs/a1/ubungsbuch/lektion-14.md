@@ -220,4 +220,15 @@
 | 8 | تريد أن تشكر الدكتور | **________________________** |
 
 </div>
+
 ---
+
+## 📚 القواعد المرتبطة
+
+<div class="grammar-links">
+  <a href="/grammatik/perfekt/" class="grammar-btn">🇩🇪 ✅ Perfekt</a>
+  <a href="/grammatik/prateritum/" class="grammar-btn">🇩🇪 📜 Präteritum</a>
+  <a href="/grammatik/temporal-lokal-angaben/" class="grammar-btn">🇩🇪 ⏰ Temporal- und Lokalangaben</a>
+</div>
+
+[🔙 العودة إلى المستوى A1](../index.md) • [📕 كتاب التمارين](index.md)
