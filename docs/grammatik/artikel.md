@@ -77,39 +77,31 @@
 
 ## 📝 تمارين
 
-### تمرين 1: der/die/das؟
-
-1. ___ Haus (منزل)
-2. ___ Straße (شارع)
-3. ___ Garten (حديقة)
-4. ___ Auto (سيارة)
-5. ___ Schule (مدرسة)
-
-### تمرين 2: ein oder eine؟
-
-1. Das ist ___ Tisch.
-2. Das ist ___ Lampe.
-3. Das ist ___ Buch.
-4. Das ist ___ Katze.
-5. Das ist ___ Apfel.
-
-### تمرين 3: kein oder keine؟
-
-1. Das ist ___ Problem.
-2. Das ist ___ Idee.
-3. Das sind ___ Fragen. (جمع)
-4. Ich habe ___ Zeit.
-5. Das ist ___ Hund.
-
-## ✅ الحلول
-
-### حل تمرين 1
-1. das | 2. die | 3. der | 4. das | 5. die
-
-### حل تمرين 2
-1. ein | 2. eine | 3. ein | 4. eine | 5. ein
-
-### حل تمرين 3
-1. kein | 2. keine | 3. keine | 4. keine | 5. kein
-
+<div class="exercise" markdown="1" data-answers='["das","die","der","das","die"]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | ___ Haus (منزل) | |
+| 2 | ___ Straße (شارع) | |
+| 3 | ___ Garten (حديقة) | |
+| 4 | ___ Auto (سيارة) | |
+| 5 | ___ Schule (مدرسة) | |
+</div>
+<div class="exercise" markdown="1" data-answers='["ein","eine","ein","eine","ein"]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | Das ist ___ Tisch. | |
+| 2 | Das ist ___ Lampe. | |
+| 3 | Das ist ___ Buch. | |
+| 4 | Das ist ___ Katze. | |
+| 5 | Das ist ___ Apfel. | |
+</div>
+<div class="exercise" markdown="1" data-answers='["kein","keine","keine","keine","kein"]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | Das ist ___ Problem. | |
+| 2 | Das ist ___ Idee. | |
+| 3 | Das sind ___ Fragen. (جمع) | |
+| 4 | Ich habe ___ Zeit. | |
+| 5 | Das ist ___ Hund. | |
+</div>
 ---

@@ -85,36 +85,20 @@
 
 </div>
 
-## التمرين 5: حوار في الدائرة الحكومية 💬
+<div class="exercise" markdown="1" data-answers='["Termin","Pass","Ausweis","müssen","unterschreiben","Gebühr","bezahlen","vier"]'>
 
-**أكمل الحوار بين السيد خالد (مواطن) والسيدة فيبر (موظفة):**
+| المتحدث | النص | الإجابة |
+|---------|------|---------|
+| Frau Weber | Guten Morgen! Haben Sie einen ______? | |
+| Herr Khaled | Ja, um 10 Uhr. Ich möchte einen neuen ______ beantragen. | |
+| Frau Weber | Haben Sie Ihren alten Pass und Ihren ______ dabei? | |
+| Frau Weber | Gut. Dann ______ Sie dieses Formular ausfüllen. | |
+| Herr Khaled | Wo muss ich ______? | |
+| Frau Weber | Hier unten, bitte. Die ______ ist 60 Euro. | |
+| Herr Khaled | Kann ich mit Karte ______? | |
+| Frau Weber | Ja, natürlich! In ______ Wochen ist der Pass fertig. | |
 
-> **Frau Weber:** Guten Morgen! Haben Sie einen (1) ______________?
-> *(صباح الخير! هل عندك موعد؟)*
->
-> **Herr Khaled:** Ja, um 10 Uhr. Ich möchte einen neuen (2) ______________ beantragen.
-> *(نعم، الساعة 10. أريد تقديم طلب جواز سفر جديد.)*
->
-> **Frau Weber:** Haben Sie Ihren alten Pass und Ihren (3) ______________ dabei?
-> *(هل معك جواز سفرك القديم وبطاقة هويتك؟)*
->
-> **Herr Khaled:** Ja, hier bitte.
-> *(نعم، تفضل.)*
->
-> **Frau Weber:** Gut. Dann (4) ______________ Sie dieses Formular ausfüllen.
-> *(جيد. إذاً يجب أن تملأ هذه الاستمارة.)*
->
-> **Herr Khaled:** Wo muss ich (5) ______________?
-> *(أين يجب أن أوقع؟)*
->
-> **Frau Weber:** Hier unten, bitte. Die (6) ______________ ist 60 Euro.
-> *(هنا بالأسفل من فضلك. الرسوم 60 يورو.)*
->
-> **Herr Khaled:** Kann ich mit Karte (7) ______________?
-> *(هل أستطيع الدفع بالبطاقة؟)*
->
-> **Frau Weber:** Ja, natürlich! In (8) ______________ Wochen ist der Pass fertig.
-> *(نعم، طبعاً! خلال أربعة أسابيع سيكون الجواز جاهزاً.)*
+</div>
 
 
 ## التمرين 6: صح أم خطأ؟ ❌✅

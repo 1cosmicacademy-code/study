@@ -135,91 +135,55 @@
 
 ## 📝 تمارين
 
-### تمرين 1: صنّف الظرف (Temporal = T, Lokal = L, Modal = M)
-
-1. heute → _______
-2. hier → _______
-3. gern → _______
-4. morgen → _______
-5. leider → _______
-6. dort → _______
-7. oft → _______
-8. rechts → _______
-
-### تمرين 2: اختر الظرف الصحيح من بين القوسين
-
-1. Ich komme (morgen / gestern) zu dir, nicht heute. (غداً)
-2. (Hier / Leider) kann ich nicht kommen. (للأسف)
-3. Das Kind spielt (draußen / spät) im Garten. (خارجاً)
-4. Ich lese (oft / gern) Bücher, jeden Tag. (غالباً)
-5. (Vielleicht / Gestern) war ich krank. (أمس)
-
-### تمرين 3: رتب الكلمات لتكوين جملة صحيحة (انتبه لترتيب الظروف 🔀)
-
-1. heute / Ich / in die Schule / gehe
-   → ___________________________________
-
-2. morgen / Er / mit dem Auto / nach Berlin / fährt
-   → ___________________________________
-
-3. gestern / im Park / Sie / mit Freunden / war
-   → ___________________________________
-
-4. immer / pünktlich / Er / kommt
-   → ___________________________________
-
-5. leider / keine Zeit / Ich / habe / heute
-   → ___________________________________
-
-### تمرين 4: أكمل الجملة بظرف مناسب من الصندوق
-
-(هنا — غالباً — للأسف — كثيراً — نادراً — أبداً — طبعاً — ربما)
-
-1. Ich esse _______ Fleisch. (نادراً)
-2. _______ ist mein Bruder krank. (للأسف)
-3. Das Buch ist _______, auf dem Tisch. (هنا)
-4. Ich habe dich _______, mein Schatz. (كثيراً)
-5. _______ komme ich morgen. (ربما)
-
-### تمرين 5: ترجم إلى الألمانية
-
-1. اليوم أذهب إلى العمل مشياً.
-   → ___________________________________
-2. للأسف ليس عندي وقت غداً.
-   → ___________________________________
-3. أنا أحب أكل البيتزا كثيراً.
-   → ___________________________________
-4. أين هو؟ — هو هناك، على اليمين.
-   → ___________________________________
-5. نحن نذهب غالباً إلى السينما يوم الجمعة.
-   → ___________________________________
-
+<div class="exercise" markdown="1" data-answers='["T","L","M","T","M","L","T","L"]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | heute → _______ | |
+| 2 | hier → _______ | |
+| 3 | gern → _______ | |
+| 4 | morgen → _______ | |
+| 5 | leider → _______ | |
+| 6 | dort → _______ | |
+| 7 | oft → _______ | |
+| 8 | rechts → _______ | |
+</div>
+<div class="exercise" markdown="1" data-answers='["morgen","Leider","draußen","oft","Gestern"]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | Ich komme (morgen / gestern) zu dir, nicht heute. (غداً) | |
+| 2 | (Hier / Leider) kann ich nicht kommen. (للأسف) | |
+| 3 | Das Kind spielt (draußen / spät) im Garten. (خارجاً) | |
+| 4 | Ich lese (oft / gern) Bücher, jeden Tag. (غالباً) | |
+| 5 | (Vielleicht / Gestern) war ich krank. (أمس) | |
+</div>
+<div class="exercise" markdown="1" data-answers='["Ich habe heute leider keine Zeit."]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | heute / Ich / in die Schule / gehe | |
+| 2 | morgen / Er / mit dem Auto / nach Berlin / fährt | |
+| 3 | gestern / im Park / Sie / mit Freunden / war | |
+| 4 | immer / pünktlich / Er / kommt | |
+| 5 | leider / keine Zeit / Ich / habe / heute | |
+</div>
+<div class="exercise" markdown="1" data-answers='["selten","Leider","hier","sehr / viel","Vielleicht"]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | Ich esse _______ Fleisch. (نادراً) | |
+| 2 | _______ ist mein Bruder krank. (للأسف) | |
+| 3 | Das Buch ist _______, auf dem Tisch. (هنا) | |
+| 4 | Ich habe dich _______, mein Schatz. (كثيراً) | |
+| 5 | _______ komme ich morgen. (ربما) | |
+</div>
+<div class="exercise" markdown="1" data-answers='["Wir gehen oft am Freitag ins Kino."]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | اليوم أذهب إلى العمل مشياً. | |
+| 2 | للأسف ليس عندي وقت غداً. | |
+| 3 | أنا أحب أكل البيتزا كثيراً. | |
+| 4 | أين هو؟ — هو هناك، على اليمين. | |
+| 5 | نحن نذهب غالباً إلى السينما يوم الجمعة. | |
+</div>
 ---
-
-## ✅ الحلول
-
-### حل تمرين 1
-1. T | 2. L | 3. M | 4. T | 5. M | 6. L | 7. T | 8. L
-
-### حل تمرين 2
-1. morgen | 2. Leider | 3. draußen | 4. oft | 5. Gestern
-
-### حل تمرين 3
-1. Ich gehe heute in die Schule.
-2. Er fährt morgen mit dem Auto nach Berlin.
-3. Sie war gestern mit Freunden im Park.
-4. Er kommt immer pünktlich.
-5. Ich habe heute leider keine Zeit.
-
-### حل تمرين 4
-1. selten | 2. Leider | 3. hier | 4. sehr / viel | 5. Vielleicht
-
-### حل تمرين 5
-1. Heute gehe ich zu Fuß zur Arbeit.
-2. Leider habe ich morgen keine Zeit.
-3. Ich esse sehr gern Pizza.
-4. Wo ist er? — Er ist da drüben, rechts.
-5. Wir gehen oft am Freitag ins Kino.
 
 ---
 

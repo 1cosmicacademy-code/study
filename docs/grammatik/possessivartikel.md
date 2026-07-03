@@ -59,39 +59,31 @@
 
 ## 📝 تمارين
 
-### تمرين 1: meine oder mein/deine oder dein؟
-
-1. Das ist ___ (mein) Haus.
-2. Das ist ___ (mein) Mutter.
-3. Ist das ___ (dein) Hund?
-4. Ist das ___ (dein) Katze?
-5. Das sind ___ (mein) Bücher.
-
-### تمرين 2: أكمل بصفة ملكية مناسبة
-
-1. Ich habe einen Bruder. ___ Bruder heißt Ali.
-2. Du hast eine Schwester. ___ Schwester ist nett.
-3. Er hat ein Auto. ___ Auto ist blau.
-4. Wir haben ein Haus. ___ Haus ist groß.
-5. Sie (جمع) haben Kinder. ___ Kinder sind jung.
-
-### تمرين 3: اختر الصحيح
-
-1. (Mein / Meine) Vater arbeitet.
-2. (Dein / Deine) Mutter kocht.
-3. (Sein / Seine) Schwester tanzt.
-4. (Ihr / Ihre) (her) Kind spielt.
-5. (Unser / Unsere) Eltern sind zu Hause.
-
-## ✅ الحلول
-
-### حل تمرين 1
-1. mein | 2. meine | 3. dein | 4. deine | 5. meine
-
-### حل تمرين 2
-1. Mein | 2. Deine | 3. Sein | 4. Unser | 5. Ihre
-
-### حل تمرين 3
-1. Mein | 2. Deine | 3. Seine | 4. Ihr | 5. Unsere
-
+<div class="exercise" markdown="1" data-answers='["mein","meine","dein","deine","meine"]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | Das ist ___ (mein) Haus. | |
+| 2 | Das ist ___ (mein) Mutter. | |
+| 3 | Ist das ___ (dein) Hund? | |
+| 4 | Ist das ___ (dein) Katze? | |
+| 5 | Das sind ___ (mein) Bücher. | |
+</div>
+<div class="exercise" markdown="1" data-answers='["Mein","Deine","Sein","Unser","Ihre"]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | Ich habe einen Bruder. ___ Bruder heißt Ali. | |
+| 2 | Du hast eine Schwester. ___ Schwester ist nett. | |
+| 3 | Er hat ein Auto. ___ Auto ist blau. | |
+| 4 | Wir haben ein Haus. ___ Haus ist groß. | |
+| 5 | Sie (جمع) haben Kinder. ___ Kinder sind jung. | |
+</div>
+<div class="exercise" markdown="1" data-answers='["Mein","Deine","Seine","Ihr","Unsere"]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | (Mein / Meine) Vater arbeitet. | |
+| 2 | (Dein / Deine) Mutter kocht. | |
+| 3 | (Sein / Seine) Schwester tanzt. | |
+| 4 | (Ihr / Ihre) (her) Kind spielt. | |
+| 5 | (Unser / Unsere) Eltern sind zu Hause. | |
+</div>
 ---

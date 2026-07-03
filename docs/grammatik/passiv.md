@@ -95,71 +95,52 @@
 
 ## 📝 تمارين
 
-### تمرين 1: حدد — Aktiv أم Passiv؟
-1. Der Mann kauft ein Auto. → ___
-2. Das Auto wird gekauft. → ___
-3. Die Kinder spielen im Garten. → ___
-4. Das Fenster wird geöffnet. → ___
-5. Der Brief wird geschrieben. → ___
-
-### تمرين 2: حول من Aktiv إلى Passiv
-1. Der Bäcker backt das Brot. → Das Brot ___ ___.
-2. Der Mechaniker repariert das Auto. → Das Auto ___ ___.
-3. Die Mutter kocht das Essen. → Das Essen ___ ___.
-4. Der Schüler liest das Buch. → Das Buch ___ ___.
-5. Der Künstler malt das Bild. → Das Bild ___ ___.
-
-### تمرين 3: أكمل بـ wird/werden/wird... (Passiv)
-1. Das Wasser ___ getrunken.
-2. Die Bücher ___ gelesen.
-3. Der Kaffee ___ getrunken.
-4. Die Blumen ___ gegossen.
-5. Ich ___ gefragt.
-
-### تمرين 4: Passiv مع Modalverb
-1. Man muss die Aufgabe machen. → Die Aufgabe ___ ___ ___.
-2. Man kann das Problem lösen. → Das Problem ___ ___ ___.
-3. Man soll den Müll trennen. → Der Müll ___ ___ ___.
-4. Man darf hier nicht rauchen. → Hier ___ nicht ___ ___.
-5. Man muss die Tür schließen. → Die Tür ___ ___ ___.
-
-### تمرين 5: صحح الخطأ (الجملة فيها خطأ)
-1. Das Buch wird lesen. (غلط)
-2. Die Suppe wird gekocht werden. (إضافي)
-3. Der Brief wird von der Lehrer geschrieben. (غلط في Dativ)
-4. Das Fenster kann geöffnet. (ناقص)
-5. Die Kinder werden gefragt von der Mutter. (ترتيب خطأ)
-
+<div class="exercise" markdown="1" data-answers='["**Aktiv**","**Passiv**","**Aktiv**","**Passiv**","**Passiv**"]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | Der Mann kauft ein Auto. → ___ | |
+| 2 | Das Auto wird gekauft. → ___ | |
+| 3 | Die Kinder spielen im Garten. → ___ | |
+| 4 | Das Fenster wird geöffnet. → ___ | |
+| 5 | Der Brief wird geschrieben. → ___ | |
+</div>
+<div class="exercise" markdown="1" data-answers='["Das Bild **wird gemalt**."]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | Der Bäcker backt das Brot. → Das Brot ___ ___. | |
+| 2 | Der Mechaniker repariert das Auto. → Das Auto ___ ___. | |
+| 3 | Die Mutter kocht das Essen. → Das Essen ___ ___. | |
+| 4 | Der Schüler liest das Buch. → Das Buch ___ ___. | |
+| 5 | Der Künstler malt das Bild. → Das Bild ___ ___. | |
+</div>
+<div class="exercise" markdown="1" data-answers='["**wird**","**werden**","**wird**","**werden**","**werde**"]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | Das Wasser ___ getrunken. | |
+| 2 | Die Bücher ___ gelesen. | |
+| 3 | Der Kaffee ___ getrunken. | |
+| 4 | Die Blumen ___ gegossen. | |
+| 5 | Ich ___ gefragt. | |
+</div>
+<div class="exercise" markdown="1" data-answers='["Die Tür **muss geschlossen werden**."]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | Man muss die Aufgabe machen. → Die Aufgabe ___ ___ ___. | |
+| 2 | Man kann das Problem lösen. → Das Problem ___ ___ ___. | |
+| 3 | Man soll den Müll trennen. → Der Müll ___ ___ ___. | |
+| 4 | Man darf hier nicht rauchen. → Hier ___ nicht ___ ___. | |
+| 5 | Man muss die Tür schließen. → Die Tür ___ ___ ___. | |
+</div>
+<div class="exercise" markdown="1" data-answers='["Die Kinder **werden von der Mutter gefragt**. (von der Mutter قبل gefragt أو قبله)"]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | Das Buch wird lesen. (غلط) | |
+| 2 | Die Suppe wird gekocht werden. (إضافي) | |
+| 3 | Der Brief wird von der Lehrer geschrieben. (غلط في Dativ) | |
+| 4 | Das Fenster kann geöffnet. (ناقص) | |
+| 5 | Die Kinder werden gefragt von der Mutter. (ترتيب خطأ) | |
+</div>
 ---
-
-## ✅ الحلول
-
-### حل تمرين 1
-1. **Aktiv** | 2. **Passiv** | 3. **Aktiv** | 4. **Passiv** | 5. **Passiv**
-
-### حل تمرين 2
-1. Das Brot **wird gebacken**.
-2. Das Auto **wird repariert**.
-3. Das Essen **wird gekocht**.
-4. Das Buch **wird gelesen**.
-5. Das Bild **wird gemalt**.
-
-### حل تمرين 3
-1. **wird** | 2. **werden** | 3. **wird** | 4. **werden** | 5. **werde**
-
-### حل تمرين 4
-1. Die Aufgabe **muss gemacht werden**.
-2. Das Problem **kann gelöst werden**.
-3. Der Müll **soll getrennt werden**.
-4. Hier **darf nicht geraucht werden**.
-5. Die Tür **muss geschlossen werden**.
-
-### حل تمرين 5
-1. Das Buch **wird gelesen**. (مش lesen)
-2. Die Suppe **wird gekocht**. (شيل werden الزايد)
-3. Der Brief wird **von der Lehrerin** / **vom Lehrer** geschrieben.
-4. Das Fenster kann **geöffnet werden**. (أضف werden)
-5. Die Kinder **werden von der Mutter gefragt**. (von der Mutter قبل gefragt أو قبله)
 
 ---
 

@@ -89,49 +89,22 @@
 
 **أكمل الحوار بين مريض وطبيبة:**
 
-> **Patient:** Guten Tag! Ich möchte _____________ Termin.  
-> *(أريد موعداً.)*
-> 
-> **Ärztin:** Guten Tag! Wann _____________ Sie Zeit?  
-> *(متى عندكم وقت؟)*
-> 
-> **Patient:** _____________ Mittwoch um 10 Uhr — geht das?  
-> *(يوم الأربعاء الساعة 10 — هل هذا مناسب؟)*
-> 
-> **Ärztin:** Tut mir _____________ , am Mittwoch habe ich _____________ Zeit. Am Donnerstag um 11 Uhr?  
-> *(آسفة، الأربعاء ليس عندي وقت. الخميس الساعة 11؟)*
-> 
-> **Patient:** Ja, _____________ Donnerstag um 11 Uhr passt _____________ gut.  
-> *(نعم، الخميس الساعة 11 يناسبني.)*
-> 
-> **Ärztin:** Sehr gut! Der Termin ist _____________ Donnerstag _____________ 11 Uhr.  
-> *(ممتاز! الموعد الخميس الساعة 11.)*
-> 
-> **Patient:** Vielen _____________! Auf Wiedersehen!  
-> *(شكراً جزيلاً! إلى اللقاء!)*
+<div class="exercise" markdown="1" data-answers='["einen","haben","Am","leid","keine","am","mir","am","um","Dank"]'>
 
-✅ **الحل:**
+| المتحدث | النص | الإجابة |
+|---------|------|---------|
+| Patient | Guten Tag! Ich möchte ________ Termin. (أريد موعداً.) | |
+| Ärztin | Guten Tag! Wann ________ Sie Zeit? (متى عندكم وقت؟) | |
+| Patient | ________ Mittwoch um 10 Uhr — geht das? (الأربعاء الساعة 10؟) | |
+| Ärztin | Tut mir ________... (آسفة...) | |
+| Ärztin | ...am Mittwoch habe ich ________ Zeit. (...ليس عندي وقت.) | |
+| Patient | Ja, ________ Donnerstag um 11 Uhr... (الخميس الساعة 11...) | |
+| Patient | ...passt ________ gut. (...يناسبني.) | |
+| Ärztin | Der Termin ist ________ Donnerstag... (الموعد الخميس...) | |
+| Ärztin | ...________ 11 Uhr. (...الساعة 11.) | |
+| Patient | Vielen ________! Auf Wiedersehen! (شكراً جزيلاً! إلى اللقاء!) | |
 
-> **Patient:** Guten Tag! Ich möchte **einen** Termin.  
-> *(أريد موعداً.)*
-> 
-> **Ärztin:** Guten Tag! Wann **haben** Sie Zeit?  
-> *(متى عندكم وقت؟)*
-> 
-> **Patient:** **Am** Mittwoch um 10 Uhr — geht das?  
-> *(يوم الأربعاء الساعة 10 — هل هذا مناسب؟)*
-> 
-> **Ärztin:** Tut mir **leid**, am Mittwoch habe ich **keine** Zeit. Am Donnerstag um 11 Uhr?  
-> *(آسفة، الأربعاء ليس عندي وقت. الخميس الساعة 11؟)*
-> 
-> **Patient:** Ja, **am** Donnerstag um 11 Uhr passt **mir** gut.  
-> *(نعم، الخميس الساعة 11 يناسبني.)*
-> 
-> **Ärztin:** Sehr gut! Der Termin ist **am** Donnerstag **um** 11 Uhr.  
-> *(ممتاز! الموعد الخميس الساعة 11.)*
-> 
-> **Patient:** Vielen **Dank**! Auf Wiedersehen!  
-> *(شكراً جزيلاً! إلى اللقاء!)*
+</div>
 
 ---
 

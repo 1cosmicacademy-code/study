@@ -119,52 +119,46 @@ Ich    werde    morgen    nach Berlin    fahren.
 
 ## 📝 تمارين
 
-### تمرين 1: صرّف werden بين القوسين
+<div class="exercise" markdown="1" data-answers='["werde","wirst","wird","werden","werdet","werden"]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | Ich ______________ (werden) morgen einkaufen. | |
+| 2 | Du ______________ (werden) bestimmt gewinnen. | |
+| 3 | Er ______________ (werden) im Juli nach Spanien fliegen. | |
+| 4 | Wir ______________ (werden) dich abholen. | |
+| 5 | Ihr ______________ (werden) das nicht glauben. | |
+| 6 | Die Kinder ______________ (werden) sich freuen. | |
+</div>
 
-1. Ich ______________ (werden) morgen einkaufen.
-2. Du ______________ (werden) bestimmt gewinnen.
-3. Er ______________ (werden) im Juli nach Spanien fliegen.
-4. Wir ______________ (werden) dich abholen.
-5. Ihr ______________ (werden) das nicht glauben.
-6. Die Kinder ______________ (werden) sich freuen.
+<div class="exercise" markdown="1" data-answers='["Ich werde ein Haus kaufen.","Sie wird nach Italien reisen.","Wir werden Deutsch lernen.","Der Zug wird um 10 Uhr kommen.","Wirst du das Fenster zummachen?"]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | Ich ______________ ein Haus ______________. | |
+| 2 | Sie ______________ nach Italien ______________. | |
+| 3 | Wir ______________ Deutsch ______________. | |
+| 4 | Der Zug ______________ um 10 Uhr ______________. | |
+| 5 | ______________ du das Fenster ______________ ______________? | |
+</div>
 
-### تمرين 2: حول الجملة من Präsens إلى Futur I
+<div class="exercise" markdown="1" data-answers='["Morgen werde ich mein Zimmer aufräumen.","Nächstes Jahr werden wir ein Haus bauen.","Wirst du mich am Wochenende besuchen?","Es wird heute nicht schneien.","Wir werden die Prüfung bestimmt bestehen."]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | morgen / ich / aufräumen / mein Zimmer → ___________________________________ | |
+| 2 | nächstes Jahr / wir / ein Haus / bauen → ___________________________________ | |
+| 3 | du / mich / besuchen / am Wochenende? → ___________________________________ | |
+| 4 | nicht / es / heute / schneien → ___________________________________ | |
+| 5 | bestimmt / die Prüfung / wir / bestehen → ___________________________________ | |
+</div>
 
-1. Ich kaufe ein Haus.
-   → Ich ______________ ein Haus ______________.
-2. Sie reist nach Italien.
-   → Sie ______________ nach Italien ______________.
-3. Wir lernen Deutsch.
-   → Wir ______________ Deutsch ______________.
-4. Der Zug kommt um 10 Uhr.
-   → Der Zug ______________ um 10 Uhr ______________.
-5. Machst du das Fenster zu?
-   → ______________ du das Fenster ______________ ______________?
-
-### تمرين 3: اكتب جملة Futures باستخدام werden من الكلمات المعطاة
-
-1. morgen / ich / aufräumen / mein Zimmer
-   → ___________________________________
-
-2. nächstes Jahr / wir / ein Haus / bauen
-   → ___________________________________
-
-3. du / mich / besuchen / am Wochenende?
-   → ___________________________________
-
-4. nicht / es / heute / schneien
-   → ___________________________________
-
-5. bestimmt / die Prüfung / wir / bestehen
-   → ___________________________________
-
-### تمرين 4: اختر — Präsens للمستقبل أم Futur I؟
-
-1. Ich ______________ (kaufe / werde kaufen) morgen ein Brot. (الأكثر شيوعاً في المحادثة)
-2. Er ______________ (kommt / wird kommen) bestimmt heute. (توقع قوي)
-3. Nächstes Jahr ______________ (beginne ich / werde ich beginnen) mein Studium. (نية مؤكدة)
-4. Es ______________ (regnet / wird regnen) morden. (توقع الطقس)
-5. Wir ______________ (besuchen / werden besuchen) dich am Samstag. (وعد)
+<div class="exercise" markdown="1" data-answers='["kaufe","wird kommen","werde ich beginnen","wird regnen","werden besuchen"]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | Ich ______________ (kaufe / werde kaufen) morgen ein Brot. (الأكثر شيوعاً في المحادثة) | |
+| 2 | Er ______________ (kommt / wird kommen) bestimmt heute. (توقع قوي) | |
+| 3 | Nächstes Jahr ______________ (beginne ich / werde ich beginnen) mein Studium. (نية مؤكدة) | |
+| 4 | Es ______________ (regnet / wird regnen) morden. (توقع الطقس) | |
+| 5 | Wir ______________ (besuchen / werden besuchen) dich am Samstag. (وعد) | |
+</div>
 
 ---
 

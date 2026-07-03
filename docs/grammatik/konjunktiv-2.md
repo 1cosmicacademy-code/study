@@ -79,72 +79,52 @@
 
 ## 📝 تمارين
 
-### تمرين 1: اختر الشكل الصحيح
-1. Ich ___ (wäre / hätte / würde) gern in Berlin.
-2. Wenn ich Geld ___ (hätte / wäre / würde), kaufte ich ein Auto.
-3. ___ (Könntest / Müsstest / Würdest) du mir bitte helfen?
-4. Das ___ (wäre / hätte / würde) eine gute Idee!
-5. Wir ___ (hätten / wären / würden) gern mehr Zeit.
-
-### تمرين 2: أكمل بـ wäre, hätte, أو würde
-1. Ich ___ gern einen Hund.
-2. Du ___ nicht so müde, wenn du früher schlafen würdest.
-3. Er ___ gern Arzt.
-4. Wir ___ gern ins Kino gehen.
-5. ___ ihr Zeit für mich?
-
-### تمرين 3: حول الجملة لـ würde + Infinitiv
-1. Ich lerne Deutsch. (würde) → Ich ___ gern Deutsch ___.
-2. Sie kauft ein Haus. (würde) → Sie ___ gern ein Haus ___.
-3. Wir essen Pizza. (würden) → Wir ___ gern Pizza ___.
-4. Er reist nach Ägypten. (würde) → Er ___ gern nach Ägypten ___.
-5. Ihr trinkt Kaffee. (würdet) → Ihr ___ gern Kaffee ___.
-
-### تمرين 4: أكمل الجملة الشرطية
-إذا المطلوب (إذا ... لكن مش حقيقي):
-1. Wenn ich Zeit ___, ___ ich Sport machen. (haben / würde)
-2. Wenn du Deutsch ___ (können), ___ du in Deutschland arbeiten. (können / können)
-3. Wenn wir ein Auto ___ (haben), ___ wir reisen. (würden)
-4. Wenn er reich ___ (sein), ___ er ein Schloss kaufen. (würde)
-5. Wenn ihr früher ___ (kommen), ___ ihr den Film sehen. (würdet / können)
-
-### تمرين 5: ترجم للعربية (أو اشرح المعنى)
-1. Ich wäre gern bei dir.
-2. Könntest du mir bitte das Salz geben?
-3. Das wäre fantastisch!
-4. Wenn ich Zeit hätte, würde ich ein Buch lesen.
-5. Würdest du morgen mitkommen?
-
+<div class="exercise" markdown="1" data-answers='["**wäre**","**hätte**","**Könntest**","**wäre**","**hätten**"]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | Ich ___ (wäre / hätte / würde) gern in Berlin. | |
+| 2 | Wenn ich Geld ___ (hätte / wäre / würde), kaufte ich ein Auto. | |
+| 3 | ___ (Könntest / Müsstest / Würdest) du mir bitte helfen? | |
+| 4 | Das ___ (wäre / hätte / würde) eine gute Idee! | |
+| 5 | Wir ___ (hätten / wären / würden) gern mehr Zeit. | |
+</div>
+<div class="exercise" markdown="1" data-answers='["**hätte**","**wärst**","**wäre**","**würden**","**Hättet**"]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | Ich ___ gern einen Hund. | |
+| 2 | Du ___ nicht so müde, wenn du früher schlafen würdest. | |
+| 3 | Er ___ gern Arzt. | |
+| 4 | Wir ___ gern ins Kino gehen. | |
+| 5 | ___ ihr Zeit für mich? | |
+</div>
+<div class="exercise" markdown="1" data-answers='["Ihr **würdet** gern Kaffee **trinken**."]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | Ich lerne Deutsch. (würde) → Ich ___ gern Deutsch ___. | |
+| 2 | Sie kauft ein Haus. (würde) → Sie ___ gern ein Haus ___. | |
+| 3 | Wir essen Pizza. (würden) → Wir ___ gern Pizza ___. | |
+| 4 | Er reist nach Ägypten. (würde) → Er ___ gern nach Ägypten ___. | |
+| 5 | Ihr trinkt Kaffee. (würdet) → Ihr ___ gern Kaffee ___. | |
+</div>
+<div class="exercise" markdown="1" data-answers='["Wenn ihr früher **kämet** (kommen würdet)","**könntet** ihr den Film sehen."]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | Wenn ich Zeit ___, ___ ich Sport machen. (haben / würde) | |
+| 2 | Wenn du Deutsch ___ (können), ___ du in Deutschland arbeiten. (können / können) | |
+| 3 | Wenn wir ein Auto ___ (haben), ___ wir reisen. (würden) | |
+| 4 | Wenn er reich ___ (sein), ___ er ein Schloss kaufen. (würde) | |
+| 5 | Wenn ihr früher ___ (kommen), ___ ihr den Film sehen. (würdet / können) | |
+</div>
+<div class="exercise" markdown="1" data-answers='["هل سترافقني غداً؟"]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | Ich wäre gern bei dir. | |
+| 2 | Könntest du mir bitte das Salz geben? | |
+| 3 | Das wäre fantastisch! | |
+| 4 | Wenn ich Zeit hätte, würde ich ein Buch lesen. | |
+| 5 | Würdest du morgen mitkommen? | |
+</div>
 ---
-
-## ✅ الحلول
-
-### حل تمرين 1
-1. **wäre** | 2. **hätte** | 3. **Könntest** | 4. **wäre** | 5. **hätten**
-
-### حل تمرين 2
-1. **hätte** | 2. **wärst** | 3. **wäre** | 4. **würden** | 5. **Hättet**
-
-### حل تمرين 3
-1. Ich **würde** gern Deutsch **lernen**.
-2. Sie **würde** gern ein Haus **kaufen**.
-3. Wir **würden** gern Pizza **essen**.
-4. Er **würde** gern nach Ägypten **reisen**.
-5. Ihr **würdet** gern Kaffee **trinken**.
-
-### حل تمرين 4
-1. Wenn ich Zeit **hätte**, **würde** ich Sport machen.
-2. Wenn du Deutsch **könntest**, **könntest** du in Deutschland arbeiten.
-3. Wenn wir ein Auto **hätten**, **würden** wir reisen.
-4. Wenn er reich **wäre**, **würde** er ein Schloss kaufen.
-5. Wenn ihr früher **kämet** (kommen würdet), **könntet** ihr den Film sehen.
-
-### حل تمرين 5
-1. تمنيت لو كنت عندك.
-2. هل يمكنك إعطائي الملح من فضلك؟
-3. سيكون ذلك رائعاً!
-4. لو كان عندي وقت، لكنت قرأت كتاباً.
-5. هل سترافقني غداً؟
 
 ---
 

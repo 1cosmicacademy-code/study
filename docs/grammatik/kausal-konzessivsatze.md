@@ -200,126 +200,40 @@ Es regnet,        trotzdem   gehen  wir spazieren.
 
 ## 5. 📝 تمارين
 
-### تمرين 1: اختر الأداة الصحيحة 🎯
-
-**اختر: weil, da, deshalb, obwohl, trotzdem**
-
-1. Ich bleibe zu Hause, ______________ es regnet.
-2. ______________ es regnet, bleibe ich zu Hause.
-3. Es regnet, ______________ gehe ich spazieren.
-4. ______________ ich müde bin, lerne ich weiter.
-5. Ich bin müde, ______________ gehe ich ins Bett.
-
-✅ **الحل:**
-
-1. **weil** (Nebensatz — فعل في الآخر: regnet)
-2. **Da** (رسمي — في بداية الجملة)
-3. **trotzdem** (Hauptsatz — فعل في الموضع الثاني: gehe)
-4. **Obwohl** (Nebensatz — فعل في الآخر: bin)
-5. **deshalb** (Hauptsatz — فعل في الموضع الثاني: gehe)
-
----
-
-### تمرين 2: حول من weil إلى deshalb ↔️
-
-**حول الجملة من weil إلى deshalb (غيّر ترتيب الكلمات):**
-
-1. Ich bin müde, weil ich viel gearbeitet habe.
-   → Ich habe viel gearbeitet, ___________________________________
-
-2. Er kommt nicht, weil er krank ist.
-   → Er ist krank, ___________________________________
-
-3. Wir bleiben zu Hause, weil es regnet.
-   → Es regnet, ___________________________________
-
-✅ **الحل:**
-
-1. Ich habe viel gearbeitet, **deshalb bin ich müde.**
-2. Er ist krank, **deshalb kommt er nicht.**
-3. Es regnet, **deshalb bleiben wir zu Hause.**
-
----
-
-### تمرين 3: حول من obwohl إلى trotzdem ↔️
-
-**حول الجملة من obwohl إلى trotzdem:**
-
-1. Obwohl es regnet, gehen wir spazieren.
-   → Es regnet, ___________________________________
-
-2. Obwohl er krank ist, kommt er zur Arbeit.
-   → Er ist krank, ___________________________________
-
-3. Obwohl ich wenig Zeit habe, helfe ich dir.
-   → Ich habe wenig Zeit, ___________________________________
-
-✅ **الحل:**
-
-1. Es regnet, **trotzdem gehen wir spazieren.**
-2. Er ist krank, **trotzdem kommt er zur Arbeit.**
-3. Ich habe wenig Zeit, **trotzdem helfe ich dir.**
-
----
-
-### تمرين 4: اربط الجملتين باستخدام الأداة المناسبة 🔗
-
-1. Ich bin müde. Ich habe viel gearbeitet. (weil)
-   → ___________________________________
-
-2. Ich habe viel gearbeitet. Ich bin müde. (deshalb)
-   → ___________________________________
-
-3. Es regnet. Wir gehen spazieren. (obwohl)
-   → ___________________________________
-
-4. Ich habe keine Zeit. Ich kann nicht kommen. (da)
-   → ___________________________________
-
-5. Er ist krank. Er geht zum Arzt. (weil)
-   → ___________________________________
-
-✅ **الحل:**
-
-1. **Ich bin müde, weil ich viel gearbeitet habe.**
-2. **Ich habe viel gearbeitet, deshalb bin ich müde.**
-3. **Obwohl es regnet, gehen wir spazieren.**
-4. **Da ich keine Zeit habe, kann ich nicht kommen.**
-5. **Er geht zum Arzt, weil er krank ist.**
-
----
-
-### تمرين 5: صح أم خطأ؟ ❌✅
-
-| # | الجملة | صح/خطأ |
-|---|--------|:-------:|
-| 1 | بعد "weil"، الفعل يروح في الموضع الثاني. | |
-| 2 | بعد "deshalb"، الفعل يروح في الموضع الثاني مباشرة. | |
-| 3 | "da" أكثر رسمية من "weil". | |
-| 4 | "obwohl" و "trotzdem" لهما نفس ترتيب الكلمات. | |
-| 5 | "nämlich" يستخدم لتوضيح السبب بعد ذكر النتيجة. | |
-
-✅ **الحل:**
-
-1. **❌** خطأ! مع weil، الفعل يروح **آخر الجملة** (Nebensatz).
-2. **✅** صحيح! deshalb + Verb Position 2 (Hauptsatz).
-3. **✅** صحيح! da = رسمي / weil = يومي.
-4. **❌** خطأ! obwohl = Nebensatz (فعل في الآخر)، trotzdem = Hauptsatz (فعل في الموضع الثاني).
-5. **✅** صحيح! nämlich يوضح السبب بعد النتيجة.
-
----
-
-## 💡 خلاصة
-
-| للتعبير عن | استخدم | النوع | الفعل |
-|:----------:|:------:|:-----:|:-----:|
-| **السبب** | **weil** | Nebensatz | آخر الجملة |
-| | **da** | Nebensatz | آخر الجملة (رسمي) |
-| | **deshalb** | Hauptsatz | الموضع الثاني |
-| | **nämlich** | Hauptsatz | بعد الفعل (توضيح) |
-| **المنع/التضاد** | **obwohl** | Nebensatz | آخر الجملة |
-| | **trotzdem** | Hauptsatz | الموضع الثاني |
-
-> 🎯 **القاعدة الذهبية:** أدوات الـ **Nebensatz** (weil, da, obwohl) ترسل الفعل لآخر الجملة. أدوات الـ **Hauptsatz** (deshalb, trotzdem) تمسك الفعل في الموضع الثاني!
-
-[🔙 العودة إلى القواعد](index.md)
+<div class="exercise" markdown="1" data-answers='["weil","Da","trotzdem","Obwohl","deshalb"]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | Ich bleibe zu Hause, ______________ es regnet. | |
+| 2 | ______________ es regnet, bleibe ich zu Hause. | |
+| 3 | Es regnet, ______________ gehe ich spazieren. | |
+| 4 | ______________ ich müde bin, lerne ich weiter. | |
+| 5 | Ich bin müde, ______________ gehe ich ins Bett. | |
+</div><div class="exercise" markdown="1" data-answers='["deshalb bin ich müde.","deshalb kommt er nicht.","deshalb bleiben wir zu Hause."]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | Ich bin müde, weil ich viel gearbeitet habe. | |
+| 2 | Er kommt nicht, weil er krank ist. | |
+| 3 | Wir bleiben zu Hause, weil es regnet. | |
+</div><div class="exercise" markdown="1" data-answers='["trotzdem gehen wir spazieren.","trotzdem kommt er zur Arbeit.","trotzdem helfe ich dir."]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | Obwohl es regnet, gehen wir spazieren. | |
+| 2 | Obwohl er krank ist, kommt er zur Arbeit. | |
+| 3 | Obwohl ich wenig Zeit habe, helfe ich dir. | |
+</div><div class="exercise" markdown="1" data-answers='["Ich bin müde","weil ich viel gearbeitet habe.","Ich habe viel gearbeitet","deshalb bin ich müde.","Obwohl es regnet","gehen wir spazieren.","Da ich keine Zeit habe","kann ich nicht kommen.","Er geht zum Arzt","weil er krank ist."]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | Ich bin müde. Ich habe viel gearbeitet. (weil) | |
+| 2 | Ich habe viel gearbeitet. Ich bin müde. (deshalb) | |
+| 3 | Es regnet. Wir gehen spazieren. (obwohl) | |
+| 4 | Ich habe keine Zeit. Ich kann nicht kommen. (da) | |
+| 5 | Er ist krank. Er geht zum Arzt. (weil) | |
+</div><div class="exercise" markdown="1" data-answers='["❌","✅","✅","❌","✅"]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 |  | |
+| 2 |  | |
+| 3 |  | |
+| 4 |  | |
+| 5 |  | |
+</div>

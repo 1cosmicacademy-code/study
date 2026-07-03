@@ -64,28 +64,22 @@ In subordinate clauses: prefix stays attached (verb goes to the end)
 
 ## 📝 Exercises
 
-### Exercise 1: Conjugate the separable verb
-
-1. Ich ___ (aufstehen) at 7.
-2. Du ___ (einkaufen) at the supermarket.
-3. Er ___ (anfangen) with work.
-4. Wir ___ (mitkommen) to the cinema.
-5. Ihr ___ (fernsehen) in the evening.
-
-### Exercise 2: Put the prefix in the right place
-
-1. Ich stehe um 6 Uhr (auf).
-2. The train departs at 9 — Der Zug fährt um 9 Uhr (ab).
-3. Close the door! — Mach die Tür (zu)!
-4. I shop at the store — Ich kaufe im Laden (ein).
-5. Are you coming along? — Kommst du (mit)?
-
-## ✅ Solutions
-
-### Solution Exercise 1
-1. stehe ... auf | 2. kaufst ... ein | 3. fängt ... an | 4. kommen ... mit | 5. seht ... fern
-
-### Solution Exercise 2
-1. auf | 2. ab | 3. zu | 4. ein | 5. mit
-
+<div class="exercise" markdown="1" data-answers='["stehe ... auf","kaufst ... ein","fängt ... an","kommen ... mit","seht ... fern"]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | Ich ___ (aufstehen) at 7. | |
+| 2 | Du ___ (einkaufen) at the supermarket. | |
+| 3 | Er ___ (anfangen) with work. | |
+| 4 | Wir ___ (mitkommen) to the cinema. | |
+| 5 | Ihr ___ (fernsehen) in the evening. | |
+</div>
+<div class="exercise" markdown="1" data-answers='["auf","ab","zu","ein","mit"]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | Ich stehe um 6 Uhr (auf). | |
+| 2 | The train departs at 9 — Der Zug fährt um 9 Uhr (ab). | |
+| 3 | Close the door! — Mach die Tür (zu)! | |
+| 4 | I shop at the store — Ich kaufe im Laden (ein). | |
+| 5 | Are you coming along? — Kommst du (mit)? | |
+</div>
 ---

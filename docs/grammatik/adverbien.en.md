@@ -135,91 +135,55 @@ The adverb can be:
 
 ## 📝 Exercises
 
-### Exercise 1: Classify the adverb (Temporal = T, Local = L, Modal = M)
-
-1. heute → _______
-2. hier → _______
-3. gern → _______
-4. morgen → _______
-5. leider → _______
-6. dort → _______
-7. oft → _______
-8. rechts → _______
-
-### Exercise 2: Choose the correct adverb from the brackets
-
-1. Ich komme (morgen / gestern) zu dir, nicht heute. (tomorrow)
-2. (Hier / Leider) kann ich nicht kommen. (Unfortunately)
-3. Das Kind spielt (draußen / spät) im Garten. (outside)
-4. Ich lese (oft / gern) Bücher, jeden Tag. (often)
-5. (Vielleicht / Gestern) war ich krank. (Yesterday)
-
-### Exercise 3: Arrange the words to form a correct sentence (pay attention to adverb order 🔀)
-
-1. heute / Ich / in die Schule / gehe
-   → ___________________________________
-
-2. morgen / Er / mit dem Auto / nach Berlin / fährt
-   → ___________________________________
-
-3. gestern / im Park / Sie / mit Freunden / war
-   → ___________________________________
-
-4. immer / pünktlich / Er / kommt
-   → ___________________________________
-
-5. leider / keine Zeit / Ich / habe / heute
-   → ___________________________________
-
-### Exercise 4: Complete with a suitable adverb from the box
-
-(hier — oft — leider — sehr — selten — nie — natürlich — vielleicht)
-
-1. Ich esse _______ Fleisch. (rarely)
-2. _______ ist mein Bruder krank. (Unfortunately)
-3. Das Buch ist _______, auf dem Tisch. (here)
-4. Ich habe dich _______, mein Schatz. (very much)
-5. _______ komme ich morgen. (Maybe)
-
-### Exercise 5: Translate into German
-
-1. Today I go to work on foot.
-   → ___________________________________
-2. Unfortunately, I have no time tomorrow.
-   → ___________________________________
-3. I like eating pizza very much.
-   → ___________________________________
-4. Where is he? — He is over there, on the right.
-   → ___________________________________
-5. We often go to the cinema on Friday.
-   → ___________________________________
-
+<div class="exercise" markdown="1" data-answers='["T","L","M","T","M","L","T","L"]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | heute → _______ | |
+| 2 | hier → _______ | |
+| 3 | gern → _______ | |
+| 4 | morgen → _______ | |
+| 5 | leider → _______ | |
+| 6 | dort → _______ | |
+| 7 | oft → _______ | |
+| 8 | rechts → _______ | |
+</div>
+<div class="exercise" markdown="1" data-answers='["morgen","Leider","draußen","oft","Gestern"]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | Ich komme (morgen / gestern) zu dir, nicht heute. (tomorrow) | |
+| 2 | (Hier / Leider) kann ich nicht kommen. (Unfortunately) | |
+| 3 | Das Kind spielt (draußen / spät) im Garten. (outside) | |
+| 4 | Ich lese (oft / gern) Bücher, jeden Tag. (often) | |
+| 5 | (Vielleicht / Gestern) war ich krank. (Yesterday) | |
+</div>
+<div class="exercise" markdown="1" data-answers='["Ich habe heute leider keine Zeit."]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | heute / Ich / in die Schule / gehe | |
+| 2 | morgen / Er / mit dem Auto / nach Berlin / fährt | |
+| 3 | gestern / im Park / Sie / mit Freunden / war | |
+| 4 | immer / pünktlich / Er / kommt | |
+| 5 | leider / keine Zeit / Ich / habe / heute | |
+</div>
+<div class="exercise" markdown="1" data-answers='["selten","Leider","hier","sehr / viel","Vielleicht"]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | Ich esse _______ Fleisch. (rarely) | |
+| 2 | _______ ist mein Bruder krank. (Unfortunately) | |
+| 3 | Das Buch ist _______, auf dem Tisch. (here) | |
+| 4 | Ich habe dich _______, mein Schatz. (very much) | |
+| 5 | _______ komme ich morgen. (Maybe) | |
+</div>
+<div class="exercise" markdown="1" data-answers='["Wir gehen oft am Freitag ins Kino."]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | Today I go to work on foot. | |
+| 2 | Unfortunately, I have no time tomorrow. | |
+| 3 | I like eating pizza very much. | |
+| 4 | Where is he? — He is over there, on the right. | |
+| 5 | We often go to the cinema on Friday. | |
+</div>
 ---
-
-## ✅ Solutions
-
-### Solution Exercise 1
-1. T | 2. L | 3. M | 4. T | 5. M | 6. L | 7. T | 8. L
-
-### Solution Exercise 2
-1. morgen | 2. Leider | 3. draußen | 4. oft | 5. Gestern
-
-### Solution Exercise 3
-1. Ich gehe heute in die Schule.
-2. Er fährt morgen mit dem Auto nach Berlin.
-3. Sie war gestern mit Freunden im Park.
-4. Er kommt immer pünktlich.
-5. Ich habe heute leider keine Zeit.
-
-### Solution Exercise 4
-1. selten | 2. Leider | 3. hier | 4. sehr / viel | 5. Vielleicht
-
-### Solution Exercise 5
-1. Heute gehe ich zu Fuß zur Arbeit.
-2. Leider habe ich morgen keine Zeit.
-3. Ich esse sehr gern Pizza.
-4. Wo ist er? — Er ist da drüben, rechts.
-5. Wir gehen oft am Freitag ins Kino.
 
 ---
 

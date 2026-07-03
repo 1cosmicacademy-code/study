@@ -143,26 +143,19 @@
 
 **اكمل الحوار بين سارة وأحمد:**
 
-> **Ahmed:** Hallo Sarah! Wie geht es ______________?
-> *(مرحباً سارة! كيف حالك؟)*
->
-> **Sarah:** Hallo Ahmed! Mir geht es ______________, danke. Und ______________?
-> *(مرحباً أحمد! أنا بخير، شكراً. وأنت؟)*
->
-> **Ahmed:** Auch gut. Sag mal, ______________ machst du beruflich?
-> *(أيضاً بخير. قل لي، وش تشتغلين؟)*
->
-> **Sarah:** Ich ______________ Studentin. Ich studiere an der Universität. ______________ du?
-> *(أنا طالبة. أدرس في الجامعة. وأنت؟)*
->
-> **Ahmed:** Ich ______________ Verkäufer. Ich ______________ im Supermarkt.
-> *(أنا بايع. أشتغل في السوبرماركت.)*
->
-> **Sarah:** ______________ du gern?
-> *(تحب شغلك؟)*
->
-> **Ahmed:** Ja, ich arbeite sehr ______________. Die Arbeit ist interessant.
-> *(أيوه، أحب أشتغل كثيراً. الشغل مثير للاهتمام.)*
+<div class="exercise" markdown="1" data-answers='["dir","gut","dir","was","bin","Und","bin","arbeite","Arbeitest","gern"]'>
+
+| المتحدث | النص | الإجابة |
+|---------|------|---------|
+| Ahmed | Hallo Sarah! Wie geht es ______________? *(مرحباً سارة! كيف حالك؟)* | |
+| Sarah | Hallo Ahmed! Mir geht es ______________, danke. Und ______________? *(مرحباً أحمد! أنا بخير، شكراً. وأنت؟)* | |
+| Ahmed | Auch gut. Sag mal, ______________ machst du beruflich? *(أيضاً بخير. قل لي، وش تشتغلين؟)* | |
+| Sarah | Ich ______________ Studentin. Ich studiere an der Universität. ______________ du? *(أنا طالبة. أدرس في الجامعة. وأنت؟)* | |
+| Ahmed | Ich ______________ Verkäufer. Ich ______________ im Supermarkt. *(أنا بايع. أشتغل في السوبرماركت.)* | |
+| Sarah | ______________ du gern? *(تحب شغلك؟)* | |
+| Ahmed | Ja, ich arbeite sehr ______________. Die Arbeit ist interessant. *(أيوه، أحب أشتغل كثيراً. الشغل مثير للاهتمام.)* | |
+
+</div>
 
 
 ## التمرين 9: اكتب عكس الجملة 🔄

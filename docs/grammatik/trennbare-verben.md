@@ -64,28 +64,22 @@ Ich anrufe dich. ✗ (خطأ!)
 
 ## 📝 تمارين
 
-### تمرين 1: صرف الفعل المنفصل
-
-1. Ich ___ (aufstehen) um 7 Uhr.
-2. Du ___ (einkaufen) im Supermarkt.
-3. Er ___ (anfangen) mit der Arbeit.
-4. Wir ___ (mitkommen) ins Kino.
-5. Ihr ___ (fernsehen) am Abend.
-
-### تمرين 2: ضع البادئة في المكان الصحيح
-
-1. Ich stehe um 6 Uhr (auf).
-2. Der Zug fährt um 9 Uhr (ab).
-3. Mach die Tür (zu)!
-4. Ich kaufe im Laden (ein).
-5. Kommst du (mit)?
-
-## ✅ الحلول
-
-### حل تمرين 1
-1. stehe ... auf | 2. kaufst ... ein | 3. fängt ... an | 4. kommen ... mit | 5. seht ... fern
-
-### حل تمرين 2
-1. auf | 2. ab | 3. zu | 4. ein | 5. mit
-
+<div class="exercise" markdown="1" data-answers='["stehe ... auf","kaufst ... ein","fängt ... an","kommen ... mit","seht ... fern"]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | Ich ___ (aufstehen) um 7 Uhr. | |
+| 2 | Du ___ (einkaufen) im Supermarkt. | |
+| 3 | Er ___ (anfangen) mit der Arbeit. | |
+| 4 | Wir ___ (mitkommen) ins Kino. | |
+| 5 | Ihr ___ (fernsehen) am Abend. | |
+</div>
+<div class="exercise" markdown="1" data-answers='["auf","ab","zu","ein","mit"]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | Ich stehe um 6 Uhr (auf). | |
+| 2 | Der Zug fährt um 9 Uhr (ab). | |
+| 3 | Mach die Tür (zu)! | |
+| 4 | Ich kaufe im Laden (ein). | |
+| 5 | Kommst du (mit)? | |
+</div>
 ---

@@ -92,71 +92,43 @@ Indirect question: Er fragt, ob ich Zeit habe.
 
 ## 📝 Exercises
 
-### Exercise 1: Change the direct question into an indirect question
-
-1. Wo wohnt er? → Ich weiß nicht, ______________.
-2. Wann kommt der Bus? → Kannst du mir sagen, ______________?
-3. Was machst du? → Er fragt, ______________.
-4. Wie viel kostet das? → Ich möchte wissen, ______________.
-5. Warum lernst du Deutsch? → Er will wissen, ______________.
-
-### Exercise 2: Use ob for Yes/No questions
-
-1. Kommt er heute? → Ich frage mich, ______________.
-2. Hast du Zeit? → Er fragt, ______________.
-3. Ist der Zug pünktlich? → Weißt du, ______________?
-4. Magst du Kaffee? → Er möchte wissen, ______________.
-5. Kann sie gut kochen? → Ich frage mich, ______________.
-
-### Exercise 3: Complete with the correct word (wo, wann, was, wie, warum, ob)
-
-1. Ich weiß nicht, _______ er wohnt. (where)
-2. Kannst du mir sagen, _______ der Film anfängt? (when)
-3. Er fragt, _______ wir morgen machen. (what)
-4. Ich habe keine Ahnung, _______ er nicht kommt. (why)
-5. Ich möchte wissen, _______ das funktioniert. (how)
-6. Sie fragt, _______ ich heute Abend Zeit habe. (if/whether)
-
-### Exercise 4: Arrange the words to form an indirect question 🔀
-
-1. wo / Ich / er / weiß / wohnt / nicht
-   → ___________________________________
-
-2. ob / mich / kommt / er / Ich / frage / heute
-   → ___________________________________
-
-3. mir / wann / Sie / Können / der Zug / sagen / kommt
-   → ___________________________________
-
-4. will / warum / Er / du / Deutsch / wissen / lernst
-   → ___________________________________
-
+<div class="exercise" markdown="1" data-answers='["Er will wissen","warum du Deutsch lernst."]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | Wo wohnt er? → Ich weiß nicht, ______________. | |
+| 2 | Wann kommt der Bus? → Kannst du mir sagen, ______________? | |
+| 3 | Was machst du? → Er fragt, ______________. | |
+| 4 | Wie viel kostet das? → Ich möchte wissen, ______________. | |
+| 5 | Warum lernst du Deutsch? → Er will wissen, ______________. | |
+</div>
+<div class="exercise" markdown="1" data-answers='["Ich frage mich","ob sie gut kochen kann."]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | Kommt er heute? → Ich frage mich, ______________. | |
+| 2 | Hast du Zeit? → Er fragt, ______________. | |
+| 3 | Ist der Zug pünktlich? → Weißt du, ______________? | |
+| 4 | Magst du Kaffee? → Er möchte wissen, ______________. | |
+| 5 | Kann sie gut kochen? → Ich frage mich, ______________. | |
+</div>
+<div class="exercise" markdown="1" data-answers='["wo","wann","was","warum","wie","ob"]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | Ich weiß nicht, _______ er wohnt. (where) | |
+| 2 | Kannst du mir sagen, _______ der Film anfängt? (when) | |
+| 3 | Er fragt, _______ wir morgen machen. (what) | |
+| 4 | Ich habe keine Ahnung, _______ er nicht kommt. (why) | |
+| 5 | Ich möchte wissen, _______ das funktioniert. (how) | |
+| 6 | Sie fragt, _______ ich heute Abend Zeit habe. (if/whether) | |
+</div>
+<div class="exercise" markdown="1" data-answers='["Er will wissen","warum du Deutsch lernst."]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | wo / Ich / er / weiß / wohnt / nicht | |
+| 2 | ob / mich / kommt / er / Ich / frage / heute | |
+| 3 | mir / wann / Sie / Können / der Zug / sagen / kommt | |
+| 4 | will / warum / Er / du / Deutsch / wissen / lernst | |
+</div>
 ---
-
-## ✅ Solutions
-
-### Solution Exercise 1
-1. Ich weiß nicht, wo er wohnt.
-2. Kannst du mir sagen, wann der Bus kommt?
-3. Er fragt, was du machst.
-4. Ich möchte wissen, wie viel das kostet.
-5. Er will wissen, warum du Deutsch lernst.
-
-### Solution Exercise 2
-1. Ich frage mich, ob er heute kommt.
-2. Er fragt, ob du Zeit hast.
-3. Weißt du, ob der Zug pünktlich ist?
-4. Er möchte wissen, ob du Kaffee magst.
-5. Ich frage mich, ob sie gut kochen kann.
-
-### Solution Exercise 3
-1. wo | 2. wann | 3. was | 4. warum | 5. wie | 6. ob
-
-### Solution Exercise 4
-1. Ich weiß nicht, wo er wohnt.
-2. Ich frage mich, ob er heute kommt.
-3. Können Sie mir sagen, wann der Zug kommt?
-4. Er will wissen, warum du Deutsch lernst.
 
 ---
 

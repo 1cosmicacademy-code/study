@@ -72,40 +72,32 @@ haben: habe, hast, hat, haben, habt, haben
 
 ## 📝 Exercises
 
-### Exercise 1: Conjugate the verb
-
-1. Ich ___ (wohnen) in Berlin.
-2. Du ___ (lernen) German.
-3. Er ___ (kommen) from Syria.
-4. Wir ___ (arbeiten) here.
-5. Ihr ___ (spielen) football.
-6. Sie (plural) ___ (tanzen) happily.
-
-### Exercise 2: sein or haben?
-
-1. Ich ___ 25 years old.
-2. Du ___ a dog.
-3. Er ___ a teacher.
-4. Wir ___ hungry.
-5. Ihr ___ hardworking.
-
-### Exercise 3: Complete the sentence
-
-1. Er ___ (fahren) to Munich.
-2. Du ___ (sehen) the film.
-3. Sie (she) ___ (lesen) a book.
-4. Wir ___ (essen) pizza.
-5. Ich ___ (nehmen) the bus.
-
-## ✅ Solutions
-
-### Solution Exercise 1
-1. wohne | 2. lernst | 3. kommt | 4. arbeiten | 5. spielt | 6. tanzen
-
-### Solution Exercise 2
-1. bin | 2. hast | 3. ist | 4. haben | 5. seid
-
-### Solution Exercise 3
-1. fährt | 2. siehst | 3. liest | 4. essen | 5. nehme
-
+<div class="exercise" markdown="1" data-answers='["wohne","lernst","kommt","arbeiten","spielt","tanzen"]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | Ich ___ (wohnen) in Berlin. | |
+| 2 | Du ___ (lernen) German. | |
+| 3 | Er ___ (kommen) from Syria. | |
+| 4 | Wir ___ (arbeiten) here. | |
+| 5 | Ihr ___ (spielen) football. | |
+| 6 | Sie (plural) ___ (tanzen) happily. | |
+</div>
+<div class="exercise" markdown="1" data-answers='["bin","hast","ist","haben","seid"]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | Ich ___ 25 years old. | |
+| 2 | Du ___ a dog. | |
+| 3 | Er ___ a teacher. | |
+| 4 | Wir ___ hungry. | |
+| 5 | Ihr ___ hardworking. | |
+</div>
+<div class="exercise" markdown="1" data-answers='["fährt","siehst","liest","essen","nehme"]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | Er ___ (fahren) to Munich. | |
+| 2 | Du ___ (sehen) the film. | |
+| 3 | Sie (she) ___ (lesen) a book. | |
+| 4 | Wir ___ (essen) pizza. | |
+| 5 | Ich ___ (nehmen) the bus. | |
+</div>
 ---

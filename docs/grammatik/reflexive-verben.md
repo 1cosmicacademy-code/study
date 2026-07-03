@@ -115,72 +115,44 @@ Sie zieht das Kind an. (غير انعكاسي — هي تلبس الطفل)
 
 ## 📝 تمارين
 
-### تمرين 1: أكمل بالضمير الانعكاسي الصحيح (Akkusativ)
-
-1. Ich wasche _______ jeden Morgen.
-2. Du freust _______ auf die Ferien.
-3. Er setzt _______ auf das Sofa.
-4. Wir beeilen _______ , der Film beginnt gleich.
-5. Ihr müsst _______ ausziehen, es ist heiß hier.
-6. Die Kinder waschen _______ vor dem Essen.
-
-### تمرين 2: اختر الضمير الصحيح (Akkusativ أو Dativ)
-
-1. Ich wasche (mich / mir) die Haare.
-2. Sie zieht (sich / ihr) die Jacke an.
-3. Er wäscht (sich / ihm) das Gesicht.
-4. Wir kämmen (uns / uns) vor dem Spiegel.
-5. Ihr trocknet (euch / euch) die Hände ab.
-
-### تمرين 3: أكمل الجملة بالفعل الانعكاسي الصحيح
-
-اختر من: (sich freuen — sich setzen — sich anziehen — sich beeilen — sich ausruhen)
-
-1. Ich _______ auf das Wochenende.
-2. Die Mutter _______ das Baby.
-3. Wir _______ , sonst kommen wir zu spät.
-4. Nach der Arbeit _______ er _______ auf dem Sofa.
-5. Bitte _______ Sie _______!
-
-### تمرين 4: ترجم إلى الألمانية
-
-1. أنا أغسل يدي.
-   → ___________________________________
-2. هل تذكرتني؟
-   → ___________________________________
-3. نحن نستعجل.
-   → ___________________________________
-4. أين يقع المتحف؟
-   → ___________________________________
-5. هي تهتم بالرياضة.
-   → ___________________________________
-
+<div class="exercise" markdown="1" data-answers='["mich","dich","sich","uns","euch","sich"]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | Ich wasche _______ jeden Morgen. | |
+| 2 | Du freust _______ auf die Ferien. | |
+| 3 | Er setzt _______ auf das Sofa. | |
+| 4 | Wir beeilen _______ , der Film beginnt gleich. | |
+| 5 | Ihr müsst _______ ausziehen, es ist heiß hier. | |
+| 6 | Die Kinder waschen _______ vor dem Essen. | |
+</div>
+<div class="exercise" markdown="1" data-answers='["mir","sich","sich","uns","euch"]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | Ich wasche (mich / mir) die Haare. | |
+| 2 | Sie zieht (sich / ihr) die Jacke an. | |
+| 3 | Er wäscht (sich / ihm) das Gesicht. | |
+| 4 | Wir kämmen (uns / uns) vor dem Spiegel. | |
+| 5 | Ihr trocknet (euch / euch) die Hände ab. | |
+</div>
+<div class="exercise" markdown="1" data-answers='["freue mich","zieht sich an / zieht das Baby an","beeilen uns","ruht sich ... aus","setzen Sie sich"]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | Ich _______ auf das Wochenende. | |
+| 2 | Die Mutter _______ das Baby. | |
+| 3 | Wir _______ , sonst kommen wir zu spät. | |
+| 4 | Nach der Arbeit _______ er _______ auf dem Sofa. | |
+| 5 | Bitte _______ Sie _______! | |
+</div>
+<div class="exercise" markdown="1" data-answers='["wasche mir die Hände","Erinnern Sie sich an mich","beeilen uns","befindet sich das Museum","interessiert sich für Sport"]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | أنا أغسل يدي. | |
+| 2 | هل تذكرتني؟ | |
+| 3 | نحن نستعجل. | |
+| 4 | أين يقع المتحف؟ | |
+| 5 | هي تهتم بالرياضة. | |
+</div>
 ---
-
-## ✅ الحلول
-
-### حل تمرين 1
-1. mich | 2. dich | 3. sich | 4. uns | 5. euch | 6. sich
-
-### حل تمرين 2
-1. mir (Dativ — لأن "die Haare" هي المفعول به) |
-2. sich (Akkusativ — لأن "die Jacke" هي المفعول به) |
-   ملاحظة: في A2 نقول "sich anziehen" بدون مفعول به إضافي: Sie zieht sich an.
-   لكن "Sie zieht sich die Jacke an" ممكن مع Dativ.
-3. sich (Dativ — لأن "das Gesicht" هو المفعول به) |
-   Actually: Er wäscht sich das Gesicht. (sich = Dativ, das Gesicht = Akkusativ)
-4. uns (Akkusativ — لا مفعول به إضافي) |
-5. euch (Dativ — لأن "die Hände" هي المفعول به)
-
-### حل تمرين 3
-1. freue mich | 2. zieht sich an / zieht das Baby an | 3. beeilen uns | 4. ruht sich ... aus | 5. setzen Sie sich
-
-### حل تمرين 4
-1. Ich wasche mir die Hände.
-2. Erinnern Sie sich an mich?
-3. Wir beeilen uns.
-4. Wo befindet sich das Museum?
-5. Sie interessiert sich für Sport.
 
 ---
 

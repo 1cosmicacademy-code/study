@@ -65,39 +65,31 @@ Sie → حضرتك (رسمي — بحرف كبير!)
 
 ## 📝 تمارين
 
-### تمرين 1: أكمل بالضمير الصحيح
-
-1. ___ heiße Anna. (أنا)
-2. ___ bist mein Freund. (أنت)
-3. ___ ist meine Mutter. (هي)
-4. ___ sind Ärzte. (نحن)
-5. ___ seid laut. (أنتم — جمع)
-
-### تمرين 2: استبدل الاسم بالضمير
-
-1. Der Mann arbeitet. → ___ arbeitet.
-2. Die Frau lacht. → ___ lacht.
-3. Das Kind spielt. → ___ spielt.
-4. Die Kinder tanzen. → ___ tanzen.
-5. Anna und ich lesen. → ___ lesen.
-
-### تمرين 3: du, ihr oder Sie?
-
-1. Zum Arzt: "___ sind Herr Müller?"
-2. Zum Freund: "___ kommst morgen?"
-3. Zu den Kindern: "___ spielt im Garten?"
-4. Zur Kollegin (رسمي): "Kommen ___ morgen?"
-5. Zur Gruppe Freunde: "___ seid cool!"
-
-## ✅ الحلول
-
-### حل تمرين 1
-1. Ich | 2. Du | 3. Sie | 4. Wir | 5. Ihr
-
-### حل تمرين 2
-1. Er | 2. Sie | 3. Es | 4. Sie | 5. Wir
-
-### حل تمرين 3
-1. Sie | 2. Du | 3. Ihr | 4. Sie | 5. Ihr
-
+<div class="exercise" markdown="1" data-answers='["Ich","Du","Sie","Wir","Ihr"]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | ___ heiße Anna. (أنا) | |
+| 2 | ___ bist mein Freund. (أنت) | |
+| 3 | ___ ist meine Mutter. (هي) | |
+| 4 | ___ sind Ärzte. (نحن) | |
+| 5 | ___ seid laut. (أنتم — جمع) | |
+</div>
+<div class="exercise" markdown="1" data-answers='["Er","Sie","Es","Sie","Wir"]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | Der Mann arbeitet. → ___ arbeitet. | |
+| 2 | Die Frau lacht. → ___ lacht. | |
+| 3 | Das Kind spielt. → ___ spielt. | |
+| 4 | Die Kinder tanzen. → ___ tanzen. | |
+| 5 | Anna und ich lesen. → ___ lesen. | |
+</div>
+<div class="exercise" markdown="1" data-answers='["Sie","Du","Ihr","Sie","Ihr"]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | Zum Arzt: "___ sind Herr Müller?" | |
+| 2 | Zum Freund: "___ kommst morgen?" | |
+| 3 | Zu den Kindern: "___ spielt im Garten?" | |
+| 4 | Zur Kollegin (رسمي): "Kommen ___ morgen?" | |
+| 5 | Zur Gruppe Freunde: "___ seid cool!" | |
+</div>
 ---

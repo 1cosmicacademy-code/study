@@ -71,72 +71,52 @@
 
 ## 📝 تمارين
 
-### تمرين 1: اختر الفعل الصحيح
-1. Ich ___ (kann / muss / darf) gut singen.
-2. Du ___ (willst / sollst / kannst) mehr Gemüse essen — es ist gesund.
-3. Hier ___ (darf / kann / muss) man nicht parken. Das ist verboten.
-4. Er ___ (will / kann / mag) Ingenieur werden.
-5. Wir ___ (müssen / wollen / möchten) heute lernen, wir haben eine Prüfung.
-
-### تمرين 2: صرّف الفعل الناقص في الجملة
-1. Ich (können) ___ gut kochen.
-2. Du (sollen) ___ zum Arzt gehen.
-3. Er (dürfen) ___ heute nicht kommen.
-4. Wir (müssen) ___ früh aufstehen.
-5. Ihr (wollen) ___ doch Deutsch lernen!
-
-### تمرين 3: رتّب الجملة — الترتيب الصحيح
-1. (kann / Ich / helfen / dir)
-2. (muss / Sie / lernen / Deutsch)
-3. (wollen / ins Kino / wir / gehen)
-4. (darfst / hier / nicht / du / rauchen)
-5. (möchte / ein Auto / er / kaufen)
-
-### تمرين 4: استبدل بـ Modalverb
-اكتب الجملة من جديد باستخدام الفعل الناقص المطلوب:
-1. Es ist möglich, dass ich komme. → Ich ___ kommen. (können)
-2. Es ist notwendig, dass du gehst. → Du ___ gehen. (müssen)
-3. Ich habe den Wunsch, ein Buch zu lesen. → Ich ___ ein Buch lesen. (möchten)
-4. Der Arzt empfiehlt, dass du dich ausruhst. → Du ___ dich ausruhen. (sollen)
-5. Es ist verboten, hier zu fotografieren. → Man ___ hier nicht fotografieren. (dürfen)
-
-### تمرين 5: الأسئلة — حول الجملة لسؤال
-1. Du kannst mir helfen. → ___ du mir ___?
-2. Er muss um 8 Uhr kommen. → ___ er um 8 Uhr ___?
-3. Sie dürfen hier parken. → ___ Sie hier ___?
-4. Wir wollen morgen reisen. → ___ ihr morgen ___?
-5. Du sollst mehr trinken. → ___ ich mehr ___?
-
+<div class="exercise" markdown="1" data-answers='["**kann**","**sollst**","**darf**","**will**","**müssen**"]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | Ich ___ (kann / muss / darf) gut singen. | |
+| 2 | Du ___ (willst / sollst / kannst) mehr Gemüse essen — es ist gesund. | |
+| 3 | Hier ___ (darf / kann / muss) man nicht parken. Das ist verboten. | |
+| 4 | Er ___ (will / kann / mag) Ingenieur werden. | |
+| 5 | Wir ___ (müssen / wollen / möchten) heute lernen, wir haben eine Prüfung. | |
+</div>
+<div class="exercise" markdown="1" data-answers='["**kann**","**sollst**","**darf**","**müssen**","**wollt**"]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | Ich (können) ___ gut kochen. | |
+| 2 | Du (sollen) ___ zum Arzt gehen. | |
+| 3 | Er (dürfen) ___ heute nicht kommen. | |
+| 4 | Wir (müssen) ___ früh aufstehen. | |
+| 5 | Ihr (wollen) ___ doch Deutsch lernen! | |
+</div>
+<div class="exercise" markdown="1" data-answers='["Er möchte ein Auto kaufen."]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | (kann / Ich / helfen / dir) | |
+| 2 | (muss / Sie / lernen / Deutsch) | |
+| 3 | (wollen / ins Kino / wir / gehen) | |
+| 4 | (darfst / hier / nicht / du / rauchen) | |
+| 5 | (möchte / ein Auto / er / kaufen) | |
+</div>
+<div class="exercise" markdown="1" data-answers='["Man **darf** hier nicht fotografieren."]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | Es ist möglich, dass ich komme. → Ich ___ kommen. (können) | |
+| 2 | Es ist notwendig, dass du gehst. → Du ___ gehen. (müssen) | |
+| 3 | Ich habe den Wunsch, ein Buch zu lesen. → Ich ___ ein Buch lesen. (möchten) | |
+| 4 | Der Arzt empfiehlt, dass du dich ausruhst. → Du ___ dich ausruhen. (sollen) | |
+| 5 | Es ist verboten, hier zu fotografieren. → Man ___ hier nicht fotografieren. (dürfen) | |
+</div>
+<div class="exercise" markdown="1" data-answers='["**Soll** ich mehr **trinken**?"]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | Du kannst mir helfen. → ___ du mir ___? | |
+| 2 | Er muss um 8 Uhr kommen. → ___ er um 8 Uhr ___? | |
+| 3 | Sie dürfen hier parken. → ___ Sie hier ___? | |
+| 4 | Wir wollen morgen reisen. → ___ ihr morgen ___? | |
+| 5 | Du sollst mehr trinken. → ___ ich mehr ___? | |
+</div>
 ---
-
-## ✅ الحلول
-
-### حل تمرين 1
-1. **kann** | 2. **sollst** | 3. **darf** | 4. **will** | 5. **müssen**
-
-### حل تمرين 2
-1. **kann** | 2. **sollst** | 3. **darf** | 4. **müssen** | 5. **wollt**
-
-### حل تمرين 3
-1. Ich kann dir helfen.
-2. Sie muss Deutsch lernen.
-3. Wir wollen ins Kino gehen.
-4. Du darfst hier nicht rauchen.
-5. Er möchte ein Auto kaufen.
-
-### حل تمرين 4
-1. Ich **kann** kommen.
-2. Du **musst** gehen.
-3. Ich **möchte** ein Buch lesen.
-4. Du **sollst** dich ausruhen.
-5. Man **darf** hier nicht fotografieren.
-
-### حل تمرين 5
-1. **Kannst** du mir **helfen**?
-2. **Muss** er um 8 Uhr **kommen**?
-3. **Dürfen** Sie hier **parken**?
-4. **Wollt** ihr morgen **reisen**?
-5. **Soll** ich mehr **trinken**?
 
 ---
 

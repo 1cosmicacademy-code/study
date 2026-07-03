@@ -78,76 +78,52 @@ In German, relative pronouns are almost the same as definite articles: **der, di
 
 ## 📝 Exercises
 
-### Exercise 1: Choose the correct relative pronoun
-1. Der Mann, ___ (der / den / dem) dort arbeitet, ist nett.
-2. Die Frau, ___ (die / der / deren) ich kenne, kommt aus Berlin.
-3. Das Kind, ___ (das / den / dem) im Garten spielt, ist glücklich.
-4. Der Hund, ___ (den / dem / der) du fütterst, ist süß.
-5. Die Freunde, ___ (denen / die / der) ich helfe, sind dankbar.
-
-### Exercise 2: Fill in the correct relative pronoun
-1. Der Film, ___ ich gesehen habe, war langweilig.
-2. Die Frau, ___ dort sitzt, ist meine Nachbarin.
-3. Das Buch, ___ auf dem Tisch liegt, gehört mir.
-4. Der Lehrer, ___ ich die Blume schenke, ist freundlich.
-5. Die Kinder, ___ Spielzeug kaputt ist, weinen.
-
-### Exercise 3: Combine the two sentences using a Relativsatz
-1. Ich habe einen Freund. **Der Freund** wohnt in Hamburg.
-   → Ich habe einen Freund, ___ in Hamburg ___.
-2. Das ist ein Film. **Den Film** habe ich gestern gesehen.
-   → Das ist ein Film, ___ ich gestern ___ ___.
-3. Kennst du die Frau? **Die Frau** arbeitet im Krankenhaus.
-   → Kennst du die Frau, ___ im Krankenhaus ___?
-4. Das ist der Hund. **Dem Hund** gebe ich Futter.
-   → Das ist der Hund, ___ ich Futter ___.
-5. Ich lese ein Buch. **Das Buch** ist sehr interessant.
-   → Ich lese ein Buch, ___ sehr interessant ___.
-
-### Exercise 4: Correct the error
-1. Der Mann, **den** dort arbeitet, ist jung. (wrong case)
-2. Die Frau, **der** ich sehe, ist schön. (wrong case)
-3. Das Kind, **das** ich helfe, ist klein. (wrong case)
-4. Der Film, **der** ich gesehen habe, war gut. (wrong)
-5. Die Leute, **denen** Auto kaputt ist, warten auf Hilfe. (wrong)
-
-### Exercise 5: Translate into German
-1. The man who lives here is a doctor.
-2. The woman I see is beautiful.
-3. The book I bought is interesting.
-4. The children I help are small.
-5. The friend whose car is blue is named Ahmed.
-
+<div class="exercise" markdown="1" data-answers='["**der**","**die**","**das**","**den**","**denen**"]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | Der Mann, ___ (der / den / dem) dort arbeitet, ist nett. | |
+| 2 | Die Frau, ___ (die / der / deren) ich kenne, kommt aus Berlin. | |
+| 3 | Das Kind, ___ (das / den / dem) im Garten spielt, ist glücklich. | |
+| 4 | Der Hund, ___ (den / dem / der) du fütterst, ist süß. | |
+| 5 | Die Freunde, ___ (denen / die / der) ich helfe, sind dankbar. | |
+</div>
+<div class="exercise" markdown="1" data-answers='["**den**","**die**","**das**","**dem**","**deren**"]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | Der Film, ___ ich gesehen habe, war langweilig. | |
+| 2 | Die Frau, ___ dort sitzt, ist meine Nachbarin. | |
+| 3 | Das Buch, ___ auf dem Tisch liegt, gehört mir. | |
+| 4 | Der Lehrer, ___ ich die Blume schenke, ist freundlich. | |
+| 5 | Die Kinder, ___ Spielzeug kaputt ist, weinen. | |
+</div>
+<div class="exercise" markdown="1" data-answers='["Ich lese ein Buch","**das** sehr interessant **ist**."]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | Ich habe einen Freund. **Der Freund** wohnt in Hamburg. | |
+| 2 | Das ist ein Film. **Den Film** habe ich gestern gesehen. | |
+| 3 | Kennst du die Frau? **Die Frau** arbeitet im Krankenhaus. | |
+| 4 | Das ist der Hund. **Dem Hund** gebe ich Futter. | |
+| 5 | Ich lese ein Buch. **Das Buch** ist sehr interessant. | |
+</div>
+<div class="exercise" markdown="1" data-answers='["Die Leute","**deren** Auto kaputt ist","warten auf Hilfe. (Genitiv — possession)"]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | Der Mann, **den** dort arbeitet, ist jung. (wrong case) | |
+| 2 | Die Frau, **der** ich sehe, ist schön. (wrong case) | |
+| 3 | Das Kind, **das** ich helfe, ist klein. (wrong case) | |
+| 4 | Der Film, **der** ich gesehen habe, war gut. (wrong) | |
+| 5 | Die Leute, **denen** Auto kaputt ist, warten auf Hilfe. (wrong) | |
+</div>
+<div class="exercise" markdown="1" data-answers='["Der Freund","**dessen** Auto blau ist","heißt Ahmed."]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | The man who lives here is a doctor. | |
+| 2 | The woman I see is beautiful. | |
+| 3 | The book I bought is interesting. | |
+| 4 | The children I help are small. | |
+| 5 | The friend whose car is blue is named Ahmed. | |
+</div>
 ---
-
-## ✅ Solutions
-
-### Solution Exercise 1
-1. **der** | 2. **die** | 3. **das** | 4. **den** | 5. **denen**
-
-### Solution Exercise 2
-1. **den** | 2. **die** | 3. **das** | 4. **dem** | 5. **deren**
-
-### Solution Exercise 3
-1. Ich habe einen Freund, **der** in Hamburg **wohnt**.
-2. Das ist ein Film, **den** ich gestern **gesehen habe**.
-3. Kennst du die Frau, **die** im Krankenhaus **arbeitet**?
-4. Das ist der Hund, **dem** ich Futter **gebe**.
-5. Ich lese ein Buch, **das** sehr interessant **ist**.
-
-### Solution Exercise 4
-1. Der Mann, **der** dort arbeitet, ist jung. (Nominativ, not Akkusativ)
-2. Die Frau, **die** ich sehe, ist schön. (Akkusativ, not Dativ)
-3. Das Kind, **dem** ich helfe, ist klein. (Dativ — helfen takes Dativ)
-4. Der Film, **den** ich gesehen habe, war gut. (Akkusativ — sehen takes Akkusativ)
-5. Die Leute, **deren** Auto kaputt ist, warten auf Hilfe. (Genitiv — possession)
-
-### Solution Exercise 5
-1. Der Mann, **der** hier wohnt, ist Arzt.
-2. Die Frau, **die** ich sehe, ist schön.
-3. Das Buch, **das** ich gekauft habe, ist interessant.
-4. Die Kinder, **denen** ich helfe, sind klein.
-5. Der Freund, **dessen** Auto blau ist, heißt Ahmed.
 
 ---
 

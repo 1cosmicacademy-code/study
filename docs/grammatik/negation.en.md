@@ -67,28 +67,22 @@ If the sentence has a verb or adjective → use nicht
 
 ## 📝 Exercises
 
-### Exercise 1: kein or nicht?
-
-1. Ich habe ___ car.
-2. Das ist ___ correct.
-3. Er kommt ___ .
-4. Das ist ___ problem.
-5. Wir haben ___ children.
-
-### Exercise 2: Complete the sentence
-
-1. Das ist ___ (kein) good idea.
-2. Ich mag ___ (negate verb) football.
-3. Sie hat ___ (kein) brother.
-4. Wir sind ___ (negate adj) tired.
-5. Das ist ___ (kein) dog, but a cat.
-
-## ✅ Solutions
-
-### Solution Exercise 1
-1. kein | 2. nicht | 3. nicht | 4. kein | 5. keine
-
-### Solution Exercise 2
-1. keine | 2. nicht | 3. keinen | 4. nicht | 5. kein
-
+<div class="exercise" markdown="1" data-answers='["kein","nicht","nicht","kein","keine"]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | Ich habe ___ car. | |
+| 2 | Das ist ___ correct. | |
+| 3 | Er kommt ___ . | |
+| 4 | Das ist ___ problem. | |
+| 5 | Wir haben ___ children. | |
+</div>
+<div class="exercise" markdown="1" data-answers='["keine","nicht","keinen","nicht","kein"]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | Das ist ___ (kein) good idea. | |
+| 2 | Ich mag ___ (negate verb) football. | |
+| 3 | Sie hat ___ (kein) brother. | |
+| 4 | Wir sind ___ (negate adj) tired. | |
+| 5 | Das ist ___ (kein) dog, but a cat. | |
+</div>
 ---

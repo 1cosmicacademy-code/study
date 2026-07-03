@@ -73,40 +73,32 @@ haben: habe, hast, hat, haben, habt, haben
 
 ## 📝 تمارين
 
-### تمرين 1: صرف الفعل الصحيح
-
-1. Ich ___ (wohnen) in Berlin.
-2. Du ___ (lernen) Deutsch.
-3. Er ___ (kommen) aus Syrien.
-4. Wir ___ (arbeiten) hier.
-5. Ihr ___ (spielen) Fußball.
-6. Sie (جمع) ___ (tanzen) gern.
-
-### تمرين 2: sein أو haben؟
-
-1. Ich ___ 25 Jahre alt.
-2. Du ___ einen Hund.
-3. Er ___ Lehrer.
-4. Wir ___ Hunger.
-5. Ihr ___ fleißig.
-
-### تمرين 3: أكمل الجملة
-
-1. Er ___ (fahren) nach München.
-2. Du ___ (sehen) den Film.
-3. Sie ___ (lesen) ein Buch.
-4. Wir ___ (essen) Pizza.
-5. Ich ___ (nehmen) den Bus.
-
-## ✅ الحلول
-
-### حل تمرين 1
-1. wohne | 2. lernst | 3. kommt | 4. arbeiten | 5. spielt | 6. tanzen
-
-### حل تمرين 2
-1. bin | 2. hast | 3. ist | 4. haben | 5. seid
-
-### حل تمرين 3
-1. fährt | 2. siehst | 3. liest | 4. essen | 5. nehme
-
+<div class="exercise" markdown="1" data-answers='["wohne","lernst","kommt","arbeiten","spielt","tanzen"]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | Ich ___ (wohnen) in Berlin. | |
+| 2 | Du ___ (lernen) Deutsch. | |
+| 3 | Er ___ (kommen) aus Syrien. | |
+| 4 | Wir ___ (arbeiten) hier. | |
+| 5 | Ihr ___ (spielen) Fußball. | |
+| 6 | Sie (جمع) ___ (tanzen) gern. | |
+</div>
+<div class="exercise" markdown="1" data-answers='["bin","hast","ist","haben","seid"]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | Ich ___ 25 Jahre alt. | |
+| 2 | Du ___ einen Hund. | |
+| 3 | Er ___ Lehrer. | |
+| 4 | Wir ___ Hunger. | |
+| 5 | Ihr ___ fleißig. | |
+</div>
+<div class="exercise" markdown="1" data-answers='["fährt","siehst","liest","essen","nehme"]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | Er ___ (fahren) nach München. | |
+| 2 | Du ___ (sehen) den Film. | |
+| 3 | Sie ___ (lesen) ein Buch. | |
+| 4 | Wir ___ (essen) Pizza. | |
+| 5 | Ich ___ (nehmen) den Bus. | |
+</div>
 ---

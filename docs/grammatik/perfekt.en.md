@@ -165,71 +165,56 @@ prefix + ge + verb stem + t/en
 
 ## 📝 Exercises
 
-### Exercise 1: Fill in haben or sein
-1. Ich ___ Deutsch gelernt.
-2. Er ___ nach Hause gegangen.
-3. Wir ___ einen Kuchen gebacken.
-4. Sie ___ in Berlin gewohnt.
-5. Das Kind ___ eingeschlafen.
-6. Ihr ___ spat gekommen.
-7. Was ___ du gemacht?
-
-### Exercise 2: Form the Partizip II
-1. kaufen ** ___
-2. trinken ** ___
-3. arbeiten ** ___
-4. schreiben ** ___
-5. studieren ** ___
-6. aufstehen ** ___
-7. fahren ** ___
-
-### Exercise 3: Rewrite the sentence in Perfekt
-1. Ich kaufe ein Buch. ** Ich ___ ein Buch ___.
-2. Sie fahrt nach Berlin. ** Sie ___ nach Berlin ___.
-3. Wir essen Pizza. ** Wir ___ Pizza ___.
-4. Er liest die Zeitung. ** Er ___ die Zeitung ___.
-5. Das Kind schlaft ein. ** Das Kind ___ ___.
-
-### Exercise 4: Find and correct the mistake
-1. Ich habe nach Berlin gefahren.
-2. Sie hat gestern gekommen.
-3. Wir haben im Park gespielt.
-4. Er ist das Buch gelesen.
-5. Ich bin fruh aufgestanden.
-
-### Exercise 5: Translate into German (Perfekt)
-1. Did you eat? (informal singular)
-2. We went to the cinema.
-3. He wrote a letter.
-4. What did you drink?
-5. She got up at 7 o'clock.
-
+<div class="exercise" markdown="1" data-answers='["habe","ist","haben","hat","ist","seid","hast"]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | Ich ___ Deutsch gelernt. | |
+| 2 | Er ___ nach Hause gegangen. | |
+| 3 | Wir ___ einen Kuchen gebacken. | |
+| 4 | Sie ___ in Berlin gewohnt. | |
+| 5 | Das Kind ___ eingeschlafen. | |
+| 6 | Ihr ___ spat gekommen. | |
+| 7 | Was ___ du gemacht? | |
+</div>
+<div class="exercise" markdown="1" data-answers='["gekauft","getrunken","gearbeitet","geschrieben","studiert","aufgestanden","gefahren"]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | kaufen ** ___ | |
+| 2 | trinken ** ___ | |
+| 3 | arbeiten ** ___ | |
+| 4 | schreiben ** ___ | |
+| 5 | studieren ** ___ | |
+| 6 | aufstehen ** ___ | |
+| 7 | fahren ** ___ | |
+</div>
+<div class="exercise" markdown="1" data-answers='["habe...gekauft","ist...gefahren","haben...gegessen","hat...gelesen","ist...eingeschlafen"]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | Ich kaufe ein Buch. ** Ich ___ ein Buch ___. | |
+| 2 | Sie fahrt nach Berlin. ** Sie ___ nach Berlin ___. | |
+| 3 | Wir essen Pizza. ** Wir ___ Pizza ___. | |
+| 4 | Er liest die Zeitung. ** Er ___ die Zeitung ___. | |
+| 5 | Das Kind schlaft ein. ** Das Kind ___ ___. | |
+</div>
+<div class="exercise" markdown="1" data-answers='["OK — correct (ist aufgestanden)"]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | Ich habe nach Berlin gefahren. | |
+| 2 | Sie hat gestern gekommen. | |
+| 3 | Wir haben im Park gespielt. | |
+| 4 | Er ist das Buch gelesen. | |
+| 5 | Ich bin fruh aufgestanden. | |
+</div>
+<div class="exercise" markdown="1" data-answers='["Sie ist um 7 Uhr aufgestanden."]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | Did you eat? (informal singular) | |
+| 2 | We went to the cinema. | |
+| 3 | He wrote a letter. | |
+| 4 | What did you drink? | |
+| 5 | She got up at 7 o'clock. | |
+</div>
 ---
-
-## ✅ Solutions
-
-### Solution Exercise 1
-1. habe | 2. ist | 3. haben | 4. hat | 5. ist | 6. seid | 7. hast
-
-### Solution Exercise 2
-1. gekauft | 2. getrunken | 3. gearbeitet | 4. geschrieben | 5. studiert | 6. aufgestanden | 7. gefahren
-
-### Solution Exercise 3
-1. habe...gekauft | 2. ist...gefahren | 3. haben...gegessen | 4. hat...gelesen | 5. ist...eingeschlafen
-
-### Solution Exercise 4
-1. OK — ist gefahren (correct, sein with fahren)
-2. ist gekommen (hat ** ist)
-3. OK — correct
-4. hat gelesen (ist ** hat)
-5. OK — correct (ist aufgestanden)
-
-### Solution Exercise 5
-1. Hast du gegessen?
-2. Wir sind ins Kino gegangen.
-3. Er hat einen Brief geschrieben.
-4. Was hast du getrunken?
-5. Sie ist um 7 Uhr aufgestanden.
 
 ---
 

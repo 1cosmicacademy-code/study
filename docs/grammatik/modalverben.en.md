@@ -71,71 +71,52 @@ The golden rule 🥇:
 
 ## 📝 Exercises
 
-### Exercise 1: Choose the correct verb
-1. Ich ___ (kann / muss / darf) gut singen.
-2. Du ___ (willst / sollst / kannst) mehr Gemüse essen — it's healthy.
-3. Here ___ (darf / kann / muss) man nicht parken. It's forbidden.
-4. Er ___ (will / kann / mag) Ingenieur werden.
-5. Wir ___ (müssen / wollen / möchten) heute lernen, wir haben eine Prüfung.
-
-### Exercise 2: Conjugate the modal verb
-1. Ich (können) ___ gut kochen.
-2. Du (sollen) ___ zum Arzt gehen.
-3. Er (dürfen) ___ heute nicht kommen.
-4. Wir (müssen) ___ früh aufstehen.
-5. Ihr (wollen) ___ doch Deutsch lernen!
-
-### Exercise 3: Put the words in correct order
-1. (kann / Ich / helfen / dir)
-2. (muss / Sie / lernen / Deutsch)
-3. (wollen / ins Kino / wir / gehen)
-4. (darfst / hier / nicht / du / rauchen)
-5. (möchte / ein Auto / er / kaufen)
-
-### Exercise 4: Rewrite with a modal verb
-1. It is possible that I come. → Ich ___ kommen. (können)
-2. It is necessary that you go. → Du ___ gehen. (müssen)
-3. I wish to read a book. → Ich ___ ein Buch lesen. (möchten)
-4. The doctor recommends that you rest. → Du ___ dich ausruhen. (sollen)
-5. It is forbidden to take photos here. → Man ___ hier nicht fotografieren. (dürfen)
-
-### Exercise 5: Questions — turn the sentence into a question
-1. Du kannst mir helfen. → ___ du mir ___?
-2. Er muss um 8 Uhr kommen. → ___ er um 8 Uhr ___?
-3. Sie dürfen hier parken. → ___ Sie hier ___?
-4. Wir wollen morgen reisen. → ___ ihr morgen ___?
-5. Du sollst mehr trinken. → ___ ich mehr ___?
-
+<div class="exercise" markdown="1" data-answers='["**kann**","**sollst**","**darf**","**will**","**müssen**"]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | Ich ___ (kann / muss / darf) gut singen. | |
+| 2 | Du ___ (willst / sollst / kannst) mehr Gemüse essen — it's healthy. | |
+| 3 | Here ___ (darf / kann / muss) man nicht parken. It's forbidden. | |
+| 4 | Er ___ (will / kann / mag) Ingenieur werden. | |
+| 5 | Wir ___ (müssen / wollen / möchten) heute lernen, wir haben eine Prüfung. | |
+</div>
+<div class="exercise" markdown="1" data-answers='["**kann**","**sollst**","**darf**","**müssen**","**wollt**"]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | Ich (können) ___ gut kochen. | |
+| 2 | Du (sollen) ___ zum Arzt gehen. | |
+| 3 | Er (dürfen) ___ heute nicht kommen. | |
+| 4 | Wir (müssen) ___ früh aufstehen. | |
+| 5 | Ihr (wollen) ___ doch Deutsch lernen! | |
+</div>
+<div class="exercise" markdown="1" data-answers='["Er möchte ein Auto kaufen."]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | (kann / Ich / helfen / dir) | |
+| 2 | (muss / Sie / lernen / Deutsch) | |
+| 3 | (wollen / ins Kino / wir / gehen) | |
+| 4 | (darfst / hier / nicht / du / rauchen) | |
+| 5 | (möchte / ein Auto / er / kaufen) | |
+</div>
+<div class="exercise" markdown="1" data-answers='["Man **darf** hier nicht fotografieren."]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | It is possible that I come. → Ich ___ kommen. (können) | |
+| 2 | It is necessary that you go. → Du ___ gehen. (müssen) | |
+| 3 | I wish to read a book. → Ich ___ ein Buch lesen. (möchten) | |
+| 4 | The doctor recommends that you rest. → Du ___ dich ausruhen. (sollen) | |
+| 5 | It is forbidden to take photos here. → Man ___ hier nicht fotografieren. (dürfen) | |
+</div>
+<div class="exercise" markdown="1" data-answers='["**Soll** ich mehr **trinken**?"]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | Du kannst mir helfen. → ___ du mir ___? | |
+| 2 | Er muss um 8 Uhr kommen. → ___ er um 8 Uhr ___? | |
+| 3 | Sie dürfen hier parken. → ___ Sie hier ___? | |
+| 4 | Wir wollen morgen reisen. → ___ ihr morgen ___? | |
+| 5 | Du sollst mehr trinken. → ___ ich mehr ___? | |
+</div>
 ---
-
-## ✅ Solutions
-
-### Solution Exercise 1
-1. **kann** | 2. **sollst** | 3. **darf** | 4. **will** | 5. **müssen**
-
-### Solution Exercise 2
-1. **kann** | 2. **sollst** | 3. **darf** | 4. **müssen** | 5. **wollt**
-
-### Solution Exercise 3
-1. Ich kann dir helfen.
-2. Sie muss Deutsch lernen.
-3. Wir wollen ins Kino gehen.
-4. Du darfst hier nicht rauchen.
-5. Er möchte ein Auto kaufen.
-
-### Solution Exercise 4
-1. Ich **kann** kommen.
-2. Du **musst** gehen.
-3. Ich **möchte** ein Buch lesen.
-4. Du **sollst** dich ausruhen.
-5. Man **darf** hier nicht fotografieren.
-
-### Solution Exercise 5
-1. **Kannst** du mir **helfen**?
-2. **Muss** er um 8 Uhr **kommen**?
-3. **Dürfen** Sie hier **parken**?
-4. **Wollt** ihr morgen **reisen**?
-5. **Soll** ich mehr **trinken**?
 
 ---
 

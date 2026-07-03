@@ -125,63 +125,52 @@ von den Frau-en-n → from the women
 
 ## 📝 Exercises
 
-### Exercise 1: Complete with the correct Dative article
-1. Ich helfe ___ Mann. (der)
-2. Wir danken ___ Frau. (die)
-3. Das gehort ___ Kind. (das)
-4. Er antwortet ___ Lehrerin. (die)
-5. Ich fahre mit ___ Auto. (das)
-
-### Exercise 2: Fill in aus, bei, mit, nach, seit, von, zu
-1. Ich komme ___ der Schule. (from)
-2. Er wohnt ___ seinen Eltern. (at/with)
-3. Wir fahren ___ dem Arzt. (to)
-4. Sie arbeitet ___ einer Firma. (at)
-5. Ich lerne Deutsch ___ einem Jahr. (since/for)
-
-### Exercise 3: Choose Dative or Accusative — wo? (D) or wohin? (A)
-1. Ich bin in ___ Schule. (die)
-2. Ich gehe in ___ Schule. (die)
-3. Das Buch liegt auf ___ Tisch. (der)
-4. Ich lege das Buch auf ___ Tisch. (der)
-5. Sie sitzt neben ___ Freund. (der)
-
-### Exercise 4: Rearrange the sentence — Dative before Accusative
-1. Ich / geben / der Mann / das Buch
-2. Er / kaufen / seine Frau / ein Geschenk
-3. Sie / zeigen / der Tourist / die Stadt
-4. Wir / schicken / der Freund / eine Karte
-5. Der Vater / bringen / das Kind / ein Spielzeug
-
-### Exercise 5: Correct the mistake
-1. Ich helfe der Mann.
-2. Das Buch gehort den Kind.
-3. Wir danken dem Lehrerin.
-4. Er fahrt mit der Auto.
-5. Sie wohnt seit einen Jahr hier.
-
+<div class="exercise" markdown="1" data-answers='["dem","der","dem","der","dem"]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | Ich helfe ___ Mann. (der) | |
+| 2 | Wir danken ___ Frau. (die) | |
+| 3 | Das gehort ___ Kind. (das) | |
+| 4 | Er antwortet ___ Lehrerin. (die) | |
+| 5 | Ich fahre mit ___ Auto. (das) | |
+</div>
+<div class="exercise" markdown="1" data-answers='["aus","bei","zu","bei (or in einer)","seit"]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | Ich komme ___ der Schule. (from) | |
+| 2 | Er wohnt ___ seinen Eltern. (at/with) | |
+| 3 | Wir fahren ___ dem Arzt. (to) | |
+| 4 | Sie arbeitet ___ einer Firma. (at) | |
+| 5 | Ich lerne Deutsch ___ einem Jahr. (since/for) | |
+</div>
+<div class="exercise" markdown="1" data-answers='["D ** der","A ** die","D ** dem","A ** den","D ** dem"]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | Ich bin in ___ Schule. (die) | |
+| 2 | Ich gehe in ___ Schule. (die) | |
+| 3 | Das Buch liegt auf ___ Tisch. (der) | |
+| 4 | Ich lege das Buch auf ___ Tisch. (der) | |
+| 5 | Sie sitzt neben ___ Freund. (der) | |
+</div>
+<div class="exercise" markdown="1" data-answers='["Der Vater bringt dem Kind ein Spielzeug."]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | Ich / geben / der Mann / das Buch | |
+| 2 | Er / kaufen / seine Frau / ein Geschenk | |
+| 3 | Sie / zeigen / der Tourist / die Stadt | |
+| 4 | Wir / schicken / der Freund / eine Karte | |
+| 5 | Der Vater / bringen / das Kind / ein Spielzeug | |
+</div>
+<div class="exercise" markdown="1" data-answers='["dem Mann (der ** dem)","dem Kind (den ** dem)","der Lehrerin (dem ** der)","dem Auto (der ** dem)","einem Jahr (einen ** einem)"]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | Ich helfe der Mann. | |
+| 2 | Das Buch gehort den Kind. | |
+| 3 | Wir danken dem Lehrerin. | |
+| 4 | Er fahrt mit der Auto. | |
+| 5 | Sie wohnt seit einen Jahr hier. | |
+</div>
 ---
-
-## ✅ Solutions
-
-### Solution Exercise 1
-1. dem | 2. der | 3. dem | 4. der | 5. dem
-
-### Solution Exercise 2
-1. aus | 2. bei | 3. zu | 4. bei (or in einer) | 5. seit
-
-### Solution Exercise 3
-1. D ** der | 2. A ** die | 3. D ** dem | 4. A ** den | 5. D ** dem
-
-### Solution Exercise 4
-1. Ich gebe dem Mann das Buch.
-2. Er kauft seiner Frau ein Geschenk.
-3. Sie zeigt dem Touristen die Stadt.
-4. Wir schicken dem Freund eine Karte.
-5. Der Vater bringt dem Kind ein Spielzeug.
-
-### Solution Exercise 5
-1. dem Mann (der ** dem) | 2. dem Kind (den ** dem) | 3. der Lehrerin (dem ** der) | 4. dem Auto (der ** dem) | 5. einem Jahr (einen ** einem)
 
 ---
 

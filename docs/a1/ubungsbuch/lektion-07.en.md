@@ -158,30 +158,21 @@
 
 **Complete the conversation between the waiter and the customer:**
 
-> **Kellner:** Guten Tag! Was möchten Sie ______________?
-> *(Good day! What would you like to eat?)*
->
-> **Gast:** Ich möchte einen Salat und ______________ Wasser, bitte.
-> *(I'd like a salad and water, please.)*
->
-> **Kellner:** Möchten Sie ______________ Fleisch oder Fisch?
-> *(Would you like meat or fish?)*
->
-> **Gast:** Nein danke, ich esse ______________ Fleisch und ______________ Fisch. Ich bin Vegetarierin.
-> *(No thanks, I eat no meat and no fish. I'm a vegetarian.)*
->
-> **Kellner:** Kein Problem! Möchten Sie auch einen ______________?
-> *(No problem! Would you also like a juice?)*
->
-> **Gast:** Ja, einen Orangensaft, ______________.
-> *(Yes, an orange juice, please.)*
->
-> **Kellner:** Sehr gerne. ______________ Sie noch etwas?
-> *(With pleasure. Would you like anything else?)*
->
-> **Gast:** Nein, danke. Das ist alles. Die ______________, bitte.
-> *(No thanks. That is all. The bill, please.)*
+<div class="exercise" markdown="1" data-answers='["essen","ein","etwas","kein","keinen","Saft","bitte","Möchten","Rechnung"]'>
 
+| Speaker | Text | Answer |
+|---------|------|--------|
+| Waiter | Guten Tag! Was möchten Sie ________? (What would you like to eat?) | |
+| Guest | Ich möchte einen Salat und ________ Wasser, bitte. (A salad and water, please.) | |
+| Waiter | Möchten Sie ________ Fleisch oder Fisch? (Would you like meat or fish?) | |
+| Guest | Nein danke, ich esse ________ Fleisch... (I eat no meat...) | |
+| Guest | ...und ________ Fisch. Ich bin Vegetarierin. (...and no fish. I'm a vegetarian.) | |
+| Waiter | Möchten Sie auch einen ________? (Would you also like a juice?) | |
+| Guest | Ja, einen Orangensaft, ________. (Yes, an orange juice, please.) | |
+| Waiter | ________ Sie noch etwas? (Would you like anything else?) | |
+| Guest | Nein, danke. Die ________, bitte. (The bill, please.) | |
+
+</div>
 
 ---
 <div class="exercise" markdown="1" data-answers='["C (sauer) ... sauer","A (süß) ... süß","E (salzig) ... salzig","B (scharf) ... scharf","D (bitter) ... bitter"]'>

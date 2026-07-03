@@ -104,65 +104,54 @@ Akkusativ = المفعول به المباشر
 
 ## 📝 تمارين
 
-### تمرين 1: أكمل بالأداة الصحيحة (der → den / ein → einen / die / das / keine)
+<div class="exercise" markdown="1" data-answers='["einen","die","den","das","die"]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | Ich habe ___ Hund. (ein) | |
+| 2 | Sie kauft ___ Blumen. (die) | |
+| 3 | Wir sehen ___ Film. (der) | |
+| 4 | Er trinkt ___ Wasser. (das) | |
+| 5 | Ich brauche ___ Hilfe. (die) | |
+</div>
 
-1. Ich habe ___ Hund. (ein)
-2. Sie kauft ___ Blumen. (die)
-3. Wir sehen ___ Film. (der)
-4. Er trinkt ___ Wasser. (das)
-5. Ich brauche ___ Hilfe. (die)
+<div class="exercise" markdown="1" data-answers='["für","durch","Ohne","um","gegen"]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | Das ist ___ dich. (من أجلك) | |
+| 2 | Wir gehen ___ den Park. (عبر) | |
+| 3 | ___ dich gehe ich nicht. (بدونك) | |
+| 4 | Wir laufen ___ den See. (حول) | |
+| 5 | Das Medikament ist ___ Kopfschmerzen. (ضد) | |
+</div>
 
-### تمرين 2: أكمل بـ für, durch, ohne, um, gegen
+<div class="exercise" markdown="1" data-answers='["ein Buch","einen Ball","die Musik","Milch","diesen Mann"]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | Ich lese ein Buch. | |
+| 2 | Der Vater kauft einen Ball. | |
+| 3 | Wir hören die Musik. | |
+| 4 | Das Kind trinkt Milch. | |
+| 5 | Ich kenne diesen Mann nicht. | |
+</div>
 
-1. Das ist ___ dich. (من أجلك)
-2. Wir gehen ___ den Park. (عبر)
-3. ___ dich gehe ich nicht. (بدونك)
-4. Wir laufen ___ den See. (حول)
-5. Das Medikament ist ___ Kopfschmerzen. (ضد)
+<div class="exercise" markdown="1" data-answers='["den","einen","die","das","keinen"]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | Der Tisch ist groß. → Ich sehe ___ Tisch. | |
+| 2 | Ein Hund bellt. → Ich höre ___ Hund. | |
+| 3 | Die Blume ist schön. → Ich kaufe ___ Blume. | |
+| 4 | Das Kind spielt. → Ich sehe ___ Kind. | |
+| 5 | Kein Student ist da. → Ich kenne ___ Studenten. | |
+</div>
 
-### تمرين 3: حلل الجمل — حدد Akkusativ-Objekt
-
-1. Ich lese ein Buch.
-2. Der Vater kauft einen Ball.
-3. Wir hören die Musik.
-4. Das Kind trinkt Milch.
-5. Ich kenne diesen Mann nicht.
-
-### تمرين 4: حول من Nominativ إلى Akkusativ — غير الأداة
-
-1. Der Tisch ist groß. → Ich sehe ___ Tisch.
-2. Ein Hund bellt. → Ich höre ___ Hund.
-3. Die Blume ist schön. → Ich kaufe ___ Blume.
-4. Das Kind spielt. → Ich sehe ___ Kind.
-5. Kein Student ist da. → Ich kenne ___ Studenten.
-
-### تمرين 5: أكمل الجملة باختيار الصحيح
-
-1. Ich habe (ein / einen / eine) Bruder.
-2. Sie liebt (der / den / die) Mann.
-3. Wir besuchen (das / den / die) Oma.
-4. Er kauft (ein / eine / einen) Auto.
-5. Ich möchte (eine / einen / ein) Kaffee, bitte.
-
----
-
-## ✅ الحلول
-
-### حل تمرين 1
-1. einen | 2. die | 3. den | 4. das | 5. die
-
-### حل تمرين 2
-1. für | 2. durch | 3. Ohne | 4. um | 5. gegen
-
-### حل تمرين 3
-1. ein Buch | 2. einen Ball | 3. die Musik | 4. Milch (kein Artikel = die Milch) | 5. diesen Mann
-
-### حل تمرين 4
-1. den | 2. einen | 3. die | 4. das | 5. keinen
-
-### حل تمرين 5
-1. einen | 2. den | 3. die | 4. ein | 5. einen
-
----
+<div class="exercise" markdown="1" data-answers='["einen","den","die","ein","einen"]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | Ich habe (ein / einen / eine) Bruder. | |
+| 2 | Sie liebt (der / den / die) Mann. | |
+| 3 | Wir besuchen (das / den / die) Oma. | |
+| 4 | Er kauft (ein / eine / einen) Auto. | |
+| 5 | Ich möchte (eine / einen / ein) Kaffee, bitte. | |
+</div>
 
 💡 **نصيحة:** أسهل طريقة لتتذكر Akkusativ — اسأل نفسك "ماذا؟" أو "مَن؟" بعد الفعل. الجواب اللي يطلع هو Akkusativ.

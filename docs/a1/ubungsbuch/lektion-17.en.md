@@ -143,26 +143,19 @@
 
 **Complete the dialogue between Sarah and Ahmed:**
 
-> **Ahmed:** Hallo Sarah! Wie geht es ______________?
-> *(Hello Sarah! How are you?)*
->
-> **Sarah:** Hallo Ahmed! Mir geht es ______________, danke. Und ______________?
-> *(Hello Ahmed! I'm fine, thanks. And you?)*
->
-> **Ahmed:** Auch gut. Sag mal, ______________ machst du beruflich?
-> *(Also good. Tell me, what do you do for work?)*
->
-> **Sarah:** Ich ______________ Studentin. Ich studiere an der Universität. ______________ du?
-> *(I am a student. I study at the university. And you?)*
->
-> **Ahmed:** Ich ______________ Verkäufer. Ich ______________ im Supermarkt.
-> *(I am a salesperson. I work at the supermarket.)*
->
-> **Sarah:** ______________ du gern?
-> *(Do you like your work?)*
->
-> **Ahmed:** Ja, ich arbeite sehr ______________. Die Arbeit ist interessant.
-> *(Yes, I like working very much. The work is interesting.)*
+<div class="exercise" markdown="1" data-answers='["dir","gut","dir","was","bin","Und","bin","arbeite","Arbeitest","gern"]'>
+
+| Speaker | Text | Answer |
+|---------|------|--------|
+| Ahmed | Hallo Sarah! Wie geht es ______________? *(Hello Sarah! How are you?)* | |
+| Sarah | Hallo Ahmed! Mir geht es ______________, danke. Und ______________? *(Hello Ahmed! I'm fine, thanks. And you?)* | |
+| Ahmed | Auch gut. Sag mal, ______________ machst du beruflich? *(Also good. Tell me, what do you do for work?)* | |
+| Sarah | Ich ______________ Studentin. Ich studiere an der Universität. ______________ du? *(I am a student. I study at the university. And you?)* | |
+| Ahmed | Ich ______________ Verkäufer. Ich ______________ im Supermarkt. *(I am a salesperson. I work at the supermarket.)* | |
+| Sarah | ______________ du gern? *(Do you like your work?)* | |
+| Ahmed | Ja, ich arbeite sehr ______________. Die Arbeit ist interessant. *(Yes, I like working very much. The work is interesting.)* | |
+
+</div>
 
 
 ## Exercise 9: Write the opposite 🔄

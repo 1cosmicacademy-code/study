@@ -102,43 +102,20 @@
 
 </div>
 ---
-## التمرين 4: رتّب الكلمات لتكوين جملة صحيحة 🔄
+<div class="exercise" markdown="1" data-answers='["Wie komme ich zum Bahnhof?","Gehen Sie geradeaus.","Wo ist die Post?","An der Ampel links.","Das Café ist um die Ecke.","Wie komme ich zur Schule?","Das ist nicht weit.","Gehen Sie dann links."]'>
 
-**رتب الكلمات في كل سطر لتكون جملة ألمانية صحيحة:**
+| # | الكلمات | الجملة الصحيحة |
+|---|---------|----------------|
+| 1 | ich / zum / Wie / Bahnhof / komme / ? | |
+| 2 | Sie / Gehen / geradeaus / . | |
+| 3 | der / Post / Wo / ist / ? | |
+| 4 | Ampel / An / links / der / . | |
+| 5 | ist / Das / um / Ecke / Café / die / . | |
+| 6 | komme / Wie / zur / ich / Schule / ? | |
+| 7 | weit / nicht / Das / ist / . | |
+| 8 | Sie / dann / Gehen / links / . | |
 
-1. ich / zum / Wie / Bahnhof / komme / ?
-   **→** _______________________________
-
-2. Sie / Gehen / geradeaus / .
-   **→** _______________________________
-
-3. der / Post / Wo / ist / ?
-   **→** _______________________________
-
-4. Ampel / An / links / der / .
-   **→** _______________________________
-
-5. ist / Das / um / Ecke / Café / die / .
-   **→** _______________________________
-
-6. komme / Wie / zur / ich / Schule / ?
-   **→** _______________________________
-
-7. weit / nicht / Das / ist / .
-   **→** _______________________________
-
-8. Sie / dann / Gehen / links / .
-   **→** _______________________________
-
-✅ **الحل:**
-1. **Wie komme ich zum Bahnhof?**
-2. **Gehen Sie geradeaus.**
-3. **Wo ist die Post?**
-4. **An der Ampel links.**
-5. **Das Café ist um die Ecke.**
-6. **Wie komme ich zur Schule?**
-7. **Das ist nicht weit.**
-8. **Gehen Sie dann links.**
+</div>
 
 ---
 
@@ -193,27 +170,20 @@
 > **Anna:** Vielen Dank!
 > **Herr Müller:** Gern geschehen!
 
-**أكمل الجمل:**
+<div class="exercise" markdown="1" data-answers='["zum Krankenhaus","geradeaus, zur","links","zweiten","nicht weit","fünfzehn","Vielen Dank","Gern geschehen"]'>
 
-1. Anna fragt (تسأل): "Wie komme ich ___ ___?" → **__________________**
-2. Herr Müller sagt: "Gehen Sie ___ bis ___ Ampel." → **__________________**
-3. Dann geht Anna ___ (left). → **__________________**
-4. Das Krankenhaus ist in der ___ (second) Straße rechts. → **__________________**
-5. Es ist ___ (not far). → **__________________**
-6. Man braucht (يحتاج) ___ Minuten zu Fuß. → **__________________**
-7. Anna sagt am Ende: "___ ___!" → **__________________**
-8. Herr Müller antwortet: "___ ___!" → **__________________**
+| # | السؤال | الإجابة |
+|---|--------|---------|
+| 1 | Anna fragt: "Wie komme ich ___ ___?" | |
+| 2 | Herr Müller sagt: "Gehen Sie ___ bis ___ Ampel." | |
+| 3 | Dann geht Anna ___ (left). | |
+| 4 | Das Krankenhaus ist in der ___ (second) Straße rechts. | |
+| 5 | Es ist ___ (not far). | |
+| 6 | Man braucht ___ Minuten zu Fuß. | |
+| 7 | Anna sagt am Ende: "___ ___!" | |
+| 8 | Herr Müller antwortet: "___ ___!" | |
 
-✅ **الحل:**
-
-1. **zum Krankenhaus**
-2. **geradeaus, zur** (bis zur Ampel)
-3. **links**
-4. **zweiten**
-5. **nicht weit**
-6. **fünfzehn** (15)
-7. **Vielen Dank**
-8. **Gern geschehen**
+</div>
 
 ---
 

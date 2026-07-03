@@ -185,34 +185,42 @@ Example: machen → ich machte, du machtest, er machte...
 
 ## 📝 Exercises
 
-### Exercise 1: Conjugate sein, haben, werden in Prateritum
-1. Ich ___ gestern krank. (sein)
-2. Wir ___ einen schonen Tag. (haben)
-3. Das Wetter ___ kalt. (werden)
-4. Du ___ im Urlaub. (sein)
-5. Sie ___ keine Lust. (haben)
-
-### Exercise 2: Conjugate the modal verbs in Prateritum
-1. Ich ___ nicht kommen. (konnen)
-2. Er ___ viel lernen. (mussen)
-3. Wir ___ ins Kino gehen. (durfen)
-4. Sie ___ das Buch lesen. (wollen)
-5. Du ___ mir helfen. (sollen)
-
-### Exercise 3: Change from Perfekt to Prateritum
-1. Ich bin nach Hause gegangen. ** Ich ___ nach Hause ___.
-2. Er hat das Buch gelesen. ** Er ___ das Buch ___.
-3. Wir sind nach Berlin gefahren. ** Wir ___ nach Berlin ___.
-4. Sie hat einen Kuchen gebacken. ** Sie ___ einen Kuchen ___.
-5. Ich habe den Film gesehen. ** Ich ___ den Film ___.
-
-### Exercise 4: Choose — Perfekt or Prateritum?
-1. Gestern (gehe / ging / bin gegangen) ich ins Kino.
-2. Er (war / ist gewesen) gestern krank.
-3. Wir (hatten / haben gehabt) keine Zeit.
-4. Sie (ist gefahren / fuhr) nach Hause. (story)
-5. Ich (konnte / habe gekonnt) nicht schlafen.
-
+<div class="exercise" markdown="1" data-answers='["war","hatten","wurde","warst","hatte"]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | Ich ___ gestern krank. (sein) | |
+| 2 | Wir ___ einen schonen Tag. (haben) | |
+| 3 | Das Wetter ___ kalt. (werden) | |
+| 4 | Du ___ im Urlaub. (sein) | |
+| 5 | Sie ___ keine Lust. (haben) | |
+</div>
+<div class="exercise" markdown="1" data-answers='["konnte","musste","durften","wollte","solltest"]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | Ich ___ nicht kommen. (konnen) | |
+| 2 | Er ___ viel lernen. (mussen) | |
+| 3 | Wir ___ ins Kino gehen. (durfen) | |
+| 4 | Sie ___ das Buch lesen. (wollen) | |
+| 5 | Du ___ mir helfen. (sollen) | |
+</div>
+<div class="exercise" markdown="1" data-answers='["ging...","las...","fuhren...","backte...","sah..."]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | Ich bin nach Hause gegangen. ** Ich ___ nach Hause ___. | |
+| 2 | Er hat das Buch gelesen. ** Er ___ das Buch ___. | |
+| 3 | Wir sind nach Berlin gefahren. ** Wir ___ nach Berlin ___. | |
+| 4 | Sie hat einen Kuchen gebacken. ** Sie ___ einen Kuchen ___. | |
+| 5 | Ich habe den Film gesehen. ** Ich ___ den Film ___. | |
+</div>
+<div class="exercise" markdown="1" data-answers='["bin gegangen (conversation) or ging (story) — both ok","war (Prateritum with sein)","hatten (Prateritum with haben is natural)","fuhr (story)","konnte"]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | Gestern (gehe / ging / bin gegangen) ich ins Kino. | |
+| 2 | Er (war / ist gewesen) gestern krank. | |
+| 3 | Wir (hatten / haben gehabt) keine Zeit. | |
+| 4 | Sie (ist gefahren / fuhr) nach Hause. (story) | |
+| 5 | Ich (konnte / habe gekonnt) nicht schlafen. | |
+</div>
 ### Exercise 5: Read the story and fill in the blanks
 
 **Short story — Der kleine Hund**
@@ -220,23 +228,6 @@ Example: machen → ich machte, du machtest, er machte...
 Es ___ (sein) einmal ein kleiner Hund. Er ___ (haben) einen groBen Knochen. Der Hund ___ (gehen) in den Park und ___ (legen) sich hin. Plotzlich ___ (kommen) ein groBer Hund. Er ___ (wollen) den Knochen. Der kleine Hund ___ (haben) Angst und ___ (laufen) weg.
 
 ---
-
-## ✅ Solutions
-
-### Solution Exercise 1
-1. war | 2. hatten | 3. wurde | 4. warst | 5. hatte
-
-### Solution Exercise 2
-1. konnte | 2. musste | 3. durften | 4. wollte | 5. solltest
-
-### Solution Exercise 3
-1. ging... | 2. las... | 3. fuhren... | 4. backte... | 5. sah...
-
-### Solution Exercise 4
-1. bin gegangen (conversation) or ging (story) — both ok | 2. war (Prateritum with sein) | 3. hatten (Prateritum with haben is natural) | 4. fuhr (story) | 5. konnte
-
-### Solution Exercise 5
-war — hatte — ging — legte — kam — wollte — hatte — lief
 
 ---
 

@@ -173,33 +173,23 @@
 
 **أكمل الحوار بكلمات الملكية الصحيحة:**
 
-> **A:** Hallo! Wer ist das?  
-> **B:** Das ist _____ (mein / meine) Familie!  
-> **A:** Ist das _____ (dein / deine) Vater?  
-> **B:** Ja, das ist _____ (mein / meine) Vater. Er heißt Sami.  
-> **A:** Und ist das _____ (dein / deine) Mutter?  
-> **B:** Ja, das ist _____ (mein / meine) Mutter. Sie heißt Lina.  
-> **A:** Hast du Geschwister?  
-> **B:** Ja, ich habe _____ (ein / eine) Bruder und _____ (ein / eine) Schwester.  
-> **A:** Wie heißt _____ (dein / deine) Bruder?  
-> **B:** _____ (Mein / Meine) Bruder heißt Ali.  
-> **A:** Und _____ (dein / deine) Schwester?  
-> **B:** _____ (Mein / Meine) Schwester heißt Sara.
+<div class="exercise" markdown="1" data-answers='["meine","dein","mein","deine","meine","einen","eine","dein","Mein","deine","Meine"]'>
 
-✅ **الحل:**
+| المتحدث | النص | الإجابة |
+|---------|------|---------|
+| B | Das ist ________ (mein / meine) Familie! | |
+| A | Ist das ________ (dein / deine) Vater? | |
+| B | Ja, das ist ________ (mein / meine) Vater. Er heißt Sami. | |
+| A | Und ist das ________ (dein / deine) Mutter? | |
+| B | Ja, das ist ________ (mein / meine) Mutter. Sie heißt Lina. | |
+| B | Ja, ich habe ________ Bruder... (ein / eine) | |
+| B | ...und ________ Schwester. (ein / eine) | |
+| A | Wie heißt ________ (dein / deine) Bruder? | |
+| B | ________ (Mein / Meine) Bruder heißt Ali. | |
+| A | Und ________ (dein / deine) Schwester? | |
+| B | ________ (Mein / Meine) Schwester heißt Sara. | |
 
-> **A:** Hallo! Wer ist das?  
-> **B:** Das ist **meine** Familie! *(Familie مؤنث → meine)*  
-> **A:** Ist das **dein** Vater? *(Vater مذكر → dein)*  
-> **B:** Ja, das ist **mein** Vater. Er heißt Sami. *(Vater مذكر → mein)*  
-> **A:** Und ist das **deine** Mutter? *(Mutter مؤنث → deine)*  
-> **B:** Ja, das ist **meine** Mutter. Sie heißt Lina. *(Mutter مؤنث → meine)*  
-> **A:** Hast du Geschwister?  
-> **B:** Ja, ich habe **einen** Bruder und **eine** Schwester.  
-> **A:** Wie heißt **dein** Bruder? *(Bruder مذكر → dein)*  
-> **B:** **Mein** Bruder heißt Ali. *(Bruder مذكر → mein)*  
-> **A:** Und **deine** Schwester? *(Schwester مؤنث → deine)*  
-> **B:** **Meine** Schwester heißt Sara. *(Schwester مؤنث → meine)*
+</div>
 
 ---
 

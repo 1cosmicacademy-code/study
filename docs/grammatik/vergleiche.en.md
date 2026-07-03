@@ -119,58 +119,48 @@ Two forms:
 
 ## 📝 Exercises
 
-### Exercise 1: Choose wie or als
-
-1. Er ist größer _______ sein Vater.
-2. Sie singt so schön _______ ein Vogel.
-3. Mein Auto ist neuer _______ deins.
-4. Ich bin genauso alt _______ du.
-5. Deutsch ist schwerer _______ Englisch.
-6. Er rennt so schnell _______ ein Pferd.
-
-### Exercise 2: Form the comparative (add -er or Umlaut)
-
-1. groß → _______________
-2. klein → _______________
-3. jung → _______________
-4. alt → _______________
-5. teuer → _______________
-6. gut → _______________
-7. viel → _______________
-8. schnell → _______________
-
-### Exercise 3: Form the superlative (am ... + -sten)
-
-1. groß → _______________
-2. schön → _______________
-3. schnell → _______________
-4. gut → _______________
-5. jung → _______________
-6. gern → _______________
-
-### Exercise 4: Complete with the correct comparison form
-
-1. Ein Ferrari ist _______________ (schnell) als ein Fahrrad.
-2. Im Winter ist es _______________ (kalt) als im Sommer.
-3. Sie ist die _______________ (gut) Sängerin der Welt.
-4. Ich lerne _______________ (gern) Deutsch als Englisch.
-5. Der Zug ist _______________ (billig) als das Flugzeug.
-
+<div class="exercise" markdown="1" data-answers='["als","wie","als","wie","als","wie"]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | Er ist größer _______ sein Vater. | |
+| 2 | Sie singt so schön _______ ein Vogel. | |
+| 3 | Mein Auto ist neuer _______ deins. | |
+| 4 | Ich bin genauso alt _______ du. | |
+| 5 | Deutsch ist schwerer _______ Englisch. | |
+| 6 | Er rennt so schnell _______ ein Pferd. | |
+</div>
+<div class="exercise" markdown="1" data-answers='["größer","kleiner","jünger","älter","teurer","besser","mehr","schneller"]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | groß → _______________ | |
+| 2 | klein → _______________ | |
+| 3 | jung → _______________ | |
+| 4 | alt → _______________ | |
+| 5 | teuer → _______________ | |
+| 6 | gut → _______________ | |
+| 7 | viel → _______________ | |
+| 8 | schnell → _______________ | |
+</div>
+<div class="exercise" markdown="1" data-answers='["am größten","am schönsten","am schnellsten","am besten","am jüngsten","am liebsten"]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | groß → _______________ | |
+| 2 | schön → _______________ | |
+| 3 | schnell → _______________ | |
+| 4 | gut → _______________ | |
+| 5 | jung → _______________ | |
+| 6 | gern → _______________ | |
+</div>
+<div class="exercise" markdown="1" data-answers='["schneller","kälter","beste","lieber","billiger"]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | Ein Ferrari ist _______________ (schnell) als ein Fahrrad. | |
+| 2 | Im Winter ist es _______________ (kalt) als im Sommer. | |
+| 3 | Sie ist die _______________ (gut) Sängerin der Welt. | |
+| 4 | Ich lerne _______________ (gern) Deutsch als Englisch. | |
+| 5 | Der Zug ist _______________ (billig) als das Flugzeug. | |
+</div>
 ---
-
-## ✅ Solutions
-
-### Solution Exercise 1
-1. als | 2. wie | 3. als | 4. wie | 5. als | 6. wie
-
-### Solution Exercise 2
-1. größer | 2. kleiner | 3. jünger | 4. älter | 5. teurer | 6. besser | 7. mehr | 8. schneller
-
-### Solution Exercise 3
-1. am größten | 2. am schönsten | 3. am schnellsten | 4. am besten | 5. am jüngsten | 6. am liebsten
-
-### Solution Exercise 4
-1. schneller | 2. kälter | 3. beste | 4. lieber | 5. billiger
 
 ---
 

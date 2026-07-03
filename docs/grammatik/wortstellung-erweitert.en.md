@@ -212,139 +212,44 @@ TE — KA — MO — LO
 
 ## 6. 📝 Exercises
 
-### Exercise 1: Identify the Satzklammer 🔍
-
-**Put brackets around the two verbs (opening and closing bracket):**
-
-1. Ich muss heute einkaufen gehen.
-2. Er hat gestern einen Film gesehen.
-3. Wir rufen dich morgen an.
-4. Kannst du mir bitte helfen?
-5. Sie ist nach Berlin gefahren.
-
-✅ **Answers:**
-
-1. Ich **[muss]** heute einkaufen **[gehen]**.
-2. Er **[hat]** gestern einen Film **[gesehen]**.
-3. Wir **[rufen]** dich morgen **[an]**.
-4. **[Kannst]** du mir bitte **[helfen]**?
-5. Sie **[ist]** nach Berlin **[gefahren]**.
-
----
-
-### Exercise 2: Order the objects correctly 🔀
-
-1. Ich schenke (das Buch / der Mutter).
-   → Ich schenke ___________________________________
-
-2. Er gibt (dem Kind / den Ball).
-   → Er gibt ___________________________________
-
-3. Ich gebe (es / dem Mann).
-   → Ich gebe ___________________________________
-
-4. Sie kauft (der Freundin / ein Geschenk).
-   → Sie kauft ___________________________________
-
-5. Er zeigt (ihnen / das Haus).
-   → Er zeigt ___________________________________
-
-✅ **Answers:**
-
-1. **der Mutter das Buch** (D → A: noun + noun)
-2. **dem Kind den Ball** (D → A: noun + noun)
-3. **es dem Mann** (A → D: pronoun + noun — pronoun first!)
-4. **der Freundin ein Geschenk** (D → A: noun + noun)
-5. **ihnen das Haus** (D → A: pronoun + noun)
-
----
-
-### Exercise 3: Place "nicht" in the correct position 🚫
-
-1. Ich komme. (negate the verb)
-   → ___________________________________
-
-2. Er fährt mit dem Auto. (negate "mit dem Auto")
-   → ___________________________________
-
-3. Sie arbeitet heute. (negate "heute")
-   → ___________________________________
-
-4. Wir gehen ins Kino. (negate completely)
-   → ___________________________________
-
-5. Ich habe den Mann gesehen. (negate "den Mann")
-   → ___________________________________
-
-✅ **Answers:**
-
-1. **Ich komme nicht.**
-2. **Er fährt nicht mit dem Auto.**
-3. **Sie arbeitet nicht heute.** (or **Heute arbeitet sie nicht.**)
-4. **Wir gehen nicht ins Kino.**
-5. **Ich habe nicht den Mann gesehen.** (negating the specific person)
-
----
-
-### Exercise 4: Order the words to form correct sentences 🔀
-
-**Apply advanced word order rules:**
-
-1. heute / fahre / Ich / nach Berlin / mit dem Zug
-   → ___________________________________
-
-2. gestern / einen Film / gesehen / hat / Er
-   → ___________________________________
-
-3. morgen / mich / anrufen / Kannst / du / ?
-   → ___________________________________
-
-4. nicht / ich / heute / komme / , / sondern morgen
-   → ___________________________________
-
-5. jeden Tag / um 7 Uhr / steht / Er / auf
-   → ___________________________________
-
-✅ **Answers:**
-
-1. **Ich fahre heute mit dem Zug nach Berlin.**
-2. **Er hat gestern einen Film gesehen.**
-3. **Kannst du mich morgen anrufen?**
-4. **Ich komme nicht heute, sondern morgen.**
-5. **Er steht jeden Tag um 7 Uhr auf.**
-
----
-
-### Exercise 5: True or False? ❌✅
-
-| # | Statement | T/F |
-|---|-----------|:---:|
-| 1 | In Satzklammer, the auxiliary verb opens and the main verb closes the bracket. | |
-| 2 | A pronoun object always comes after a noun object. | |
-| 3 | When negating only the verb, nicht goes at the end of the sentence. | |
-| 4 | In inversion, the verb goes to position 3. | |
-| 5 | Dative comes before Accusative when both are nouns. | |
-
-✅ **Answers:**
-
-1. **✅** True! Auxiliary/Modal opens, main verb/Partizip closes.
-2. **❌** False! A pronoun always comes **before** a noun.
-3. **✅** True! "Ich komme nicht." — nicht at the end.
-4. **❌** False! The verb stays in **position 2** always.
-5. **✅** True! Dative → Accusative for nouns.
-
----
-
-## 💡 Summary
-
-| Rule | Explanation |
-|:----|:-----------|
-| **Satzklammer** | Auxiliary verb = open bracket ← main verb = close bracket |
-| **Object order** | Noun + Noun → Dative before Accusative \| Pronoun → Pronoun before noun |
-| **nicht** | Negate verb → end of sentence \| Negate element → before it |
-| **Inversion** | Verb stays in position 2 even if you start with something else |
-| **TEKAMOLO** | Temporal → Kausal → Modal → Lokal |
-
-> 🎯 **Tip:** Focus on the **Satzklammer** — it's the key to understanding complex German sentences. Practice identifying the brackets in every sentence!
-
-[🔙 Back to Grammar](index.md)
+<div class="exercise" markdown="1" data-answers='["Ich [muss] heute einkaufen [gehen].","Er [hat] gestern einen Film [gesehen].","Wir [rufen] dich morgen [an].","[Kannst] du mir bitte [helfen]?","Sie [ist] nach Berlin [gefahren]."]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | Ich muss heute einkaufen gehen. | |
+| 2 | Er hat gestern einen Film gesehen. | |
+| 3 | Wir rufen dich morgen an. | |
+| 4 | Kannst du mir bitte helfen? | |
+| 5 | Sie ist nach Berlin gefahren. | |
+</div><div class="exercise" markdown="1" data-answers='["der Mutter das Buch","dem Kind den Ball","es dem Mann","der Freundin ein Geschenk","ihnen das Haus"]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | Ich schenke (das Buch / der Mutter). | |
+| 2 | Er gibt (dem Kind / den Ball). | |
+| 3 | Ich gebe (es / dem Mann). | |
+| 4 | Sie kauft (der Freundin / ein Geschenk). | |
+| 5 | Er zeigt (ihnen / das Haus). | |
+</div><div class="exercise" markdown="1" data-answers='["Ich komme nicht.","Er fährt nicht mit dem Auto.","Sie arbeitet nicht heute.","Wir gehen nicht ins Kino.","Ich habe nicht den Mann gesehen."]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | Ich komme. (negate the verb) | |
+| 2 | Er fährt mit dem Auto. (negate "mit dem Auto") | |
+| 3 | Sie arbeitet heute. (negate "heute") | |
+| 4 | Wir gehen ins Kino. (negate completely) | |
+| 5 | Ich habe den Mann gesehen. (negate "den Mann") | |
+</div><div class="exercise" markdown="1" data-answers='["Ich fahre heute mit dem Zug nach Berlin.","Er hat gestern einen Film gesehen.","Kannst du mich morgen anrufen?","Ich komme nicht heute","sondern morgen.","Er steht jeden Tag um 7 Uhr auf."]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | heute / fahre / Ich / nach Berlin / mit dem Zug | |
+| 2 | gestern / einen Film / gesehen / hat / Er | |
+| 3 | morgen / mich / anrufen / Kannst / du / ? | |
+| 4 | nicht / ich / heute / komme / , / sondern morgen | |
+| 5 | jeden Tag / um 7 Uhr / steht / Er / auf | |
+</div><div class="exercise" markdown="1" data-answers='["✅","❌","✅","❌","✅"]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 |  | |
+| 2 |  | |
+| 3 |  | |
+| 4 |  | |
+| 5 |  | |
+</div>

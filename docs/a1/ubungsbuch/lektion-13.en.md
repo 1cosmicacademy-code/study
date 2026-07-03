@@ -93,14 +93,20 @@
 
 **Fill in the blanks with the correct word:**
 
-> **Patient:** Guten Tag, Herr Doktor!  
-> **Arzt:** Guten Tag! Was fehlt ______________? (you — formal)  
-> **Patient:** Ich ______________ Kopfschmerzen. (I have — conjugate haben)  
-> **Arzt:** Haben Sie auch ______________? (fever)  
-> **Patient:** Ja, 38 Grad.  
-> **Arzt:** Machen Sie bitte den ______________ auf. (the mouth)  
-> **Patient:** Aaaaah.  
-> **Arzt:** Gute ______________! (get well soon)
+<div class="exercise" markdown="1" data-answers='["Ihnen","habe","Fieber","Mund","Besserung"]'>
+
+| Speaker | Text | Answer |
+|---------|------|--------|
+| Patient | Guten Tag, Herr Doktor! | |
+| Doctor | Guten Tag! Was fehlt ______________? (you — formal) | |
+| Patient | Ich ______________ Kopfschmerzen. (I have — conjugate haben) | |
+| Doctor | Haben Sie auch ______________? (fever) | |
+| Patient | Ja, 38 Grad. | |
+| Doctor | Machen Sie bitte den ______________ auf. (the mouth) | |
+| Patient | Aaaaah. | |
+| Doctor | Gute ______________! (get well soon) | |
+
+</div>
 
 ---
 

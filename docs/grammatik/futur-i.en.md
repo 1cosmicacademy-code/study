@@ -119,80 +119,44 @@ In German, we often use **Präsens** with a time adverb for the future instead o
 
 ## 📝 Exercises
 
-### Exercise 1: Conjugate werden in brackets
-
-1. Ich ______________ (werden) morgen einkaufen.
-2. Du ______________ (werden) bestimmt gewinnen.
-3. Er ______________ (werden) im Juli nach Spanien fliegen.
-4. Wir ______________ (werden) dich abholen.
-5. Ihr ______________ (werden) das nicht glauben.
-6. Die Kinder ______________ (werden) sich freuen.
-
-### Exercise 2: Change from Präsens to Futur I
-
-1. Ich kaufe ein Haus.
-   → Ich ______________ ein Haus ______________.
-2. Sie reist nach Italien.
-   → Sie ______________ nach Italien ______________.
-3. Wir lernen Deutsch.
-   → Wir ______________ Deutsch ______________.
-4. Der Zug kommt um 10 Uhr.
-   → Der Zug ______________ um 10 Uhr ______________.
-5. Machst du das Fenster zu?
-   → ______________ du das Fenster ______________ ______________?
-
-### Exercise 3: Write a future sentence using werden from the given words
-
-1. morgen / ich / aufräumen / mein Zimmer
-   → ___________________________________
-
-2. nächstes Jahr / wir / ein Haus / bauen
-   → ___________________________________
-
-3. du / mich / besuchen / am Wochenende?
-   → ___________________________________
-
-4. nicht / es / heute / schneien
-   → ___________________________________
-
-5. bestimmt / die Prüfung / wir / bestehen
-   → ___________________________________
-
-### Exercise 4: Choose — Präsens for future or Futur I?
-
-1. Ich ______________ (kaufe / werde kaufen) morgen ein Brot. (most common in conversation)
-2. Er ______________ (kommt / wird kommen) bestimmt heute. (strong prediction)
-3. Nächstes Jahr ______________ (beginne ich / werde ich beginnen) mein Studium. (firm intention)
-4. Es ______________ (regnet / wird regnen) morden. (weather forecast)
-5. Wir ______________ (besuchen / werden besuchen) dich am Samstag. (promise)
-
+<div class="exercise" markdown="1" data-answers='["werde","wirst","wird","werden","werdet","werden"]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | Ich ______________ (werden) morgen einkaufen. | |
+| 2 | Du ______________ (werden) bestimmt gewinnen. | |
+| 3 | Er ______________ (werden) im Juli nach Spanien fliegen. | |
+| 4 | Wir ______________ (werden) dich abholen. | |
+| 5 | Ihr ______________ (werden) das nicht glauben. | |
+| 6 | Die Kinder ______________ (werden) sich freuen. | |
+</div>
+<div class="exercise" markdown="1" data-answers='["Wirst du das Fenster zumachen?"]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | Ich kaufe ein Haus. | |
+| 2 | Sie reist nach Italien. | |
+| 3 | Wir lernen Deutsch. | |
+| 4 | Der Zug kommt um 10 Uhr. | |
+| 5 | Machst du das Fenster zu? | |
+</div>
+<div class="exercise" markdown="1" data-answers='["Wir werden die Prüfung bestimmt bestehen."]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | morgen / ich / aufräumen / mein Zimmer | |
+| 2 | nächstes Jahr / wir / ein Haus / bauen | |
+| 3 | du / mich / besuchen / am Wochenende? | |
+| 4 | nicht / es / heute / schneien | |
+| 5 | bestimmt / die Prüfung / wir / bestehen | |
+</div>
+<div class="exercise" markdown="1" data-answers='["werden besuchen (promise = Futur I)"]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | Ich ______________ (kaufe / werde kaufen) morgen ein Brot. (most common in conversation) | |
+| 2 | Er ______________ (kommt / wird kommen) bestimmt heute. (strong prediction) | |
+| 3 | Nächstes Jahr ______________ (beginne ich / werde ich beginnen) mein Studium. (firm intention) | |
+| 4 | Es ______________ (regnet / wird regnen) morden. (weather forecast) | |
+| 5 | Wir ______________ (besuchen / werden besuchen) dich am Samstag. (promise) | |
+</div>
 ---
-
-## ✅ Solutions
-
-### Solution Exercise 1
-1. werde | 2. wirst | 3. wird | 4. werden | 5. werdet | 6. werden
-
-### Solution Exercise 2
-1. Ich werde ein Haus kaufen.
-2. Sie wird nach Italien reisen.
-3. Wir werden Deutsch lernen.
-4. Der Zug wird um 10 Uhr kommen.
-5. Wirst du das Fenster zumachen?
-
-### Solution Exercise 3
-1. Morgen werde ich mein Zimmer aufräumen.
-2. Nächstes Jahr werden wir ein Haus bauen.
-3. Wirst du mich am Wochenende besuchen?
-4. Es wird heute nicht schneien.
-5. Wir werden die Prüfung bestimmt bestehen.
-
-### Solution Exercise 4
-1. kaufe (Präsens is more common in conversation)
-2. wird kommen (strong prediction = Futur I)
-3. werde ich beginnen (firm intention = Futur I)
-4. wird regnen (weather prediction = Futur I)
-5. werden besuchen (promise = Futur I)
 
 ---
 

@@ -65,39 +65,31 @@ Sie → you (formal — capital S!)
 
 ## 📝 Exercises
 
-### Exercise 1: Complete with the correct pronoun
-
-1. ___ heiße Anna. (I)
-2. ___ bist mein Freund. (you, informal)
-3. ___ ist meine Mutter. (she)
-4. ___ sind Ärzte. (we)
-5. ___ seid laut. (you all)
-
-### Exercise 2: Replace the noun with a pronoun
-
-1. Der Mann arbeitet. → ___ arbeitet.
-2. Die Frau lacht. → ___ lacht.
-3. Das Kind spielt. → ___ spielt.
-4. Die Kinder tanzen. → ___ tanzen.
-5. Anna und ich lesen. → ___ lesen.
-
-### Exercise 3: du, ihr or Sie?
-
-1. To the doctor: "___ sind Herr Müller?"
-2. To a friend: "___ kommst morgen?"
-3. To children: "___ spielt im Garten?"
-4. To a colleague (formal): "Kommen ___ morgen?"
-5. To a group of friends: "___ seid cool!"
-
-## ✅ Solutions
-
-### Solution Exercise 1
-1. Ich | 2. Du | 3. Sie | 4. Wir | 5. Ihr
-
-### Solution Exercise 2
-1. Er | 2. Sie | 3. Es | 4. Sie | 5. Wir
-
-### Solution Exercise 3
-1. Sie | 2. Du | 3. Ihr | 4. Sie | 5. Ihr
-
+<div class="exercise" markdown="1" data-answers='["Ich","Du","Sie","Wir","Ihr"]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | ___ heiße Anna. (I) | |
+| 2 | ___ bist mein Freund. (you, informal) | |
+| 3 | ___ ist meine Mutter. (she) | |
+| 4 | ___ sind Ärzte. (we) | |
+| 5 | ___ seid laut. (you all) | |
+</div>
+<div class="exercise" markdown="1" data-answers='["Er","Sie","Es","Sie","Wir"]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | Der Mann arbeitet. → ___ arbeitet. | |
+| 2 | Die Frau lacht. → ___ lacht. | |
+| 3 | Das Kind spielt. → ___ spielt. | |
+| 4 | Die Kinder tanzen. → ___ tanzen. | |
+| 5 | Anna und ich lesen. → ___ lesen. | |
+</div>
+<div class="exercise" markdown="1" data-answers='["Sie","Du","Ihr","Sie","Ihr"]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | To the doctor: "___ sind Herr Müller?" | |
+| 2 | To a friend: "___ kommst morgen?" | |
+| 3 | To children: "___ spielt im Garten?" | |
+| 4 | To a colleague (formal): "Kommen ___ morgen?" | |
+| 5 | To a group of friends: "___ seid cool!" | |
+</div>
 ---

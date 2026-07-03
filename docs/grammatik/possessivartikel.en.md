@@ -59,39 +59,31 @@ But: euer → eure (the e drops)
 
 ## 📝 Exercises
 
-### Exercise 1: meine or mein / deine or dein
-
-1. Das ist ___ (mein) Haus.
-2. Das ist ___ (mein) mother.
-3. Ist das ___ (dein) dog?
-4. Ist das ___ (dein) cat?
-5. Das sind ___ (mein) books.
-
-### Exercise 2: Complete with the possessive
-
-1. Ich habe einen Bruder. ___ Bruder heißt Ali.
-2. Du hast eine Schwester. ___ Schwester ist nett.
-3. Er hat ein Auto. ___ Auto ist blau.
-4. Wir haben ein Haus. ___ Haus ist groß.
-5. Sie (plural) haben Kinder. ___ Kinder sind jung.
-
-### Exercise 3: Choose correctly
-
-1. (Mein / Meine) father works.
-2. (Dein / Deine) mother cooks.
-3. (Sein / Seine) sister dances.
-4. (Ihr / Ihre) (her) child plays.
-5. (Unser / Unsere) parents are at home.
-
-## ✅ Solutions
-
-### Solution Exercise 1
-1. mein | 2. meine | 3. dein | 4. deine | 5. meine
-
-### Solution Exercise 2
-1. Mein | 2. Deine | 3. Sein | 4. Unser | 5. Ihre
-
-### Solution Exercise 3
-1. Mein | 2. Deine | 3. Seine | 4. Ihr | 5. Unsere
-
+<div class="exercise" markdown="1" data-answers='["mein","meine","dein","deine","meine"]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | Das ist ___ (mein) Haus. | |
+| 2 | Das ist ___ (mein) mother. | |
+| 3 | Ist das ___ (dein) dog? | |
+| 4 | Ist das ___ (dein) cat? | |
+| 5 | Das sind ___ (mein) books. | |
+</div>
+<div class="exercise" markdown="1" data-answers='["Mein","Deine","Sein","Unser","Ihre"]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | Ich habe einen Bruder. ___ Bruder heißt Ali. | |
+| 2 | Du hast eine Schwester. ___ Schwester ist nett. | |
+| 3 | Er hat ein Auto. ___ Auto ist blau. | |
+| 4 | Wir haben ein Haus. ___ Haus ist groß. | |
+| 5 | Sie (plural) haben Kinder. ___ Kinder sind jung. | |
+</div>
+<div class="exercise" markdown="1" data-answers='["Mein","Deine","Seine","Ihr","Unsere"]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | (Mein / Meine) father works. | |
+| 2 | (Dein / Deine) mother cooks. | |
+| 3 | (Sein / Seine) sister dances. | |
+| 4 | (Ihr / Ihre) (her) child plays. | |
+| 5 | (Unser / Unsere) parents are at home. | |
+</div>
 ---

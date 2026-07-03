@@ -78,76 +78,52 @@
 
 ## 📝 تمارين
 
-### تمرين 1: اختر أداة الوصل الصحيحة
-1. Der Mann, ___ (der / den / dem) dort arbeitet, ist nett.
-2. Die Frau, ___ (die / der / deren) ich kenne, kommt aus Berlin.
-3. Das Kind, ___ (das / den / dem) im Garten spielt, ist glücklich.
-4. Der Hund, ___ (den / dem / der) du fütterst, ist süß.
-5. Die Freunde, ___ (denen / die / der) ich helfe, sind dankbar.
-
-### تمرين 2: أكمل أداة الوصل المناسبة
-1. Der Film, ___ ich gesehen habe, war langweilig.
-2. Die Frau, ___ dort sitzt, ist meine Nachbarin.
-3. Das Buch, ___ auf dem Tisch liegt, gehört mir.
-4. Der Lehrer, ___ ich die Blume schenke, ist freundlich.
-5. Die Kinder, ___ Spielzeug kaputt ist, weinen.
-
-### تمرين 3: اربط الجملتين باستخدام Relativsatz
-1. Ich habe einen Freund. **Der Freund** wohnt in Hamburg.
-   → Ich habe einen Freund, ___ in Hamburg ___.
-2. Das ist ein Film. **Den Film** habe ich gestern gesehen.
-   → Das ist ein Film, ___ ich gestern ___ ___.
-3. Kennst du die Frau? **Die Frau** arbeitet im Krankenhaus.
-   → Kennst du die Frau, ___ im Krankenhaus ___?
-4. Das ist der Hund. **Dem Hund** gebe ich Futter.
-   → Das ist der Hund, ___ ich Futter ___.
-5. Ich lese ein Buch. **Das Buch** ist sehr interessant.
-   → Ich lese ein Buch, ___ sehr interessant ___.
-
-### تمرين 4: صحح الخطأ
-1. Der Mann, **den** dort arbeitet, ist jung. (غلط في الحالة)
-2. Die Frau, **der** ich sehe, ist schön. (غلط في الحالة)
-3. Das Kind, **das** ich helfe, ist klein. (غلط في الحالة)
-4. Der Film, **der** ich gesehen habe, war gut. (غلط)
-5. Die Leute, **denen** Auto kaputt ist, warten auf Hilfe. (غلط)
-
-### تمرين 5: ترجم للألمانية
-1. الرجل الذي يسكن هنا هو طبيب.
-2. المرأة التي أراها جميلة.
-3. الكتاب الذي اشتريته ممتع.
-4. الأطفال الذين أساعدهم صغار.
-5. الصديق الذي سيارته زرقاء اسمه أحمد.
-
+<div class="exercise" markdown="1" data-answers='["**der**","**die**","**das**","**den**","**denen**"]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | Der Mann, ___ (der / den / dem) dort arbeitet, ist nett. | |
+| 2 | Die Frau, ___ (die / der / deren) ich kenne, kommt aus Berlin. | |
+| 3 | Das Kind, ___ (das / den / dem) im Garten spielt, ist glücklich. | |
+| 4 | Der Hund, ___ (den / dem / der) du fütterst, ist süß. | |
+| 5 | Die Freunde, ___ (denen / die / der) ich helfe, sind dankbar. | |
+</div>
+<div class="exercise" markdown="1" data-answers='["**den**","**die**","**das**","**dem**","**deren**"]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | Der Film, ___ ich gesehen habe, war langweilig. | |
+| 2 | Die Frau, ___ dort sitzt, ist meine Nachbarin. | |
+| 3 | Das Buch, ___ auf dem Tisch liegt, gehört mir. | |
+| 4 | Der Lehrer, ___ ich die Blume schenke, ist freundlich. | |
+| 5 | Die Kinder, ___ Spielzeug kaputt ist, weinen. | |
+</div>
+<div class="exercise" markdown="1" data-answers='["Ich lese ein Buch","**das** sehr interessant **ist**."]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | Ich habe einen Freund. **Der Freund** wohnt in Hamburg. | |
+| 2 | Das ist ein Film. **Den Film** habe ich gestern gesehen. | |
+| 3 | Kennst du die Frau? **Die Frau** arbeitet im Krankenhaus. | |
+| 4 | Das ist der Hund. **Dem Hund** gebe ich Futter. | |
+| 5 | Ich lese ein Buch. **Das Buch** ist sehr interessant. | |
+</div>
+<div class="exercise" markdown="1" data-answers='["Die Leute","**deren** Auto kaputt ist","warten auf Hilfe. (Genitiv — ملكية)"]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | Der Mann, **den** dort arbeitet, ist jung. (غلط في الحالة) | |
+| 2 | Die Frau, **der** ich sehe, ist schön. (غلط في الحالة) | |
+| 3 | Das Kind, **das** ich helfe, ist klein. (غلط في الحالة) | |
+| 4 | Der Film, **der** ich gesehen habe, war gut. (غلط) | |
+| 5 | Die Leute, **denen** Auto kaputt ist, warten auf Hilfe. (غلط) | |
+</div>
+<div class="exercise" markdown="1" data-answers='["Der Freund","**dessen** Auto blau ist","heißt Ahmed."]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | الرجل الذي يسكن هنا هو طبيب. | |
+| 2 | المرأة التي أراها جميلة. | |
+| 3 | الكتاب الذي اشتريته ممتع. | |
+| 4 | الأطفال الذين أساعدهم صغار. | |
+| 5 | الصديق الذي سيارته زرقاء اسمه أحمد. | |
+</div>
 ---
-
-## ✅ الحلول
-
-### حل تمرين 1
-1. **der** | 2. **die** | 3. **das** | 4. **den** | 5. **denen**
-
-### حل تمرين 2
-1. **den** | 2. **die** | 3. **das** | 4. **dem** | 5. **deren**
-
-### حل تمرين 3
-1. Ich habe einen Freund, **der** in Hamburg **wohnt**.
-2. Das ist ein Film, **den** ich gestern **gesehen habe**.
-3. Kennst du die Frau, **die** im Krankenhaus **arbeitet**?
-4. Das ist der Hund, **dem** ich Futter **gebe**.
-5. Ich lese ein Buch, **das** sehr interessant **ist**.
-
-### حل تمرين 4
-1. Der Mann, **der** dort arbeitet, ist jung. (Nominativ مش Akkusativ)
-2. Die Frau, **die** ich sehe, ist schön. (Akkusativ مش Dativ)
-3. Das Kind, **dem** ich helfe, ist klein. (Dativ — helfen يأخذ Dativ)
-4. Der Film, **den** ich gesehen habe, war gut. (Akkusativ — sehen يأخذ Akkusativ)
-5. Die Leute, **deren** Auto kaputt ist, warten auf Hilfe. (Genitiv — ملكية)
-
-### حل تمرين 5
-1. Der Mann, **der** hier wohnt, ist Arzt.
-2. Die Frau, **die** ich sehe, ist schön.
-3. Das Buch, **das** ich gekauft habe, ist interessant.
-4. Die Kinder, **denen** ich helfe, sind klein.
-5. Der Freund, **dessen** Auto blau ist, heißt Ahmed.
 
 ---
 

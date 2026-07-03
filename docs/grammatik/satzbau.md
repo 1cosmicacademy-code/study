@@ -90,43 +90,31 @@ Ja/Nein-Frage:     الفعل في الموضع 1
 
 ## 📝 تمارين
 
-### تمرين 1: رتب الجملة
-
-1. (lerne / Ich / Deutsch) → ___
-2. (wohnst / du / Wo) → ___?
-3. (Kinder / hast / du / ?) → ___?
-4. (heute / Ich / kaufe / ein / Brot) → ___
-5. (... weil / lerne / ich / Deutsch) → ___
-
-### تمرين 2: أكمل الجملة — الفعل في الموضع الصحيح
-
-1. Ich ___ (wohnen) in Berlin.
-2. Wo ___ (arbeiten) du?
-3. ___ (haben) du einen Bruder?
-4. Heute ___ (sein) ich zu Hause.
-5. ... weil ich kein Auto ___ (haben).
-
-### تمرين 3: حدد نوع الجملة
-
-1. Kommst du mit? → ___
-2. Ich heiße Ali. → ___
-3. Was machst du? → ___
-4. Geh nach Hause! → ___
-5. ... weil es regnet. → ___
-
-## ✅ الحلول
-
-### حل تمرين 1
-1. Ich lerne Deutsch.
-2. Wo wohnst du?
-3. Hast du Kinder?
-4. Heute kaufe ich ein Brot.
-5. ... weil ich Deutsch lerne.
-
-### حل تمرين 2
-1. wohne | 2. arbeitest | 3. Hast | 4. bin | 5. habe
-
-### حل تمرين 3
-1. Ja/Nein-Frage | 2. Aussagesatz | 3. W-Frage | 4. Imperativ | 5. Nebensatz
-
+<div class="exercise" markdown="1" data-answers='["... weil ich Deutsch lerne."]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | (lerne / Ich / Deutsch) → ___ | |
+| 2 | (wohnst / du / Wo) → ___? | |
+| 3 | (Kinder / hast / du / ?) → ___? | |
+| 4 | (heute / Ich / kaufe / ein / Brot) → ___ | |
+| 5 | (... weil / lerne / ich / Deutsch) → ___ | |
+</div>
+<div class="exercise" markdown="1" data-answers='["wohne","arbeitest","Hast","bin","habe"]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | Ich ___ (wohnen) in Berlin. | |
+| 2 | Wo ___ (arbeiten) du? | |
+| 3 | ___ (haben) du einen Bruder? | |
+| 4 | Heute ___ (sein) ich zu Hause. | |
+| 5 | ... weil ich kein Auto ___ (haben). | |
+</div>
+<div class="exercise" markdown="1" data-answers='["Ja/Nein-Frage","Aussagesatz","W-Frage","Imperativ","Nebensatz"]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | Kommst du mit? → ___ | |
+| 2 | Ich heiße Ali. → ___ | |
+| 3 | Was machst du? → ___ | |
+| 4 | Geh nach Hause! → ___ | |
+| 5 | ... weil es regnet. → ___ | |
+</div>
 ---

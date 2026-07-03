@@ -125,12 +125,15 @@ von den Frau-en-n → من النساء
 
 ## 📝 تمارين
 
-### تمرين 1: أكمل بالأداة الصحيحة في Dativ
-1. Ich helfe ___ Mann. (der)
-2. Wir danken ___ Frau. (die)
-3. Das gehört ___ Kind. (das)
-4. Er antwortet ___ Lehrerin. (die)
-5. Ich fahre mit ___ Auto. (das)
+<div class="exercise" markdown="1" data-answers='["dem","der","dem","der","dem"]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | Ich helfe ___ Mann. (der) | |
+| 2 | Wir danken ___ Frau. (die) | |
+| 3 | Das gehört ___ Kind. (das) | |
+| 4 | Er antwortet ___ Lehrerin. (die) | |
+| 5 | Ich fahre mit ___ Auto. (das) | |
+</div>
 
 ### تمرين 2: أكمل بـ aus, bei, mit, nach, seit, von, zu
 1. Ich komme ___ der Schule. (من)

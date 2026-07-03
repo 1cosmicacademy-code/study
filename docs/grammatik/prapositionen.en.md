@@ -131,77 +131,52 @@ These prepositions **take Dative or Accusative** depending on the meaning!
 
 ## 📝 Exercises
 
-### Exercise 1: Choose the correct temporal preposition (um, am, im, seit, von...bis)
-
-1. _______ 9 Uhr beginnt die Arbeit. (at)
-2. _______ Montag habe ich einen Termin. (on)
-3. _______ Sommer ist es heiß. (in)
-4. _______ 2021 lerne ich Deutsch. (since)
-5. _______ 8 _______ 16 Uhr bin ich im Büro. (from ... to)
-
-### Exercise 2: Choose the correct local preposition with Dative (aus, bei, mit, nach, zu, von)
-
-1. Ich komme _______ der Türkei. (from)
-2. Sie wohnt _______ ihrer Schwester. (with / at)
-3. Ich fahre _______ dem Fahrrad zur Arbeit. (by)
-4. Wir fliegen _______ Italien. (to)
-5. Er geht _______ seinem Freund. (to)
-
-### Exercise 3: Complete with Dative or Accusative depending on context
-
-1. Das Kind sitzt auf _______ (der Stuhl). (Dative — fixed)
-2. Das Kind setzt sich auf _______ (der Stuhl). (Accusative — movement)
-3. Die Blume ist in _______ (die Vase). (Dative — fixed)
-4. Ich stelle die Blume in _______ (die Vase). (Accusative — movement)
-5. Der Hund liegt unter _______ (der Tisch). (Dative — fixed)
-
-### Exercise 4: Choose the correct preposition (durch, für, gegen, ohne, um)
-
-1. Wir gehen _______ den Wald. (through)
-2. Das Geschenk ist _______ dich. (for)
-3. Ich bin _______ Gewalt. (against)
-4. Er geht _______ mich. (without)
-5. Wir laufen _______ den Teich. (around)
-
-### Exercise 5: Translate into German
-
-1. I have been living in Germany for three years.
-   → ___________________________________
-2. In summer we travel by train to Austria.
-   → ___________________________________
-3. I put the book on the table.
-   → ___________________________________
-4. The cat is under the bed.
-   → ___________________________________
-5. From Monday to Friday I work in the office.
-   → ___________________________________
-
+<div class="exercise" markdown="1" data-answers='["Um","Am","Im","Seit","Von ... bis"]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | _______ 9 Uhr beginnt die Arbeit. (at) | |
+| 2 | _______ Montag habe ich einen Termin. (on) | |
+| 3 | _______ Sommer ist es heiß. (in) | |
+| 4 | _______ 2021 lerne ich Deutsch. (since) | |
+| 5 | _______ 8 _______ 16 Uhr bin ich im Büro. (from ... to) | |
+</div>
+<div class="exercise" markdown="1" data-answers='["aus","bei","mit","nach","zu"]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | Ich komme _______ der Türkei. (from) | |
+| 2 | Sie wohnt _______ ihrer Schwester. (with / at) | |
+| 3 | Ich fahre _______ dem Fahrrad zur Arbeit. (by) | |
+| 4 | Wir fliegen _______ Italien. (to) | |
+| 5 | Er geht _______ seinem Freund. (to) | |
+</div>
+<div class="exercise" markdown="1" data-answers='["unter **dem** Tisch (Dative)"]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | Das Kind sitzt auf _______ (der Stuhl). (Dative — fixed) | |
+| 2 | Das Kind setzt sich auf _______ (der Stuhl). (Accusative — movement) | |
+| 3 | Die Blume ist in _______ (die Vase). (Dative — fixed) | |
+| 4 | Ich stelle die Blume in _______ (die Vase). (Accusative — movement) | |
+| 5 | Der Hund liegt unter _______ (der Tisch). (Dative — fixed) | |
+</div>
+<div class="exercise" markdown="1" data-answers='["durch","für","gegen","ohne","um"]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | Wir gehen _______ den Wald. (through) | |
+| 2 | Das Geschenk ist _______ dich. (for) | |
+| 3 | Ich bin _______ Gewalt. (against) | |
+| 4 | Er geht _______ mich. (without) | |
+| 5 | Wir laufen _______ den Teich. (around) | |
+</div>
+<div class="exercise" markdown="1" data-answers='["Von Montag bis Freitag arbeite ich im Büro."]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | I have been living in Germany for three years. | |
+| 2 | In summer we travel by train to Austria. | |
+| 3 | I put the book on the table. | |
+| 4 | The cat is under the bed. | |
+| 5 | From Monday to Friday I work in the office. | |
+</div>
 ---
-
-## ✅ Solutions
-
-### Solution Exercise 1
-1. Um | 2. Am | 3. Im | 4. Seit | 5. Von ... bis
-
-### Solution Exercise 2
-1. aus | 2. bei | 3. mit | 4. nach | 5. zu
-
-### Solution Exercise 3
-1. auf **dem** Stuhl (Dative)
-2. auf **den** Stuhl (Accusative)
-3. in **der** Vase (Dative)
-4. in **die** Vase (Accusative)
-5. unter **dem** Tisch (Dative)
-
-### Solution Exercise 4
-1. durch | 2. für | 3. gegen | 4. ohne | 5. um
-
-### Solution Exercise 5
-1. Ich wohne seit drei Jahren in Deutschland.
-2. Im Sommer fahren wir mit dem Zug nach Österreich.
-3. Ich lege das Buch auf den Tisch.
-4. Die Katze ist unter dem Bett.
-5. Von Montag bis Freitag arbeite ich im Büro.
 
 ---
 

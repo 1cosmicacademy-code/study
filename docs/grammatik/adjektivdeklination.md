@@ -110,39 +110,34 @@
 
 ## 📝 تمارين — أكمل النهاية الصحيحة
 
-### تمرين 1: التصريف الضعيف (ضعيف)
-1. Ich kenne d___ nett___ Mann.
-2. D___ klein___ Kind spielt im Garten.
-3. Ich gebe d___ alt___ Frau die Hand.
-4. D___ neu___ Auto ist rot.
-5. Die schön___ Blumen blühen im Frühling.
-
-### تمرين 2: التصريف القوي (Stark)
-1. Ich trinke kalt___ Wasser.
-2. Er isst frisch___ Brot.
-3. Mit warm___ Milch schmeckt es besser.
-4. Ich habe gut___ Freunde.
-5. Schön___ Wetter macht mich glücklich.
-
-### تمرين 3: التصريف المختلط (Gemischt)
-1. Das ist ein interessant___ Film.
-2. Ich habe einen gut___ Freund.
-3. Sie trägt eine schön___ Jacke.
-4. Wir helfen einem alt___ Mann.
-5. Er sucht kein___ neu___ Wohnung.
-
+<div class="exercise" markdown="1" data-answers='["den netten","Das kleine","der alten","Das neue","schönen"]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | Ich kenne d___ nett___ Mann. | |
+| 2 | D___ klein___ Kind spielt im Garten. | |
+| 3 | Ich gebe d___ alt___ Frau die Hand. | |
+| 4 | D___ neu___ Auto ist rot. | |
+| 5 | Die schön___ Blumen blühen im Frühling. | |
+</div>
+<div class="exercise" markdown="1" data-answers='["kaltes","frisches","warmer","gute","Schönes"]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | Ich trinke kalt___ Wasser. | |
+| 2 | Er isst frisch___ Brot. | |
+| 3 | Mit warm___ Milch schmeckt es besser. | |
+| 4 | Ich habe gut___ Freunde. | |
+| 5 | Schön___ Wetter macht mich glücklich. | |
+</div>
+<div class="exercise" markdown="1" data-answers='["interessanter","guten","schöne","alten","keine neue"]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | Das ist ein interessant___ Film. | |
+| 2 | Ich habe einen gut___ Freund. | |
+| 3 | Sie trägt eine schön___ Jacke. | |
+| 4 | Wir helfen einem alt___ Mann. | |
+| 5 | Er sucht kein___ neu___ Wohnung. | |
+</div>
 ---
-
-## ✅ الحلول
-
-### حل تمرين 1
-1. den netten | 2. Das kleine | 3. der alten | 4. Das neue | 5. schönen
-
-### حل تمرين 2
-1. kaltes | 2. frisches | 3. warmer | 4. gute | 5. Schönes
-
-### حل تمرين 3
-1. interessanter | 2. guten | 3. schöne | 4. alten | 5. keine neue
 
 ---
 

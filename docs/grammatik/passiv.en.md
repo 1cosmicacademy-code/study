@@ -95,71 +95,52 @@ When combining Modalverb with Passiv:
 
 ## 📝 Exercises
 
-### Exercise 1: Identify — Aktiv or Passiv?
-1. Der Mann kauft ein Auto. → ___
-2. Das Auto wird gekauft. → ___
-3. Die Kinder spielen im Garten. → ___
-4. Das Fenster wird geöffnet. → ___
-5. Der Brief wird geschrieben. → ___
-
-### Exercise 2: Convert from Aktiv to Passiv
-1. Der Bäcker backt das Brot. → Das Brot ___ ___.
-2. Der Mechaniker repariert das Auto. → Das Auto ___ ___.
-3. Die Mutter kocht das Essen. → Das Essen ___ ___.
-4. Der Schüler liest das Buch. → Das Buch ___ ___.
-5. Der Künstler malt das Bild. → Das Bild ___ ___.
-
-### Exercise 3: Fill in the correct form of werden
-1. Das Wasser ___ getrunken.
-2. Die Bücher ___ gelesen.
-3. Der Kaffee ___ getrunken.
-4. Die Blumen ___ gegossen.
-5. Ich ___ gefragt.
-
-### Exercise 4: Passiv with Modalverb
-1. Man muss die Aufgabe machen. → Die Aufgabe ___ ___ ___.
-2. Man kann das Problem lösen. → Das Problem ___ ___ ___.
-3. Man soll den Müll trennen. → Der Müll ___ ___ ___.
-4. Man darf hier nicht rauchen. → Hier ___ nicht ___ ___.
-5. Man muss die Tür schließen. → Die Tür ___ ___ ___.
-
-### Exercise 5: Correct the error
-1. Das Buch wird lesen. (wrong)
-2. Die Suppe wird gekocht werden. (extra word)
-3. Der Brief wird von der Lehrer geschrieben. (wrong Dativ)
-4. Das Fenster kann geöffnet. (missing word)
-5. Die Kinder werden gefragt von der Mutter. (wrong order)
-
+<div class="exercise" markdown="1" data-answers='["**Aktiv**","**Passiv**","**Aktiv**","**Passiv**","**Passiv**"]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | Der Mann kauft ein Auto. → ___ | |
+| 2 | Das Auto wird gekauft. → ___ | |
+| 3 | Die Kinder spielen im Garten. → ___ | |
+| 4 | Das Fenster wird geöffnet. → ___ | |
+| 5 | Der Brief wird geschrieben. → ___ | |
+</div>
+<div class="exercise" markdown="1" data-answers='["Das Bild **wird gemalt**."]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | Der Bäcker backt das Brot. → Das Brot ___ ___. | |
+| 2 | Der Mechaniker repariert das Auto. → Das Auto ___ ___. | |
+| 3 | Die Mutter kocht das Essen. → Das Essen ___ ___. | |
+| 4 | Der Schüler liest das Buch. → Das Buch ___ ___. | |
+| 5 | Der Künstler malt das Bild. → Das Bild ___ ___. | |
+</div>
+<div class="exercise" markdown="1" data-answers='["**wird**","**werden**","**wird**","**werden**","**werde**"]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | Das Wasser ___ getrunken. | |
+| 2 | Die Bücher ___ gelesen. | |
+| 3 | Der Kaffee ___ getrunken. | |
+| 4 | Die Blumen ___ gegossen. | |
+| 5 | Ich ___ gefragt. | |
+</div>
+<div class="exercise" markdown="1" data-answers='["Die Tür **muss geschlossen werden**."]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | Man muss die Aufgabe machen. → Die Aufgabe ___ ___ ___. | |
+| 2 | Man kann das Problem lösen. → Das Problem ___ ___ ___. | |
+| 3 | Man soll den Müll trennen. → Der Müll ___ ___ ___. | |
+| 4 | Man darf hier nicht rauchen. → Hier ___ nicht ___ ___. | |
+| 5 | Man muss die Tür schließen. → Die Tür ___ ___ ___. | |
+</div>
+<div class="exercise" markdown="1" data-answers='["Die Kinder **werden von der Mutter gefragt**. (von der Mutter before gefragt)"]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | Das Buch wird lesen. (wrong) | |
+| 2 | Die Suppe wird gekocht werden. (extra word) | |
+| 3 | Der Brief wird von der Lehrer geschrieben. (wrong Dativ) | |
+| 4 | Das Fenster kann geöffnet. (missing word) | |
+| 5 | Die Kinder werden gefragt von der Mutter. (wrong order) | |
+</div>
 ---
-
-## ✅ Solutions
-
-### Solution Exercise 1
-1. **Aktiv** | 2. **Passiv** | 3. **Aktiv** | 4. **Passiv** | 5. **Passiv**
-
-### Solution Exercise 2
-1. Das Brot **wird gebacken**.
-2. Das Auto **wird repariert**.
-3. Das Essen **wird gekocht**.
-4. Das Buch **wird gelesen**.
-5. Das Bild **wird gemalt**.
-
-### Solution Exercise 3
-1. **wird** | 2. **werden** | 3. **wird** | 4. **werden** | 5. **werde**
-
-### Solution Exercise 4
-1. Die Aufgabe **muss gemacht werden**.
-2. Das Problem **kann gelöst werden**.
-3. Der Müll **soll getrennt werden**.
-4. Hier **darf nicht geraucht werden**.
-5. Die Tür **muss geschlossen werden**.
-
-### Solution Exercise 5
-1. Das Buch **wird gelesen**. (not lesen)
-2. Die Suppe **wird gekocht**. (remove the extra werden)
-3. Der Brief wird **von der Lehrerin** / **vom Lehrer** geschrieben.
-4. Das Fenster kann **geöffnet werden**. (add werden)
-5. Die Kinder **werden von der Mutter gefragt**. (von der Mutter before gefragt)
 
 ---
 

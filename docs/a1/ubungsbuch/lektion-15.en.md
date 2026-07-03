@@ -102,43 +102,20 @@
 
 </div>
 ---
-## Exercise 4: Put the words in order 🔄
+<div class="exercise" markdown="1" data-answers='["Wie komme ich zum Bahnhof?","Gehen Sie geradeaus.","Wo ist die Post?","An der Ampel links.","Das Café ist um die Ecke.","Wie komme ich zur Schule?","Das ist nicht weit.","Gehen Sie dann links."]'>
 
-**Arrange the words to make a correct German sentence:**
+| # | Words | Correct Sentence |
+|---|-------|-----------------|
+| 1 | ich / zum / Wie / Bahnhof / komme / ? | |
+| 2 | Sie / Gehen / geradeaus / . | |
+| 3 | der / Post / Wo / ist / ? | |
+| 4 | Ampel / An / links / der / . | |
+| 5 | ist / Das / um / Ecke / Café / die / . | |
+| 6 | komme / Wie / zur / ich / Schule / ? | |
+| 7 | weit / nicht / Das / ist / . | |
+| 8 | Sie / dann / Gehen / links / . | |
 
-1. ich / zum / Wie / Bahnhof / komme / ?
-   **→** _______________________________
-
-2. Sie / Gehen / geradeaus / .
-   **→** _______________________________
-
-3. der / Post / Wo / ist / ?
-   **→** _______________________________
-
-4. Ampel / An / links / der / .
-   **→** _______________________________
-
-5. ist / Das / um / Ecke / Café / die / .
-   **→** _______________________________
-
-6. komme / Wie / zur / ich / Schule / ?
-   **→** _______________________________
-
-7. weit / nicht / Das / ist / .
-   **→** _______________________________
-
-8. Sie / dann / Gehen / links / .
-   **→** _______________________________
-
-✅ **Answers:**
-1. **Wie komme ich zum Bahnhof?**
-2. **Gehen Sie geradeaus.**
-3. **Wo ist die Post?**
-4. **An der Ampel links.**
-5. **Das Café ist um die Ecke.**
-6. **Wie komme ich zur Schule?**
-7. **Das ist nicht weit.**
-8. **Gehen Sie dann links.**
+</div>
 
 ---
 
@@ -193,27 +170,20 @@
 > **Anna:** Vielen Dank!
 > **Herr Müller:** Gern geschehen!
 
-**Complete the sentences:**
+<div class="exercise" markdown="1" data-answers='["zum Krankenhaus","geradeaus, zur","links","zweiten","nicht weit","fünfzehn","Vielen Dank","Gern geschehen"]'>
 
-1. Anna asks: "Wie komme ich ___ ___?" → **__________________**
-2. Herr Müller says: "Gehen Sie ___ bis ___ Ampel." → **__________________**
-3. Then Anna goes ___ (left). → **__________________**
-4. The hospital is in the ___ (second) street on the right. → **__________________**
-5. It is ___ (not far). → **__________________**
-6. You need ___ minutes on foot. → **__________________**
-7. Anna says at the end: "___ ___!" → **__________________**
-8. Herr Müller replies: "___ ___!" → **__________________**
+| # | Question | Answer |
+|---|----------|--------|
+| 1 | Anna asks: "Wie komme ich ___ ___?" | |
+| 2 | Herr Müller says: "Gehen Sie ___ bis ___ Ampel." | |
+| 3 | Then Anna goes ___ (left). | |
+| 4 | The hospital is in the ___ (second) street on the right. | |
+| 5 | It is ___ (not far). | |
+| 6 | You need ___ minutes on foot. | |
+| 7 | Anna says at the end: "___ ___!" | |
+| 8 | Herr Müller replies: "___ ___!" | |
 
-✅ **Answers:**
-
-1. **zum Krankenhaus**
-2. **geradeaus, zur** (bis zur Ampel)
-3. **links**
-4. **zweiten**
-5. **nicht weit**
-6. **fünfzehn** (15)
-7. **Vielen Dank**
-8. **Gern geschehen**
+</div>
 
 ---
 

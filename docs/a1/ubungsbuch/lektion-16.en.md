@@ -145,60 +145,22 @@
 
 **Complete the dialogue between the customer and the salesperson:**
 
-> **Customer:** Guten Tag!
-> *(Good day!)*
->
-> **Salesperson:** Guten Tag! Kann ich ______________ helfen?
-> *(Good day! Can I help you?)*
->
-> **Customer:** Ja, ich ______________ die Bananen. Wo sind die Bananen?
-> *(Yes, I'm looking for the bananas. Where are the bananas?)*
->
-> **Salesperson:** Die Bananen sind dort. Sie ______________ 1,99 Euro pro Kilo.
-> *(The bananas are there. They cost 1.99 euros per kilo.)*
->
-> **Customer:** Danke! ______________ möchte ein Kilo Bananen, ______________.
-> *(Thank you! I'd like a kilo of bananas, please.)*
->
-> **Salesperson:** Bitte sehr! Möchten Sie ______________ etwas?
-> *(Here you go! Would you like anything else?)*
->
-> **Customer:** Nein, danke. Das ist ______________. Was macht das ______________?
-> *(No, thanks. That's everything. What's the total?)*
->
-> **Salesperson:** Das macht 1,99 Euro, bitte.
-> *(That's 1.99 euros, please.)*
->
-> **Customer:** Hier sind 2 Euro. ______________, bitte.
-> *(Here are 2 euros. Keep the change, please.)*
->
-> **Salesperson:** Hier ist 1 Cent ______________. Danke schön! Auf Wiedersehen!
-> *(Here is 1 cent change. Thank you very much! Goodbye!)*
+<div class="exercise" markdown="1" data-answers='["Ihnen","suche","kosten","Ich","bitte","noch","alles","zusammen","Stimmt so","Rückgeld"]'>
 
-✅ **Answers:**
+| Speaker | Text | Answer |
+|---------|------|--------|
+| Customer | Guten Tag! *(Good day!)* | |
+| Salesperson | Guten Tag! Kann ich ______________ helfen? *(Good day! Can I help you?)* | |
+| Customer | Ja, ich ______________ die Bananen. Wo sind die Bananen? *(Yes, I'm looking for the bananas. Where are the bananas?)* | |
+| Salesperson | Die Bananen sind dort. Sie ______________ 1,99 Euro pro Kilo. *(The bananas are there. They cost 1.99 euros per kilo.)* | |
+| Customer | Danke! ______________ möchte ein Kilo Bananen, ______________. *(Thank you! I'd like a kilo of bananas, please.)* | |
+| Salesperson | Bitte sehr! Möchten Sie ______________ etwas? *(Here you go! Would you like anything else?)* | |
+| Customer | Nein, danke. Das ist ______________. Was macht das ______________? *(No, thanks. That's everything. What's the total?)* | |
+| Salesperson | Das macht 1,99 Euro, bitte. *(That's 1.99 euros, please.)* | |
+| Customer | Hier sind 2 Euro. ______________, bitte. *(Here are 2 euros. Keep the change, please.)* | |
+| Salesperson | Hier ist 1 Cent ______________. Danke schön! Auf Wiedersehen! *(Here is 1 cent change. Thank you very much! Goodbye!)* | |
 
-> **Customer:** Guten Tag!
->
-> **Salesperson:** Guten Tag! Kann ich **Ihnen** helfen?
->
-> **Customer:** Ja, ich **suche** die Bananen. Wo sind die Bananen?
->
-> **Salesperson:** Die Bananen sind dort. Sie **kosten** 1,99 Euro pro Kilo.
->
-> **Customer:** Danke! **Ich** möchte ein Kilo Bananen, **bitte**.
->
-> **Salesperson:** Bitte sehr! Möchten Sie **noch** etwas?
->
-> **Customer:** Nein, danke. Das ist **alles**. Was macht das **zusammen**?
->
-> **Salesperson:** Das macht 1,99 Euro, bitte.
->
-> **Customer:** Hier sind 2 Euro. **Stimmt so**, bitte.
->
-> **Salesperson:** Hier ist 1 Cent **Rückgeld**. Danke schön! Auf Wiedersehen!
-
-> 💡 **Stimmt so** = "Keep the change"
-> **Rückgeld** = change (money returned)
+</div>
 
 ---
 

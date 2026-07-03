@@ -117,60 +117,53 @@ Die Tasche der Frau ist neu.
 
 ## 📝 تمارين
 
-### تمرين 1: أكمل بالأداة الصحيحة في Genitiv
-1. Das ist das Buch ___ Kindes. (das)
-2. Die Farbe ___ Himmels ist blau. (der)
-3. Der Hund ___ Frau bellt. (die)
-4. Das Zimmer ___ Jungen ist klein. (der)
-5. Wegen ___ Wetters bleibe ich zu Hause. (das)
-
-### تمرين 2: أضف النهاية الصحيحة للاسم (-s / -es / بدون)
-1. das Haus des Vater___
-2. die Arbeit des Mann___
-3. der Name des Kind___
-4. die Tür des Haus___
-5. die Freundin der Frau___ (مؤنث — بدون)
-6. das Ende des Film___
-
-### تمرين 3: حول من Dativ (von) إلى Genitiv
-1. das Auto von dem Vater → das Auto ___
-2. die Tasche von der Mutter → die Tasche ___
-3. das Buch von dem Kind → das Buch ___
-4. die Freunde von den Eltern → die Freunde ___
-5. das Haus von meinem Onkel → das Haus ___
-
-### تمرين 4: أكمل الجملة بـ wegen, trotz, während, statt
-1. ___ des Lärms kann ich nicht schlafen. (بسبب)
-2. ___ des Regens gehen wir spazieren. (رغم)
-3. ___ des Films esse ich Popcorn. (أثناء)
-4. ___ des Buches sehe ich fern. (بدلاً من)
-5. ___ der Ferien fahren wir nach Berlin. (أثناء)
-
-### تمرين 5: اختر الصحيح
-1. Das ist das Haus (der / des / dem) Vaters.
-2. Wegen (den / dem / des) Regens bleibe ich hier.
-3. Die Mutter (der / des / dem) Kindes ist freundlich.
-4. Trotz (der / des / dem) Schmerzen arbeitet er.
-5. Die Farbe (der / die / dem) Blume ist rot.
-
+<div class="exercise" markdown="1" data-answers='["des","des","der","des","des"]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | Das ist das Buch ___ Kindes. (das) | |
+| 2 | Die Farbe ___ Himmels ist blau. (der) | |
+| 3 | Der Hund ___ Frau bellt. (die) | |
+| 4 | Das Zimmer ___ Jungen ist klein. (der) | |
+| 5 | Wegen ___ Wetters bleibe ich zu Hause. (das) | |
+</div>
+<div class="exercise" markdown="1" data-answers='["Vaters","Mannes","Kindes","Hauses","Frau (بدون)","Films"]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | das Haus des Vater___ | |
+| 2 | die Arbeit des Mann___ | |
+| 3 | der Name des Kind___ | |
+| 4 | die Tür des Haus___ | |
+| 5 | die Freundin der Frau___ (مؤنث — بدون) | |
+| 6 | das Ende des Film___ | |
+</div>
+<div class="exercise" markdown="1" data-answers='["des Vaters","der Mutter","des Kindes","der Eltern","meines Onkels"]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | das Auto von dem Vater → das Auto ___ | |
+| 2 | die Tasche von der Mutter → die Tasche ___ | |
+| 3 | das Buch von dem Kind → das Buch ___ | |
+| 4 | die Freunde von den Eltern → die Freunde ___ | |
+| 5 | das Haus von meinem Onkel → das Haus ___ | |
+</div>
+<div class="exercise" markdown="1" data-answers='["Wegen","Trotz","Wahrend","Statt / Anstatt","Wahrend"]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | ___ des Lärms kann ich nicht schlafen. (بسبب) | |
+| 2 | ___ des Regens gehen wir spazieren. (رغم) | |
+| 3 | ___ des Films esse ich Popcorn. (أثناء) | |
+| 4 | ___ des Buches sehe ich fern. (بدلاً من) | |
+| 5 | ___ der Ferien fahren wir nach Berlin. (أثناء) | |
+</div>
+<div class="exercise" markdown="1" data-answers='["des","des","des","der","der"]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | Das ist das Haus (der / des / dem) Vaters. | |
+| 2 | Wegen (den / dem / des) Regens bleibe ich hier. | |
+| 3 | Die Mutter (der / des / dem) Kindes ist freundlich. | |
+| 4 | Trotz (der / des / dem) Schmerzen arbeitet er. | |
+| 5 | Die Farbe (der / die / dem) Blume ist rot. | |
+</div>
 ---
-
-## ✅ الحلول
-
-### حل تمرين 1
-1. des | 2. des | 3. der | 4. des | 5. des
-
-### حل تمرين 2
-1. Vaters | 2. Mannes | 3. Kindes | 4. Hauses | 5. Frau (بدون) | 6. Films
-
-### حل تمرين 3
-1. des Vaters | 2. der Mutter | 3. des Kindes | 4. der Eltern | 5. meines Onkels
-
-### حل تمرين 4
-1. Wegen | 2. Trotz | 3. Wahrend | 4. Statt / Anstatt | 5. Wahrend
-
-### حل تمرين 5
-1. des | 2. des | 3. des | 4. der | 5. der
 
 ---
 

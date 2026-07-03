@@ -93,14 +93,20 @@
 
 **املأ الفراغ بالكلمة المناسبة:**
 
-> **Patient:** Guten Tag, Herr Doktor!  
-> **Arzt:** Guten Tag! Was fehlt ______________? (لك — رسمي)  
-> **Patient:** Ich ______________ Kopfschmerzen. (عندي — تصريف haben)  
-> **Arzt:** Haben Sie auch ______________? (حرارة)  
-> **Patient:** Ja, 38 Grad.  
-> **Arzt:** Machen Sie bitte den ______________ auf. (الفم)  
-> **Patient:** Aaaaah.  
-> **Arzt:** Gute ______________! (الشفاء العاجل)
+<div class="exercise" markdown="1" data-answers='["Ihnen","habe","Fieber","Mund","Besserung"]'>
+
+| المتحدث | النص | الإجابة |
+|---------|------|---------|
+| Patient | Guten Tag, Herr Doktor! | |
+| Arzt | Guten Tag! Was fehlt ______________? (لك — رسمي) | |
+| Patient | Ich ______________ Kopfschmerzen. (عندي — تصريف haben) | |
+| Arzt | Haben Sie auch ______________? (حرارة) | |
+| Patient | Ja, 38 Grad. | |
+| Arzt | Machen Sie bitte den ______________ auf. (الفم) | |
+| Patient | Aaaaah. | |
+| Arzt | Gute ______________! (الشفاء العاجل) | |
+
+</div>
 
 ---
 

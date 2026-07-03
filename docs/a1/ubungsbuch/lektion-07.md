@@ -158,32 +158,25 @@
 
 **اكمل الحوار بين النادل والزبون:**
 
-> **Kellner:** Guten Tag! Was möchten Sie ______________?
-> *(مساء الخير! ماذا تريد أن تأكل؟)*
->
-> **Gast:** Ich möchte einen Salat und ______________ Wasser, bitte.
-> *(أريد سلطة وماء من فضلك.)*
->
-> **Kellner:** Möchten Sie ______________ Fleisch oder Fisch?
-> *(هل تريد لحماً أو سمكاً؟)*
->
-> **Gast:** Nein danke, ich esse ______________ Fleisch und ______________ Fisch. Ich bin Vegetarierin.
-> *(لا شكراً، أنا لا آكل لحماً ولا سمكاً. أنا نباتية.)*
->
-> **Kellner:** Kein Problem! Möchten Sie auch einen ______________?
-> *(لا مشكلة! هل تريد أيضاً عصيراً؟)*
->
-> **Gast:** Ja, einen Orangensaft, ______________.
-> *(نعم، عصير برتقال من فضلك.)*
->
-> **Kellner:** Sehr gerne. ______________ Sie noch etwas?
-> *(بكل سرور. هل تريد شيئاً أيضاً؟)*
->
-> **Gast:** Nein, danke. Das ist alles. Die ______________, bitte.
-> *(لا شكراً. هذا كل شيء. الفاتورة من فضلك.)*
+<div class="exercise" markdown="1" data-answers='["essen","ein","etwas","kein","keinen","Saft","bitte","Möchten","Rechnung"]'>
 
+| المتحدث | النص | الإجابة |
+|---------|------|---------|
+| Kellner | Guten Tag! Was möchten Sie ________? (ماذا تريد أن تأكل؟) | |
+| Gast | Ich möchte einen Salat und ________ Wasser, bitte. (سلطة وماء من فضلك.) | |
+| Kellner | Möchten Sie ________ Fleisch oder Fisch? (هل تريد لحماً أو سمكاً؟) | |
+| Gast | Nein danke, ich esse ________ Fleisch... (لا آكل لحماً) | |
+| Gast | ...und ________ Fisch. Ich bin Vegetarierin. (ولا سمكاً. أنا نباتية.) | |
+| Kellner | Möchten Sie auch einen ________? (هل تريد أيضاً عصيراً؟) | |
+| Gast | Ja, einen Orangensaft, ________. (عصير برتقال من فضلك.) | |
+| Kellner | ________ Sie noch etwas? (هل تريد شيئاً أيضاً؟) | |
+| Gast | Nein, danke. Die ________, bitte. (الفاتورة من فضلك.) | |
+
+</div>
 
 ---
+
+
 <div class="exercise" markdown="1" data-answers='["ج (sauer) ... sauer","أ (süß) ... süß","ه (salzig) ... salzig","ب (scharf) ... scharf","د (bitter) ... bitter"]'>
 
 

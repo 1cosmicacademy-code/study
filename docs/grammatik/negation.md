@@ -69,28 +69,22 @@ nicht = not → ينفي الأفعال والصفات
 
 ## 📝 تمارين
 
-### تمرين 1: kein oder nicht؟
-
-1. Ich habe ___ Auto.
-2. Das ist ___ richtig.
-3. Er kommt ___ .
-4. Das ist ___ Problem.
-5. Wir haben ___ Kinder.
-
-### تمرين 2: أكمل الجملة
-
-1. Das ist ___ (kein) gute Idee.
-2. Ich mag ___ (نفي الفعل) Fußball.
-3. Sie hat ___ (kein) Bruder.
-4. Wir sind ___ (نفي الصفة) müde.
-5. Das ist ___ (kein) Hund, sondern eine Katze.
-
-## ✅ الحلول
-
-### حل تمرين 1
-1. kein | 2. nicht | 3. nicht | 4. kein | 5. keine
-
-### حل تمرين 2
-1. keine | 2. nicht | 3. keinen | 4. nicht | 5. kein
-
+<div class="exercise" markdown="1" data-answers='["kein","nicht","nicht","kein","keine"]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | Ich habe ___ Auto. | |
+| 2 | Das ist ___ richtig. | |
+| 3 | Er kommt ___ . | |
+| 4 | Das ist ___ Problem. | |
+| 5 | Wir haben ___ Kinder. | |
+</div>
+<div class="exercise" markdown="1" data-answers='["keine","nicht","keinen","nicht","kein"]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | Das ist ___ (kein) gute Idee. | |
+| 2 | Ich mag ___ (نفي الفعل) Fußball. | |
+| 3 | Sie hat ___ (kein) Bruder. | |
+| 4 | Wir sind ___ (نفي الصفة) müde. | |
+| 5 | Das ist ___ (kein) Hund, sondern eine Katze. | |
+</div>
 ---

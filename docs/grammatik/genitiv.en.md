@@ -117,60 +117,53 @@ In spoken (informal) German, people often use **von + Dative** instead of the Ge
 
 ## 📝 Exercises
 
-### Exercise 1: Complete with the correct Genitive article
-1. Das ist das Buch ___ Kindes. (das)
-2. Die Farbe ___ Himmels ist blau. (der)
-3. Der Hund ___ Frau bellt. (die)
-4. Das Zimmer ___ Jungen ist klein. (der)
-5. Wegen ___ Wetters bleibe ich zu Hause. (das)
-
-### Exercise 2: Add the correct ending to the noun (-s / -es / nothing)
-1. das Haus des Vater___
-2. die Arbeit des Mann___
-3. der Name des Kind___
-4. die Tur des Haus___
-5. die Freundin der Frau___ (feminine — no ending)
-6. das Ende des Film___
-
-### Exercise 3: Convert from Dative (von) to Genitive
-1. das Auto von dem Vater ** das Auto ___
-2. die Tasche von der Mutter ** die Tasche ___
-3. das Buch von dem Kind ** das Buch ___
-4. die Freunde von den Eltern ** die Freunde ___
-5. das Haus von meinem Onkel ** das Haus ___
-
-### Exercise 4: Fill in wegen, trotz, wahrend, statt
-1. ___ des Larms kann ich nicht schlafen. (because of)
-2. ___ des Regens gehen wir spazieren. (despite)
-3. ___ des Films esse ich Popcorn. (during)
-4. ___ des Buches sehe ich fern. (instead of)
-5. ___ der Ferien fahren wir nach Berlin. (during)
-
-### Exercise 5: Choose the correct option
-1. Das ist das Haus (der / des / dem) Vaters.
-2. Wegen (den / dem / des) Regens bleibe ich hier.
-3. Die Mutter (der / des / dem) Kindes ist freundlich.
-4. Trotz (der / des / dem) Schmerzen arbeitet er.
-5. Die Farbe (der / die / dem) Blume ist rot.
-
+<div class="exercise" markdown="1" data-answers='["des","des","der","des","des"]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | Das ist das Buch ___ Kindes. (das) | |
+| 2 | Die Farbe ___ Himmels ist blau. (der) | |
+| 3 | Der Hund ___ Frau bellt. (die) | |
+| 4 | Das Zimmer ___ Jungen ist klein. (der) | |
+| 5 | Wegen ___ Wetters bleibe ich zu Hause. (das) | |
+</div>
+<div class="exercise" markdown="1" data-answers='["Vaters","Mannes","Kindes","Hauses","Frau (none)","Films"]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | das Haus des Vater___ | |
+| 2 | die Arbeit des Mann___ | |
+| 3 | der Name des Kind___ | |
+| 4 | die Tur des Haus___ | |
+| 5 | die Freundin der Frau___ (feminine — no ending) | |
+| 6 | das Ende des Film___ | |
+</div>
+<div class="exercise" markdown="1" data-answers='["des Vaters","der Mutter","des Kindes","der Eltern","meines Onkels"]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | das Auto von dem Vater ** das Auto ___ | |
+| 2 | die Tasche von der Mutter ** die Tasche ___ | |
+| 3 | das Buch von dem Kind ** das Buch ___ | |
+| 4 | die Freunde von den Eltern ** die Freunde ___ | |
+| 5 | das Haus von meinem Onkel ** das Haus ___ | |
+</div>
+<div class="exercise" markdown="1" data-answers='["Wegen","Trotz","Wahrend","Statt / Anstatt","Wahrend"]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | ___ des Larms kann ich nicht schlafen. (because of) | |
+| 2 | ___ des Regens gehen wir spazieren. (despite) | |
+| 3 | ___ des Films esse ich Popcorn. (during) | |
+| 4 | ___ des Buches sehe ich fern. (instead of) | |
+| 5 | ___ der Ferien fahren wir nach Berlin. (during) | |
+</div>
+<div class="exercise" markdown="1" data-answers='["des","des","des","der","der"]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | Das ist das Haus (der / des / dem) Vaters. | |
+| 2 | Wegen (den / dem / des) Regens bleibe ich hier. | |
+| 3 | Die Mutter (der / des / dem) Kindes ist freundlich. | |
+| 4 | Trotz (der / des / dem) Schmerzen arbeitet er. | |
+| 5 | Die Farbe (der / die / dem) Blume ist rot. | |
+</div>
 ---
-
-## ✅ Solutions
-
-### Solution Exercise 1
-1. des | 2. des | 3. der | 4. des | 5. des
-
-### Solution Exercise 2
-1. Vaters | 2. Mannes | 3. Kindes | 4. Hauses | 5. Frau (none) | 6. Films
-
-### Solution Exercise 3
-1. des Vaters | 2. der Mutter | 3. des Kindes | 4. der Eltern | 5. meines Onkels
-
-### Solution Exercise 4
-1. Wegen | 2. Trotz | 3. Wahrend | 4. Statt / Anstatt | 5. Wahrend
-
-### Solution Exercise 5
-1. des | 2. des | 3. des | 4. der | 5. der
 
 ---
 

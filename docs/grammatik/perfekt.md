@@ -165,67 +165,56 @@ ge- + جذر الفعل (معدل) + -en
 
 ## 📝 تمارين
 
-### تمرين 1: أكمل بـ haben أو sein
-1. Ich ___ Deutsch gelernt.
-2. Er ___ nach Hause gegangen.
-3. Wir ___ einen Kuchen gebacken.
-4. Sie ___ in Berlin gewohnt.
-5. Das Kind ___ eingeschlafen.
-6. Ihr ___ spät gekommen.
-7. Was ___ du gemacht?
-
-### تمرين 2: كون Partizip II
-1. kaufen → ___
-2. trinken → ___
-3. arbeiten → ___
-4. schreiben → ___
-5. studieren → ___
-6. aufstehen → ___
-7. fahren → ___
-
-### تمرين 3: اكتب الجملة في Perfekt
-1. Ich kaufe ein Buch. → Ich ___ ein Buch ___.
-2. Sie fährt nach Berlin. → Sie ___ nach Berlin ___.
-3. Wir essen Pizza. → Wir ___ Pizza ___.
-4. Er liest die Zeitung. → Er ___ die Zeitung ___.
-5. Das Kind schläft ein. → Das Kind ___ ___.
-
-### تمرين 4: حدد الخطأ وصححه
-1. Ich habe nach Berlin gefahren.
-2. Sie hat gestern gekommen.
-3. Wir haben im Park gespielt.
-4. Er ist das Buch gelesen.
-5. Ich bin früh aufgestanden.
-
-### تمرين 5: ترجم إلى الألمانية (Perfekt)
-1. هل أكلتِ؟
-2. نحن ذهبنا إلى السينما.
-3. هو كتب رسالة.
-4. ماذا شربت؟
-5. هي استيقظت الساعة 7.
-
+<div class="exercise" markdown="1" data-answers='["habe","ist","haben","hat","ist","seid","hast"]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | Ich ___ Deutsch gelernt. | |
+| 2 | Er ___ nach Hause gegangen. | |
+| 3 | Wir ___ einen Kuchen gebacken. | |
+| 4 | Sie ___ in Berlin gewohnt. | |
+| 5 | Das Kind ___ eingeschlafen. | |
+| 6 | Ihr ___ spät gekommen. | |
+| 7 | Was ___ du gemacht? | |
+</div>
+<div class="exercise" markdown="1" data-answers='["gekauft","getrunken","gearbeitet","geschrieben","studiert","aufgestanden","gefahren"]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | kaufen → ___ | |
+| 2 | trinken → ___ | |
+| 3 | arbeiten → ___ | |
+| 4 | schreiben → ___ | |
+| 5 | studieren → ___ | |
+| 6 | aufstehen → ___ | |
+| 7 | fahren → ___ | |
+</div>
+<div class="exercise" markdown="1" data-answers='["habe...gekauft","ist...gefahren","haben...gegessen","hat...gelesen","ist...eingeschlafen"]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | Ich kaufe ein Buch. → Ich ___ ein Buch ___. | |
+| 2 | Sie fährt nach Berlin. → Sie ___ nach Berlin ___. | |
+| 3 | Wir essen Pizza. → Wir ___ Pizza ___. | |
+| 4 | Er liest die Zeitung. → Er ___ die Zeitung ___. | |
+| 5 | Das Kind schläft ein. → Das Kind ___ ___. | |
+</div>
+<div class="exercise" markdown="1" data-answers='["✅ صحيح (sein مع fahren)","ist gekommen (hat → ist)","✅ صحيح","hat gelesen (ist → hat)","✅ صحيح"]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | Ich habe nach Berlin gefahren. | |
+| 2 | Sie hat gestern gekommen. | |
+| 3 | Wir haben im Park gespielt. | |
+| 4 | Er ist das Buch gelesen. | |
+| 5 | Ich bin früh aufgestanden. | |
+</div>
+<div class="exercise" markdown="1" data-answers='["Sie ist um 7 Uhr aufgestanden."]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | هل أكلتِ؟ | |
+| 2 | نحن ذهبنا إلى السينما. | |
+| 3 | هو كتب رسالة. | |
+| 4 | ماذا شربت؟ | |
+| 5 | هي استيقظت الساعة 7. | |
+</div>
 ---
-
-## ✅ الحلول
-
-### حل تمرين 1
-1. habe | 2. ist | 3. haben | 4. hat | 5. ist | 6. seid | 7. hast
-
-### حل تمرين 2
-1. gekauft | 2. getrunken | 3. gearbeitet | 4. geschrieben | 5. studiert | 6. aufgestanden | 7. gefahren
-
-### حل تمرين 3
-1. habe...gekauft | 2. ist...gefahren | 3. haben...gegessen | 4. hat...gelesen | 5. ist...eingeschlafen
-
-### حل تمرين 4
-1. ✅ صحيح (sein مع fahren) | 2. ist gekommen (hat → ist) | 3. ✅ صحيح | 4. hat gelesen (ist → hat) | 5. ✅ صحيح
-
-### حل تمرين 5
-1. Hast du gegessen?
-2. Wir sind ins Kino gegangen.
-3. Er hat einen Brief geschrieben.
-4. Was hast du getrunken?
-5. Sie ist um 7 Uhr aufgestanden.
 
 ---
 

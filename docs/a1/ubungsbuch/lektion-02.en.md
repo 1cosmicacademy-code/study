@@ -194,37 +194,18 @@
 
 **Complete the conversation about professions:**
 
-> **Sara (friend):** Hallo, Maria! What ______________ du von Beruf?  
-> *(Hello Maria! What is your job?)*
-> 
-> **Maria:** Ich ______________ Verkäuferin. Und du?  
-> *(I am a saleswoman. And you?)*
-> 
-> **Sara:** Ich ______________ Studentin. Ich ______________ Medizin.  
-> *(I am a student. I study medicine.)*
-> 
-> **Maria:** Toll! And where ______________ du?  
-> *(Great! And where do you study?)*
-> 
-> **Sara:** Ich ______________ an der Universität.  
-> *(I study at the university.)*
+<div class="exercise" markdown="1" data-answers='["bist","bin","bin","studiere","studiert","studiere"]'>
 
-✅ **Solution:**
+| Speaker | Text | Answer |
+|---------|------|--------|
+| Sara (friend) | Hallo, Maria! What ________ du von Beruf? (Hello Maria! What is your job?) | |
+| Maria | Ich ________ Verkäuferin. Und du? (I am a saleswoman. And you?) | |
+| Sara (friend) | Ich ________ Studentin. (I am a student.) | |
+| Sara (friend) | Ich ________ Medizin. (I study medicine.) | |
+| Maria | Toll! And where ________ du? (Great! And where do you study?) | |
+| Sara (friend) | Ich ________ an der Universität. (I study at the university.) | |
 
-> **Sara (friend):** Hallo, Maria! What **bist** du von Beruf?  
-> *(Hello Maria! What is your job?)*
-> 
-> **Maria:** Ich **bin** Verkäuferin. Und du?  
-> *(I am a saleswoman. And you?)*
-> 
-> **Sara:** Ich **bin** Studentin. Ich **studiere** Medizin.  
-> *(I am a student. I study medicine.)*
-> 
-> **Maria:** Toll! And where **studiert** du?  
-> *(Great! And where do you study?)*
-> 
-> **Sara:** Ich **studiere** an der Universität.  
-> *(I study at the university.)*
+</div>
 
 ---
 

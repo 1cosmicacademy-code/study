@@ -142,36 +142,19 @@
 
 **Complete the conversation between two people:**
 
-> **A:** Hallo Lisa! Ich habe am Samstag ___________________.  
-> *(Hello Lisa! I have a birthday on Saturday.)*
-> 
-> **B:** Oh, wirklich? Herzlichen ___________________! 🎂  
-> *(Oh, really? Congratulations!)*
-> 
-> **A:** Danke! Ich ___________________ dich ein. Kommst du zur ___________________?  
-> *(Thanks! I invite you. Are you coming to the party?)*
-> 
-> **B:** Ja, ___________________! Wann ist die Party?  
-> *(Yes, with pleasure! When is the party?)*
-> 
-> **A:** ___________________ Samstag um 15 Uhr.  
-> *(On Saturday at 3 PM.)*
-> 
-> **B:** Super! Ich bringe einen ___________________ mit.  
-> *(Great! I'll bring a cake.)*
-> 
-> **A:** Toll! Ich wünsche ___________________ einen schönen Tag! Bis Samstag!  
-> *(Great! I wish you a nice day! See you Saturday!)*
+<div class="exercise" markdown="1" data-answers='["Geburtstag","Glückwunsch","lade","Party","gerne","Am","Kuchen","dir"]'>
 
-✅ **Solution:**
+| Speaker | Text | Answer |
+|---------|------|--------|
+| A | Hallo Lisa! Ich habe am Samstag ___________________. *(Hello Lisa! I have a birthday on Saturday.)* | |
+| B | Oh, wirklich? Herzlichen ___________________! 🎂 *(Oh, really? Congratulations!)* | |
+| A | Danke! Ich ___________________ dich ein. Kommst du zur ___________________? *(Thanks! I invite you. Are you coming to the party?)* | |
+| B | Ja, ___________________! Wann ist die Party? *(Yes, with pleasure! When is the party?)* | |
+| A | ___________________ Samstag um 15 Uhr. *(On Saturday at 3 PM.)* | |
+| B | Super! Ich bringe einen ___________________ mit. *(Great! I'll bring a cake.)* | |
+| A | Toll! Ich wünsche ___________________ einen schönen Tag! Bis Samstag! *(Great! I wish you a nice day! See you Saturday!)* | |
 
-> **A:** Hallo Lisa! Ich habe am Samstag **Geburtstag**.  
-> **B:** Oh, wirklich? Herzlichen **Glückwunsch**! 🎂  
-> **A:** Danke! Ich **lade** dich ein. Kommst du zur **Party**?  
-> **B:** Ja, **gerne**! Wann ist die Party?  
-> **A:** **Am** Samstag um 15 Uhr.  
-> **B:** Super! Ich bringe einen **Kuchen** mit.  
-> **A:** Toll! Ich wünsche **dir** einen schönen Tag! Bis Samstag!  
+</div>
 
 ---
 

@@ -187,126 +187,40 @@ Es regnet,           trotzdem   gehen  wir spazieren.
 
 ## 4. 📝 Exercises
 
-### Exercise 1: Choose the correct connector 🎯
-
-**Choose: weil, da, deshalb, obwohl, trotzdem**
-
-1. Ich bleibe zu Hause, ______________ es regnet.
-2. ______________ es regnet, bleibe ich zu Hause.
-3. Es regnet, ______________ gehe ich spazieren.
-4. ______________ ich müde bin, lerne ich weiter.
-5. Ich bin müde, ______________ gehe ich ins Bett.
-
-✅ **Answers:**
-
-1. **weil** (Nebensatz — verb at end: regnet)
-2. **Da** (formal — at the beginning)
-3. **trotzdem** (Hauptsatz — verb in position 2: gehe)
-4. **Obwohl** (Nebensatz — verb at end: bin)
-5. **deshalb** (Hauptsatz — verb in position 2: gehe)
-
----
-
-### Exercise 2: Convert from weil to deshalb ↔️
-
-**Convert the sentence from weil to deshalb (change word order):**
-
-1. Ich bin müde, weil ich viel gearbeitet habe.
-   → Ich habe viel gearbeitet, ___________________________________
-
-2. Er kommt nicht, weil er krank ist.
-   → Er ist krank, ___________________________________
-
-3. Wir bleiben zu Hause, weil es regnet.
-   → Es regnet, ___________________________________
-
-✅ **Answers:**
-
-1. Ich habe viel gearbeitet, **deshalb bin ich müde.**
-2. Er ist krank, **deshalb kommt er nicht.**
-3. Es regnet, **deshalb bleiben wir zu Hause.**
-
----
-
-### Exercise 3: Convert from obwohl to trotzdem ↔️
-
-**Convert from obwohl to trotzdem:**
-
-1. Obwohl es regnet, gehen wir spazieren.
-   → Es regnet, ___________________________________
-
-2. Obwohl er krank ist, kommt er zur Arbeit.
-   → Er ist krank, ___________________________________
-
-3. Obwohl ich wenig Zeit habe, helfe ich dir.
-   → Ich habe wenig Zeit, ___________________________________
-
-✅ **Answers:**
-
-1. Es regnet, **trotzdem gehen wir spazieren.**
-2. Er ist krank, **trotzdem kommt er zur Arbeit.**
-3. Ich habe wenig Zeit, **trotzdem helfe ich dir.**
-
----
-
-### Exercise 4: Connect the two sentences with the appropriate connector 🔗
-
-1. Ich bin müde. Ich habe viel gearbeitet. (weil)
-   → ___________________________________
-
-2. Ich habe viel gearbeitet. Ich bin müde. (deshalb)
-   → ___________________________________
-
-3. Es regnet. Wir gehen spazieren. (obwohl)
-   → ___________________________________
-
-4. Ich habe keine Zeit. Ich kann nicht kommen. (da)
-   → ___________________________________
-
-5. Er ist krank. Er geht zum Arzt. (weil)
-   → ___________________________________
-
-✅ **Answers:**
-
-1. **Ich bin müde, weil ich viel gearbeitet habe.**
-2. **Ich habe viel gearbeitet, deshalb bin ich müde.**
-3. **Obwohl es regnet, gehen wir spazieren.**
-4. **Da ich keine Zeit habe, kann ich nicht kommen.**
-5. **Er geht zum Arzt, weil er krank ist.**
-
----
-
-### Exercise 5: True or False? ❌✅
-
-| # | Statement | T/F |
-|---|-----------|:---:|
-| 1 | After "weil", the verb goes in position 2. | |
-| 2 | After "deshalb", the verb comes immediately in position 2. | |
-| 3 | "da" is more formal than "weil". | |
-| 4 | "obwohl" and "trotzdem" have the same word order. | |
-| 5 | "nämlich" is used to clarify the reason after stating the result. | |
-
-✅ **Answers:**
-
-1. **❌** False! With weil, the verb goes to the **end** (Nebensatz).
-2. **✅** True! deshalb + Verb Position 2 (Hauptsatz).
-3. **✅** True! da = formal / weil = everyday.
-4. **❌** False! obwohl = Nebensatz (verb at end), trotzdem = Hauptsatz (verb in position 2).
-5. **✅** True! nämlich clarifies the reason after the result.
-
----
-
-## 💡 Summary
-
-| To express | Use | Type | Verb position |
-|:----------:|:---:|:----:|:-------------:|
-| **Reason** | **weil** | Nebensatz | end of clause |
-| | **da** | Nebensatz | end of clause (formal) |
-| | **deshalb** | Hauptsatz | position 2 |
-| | **nämlich** | Hauptsatz | after verb (clarification) |
-| **Concession** | **obwohl** | Nebensatz | end of clause |
-| | **trotzdem** | Hauptsatz | position 2 |
-
-> 🎯 **The Golden Rule:** **Nebensatz** connectors (weil, da, obwohl) send the verb to the end. **Hauptsatz** connectors (deshalb, trotzdem) keep the verb in position 2!
-
-[🔙 Back to Grammar](index.md)
+<div class="exercise" markdown="1" data-answers='["weil","Da","trotzdem","Obwohl","deshalb"]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | Ich bleibe zu Hause, ______________ es regnet. | |
+| 2 | ______________ es regnet, bleibe ich zu Hause. | |
+| 3 | Es regnet, ______________ gehe ich spazieren. | |
+| 4 | ______________ ich müde bin, lerne ich weiter. | |
+| 5 | Ich bin müde, ______________ gehe ich ins Bett. | |
+</div><div class="exercise" markdown="1" data-answers='["deshalb bin ich müde.","deshalb kommt er nicht.","deshalb bleiben wir zu Hause."]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | Ich bin müde, weil ich viel gearbeitet habe. | |
+| 2 | Er kommt nicht, weil er krank ist. | |
+| 3 | Wir bleiben zu Hause, weil es regnet. | |
+</div><div class="exercise" markdown="1" data-answers='["trotzdem gehen wir spazieren.","trotzdem kommt er zur Arbeit.","trotzdem helfe ich dir."]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | Obwohl es regnet, gehen wir spazieren. | |
+| 2 | Obwohl er krank ist, kommt er zur Arbeit. | |
+| 3 | Obwohl ich wenig Zeit habe, helfe ich dir. | |
+</div><div class="exercise" markdown="1" data-answers='["Ich bin müde","weil ich viel gearbeitet habe.","Ich habe viel gearbeitet","deshalb bin ich müde.","Obwohl es regnet","gehen wir spazieren.","Da ich keine Zeit habe","kann ich nicht kommen.","Er geht zum Arzt","weil er krank ist."]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | Ich bin müde. Ich habe viel gearbeitet. (weil) | |
+| 2 | Ich habe viel gearbeitet. Ich bin müde. (deshalb) | |
+| 3 | Es regnet. Wir gehen spazieren. (obwohl) | |
+| 4 | Ich habe keine Zeit. Ich kann nicht kommen. (da) | |
+| 5 | Er ist krank. Er geht zum Arzt. (weil) | |
+</div><div class="exercise" markdown="1" data-answers='["❌","✅","✅","❌","✅"]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 |  | |
+| 2 |  | |
+| 3 |  | |
+| 4 |  | |
+| 5 |  | |
+</div>

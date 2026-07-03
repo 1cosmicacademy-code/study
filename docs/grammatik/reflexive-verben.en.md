@@ -115,69 +115,44 @@ When a verb has a direct object (Akkusativ-Objekt) in addition to the reflexive 
 
 ## 📝 Exercises
 
-### Exercise 1: Complete with the correct reflexive pronoun (Accusative)
-
-1. Ich wasche _______ jeden Morgen.
-2. Du freust _______ auf die Ferien.
-3. Er setzt _______ auf das Sofa.
-4. Wir beeilen _______ , der Film beginnt gleich.
-5. Ihr müsst _______ ausziehen, es ist heiß hier.
-6. Die Kinder waschen _______ vor dem Essen.
-
-### Exercise 2: Choose the correct pronoun (Accusative or Dative)
-
-1. Ich wasche (mich / mir) die Haare.
-2. Sie zieht (sich / ihr) die Jacke an.
-3. Er wäscht (sich / ihm) das Gesicht.
-4. Wir kämmen (uns / uns) vor dem Spiegel.
-5. Ihr trocknet (euch / euch) die Hände ab.
-
-### Exercise 3: Complete with the correct reflexive verb
-
-Choose from: (sich freuen — sich setzen — sich anziehen — sich beeilen — sich ausruhen)
-
-1. Ich _______ auf das Wochenende.
-2. Die Mutter _______ das Baby.
-3. Wir _______ , sonst kommen wir zu spät.
-4. Nach der Arbeit _______ er _______ auf dem Sofa.
-5. Bitte _______ Sie _______!
-
-### Exercise 4: Translate into German
-
-1. I wash my hands.
-   → ___________________________________
-2. Do you remember me?
-   → ___________________________________
-3. We are hurrying.
-   → ___________________________________
-4. Where is the museum located?
-   → ___________________________________
-5. She is interested in sports.
-   → ___________________________________
-
+<div class="exercise" markdown="1" data-answers='["mich","dich","sich","uns","euch","sich"]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | Ich wasche _______ jeden Morgen. | |
+| 2 | Du freust _______ auf die Ferien. | |
+| 3 | Er setzt _______ auf das Sofa. | |
+| 4 | Wir beeilen _______ , der Film beginnt gleich. | |
+| 5 | Ihr müsst _______ ausziehen, es ist heiß hier. | |
+| 6 | Die Kinder waschen _______ vor dem Essen. | |
+</div>
+<div class="exercise" markdown="1" data-answers='["mir","sich","sich","uns","euch"]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | Ich wasche (mich / mir) die Haare. | |
+| 2 | Sie zieht (sich / ihr) die Jacke an. | |
+| 3 | Er wäscht (sich / ihm) das Gesicht. | |
+| 4 | Wir kämmen (uns / uns) vor dem Spiegel. | |
+| 5 | Ihr trocknet (euch / euch) die Hände ab. | |
+</div>
+<div class="exercise" markdown="1" data-answers='["freue mich","zieht das Baby an / zieht sich an","beeilen uns","ruht sich ... aus","setzen Sie sich"]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | Ich _______ auf das Wochenende. | |
+| 2 | Die Mutter _______ das Baby. | |
+| 3 | Wir _______ , sonst kommen wir zu spät. | |
+| 4 | Nach der Arbeit _______ er _______ auf dem Sofa. | |
+| 5 | Bitte _______ Sie _______! | |
+</div>
+<div class="exercise" markdown="1" data-answers='["wasche mir die Hände","Erinnern Sie sich an mich","beeilen uns","befindet sich das Museum","interessiert sich für Sport"]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | I wash my hands. | |
+| 2 | Do you remember me? | |
+| 3 | We are hurrying. | |
+| 4 | Where is the museum located? | |
+| 5 | She is interested in sports. | |
+</div>
 ---
-
-## ✅ Solutions
-
-### Solution Exercise 1
-1. mich | 2. dich | 3. sich | 4. uns | 5. euch | 6. sich
-
-### Solution Exercise 2
-1. mir (Dative — because "die Haare" is the direct object)
-2. sich (In A2: "sich anziehen" without extra object — Sie zieht sich an. But "Sie zieht sich die Jacke an" uses Dative sich.)
-3. sich (Dative — "das Gesicht" is the direct object)
-4. uns (Accusative — no additional direct object)
-5. euch (Dative — "die Hände" is the direct object)
-
-### Solution Exercise 3
-1. freue mich | 2. zieht das Baby an / zieht sich an | 3. beeilen uns | 4. ruht sich ... aus | 5. setzen Sie sich
-
-### Solution Exercise 4
-1. Ich wasche mir die Hände.
-2. Erinnern Sie sich an mich?
-3. Wir beeilen uns.
-4. Wo befindet sich das Museum?
-5. Sie interessiert sich für Sport.
 
 ---
 

@@ -89,35 +89,22 @@
 
 **Complete the dialogue between a patient and a doctor:**
 
-> **Patient:** Guten Tag! Ich möchte _____________ Termin.
-> 
-> **Doctor:** Guten Tag! Wann _____________ Sie Zeit?
-> 
-> **Patient:** _____________ Mittwoch um 10 Uhr — geht das?
-> 
-> **Doctor:** Tut mir _____________ , am Mittwoch habe ich _____________ Zeit. Am Donnerstag um 11 Uhr?
-> 
-> **Patient:** Ja, _____________ Donnerstag um 11 Uhr passt _____________ gut.
-> 
-> **Doctor:** Sehr gut! Der Termin ist _____________ Donnerstag _____________ 11 Uhr.
-> 
-> **Patient:** Vielen _____________! Auf Wiedersehen!
+<div class="exercise" markdown="1" data-answers='["einen","haben","Am","leid","keine","am","mir","am","um","Dank"]'>
 
-✅ **Answer Key:**
+| Speaker | Text | Answer |
+|---------|------|--------|
+| Patient | Guten Tag! Ich möchte ________ Termin. | |
+| Doctor | Guten Tag! Wann ________ Sie Zeit? | |
+| Patient | ________ Mittwoch um 10 Uhr — geht das? | |
+| Doctor | Tut mir ________... | |
+| Doctor | ...am Mittwoch habe ich ________ Zeit. | |
+| Patient | Ja, ________ Donnerstag um 11 Uhr... | |
+| Patient | ...passt ________ gut. | |
+| Doctor | Der Termin ist ________ Donnerstag... | |
+| Doctor | ...________ 11 Uhr. | |
+| Patient | Vielen ________! Auf Wiedersehen! | |
 
-> **Patient:** Guten Tag! Ich möchte **einen** Termin.
-> 
-> **Doctor:** Guten Tag! Wann **haben** Sie Zeit?
-> 
-> **Patient:** **Am** Mittwoch um 10 Uhr — geht das?
-> 
-> **Doctor:** Tut mir **leid**, am Mittwoch habe ich **keine** Zeit. Am Donnerstag um 11 Uhr?
-> 
-> **Patient:** Ja, **am** Donnerstag um 11 Uhr passt **mir** gut.
-> 
-> **Doctor:** Sehr gut! Der Termin ist **am** Donnerstag **um** 11 Uhr.
-> 
-> **Patient:** Vielen **Dank**! Auf Wiedersehen!
+</div>
 
 ---
 

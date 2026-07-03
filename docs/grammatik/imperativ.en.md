@@ -79,39 +79,31 @@ Komm! Geht! Kommen Sie!
 
 ## 📝 Exercises
 
-### Exercise 1: Form the du imperative
-
-1. du kommst → ___!
-2. du gehst → ___!
-3. du spielst → ___!
-4. du isst → ___!
-5. du liest → ___!
-
-### Exercise 2: Form the ihr imperative
-
-1. ihr kommt → ___!
-2. ihr geht → ___!
-3. ihr spielt → ___!
-4. ihr seid → ___!
-5. ihr habt → ___!
-
-### Exercise 3: du, ihr or Sie?
-
-1. To a friend: "___ mir!" (help me — helfen)
-2. To a group of kids: "___ leise!" (be quiet — sein)
-3. To a manager: "___ bitte Platz!" (have a seat — nehmen)
-4. To your brother: "___ das Buch!" (read — lesen)
-5. To colleagues: "___ bitte!" (come in — kommen)
-
-## ✅ Solutions
-
-### Solution Exercise 1
-1. Komm! | 2. Geh! | 3. Spiel! | 4. Iss! | 5. Lies!
-
-### Solution Exercise 2
-1. Kommt! | 2. Geht! | 3. Spielt! | 4. Seid! | 5. Habt!
-
-### Solution Exercise 3
-1. Hilf | 2. Seid | 3. Nehmen Sie | 4. Lies | 5. Kommen Sie
-
+<div class="exercise" markdown="1" data-answers='["Komm!","Geh!","Spiel!","Iss!","Lies!"]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | du kommst → ___! | |
+| 2 | du gehst → ___! | |
+| 3 | du spielst → ___! | |
+| 4 | du isst → ___! | |
+| 5 | du liest → ___! | |
+</div>
+<div class="exercise" markdown="1" data-answers='["Kommt!","Geht!","Spielt!","Seid!","Habt!"]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | ihr kommt → ___! | |
+| 2 | ihr geht → ___! | |
+| 3 | ihr spielt → ___! | |
+| 4 | ihr seid → ___! | |
+| 5 | ihr habt → ___! | |
+</div>
+<div class="exercise" markdown="1" data-answers='["Hilf","Seid","Nehmen Sie","Lies","Kommen Sie"]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | To a friend: "___ mir!" (help me — helfen) | |
+| 2 | To a group of kids: "___ leise!" (be quiet — sein) | |
+| 3 | To a manager: "___ bitte Platz!" (have a seat — nehmen) | |
+| 4 | To your brother: "___ das Buch!" (read — lesen) | |
+| 5 | To colleagues: "___ bitte!" (come in — kommen) | |
+</div>
 ---

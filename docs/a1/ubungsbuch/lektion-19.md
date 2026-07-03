@@ -151,29 +151,20 @@
 
 </div>
 
-## 🧩 التمرين 7: أكمل الحوار — Dialog ergänzen
+<div class="exercise" markdown="1" data-answers='["fährst","fahre","Mit","fahre","fahre","möchte","Wie","Danke"]'>
 
-**املأ الفراغات في الحوار:**
+| المتحدث | النص | الإجابة |
+|---------|------|---------|
+| Tom | Hallo Mia! Wohin ______ du heute? | |
+| Mia | Ich ______ nach Köln. | |
+| Tom | ______ dem Zug? | |
+| Mia | Nein, ich ______ mit dem Auto. Und du? | |
+| Tom | Ich ______ zum Flughafen. | |
+| Tom | Ich ______ nach Spanien fliegen. | |
+| Mia | ______ schön! Gute Reise! | |
+| Tom | ______ ! | |
 
-**Tom:** Hallo Mia! Wohin ______ du heute?
-**Mia:** Ich ______ nach Köln.
-**Tom:** ______ dem Zug?
-**Mia:** Nein, ich ______ mit dem Auto. Und du?
-**Tom:** Ich ______ zum Flughafen. Ich ______ nach Spanien fliegen.
-**Mia:** ______ schön! Gute Reise!
-**Tom:** ______ !
-
-<details>
-<summary>✅ الإجابات</summary>
-
-**Tom:** Hallo Mia! Wohin **fährst** du heute?
-**Mia:** Ich **fahre** nach Köln.
-**Tom:** **Mit** dem Zug?
-**Mia:** Nein, ich **fahre** mit dem Auto. Und du?
-**Tom:** Ich **fahre** zum Flughafen. Ich **möchte** nach Spanien fliegen.
-**Mia:** **Wie** schön! Gute Reise!
-**Tom:** **Danke**!
-</details>
+</div>
 
 ---
 

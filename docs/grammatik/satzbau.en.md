@@ -88,43 +88,31 @@ Subordinate:     Verb at the end
 
 ## 📝 Exercises
 
-### Exercise 1: Order the sentence
-
-1. (lerne / Ich / Deutsch) → ___
-2. (wohnst / du / Wo) → ___?
-3. (Kinder / hast / du / ?) → ___?
-4. (heute / Ich / kaufe / ein Brot) → ___
-5. (... weil / lerne / ich / Deutsch) → ___
-
-### Exercise 2: Complete — verb in correct position
-
-1. Ich ___ (wohnen) in Berlin.
-2. Wo ___ (arbeiten) you?
-3. ___ (haben) you a brother?
-4. Today I ___ (sein) at home.
-5. ... weil ich kein Auto ___ (haben).
-
-### Exercise 3: Identify the sentence type
-
-1. Kommst du mit? → ___
-2. Ich heiße Ali. → ___
-3. Was machst du? → ___
-4. Geh nach Hause! → ___
-5. ... weil es regnet. → ___
-
-## ✅ Solutions
-
-### Solution Exercise 1
-1. Ich lerne Deutsch.
-2. Wo wohnst du?
-3. Hast du Kinder?
-4. Heute kaufe ich ein Brot.
-5. ... weil ich Deutsch lerne.
-
-### Solution Exercise 2
-1. wohne | 2. arbeitest | 3. Hast | 4. bin | 5. habe
-
-### Solution Exercise 3
-1. Yes/No question | 2. Statement | 3. W-Question | 4. Imperative | 5. Subordinate clause
-
+<div class="exercise" markdown="1" data-answers='["... weil ich Deutsch lerne."]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | (lerne / Ich / Deutsch) → ___ | |
+| 2 | (wohnst / du / Wo) → ___? | |
+| 3 | (Kinder / hast / du / ?) → ___? | |
+| 4 | (heute / Ich / kaufe / ein Brot) → ___ | |
+| 5 | (... weil / lerne / ich / Deutsch) → ___ | |
+</div>
+<div class="exercise" markdown="1" data-answers='["wohne","arbeitest","Hast","bin","habe"]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | Ich ___ (wohnen) in Berlin. | |
+| 2 | Wo ___ (arbeiten) you? | |
+| 3 | ___ (haben) you a brother? | |
+| 4 | Today I ___ (sein) at home. | |
+| 5 | ... weil ich kein Auto ___ (haben). | |
+</div>
+<div class="exercise" markdown="1" data-answers='["Yes/No question","Statement","W-Question","Imperative","Subordinate clause"]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | Kommst du mit? → ___ | |
+| 2 | Ich heiße Ali. → ___ | |
+| 3 | Was machst du? → ___ | |
+| 4 | Geh nach Hause! → ___ | |
+| 5 | ... weil es regnet. → ___ | |
+</div>
 ---

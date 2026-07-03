@@ -119,58 +119,48 @@ Deutsch ist schwerer als Englisch.
 
 ## 📝 تمارين
 
-### تمرين 1: اختر wie أو als
-
-1. Er ist größer _______ sein Vater.
-2. Sie singt so schön _______ ein Vogel.
-3. Mein Auto ist neuer _______ deins.
-4. Ich bin genauso alt _______ du.
-5. Deutsch ist schwerer _______ Englisch.
-6. Er rennt so schnell _______ ein Pferd.
-
-### تمرين 2: صرّف الصفة إلى Komparativ (أضف -er أو Umlaut)
-
-1. groß → _______________
-2. klein → _______________
-3. jung → _______________
-4. alt → _______________
-5. teuer → _______________
-6. gut → _______________
-7. viel → _______________
-8. schnell → _______________
-
-### تمرين 3: صرّف الصفة إلى Superlativ (am ... + -sten)
-
-1. groß → _______________
-2. schön → _______________
-3. schnell → _______________
-4. gut → _______________
-5. jung → _______________
-6. gern → _______________
-
-### تمرين 4: أكمل الجملة بشكل المقارنة الصحيح
-
-1. Ein Ferrari ist _______________ (schnell) als ein Fahrrad.
-2. Im Winter ist es _______________ (kalt) als im Sommer.
-3. Sie ist die _______________ (gut) Sängerin der Welt.
-4. Ich lerne _______________ (gern) Deutsch als Englisch.
-5. Der Zug ist _______________ (billig) als das Flugzeug.
-
+<div class="exercise" markdown="1" data-answers='["als","wie","als","wie","als","wie"]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | Er ist größer _______ sein Vater. | |
+| 2 | Sie singt so schön _______ ein Vogel. | |
+| 3 | Mein Auto ist neuer _______ deins. | |
+| 4 | Ich bin genauso alt _______ du. | |
+| 5 | Deutsch ist schwerer _______ Englisch. | |
+| 6 | Er rennt so schnell _______ ein Pferd. | |
+</div>
+<div class="exercise" markdown="1" data-answers='["größer","kleiner","jünger","älter","teurer","besser","mehr","schneller"]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | groß → _______________ | |
+| 2 | klein → _______________ | |
+| 3 | jung → _______________ | |
+| 4 | alt → _______________ | |
+| 5 | teuer → _______________ | |
+| 6 | gut → _______________ | |
+| 7 | viel → _______________ | |
+| 8 | schnell → _______________ | |
+</div>
+<div class="exercise" markdown="1" data-answers='["am größten","am schönsten","am schnellsten","am besten","am jüngsten","am liebsten"]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | groß → _______________ | |
+| 2 | schön → _______________ | |
+| 3 | schnell → _______________ | |
+| 4 | gut → _______________ | |
+| 5 | jung → _______________ | |
+| 6 | gern → _______________ | |
+</div>
+<div class="exercise" markdown="1" data-answers='["schneller","kälter","beste","lieber","billiger"]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | Ein Ferrari ist _______________ (schnell) als ein Fahrrad. | |
+| 2 | Im Winter ist es _______________ (kalt) als im Sommer. | |
+| 3 | Sie ist die _______________ (gut) Sängerin der Welt. | |
+| 4 | Ich lerne _______________ (gern) Deutsch als Englisch. | |
+| 5 | Der Zug ist _______________ (billig) als das Flugzeug. | |
+</div>
 ---
-
-## ✅ الحلول
-
-### حل تمرين 1
-1. als | 2. wie | 3. als | 4. wie | 5. als | 6. wie
-
-### حل تمرين 2
-1. größer | 2. kleiner | 3. jünger | 4. älter | 5. teurer | 6. besser | 7. mehr | 8. schneller
-
-### حل تمرين 3
-1. am größten | 2. am schönsten | 3. am schnellsten | 4. am besten | 5. am jüngsten | 6. am liebsten
-
-### حل تمرين 4
-1. schneller | 2. kälter | 3. beste | 4. lieber | 5. billiger
 
 ---
 

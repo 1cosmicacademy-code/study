@@ -142,126 +142,50 @@ TE — KA — MO — LO
 
 ## 5. 📝 تمارين
 
-### تمرين 1: رتب العبارات حسب قاعدة TEKAMOLO 🔀
+<div class="exercise" markdown="1" data-answers='["morgen mit dem Zug nach Berlin","heute Abend mit Freunden ins Kino","morgen mit dem Auto zu mir","im Juli mit dem Flugzeug in den Urlaub","am Abend gern Deutsch zu Hause"]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | Ich fahre ______________ (nach Berlin / morgen / mit dem Zug). | |
+| 2 | Wir gehen ______________ (ins Kino / heute Abend / mit Freunden). | |
+| 3 | Er kommt ______________ (zu mir / mit dem Auto / morgen). | |
+| 4 | Sie fliegt ______________ (in den Urlaub / im Juli / mit dem Flugzeug). | |
+| 5 | Ich lerne ______________ (am Abend / zu Hause / gern Deutsch). | |
+</div>
 
-**رتب الكلمات بين القوسين بالترتيب الصحيح (TE → KA → MO → LO):**
-
-1. Ich fahre ______________ (nach Berlin / morgen / mit dem Zug).
-2. Wir gehen ______________ (ins Kino / heute Abend / mit Freunden).
-3. Er kommt ______________ (zu mir / mit dem Auto / morgen).
-4. Sie fliegt ______________ (in den Urlaub / im Juli / mit dem Flugzeug).
-5. Ich lerne ______________ (am Abend / zu Hause / gern Deutsch).
-
-✅ **الحل:**
-
-1. **morgen mit dem Zug nach Berlin**
-2. **heute Abend mit Freunden ins Kino**
-3. **morgen mit dem Auto zu mir**
-4. **im Juli mit dem Flugzeug in den Urlaub**
-5. **am Abend gern Deutsch zu Hause** *(ملاحظة: gern هنا هو Modal — طريقة)*
-
----
-
-### تمرين 2: اختر الترتيب الصحيح 🎯
-
-**أي جملة صحيحة؟**
-
-1. a) Ich fahre nach Berlin morgen mit dem Zug.
-   b) Ich fahre morgen mit dem Zug nach Berlin. ✅
-   c) Ich fahre mit dem Zug nach Berlin morgen.
-
-2. a) Wir treffen uns am Bahnhof morgen.
-   b) Wir treffen uns morgen am Bahnhof. ✅
-   c) Morgen am Bahnhof wir treffen uns.
-
-3. a) Er geht heute Abend mit seiner Freundin ins Konzert. ✅
-   b) Er geht mit seiner Freundin heute Abend ins Konzert.
-   c) Er geht ins Konzert heute Abend mit seiner Freundin.
-
-4. a) Gestern ich war im Kino mit meinem Bruder.
-   b) Gestern war ich mit meinem Bruder im Kino. ✅
-   c) Gestern war ich im Kino mit meinem Bruder.
+<div class="exercise" markdown="1" data-type="choice" data-answers='["B","B","A","B"]'>
+| # | الجملة | أ | ب | ج |
+|---|--------|---|---|---|
+| 1 | Ich fahre ______________. (nach Berlin / morgen / mit dem Zug) | Ich fahre nach Berlin morgen mit dem Zug. | Ich fahre morgen mit dem Zug nach Berlin. | Ich fahre mit dem Zug nach Berlin morgen. |
+| 2 | Wir treffen uns ______________. (morgen / am Bahnhof) | Wir treffen uns am Bahnhof morgen. | Wir treffen uns morgen am Bahnhof. | Morgen am Bahnhof wir treffen uns. |
+| 3 | ______________. (heute / mit seiner Freundin / ins Konzert) | Er geht heute Abend mit seiner Freundin ins Konzert. | Er geht mit seiner Freundin heute Abend ins Konzert. | Er geht ins Konzert heute Abend mit seiner Freundin. |
+| 4 | ______________. (gestern / mit meinem Bruder / im Kino) | Gestern ich war im Kino mit meinem Bruder. | Gestern war ich mit meinem Bruder im Kino. | Gestern war ich im Kino mit meinem Bruder. |
+</div>
 
 ---
 
-### تمرين 3: أكمل الجملة بعبارة زمان أو مكان ✏️
-
-**أكمل الفراغ بعبارة مناسبة:**
-
-1. Ich stehe ______________ auf. (زمان — الساعة 7)
-2. ______________ ist der Bahnhof. (مكان — على اليسار)
-3. Wir fahren ______________. (مكان — إلى برلين)
-4. ______________ habe ich Geburtstag. (زمان — يوم الاثنين)
-5. Ich lerne ______________. (مكان — في البيت)
-6. Der Kurs beginnt ______________. (زمان — في سبتمبر)
-
-✅ **الحل:**
-
-1. **um 7 Uhr**
-2. **Links**
-3. **nach Berlin**
-4. **Am Montag**
-5. **zu Hause**
-6. **im September**
-
----
-
-### تمرين 4: ترجم الجمل التالية إلى الألمانية 🌍
-
-1. أنا أذهب غداً إلى السوق.
-   → ___________________________________
-
-2. نحن نلتقي اليوم في المحطة.
-   → ___________________________________
-
-3. هو يسافر في الصيف بالسيارة إلى إيطاليا.
-   → ___________________________________
-
-4. أمس كنت في البيت مع عائلتي.
-   → ___________________________________
-
-5. هي تذهب كل صباح بالباص إلى العمل.
-   → ___________________________________
-
-✅ **الحل:**
-
-1. **Ich gehe morgen zum Markt.**
-2. **Wir treffen uns heute am Bahnhof.**
-3. **Er fährt im Sommer mit dem Auto nach Italien.**
-4. **Gestern war ich zu Hause mit meiner Familie.**
-5. **Sie fährt jeden Morgen mit dem Bus zur Arbeit.**
-
----
-
-### تمرين 5: صحيح أم خطأ؟ ❌✅
-
-| # | الجملة | صح/خطأ |
-|---|--------|:-------:|
+<div class="exercise" markdown="1" data-answers='["um 7 Uhr","Links","nach Berlin","Am Montag","zu Hause","im September"]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | Ich stehe ______________ auf. (زمان — الساعة 7) | |
+| 2 | ______________ ist der Bahnhof. (مكان — على اليسار) | |
+| 3 | Wir fahren ______________. (مكان — إلى برلين) | |
+| 4 | ______________ habe ich Geburtstag. (زمان — يوم الاثنين) | |
+| 5 | Ich lerne ______________. (مكان — في البيت) | |
+| 6 | Der Kurs beginnt ______________. (زمان — في سبتمبر) | |
+</div><div class="exercise" markdown="1" data-answers='["Ich gehe morgen zum Markt.","Wir treffen uns heute am Bahnhof.","Er fährt im Sommer mit dem Auto nach Italien.","Gestern war ich zu Hause mit meiner Familie.","Sie fährt jeden Morgen mit dem Bus zur Arbeit."]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | أنا أذهب غداً إلى السوق. | |
+| 2 | نحن نلتقي اليوم في المحطة. | |
+| 3 | هو يسافر في الصيف بالسيارة إلى إيطاليا. | |
+| 4 | أمس كنت في البيت مع عائلتي. | |
+| 5 | هي تذهب كل صباح بالباص إلى العمل. | |
+</div><div class="exercise" markdown="1" data-answers='["✅","✅","❌","✅","❌"]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
 | 1 | في الألمانية، عبارات الزمان تأتي قبل المكان. | |
 | 2 | TEKAMOLO يعني: Temporal → Kausal → Modal → Lokal | |
 | 3 | إذا بدأت الجملة بعبارة زمان، الفعل يروح في الآخر. | |
 | 4 | "Morgen fahre ich nach Berlin." — جملة صحيحة | |
 | 5 | "Ich fahre nach Berlin morgen." — ترتيب صحيح لـ TEKAMOLO | |
-
-✅ **الحل:**
-
-1. **✅** صحيح! الزمان قبل المكان.
-2. **✅** صحيح! TE=Temporal, KA=Kausal, MO=Modal, LO=Lokal
-3. **❌** خطأ! الفعل يبقى في الموضع الثاني (بعد العبارة الأولى)
-4. **✅** صحيح! (Morgen = Temporal في الموضع الأول، الفعل في الثاني)
-5. **❌** خطأ! الصحيح: "Ich fahre morgen nach Berlin." (زمان قبل مكان)
-
----
-
-## 💡 خلاصة
-
-| النوع | الأمثلة | الترتيب في الجملة |
-|:-----:|:--------|:-----------------:|
-| **Temporal** (زمان) | heute, morgen, am Montag, um 8 Uhr | **1** ← أولاً |
-| **Kausal** (سبب) | wegen, aus, dank | **2** |
-| **Modal** (كيفية) | gern, mit dem Bus, schnell | **3** |
-| **Lokal** (مكان) | in Berlin, zu Hause, nach Hause | **4** ← أخيراً |
-
-> 🎯 **القاعدة الذهبية:** **TEKAMOLO** = Temporal → Kausal → Modal → Lokal. احفظها وراح ترتب الجمل صح دائماً!
-
-[🔙 العودة إلى القواعد](index.md)
+</div>

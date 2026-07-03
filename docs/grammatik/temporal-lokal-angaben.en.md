@@ -142,99 +142,40 @@ TE — KA — MO — LO
 
 ## 5. 📝 Exercises
 
-### Exercise 1: Order according to TEKAMOLO 🔀
+<div class="exercise" markdown="1" data-answers='["morgen mit dem Zug nach Berlin","heute Abend mit Freunden ins Kino","morgen mit dem Auto zu mir","im Juli mit dem Flugzeug in den Urlaub","am Abend gern Deutsch zu Hause"]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | Ich fahre ______________ (nach Berlin / morgen / mit dem Zug). | |
+| 2 | Wir gehen ______________ (ins Kino / heute Abend / mit Freunden). | |
+| 3 | Er kommt ______________ (zu mir / mit dem Auto / morgen). | |
+| 4 | Sie fliegt ______________ (in den Urlaub / im Juli / mit dem Flugzeug). | |
+| 5 | Ich lerne ______________ (am Abend / zu Hause / gern Deutsch). | |
+</div>
 
-**Put the words in brackets in the correct order (TE → KA → MO → LO):**
+<div class="exercise" markdown="1" data-type="choice" data-answers='["B","B","A","B"]'>
+| # | Sentence | A | B | C |
+|---|----------|---|---|---|
+| 1 | Ich fahre ______________. (nach Berlin / morgen / mit dem Zug) | Ich fahre nach Berlin morgen mit dem Zug. | Ich fahre morgen mit dem Zug nach Berlin. | Ich fahre mit dem Zug nach Berlin morgen. |
+| 2 | Wir treffen uns ______________. (morgen / am Bahnhof) | Wir treffen uns am Bahnhof morgen. | Wir treffen uns morgen am Bahnhof. | Morgen am Bahnhof wir treffen uns. |
+| 3 | ______________. (heute / mit seiner Freundin / ins Konzert) | Er geht heute Abend mit seiner Freundin ins Konzert. | Er geht mit seiner Freundin heute Abend ins Konzert. | Er geht ins Konzert heute Abend mit seiner Freundin. |
+| 4 | ______________. (gestern / mit meinem Bruder / im Kino) | Gestern ich war im Kino mit meinem Bruder. | Gestern war ich mit meinem Bruder im Kino. | Gestern war ich im Kino mit meinem Bruder. |
+</div>
 
-1. Ich fahre ______________ (nach Berlin / morgen / mit dem Zug).
-2. Wir gehen ______________ (ins Kino / heute Abend / mit Freunden).
-3. Er kommt ______________ (zu mir / mit dem Auto / morgen).
-4. Sie fliegt ______________ (in den Urlaub / im Juli / mit dem Flugzeug).
-5. Ich lerne ______________ (am Abend / zu Hause / gern Deutsch).
-
-✅ **Answers:**
-
-1. **morgen mit dem Zug nach Berlin**
-2. **heute Abend mit Freunden ins Kino**
-3. **morgen mit dem Auto zu mir**
-4. **im Juli mit dem Flugzeug in den Urlaub**
-5. **am Abend gern Deutsch zu Hause**
-
----
-
-### Exercise 2: Choose the correct order 🎯
-
-**Which sentence is correct?**
-
-1. a) Ich fahre nach Berlin morgen mit dem Zug.
-   b) Ich fahre morgen mit dem Zug nach Berlin. ✅
-   c) Ich fahre mit dem Zug nach Berlin morgen.
-
-2. a) Wir treffen uns am Bahnhof morgen.
-   b) Wir treffen uns morgen am Bahnhof. ✅
-   c) Morgen am Bahnhof wir treffen uns.
-
-3. a) Er geht heute Abend mit seiner Freundin ins Konzert. ✅
-   b) Er geht mit seiner Freundin heute Abend ins Konzert.
-   c) Er geht ins Konzert heute Abend mit seiner Freundin.
-
-4. a) Gestern ich war im Kino mit meinem Bruder.
-   b) Gestern war ich mit meinem Bruder im Kino. ✅
-   c) Gestern war ich im Kino mit meinem Bruder.
-
----
-
-### Exercise 3: Complete with time or place expression ✏️
-
-**Fill in with an appropriate expression:**
-
-1. Ich stehe ______________ auf. (time — at 7 o'clock)
-2. ______________ ist der Bahnhof. (place — on the left)
-3. Wir fahren ______________. (place — to Berlin)
-4. ______________ habe ich Geburtstag. (time — on Monday)
-5. Ich lerne ______________. (place — at home)
-6. Der Kurs beginnt ______________. (time — in September)
-
-✅ **Answers:**
-
-1. **um 7 Uhr**
-2. **Links**
-3. **nach Berlin**
-4. **Am Montag**
-5. **zu Hause**
-6. **im September**
-
----
-
-### Exercise 4: True or False? ❌✅
-
-| # | Statement | T/F |
-|---|-----------|:---:|
-| 1 | In German, time expressions come before place expressions. | |
+<div class="exercise" markdown="1" data-answers='["um 7 Uhr","Links","nach Berlin","Am Montag","zu Hause","im September"]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | Ich stehe ______________ auf. (time — at 7 o'clock) | |
+| 2 | ______________ ist der Bahnhof. (place — on the left) | |
+| 3 | Wir fahren ______________. (place — to Berlin) | |
+| 4 | ______________ habe ich Geburtstag. (time — on Monday) | |
+| 5 | Ich lerne ______________. (place — at home) | |
+| 6 | Der Kurs beginnt ______________. (time — in September) | |
+</div><div class="exercise" markdown="1" data-answers='["✅","✅","❌","✅","❌"]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | In German, time phrases come before place phrases. | |
 | 2 | TEKAMOLO means: Temporal → Kausal → Modal → Lokal | |
-| 3 | If you start with a time expression, the verb goes to the end. | |
-| 4 | "Morgen fahre ich nach Berlin." — is correct. | |
-| 5 | "Ich fahre nach Berlin morgen." — follows TEKAMOLO. | |
-
-✅ **Answers:**
-
-1. **✅** True! Time before place.
-2. **✅** True! TE=Temporal, KA=Kausal, MO=Modal, LO=Lokal
-3. **❌** False! The verb stays in position 2.
-4. **✅** True! (Morgen = Temporal in position 1, verb in position 2)
-5. **❌** False! Correct: "Ich fahre morgen nach Berlin."
-
----
-
-## 💡 Summary
-
-| Type | Examples | Position |
-|:----:|:--------|:--------:|
-| **Temporal** (time) | heute, morgen, am Montag, um 8 Uhr | **1** ← first |
-| **Kausal** (reason) | wegen, aus, dank | **2** |
-| **Modal** (manner) | gern, mit dem Bus, schnell | **3** |
-| **Lokal** (place) | in Berlin, zu Hause, nach Hause | **4** ← last |
-
-> 🎯 **The Golden Rule:** **TEKAMOLO** = Temporal → Kausal → Modal → Lokal. Memorize it and you'll always get the word order right!
-
-[🔙 Back to Grammar](index.md)
+| 3 | If a sentence starts with a time phrase, the verb goes at the end. | |
+| 4 | "Morgen fahre ich nach Berlin." — correct sentence | |
+| 5 | "Ich fahre nach Berlin morgen." — correct TEKAMOLO order | |
+</div>

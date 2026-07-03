@@ -62,28 +62,22 @@ der Tisch → die Tische (not just Tisch)
 
 ## 📝 Exercises
 
-### Exercise 1: Form the plural
-
-1. der Hund → die ___
-2. die Blume → die ___
-3. das Kind → die ___
-4. der Tisch → die ___
-5. das Auto → die ___
-
-### Exercise 2: Which plural is correct?
-
-1. der Mann → die (Manner / Männer / Männern)
-2. das Haus → die (Häuser / Hauser / Häusern)
-3. die Mutter → die (Mütter / Mutter / Mutters)
-4. der Student → die (Studenten / Student / Studentin)
-5. das Buch → die (Bücher / Bucher / Büchen)
-
-## ✅ Solutions
-
-### Solution Exercise 1
-1. Hunde | 2. Blumen | 3. Kinder | 4. Tische | 5. Autos
-
-### Solution Exercise 2
-1. Männer | 2. Häuser | 3. Mütter | 4. Studenten | 5. Bücher
-
+<div class="exercise" markdown="1" data-answers='["Hunde","Blumen","Kinder","Tische","Autos"]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | der Hund → die ___ | |
+| 2 | die Blume → die ___ | |
+| 3 | das Kind → die ___ | |
+| 4 | der Tisch → die ___ | |
+| 5 | das Auto → die ___ | |
+</div>
+<div class="exercise" markdown="1" data-answers='["Männer","Häuser","Mütter","Studenten","Bücher"]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | der Mann → die (Manner / Männer / Männern) | |
+| 2 | das Haus → die (Häuser / Hauser / Häusern) | |
+| 3 | die Mutter → die (Mütter / Mutter / Mutters) | |
+| 4 | der Student → die (Studenten / Student / Studentin) | |
+| 5 | das Buch → die (Bücher / Bucher / Büchen) | |
+</div>
 ---

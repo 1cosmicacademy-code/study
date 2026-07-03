@@ -137,60 +137,22 @@
 
 **اكمل الحوار بين الزبون والبايعة:**
 
-> **Kunde:** Guten Tag!
-> *(مساء الخير!)*
->
-> **Verkäuferin:** Guten Tag! Kann ich ______________ helfen?
-> *(مساء الخير! هل أستطيع مساعدتك؟)*
->
-> **Kunde:** Ja, ich ______________ die Bananen. Wo sind die Bananen?
-> *(نعم، أنا أبحث عن الموز. أين الموز؟)*
->
-> **Verkäuferin:** Die Bananen sind dort. Sie ______________ 1,99 Euro pro Kilo.
-> *(الموز هناك. سعره 1.99 يورو للكيلو.)*
->
-> **Kunde:** Danke! ______________ möchte ein Kilo Bananen, ______________.
-> *(شكراً! أريد كيلو موز من فضلك.)*
->
-> **Verkäuferin:** Bitte sehr! Möchten Sie ______________ etwas?
-> *(تفضل! هل تريد شيئاً أيضاً؟)*
->
-> **Kunde:** Nein, danke. Das ist ______________. Was macht das ______________?
-> *(لا شكراً. هذا كل شيء. كم المجموع؟)*
->
-> **Verkäuferin:** Das macht 1,99 Euro, bitte.
-> *(المجموع 1.99 يورو من فضلك.)*
->
-> **Kunde:** Hier sind 2 Euro. ______________, bitte.
-> *(هذه 2 يورو. الباقي من فضلك.)*
->
-> **Verkäuferin:** Hier ist 1 Cent ______________. Danke schön! Auf Wiedersehen!
-> *(هذا 1 سنت باقي. شكراً جزيلاً! مع السلامة!)*
+<div class="exercise" markdown="1" data-answers='["Ihnen","suche","kosten","Ich","bitte","noch","alles","zusammen","Stimmt so","Rückgeld"]'>
 
-✅ **الحل:**
+| المتحدث | النص | الإجابة |
+|---------|------|---------|
+| Kunde | Guten Tag! *(مساء الخير!)* | |
+| Verkäuferin | Guten Tag! Kann ich ______________ helfen? *(مساء الخير! هل أستطيع مساعدتك؟)* | |
+| Kunde | Ja, ich ______________ die Bananen. Wo sind die Bananen? *(نعم، أنا أبحث عن الموز. أين الموز؟)* | |
+| Verkäuferin | Die Bananen sind dort. Sie ______________ 1,99 Euro pro Kilo. *(الموز هناك. سعره 1.99 يورو للكيلو.)* | |
+| Kunde | Danke! ______________ möchte ein Kilo Bananen, ______________. *(شكراً! أريد كيلو موز من فضلك.)* | |
+| Verkäuferin | Bitte sehr! Möchten Sie ______________ etwas? *(تفضل! هل تريد شيئاً أيضاً؟)* | |
+| Kunde | Nein, danke. Das ist ______________. Was macht das ______________? *(لا شكراً. هذا كل شيء. كم المجموع؟)* | |
+| Verkäuferin | Das macht 1,99 Euro, bitte. *(المجموع 1.99 يورو من فضلك.)* | |
+| Kunde | Hier sind 2 Euro. ______________, bitte. *(هذه 2 يورو. الباقي من فضلك.)* | |
+| Verkäuferin | Hier ist 1 Cent ______________. Danke schön! Auf Wiedersehen! *(هذا 1 سنت باقي. شكراً جزيلاً! مع السلامة!)* | |
 
-> **Kunde:** Guten Tag!
->
-> **Verkäuferin:** Guten Tag! Kann ich **Ihnen** helfen?
->
-> **Kunde:** Ja, ich **suche** die Bananen. Wo sind die Bananen?
->
-> **Verkäuferin:** Die Bananen sind dort. Sie **kosten** 1,99 Euro pro Kilo.
->
-> **Kunde:** Danke! **Ich** möchte ein Kilo Bananen, **bitte**.
->
-> **Verkäuferin:** Bitte sehr! Möchten Sie **noch** etwas?
->
-> **Kunde:** Nein, danke. Das ist **alles**. Was macht das **zusammen**?
->
-> **Verkäuferin:** Das macht 1,99 Euro, bitte.
->
-> **Kunde:** Hier sind 2 Euro. **Stimmt so**, bitte. *(أو: **Rückgeld**)*
->
-> **Verkäuferin:** Hier ist 1 Cent **Rückgeld**. Danke schön! Auf Wiedersehen!
-
-> 💡 **Stimmt so** = "الباقي لك" (يعني خلّي الباقي بقشيش)
-> **Rückgeld** = الباقي / الفكة
+</div>
 
 ---
 

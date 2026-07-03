@@ -76,39 +76,31 @@ Masculine article = der, Feminine = die, Neuter = das
 
 ## 📝 Exercises
 
-### Exercise 1: Choose the correct article (der/die/das)
-
-1. ___ Tisch (table)
-2. ___ Lampe (lamp)
-3. ___ Buch (book)
-4. ___ Stühle (chairs)
-5. ___ Fenster (window)
-
-### Exercise 2: ein/eine/kein/keine
-
-1. Das ist ___ Hund. (a)
-2. Das ist ___ Katze. (a)
-3. Das ist ___ Problem. (not a — kein)
-4. Das sind ___ Blumen. (not — keine)
-5. Das ist ___ Auto. (a)
-
-### Exercise 3: Complete the sentence
-
-1. ___ Sonne scheint. (the sun)
-2. ___ Himmel ist blau. (the sky)
-3. ___ Kinder sind laut. (the children)
-4. ___ Apfel ist rot. (the apple)
-5. ___ Wasser ist kalt. (the water)
-
-## ✅ Solutions
-
-### Solution Exercise 1
-1. der | 2. die | 3. das | 4. die | 5. das
-
-### Solution Exercise 2
-1. ein | 2. eine | 3. kein | 4. keine | 5. ein
-
-### Solution Exercise 3
-1. Die | 2. Der | 3. Die | 4. Der | 5. Das
-
+<div class="exercise" markdown="1" data-answers='["der","die","das","die","das"]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | ___ Tisch (table) | |
+| 2 | ___ Lampe (lamp) | |
+| 3 | ___ Buch (book) | |
+| 4 | ___ Stühle (chairs) | |
+| 5 | ___ Fenster (window) | |
+</div>
+<div class="exercise" markdown="1" data-answers='["ein","eine","kein","keine","ein"]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | Das ist ___ Hund. (a) | |
+| 2 | Das ist ___ Katze. (a) | |
+| 3 | Das ist ___ Problem. (not a — kein) | |
+| 4 | Das sind ___ Blumen. (not — keine) | |
+| 5 | Das ist ___ Auto. (a) | |
+</div>
+<div class="exercise" markdown="1" data-answers='["Die","Der","Die","Der","Das"]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | ___ Sonne scheint. (the sun) | |
+| 2 | ___ Himmel ist blau. (the sky) | |
+| 3 | ___ Kinder sind laut. (the children) | |
+| 4 | ___ Apfel ist rot. (the apple) | |
+| 5 | ___ Wasser ist kalt. (the water) | |
+</div>
 ---

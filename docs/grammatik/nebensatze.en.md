@@ -104,81 +104,48 @@ In a subordinate clause (Nebensatz) ← the verb goes to the END of the sentence
 
 ## 📝 Exercises
 
-### Exercise 1: Choose the correct conjunction (dass, weil, wenn, obwohl)
-
-1. Ich glaube, _______ er bald kommt.
-2. Sie ist glücklich, _______ sie Urlaub hat.
-3. _______ es regnet, gehen wir spazieren.
-4. _______ ich Zeit habe, lese ich ein Buch.
-5. Er sagt, _______ er kein Geld hat.
-
-### Exercise 2: Complete the sentence by putting the verb in the correct position
-
-1. Ich hoffe, dass du morgen ___________. (kommen)
-2. Er ist traurig, weil seine Katze ____________. (sterben)
-3. __________ du müde bist, kannst du schlafen. (wenn)
-4. Sie geht zur Arbeit, obwohl sie Fieber ____________. (haben)
-5. Wir bleiben zu Hause, weil es ____________. (regnen)
-
-### Exercise 3: Combine the two sentences into one using weil
-
-1. Ich bin müde. Ich habe viel gearbeitet.
-   → Ich bin müde, _______________.
-
-2. Er kommt nicht. Er ist krank.
-   → Er kommt nicht, _______________.
-
-3. Sie lernt Deutsch. Sie will in Berlin studieren.
-   → Sie lernt Deutsch, _______________.
-
-### Exercise 4: Arrange the words to form a correct sentence 🔀
-
-1. dass / Ich / er / denke / kommt
-   → ___________________________________
-
-2. weil / lernt / Sie / Deutsch / sie / liebt / Sprache / die
-   → ___________________________________
-
-3. wenn / rufe / du / an / ich / mich / brauchst
-   → ___________________________________
-
-4. obwohl / geht / ins / er / er / Kino / krank / ist
-   → ___________________________________
-
-### Exercise 5: Complete the sentence with an appropriate subordinate clause
-
-1. Ich bin froh, dass ___________________.
-2. Er bleibt zu Hause, weil ___________________.
-3. ___________________, wenn ich Zeit habe.
-4. ___________________, obwohl es schwierig ist.
-
+<div class="exercise" markdown="1" data-answers='["dass","weil","Obwohl","Wenn","dass"]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | Ich glaube, _______ er bald kommt. | |
+| 2 | Sie ist glücklich, _______ sie Urlaub hat. | |
+| 3 | _______ es regnet, gehen wir spazieren. | |
+| 4 | _______ ich Zeit habe, lese ich ein Buch. | |
+| 5 | Er sagt, _______ er kein Geld hat. | |
+</div>
+<div class="exercise" markdown="1" data-answers='["kommst","stirbt","Wenn","hat","regnet"]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | Ich hoffe, dass du morgen ___________. (kommen) | |
+| 2 | Er ist traurig, weil seine Katze ____________. (sterben) | |
+| 3 | __________ du müde bist, kannst du schlafen. (wenn) | |
+| 4 | Sie geht zur Arbeit, obwohl sie Fieber ____________. (haben) | |
+| 5 | Wir bleiben zu Hause, weil es ____________. (regnen) | |
+</div>
+<div class="exercise" markdown="1" data-answers='["Sie lernt Deutsch","weil sie in Berlin studieren will."]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | Ich bin müde. Ich habe viel gearbeitet. | |
+| 2 | Er kommt nicht. Er ist krank. | |
+| 3 | Sie lernt Deutsch. Sie will in Berlin studieren. | |
+</div>
+<div class="exercise" markdown="1" data-answers='["Er geht ins Kino","obwohl er krank ist."]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | dass / Ich / er / denke / kommt | |
+| 2 | weil / lernt / Sie / Deutsch / sie / liebt / Sprache / die | |
+| 3 | wenn / rufe / du / an / ich / mich / brauchst | |
+| 4 | obwohl / geht / ins / er / er / Kino / krank / ist | |
+</div>
+<div class="exercise" markdown="1" data-answers='["Ich mache weiter..."]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | Ich bin froh, dass ___________________. | |
+| 2 | Er bleibt zu Hause, weil ___________________. | |
+| 3 | ___________________, wenn ich Zeit habe. | |
+| 4 | ___________________, obwohl es schwierig ist. | |
+</div>
 ---
-
-## ✅ Solutions
-
-### Solution Exercise 1
-1. dass | 2. weil | 3. Obwohl | 4. Wenn | 5. dass
-
-### Solution Exercise 2
-1. kommst | 2. stirbt | 3. Wenn | 4. hat | 5. regnet
-
-### Solution Exercise 3
-1. Ich bin müde, weil ich viel gearbeitet habe.
-2. Er kommt nicht, weil er krank ist.
-3. Sie lernt Deutsch, weil sie in Berlin studieren will.
-
-### Solution Exercise 4
-1. Ich denke, dass er kommt.
-2. Sie lernt Deutsch, weil sie die Sprache liebt.
-3. Ich rufe an, wenn du mich brauchst.
-4. Er geht ins Kino, obwohl er krank ist.
-
-### Solution Exercise 5
-(Approximate answers — any grammatically correct answer is accepted)
-1. ...dass du hier bist.
-2. ...weil er krank ist.
-3. Ich gehe spazieren...
-4. Ich mache weiter...
 
 ---
 

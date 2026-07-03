@@ -93,71 +93,52 @@ When a preposition comes with **der / das**, they often merge:
 
 ## 📝 Exercises
 
-### Exercise 1: Dativ or Akkusativ — choose
-1. Wo ist der Schlüssel? — Er liegt ___ (auf / in) dem Tisch.
-2. Wohin legst du das Buch? — Ich lege es ___ (auf / unter) den Tisch.
-3. Die Katze sitzt ___ (unter / in) dem Bett.
-4. Ich gehe ___ (in / auf) die Schule.
-5. Das Bild hängt ___ (an / auf) der Wand.
-
-### Exercise 2: Complete with Dativ or Akkusativ
-1. Das Kind spielt ___ (in) ___ Garten. (Dativ)
-2. Wir gehen ___ (in) ___ Park. (Akkusativ)
-3. Der Hund liegt ___ (unter) ___ Tisch. (Dativ)
-4. Der Vogel fliegt ___ (über) ___ Haus. (Akkusativ)
-5. Der Stuhl steht ___ (neben) ___ Tür. (Dativ)
-
-### Exercise 3: Change from location to direction
-1. Die Katze sitzt auf dem Tisch. → Die Katze springt ___ ___ ___. (auf)
-2. Das Buch liegt unter dem Bett. → Ich lege das Buch ___ ___ ___. (unter)
-3. Der Hund ist hinter der Tür. → Der Hund läuft ___ ___ ___. (hinter)
-4. Das Kind sitzt neben der Mutter. → Das Kind setzt sich ___ ___ ___. (neben)
-5. Der Ball ist unter dem Sofa. → Der Ball rollt ___ ___ ___. (unter)
-
-### Exercise 4: Contract the preposition with the article
-1. in + dem → ___
-2. an + das → ___
-3. in + das → ___
-4. bei + dem → ___
-5. an + dem → ___
-
-### Exercise 5: Choose — Wo or Wohin?
-1. ___ (Wo / Wohin) ist mein Buch? → **Wo** + **Dativ**
-2. ___ (Wo / Wohin) gehst du?
-3. ___ (Wo / Wohin) wohnst du?
-4. ___ (Wo / Wohin) legst du den Schlüssel?
-5. ___ (Wo / Wohin) hängt das Bild?
-
+<div class="exercise" markdown="1" data-answers='["**auf**","**auf**","**unter**","**in**","**an**"]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | Wo ist der Schlüssel? — Er liegt ___ (auf / in) dem Tisch. | |
+| 2 | Wohin legst du das Buch? — Ich lege es ___ (auf / unter) den Tisch. | |
+| 3 | Die Katze sitzt ___ (unter / in) dem Bett. | |
+| 4 | Ich gehe ___ (in / auf) die Schule. | |
+| 5 | Das Bild hängt ___ (an / auf) der Wand. | |
+</div>
+<div class="exercise" markdown="1" data-answers='["Der Stuhl steht **neben der** Tür."]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | Das Kind spielt ___ (in) ___ Garten. (Dativ) | |
+| 2 | Wir gehen ___ (in) ___ Park. (Akkusativ) | |
+| 3 | Der Hund liegt ___ (unter) ___ Tisch. (Dativ) | |
+| 4 | Der Vogel fliegt ___ (über) ___ Haus. (Akkusativ) | |
+| 5 | Der Stuhl steht ___ (neben) ___ Tür. (Dativ) | |
+</div>
+<div class="exercise" markdown="1" data-answers='["Der Ball rollt **unter das Sofa**."]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | Die Katze sitzt auf dem Tisch. → Die Katze springt ___ ___ ___. (auf) | |
+| 2 | Das Buch liegt unter dem Bett. → Ich lege das Buch ___ ___ ___. (unter) | |
+| 3 | Der Hund ist hinter der Tür. → Der Hund läuft ___ ___ ___. (hinter) | |
+| 4 | Das Kind sitzt neben der Mutter. → Das Kind setzt sich ___ ___ ___. (neben) | |
+| 5 | Der Ball ist unter dem Sofa. → Der Ball rollt ___ ___ ___. (unter) | |
+</div>
+<div class="exercise" markdown="1" data-answers='["**im**","**ans**","**ins**","**beim**","**am**"]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | in + dem → ___ | |
+| 2 | an + das → ___ | |
+| 3 | in + das → ___ | |
+| 4 | bei + dem → ___ | |
+| 5 | an + dem → ___ | |
+</div>
+<div class="exercise" markdown="1" data-answers='["**Wo** — Dativ (fixed location)"]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | ___ (Wo / Wohin) ist mein Buch? → **Wo** + **Dativ** | |
+| 2 | ___ (Wo / Wohin) gehst du? | |
+| 3 | ___ (Wo / Wohin) wohnst du? | |
+| 4 | ___ (Wo / Wohin) legst du den Schlüssel? | |
+| 5 | ___ (Wo / Wohin) hängt das Bild? | |
+</div>
 ---
-
-## ✅ Solutions
-
-### Solution Exercise 1
-1. **auf** | 2. **auf** | 3. **unter** | 4. **in** | 5. **an**
-
-### Solution Exercise 2
-1. Das Kind spielt **im** Garten. (in + dem)
-2. Wir gehen **in den** Park.
-3. Der Hund liegt **unter dem** Tisch.
-4. Der Vogel fliegt **über das** Haus.
-5. Der Stuhl steht **neben der** Tür.
-
-### Solution Exercise 3
-1. Die Katze springt **auf den Tisch**.
-2. Ich lege das Buch **unter das Bett**.
-3. Der Hund läuft **hinter die Tür**.
-4. Das Kind setzt sich **neben die Mutter**.
-5. Der Ball rollt **unter das Sofa**.
-
-### Solution Exercise 4
-1. **im** | 2. **ans** | 3. **ins** | 4. **beim** | 5. **am**
-
-### Solution Exercise 5
-1. **Wo** — Dativ (fixed location)
-2. **Wohin** — Akkusativ (direction)
-3. **Wo** — Dativ (location)
-4. **Wohin** — Akkusativ (movement)
-5. **Wo** — Dativ (fixed location)
 
 ---
 

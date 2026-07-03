@@ -173,33 +173,21 @@
 
 **Complete the conversation with the correct possessive articles:**
 
-> **A:** Hallo! Wer ist das?  
-> **B:** Das ist _____ (mein / meine) Familie!  
-> **A:** Ist das _____ (dein / deine) Vater?  
-> **B:** Ja, das ist _____ (mein / meine) Vater. Er heißt Sami.  
-> **A:** Und ist das _____ (dein / deine) Mutter?  
-> **B:** Ja, das ist _____ (mein / meine) Mutter. Sie heißt Lina.  
-> **A:** Hast du Geschwister?  
-> **B:** Ja, ich habe einen Bruder und eine Schwester.  
-> **A:** Wie heißt _____ (dein / deine) Bruder?  
-> **B:** _____ (Mein / Meine) Bruder heißt Ali.  
-> **A:** Und _____ (dein / deine) Schwester?  
-> **B:** _____ (Mein / Meine) Schwester heißt Sara.
+<div class="exercise" markdown="1" data-answers='["meine","dein","mein","deine","meine","dein","Mein","deine","Meine"]'>
 
-✅ **Solution:**
+| Speaker | Text | Answer |
+|---------|------|--------|
+| B | Das ist ________ (mein / meine) Familie! | |
+| A | Ist das ________ (dein / deine) Vater? | |
+| B | Ja, das ist ________ (mein / meine) Vater. Er heißt Sami. | |
+| A | Und ist das ________ (dein / deine) Mutter? | |
+| B | Ja, das ist ________ (mein / meine) Mutter. Sie heißt Lina. | |
+| A | Wie heißt ________ (dein / deine) Bruder? | |
+| B | ________ (Mein / Meine) Bruder heißt Ali. | |
+| A | Und ________ (dein / deine) Schwester? | |
+| B | ________ (Mein / Meine) Schwester heißt Sara. | |
 
-> **A:** Hallo! Wer ist das?  
-> **B:** Das ist **meine** Familie! *(Familie is feminine → meine)*  
-> **A:** Ist das **dein** Vater? *(Vater is masculine → dein)*  
-> **B:** Ja, das ist **mein** Vater. Er heißt Sami. *(Vater is masculine → mein)*  
-> **A:** Und ist das **deine** Mutter? *(Mutter is feminine → deine)*  
-> **B:** Ja, das ist **meine** Mutter. Sie heißt Lina. *(Mutter is feminine → meine)*  
-> **A:** Hast du Geschwister?  
-> **B:** Ja, ich habe einen Bruder und eine Schwester.  
-> **A:** Wie heißt **dein** Bruder? *(Bruder is masculine → dein)*  
-> **B:** **Mein** Bruder heißt Ali. *(Bruder is masculine → mein)*  
-> **A:** Und **deine** Schwester? *(Schwester is feminine → deine)*  
-> **B:** **Meine** Schwester heißt Sara. *(Schwester is feminine → meine)*
+</div>
 
 ---
 

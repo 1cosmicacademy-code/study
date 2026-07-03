@@ -79,71 +79,52 @@ We start from **Präteritum** (simple past) and add an **Umlaut** (dots) to the 
 
 ## 📝 Exercises
 
-### Exercise 1: Choose the correct form
-1. Ich ___ (wäre / hätte / würde) gern in Berlin.
-2. Wenn ich Geld ___ (hätte / wäre / würde), kaufte ich ein Auto.
-3. ___ (Könntest / Müsstest / Würdest) du mir bitte helfen?
-4. Das ___ (wäre / hätte / würde) eine gute Idee!
-5. Wir ___ (hätten / wären / würden) gern mehr Zeit.
-
-### Exercise 2: Fill in with wäre, hätte, or würde
-1. Ich ___ gern einen Hund.
-2. Du ___ nicht so müde, wenn du früher schlafen würdest.
-3. Er ___ gern Arzt.
-4. Wir ___ gern ins Kino gehen.
-5. ___ ihr Zeit für mich?
-
-### Exercise 3: Transform to würde + Infinitive
-1. Ich lerne Deutsch. (würde) → Ich ___ gern Deutsch ___.
-2. Sie kauft ein Haus. (würde) → Sie ___ gern ein Haus ___.
-3. Wir essen Pizza. (würden) → Wir ___ gern Pizza ___.
-4. Er reist nach Ägypten. (würde) → Er ___ gern nach Ägypten ___.
-5. Ihr trinkt Kaffee. (würdet) → Ihr ___ gern Kaffee ___.
-
-### Exercise 4: Complete the conditional sentence
-1. Wenn ich Zeit ___, ___ ich Sport machen. (haben / würde)
-2. Wenn du Deutsch ___ (können), ___ du in Deutschland arbeiten.
-3. Wenn wir ein Auto ___ (haben), ___ wir reisen. (würden)
-4. Wenn er reich ___ (sein), ___ er ein Schloss kaufen. (würde)
-5. Wenn ihr früher ___ (kommen), ___ ihr den Film sehen. (würdet / können)
-
-### Exercise 5: Translate or explain the meaning
-1. Ich wäre gern bei dir.
-2. Könntest du mir bitte das Salz geben?
-3. Das wäre fantastisch!
-4. Wenn ich Zeit hätte, würde ich ein Buch lesen.
-5. Würdest du morgen mitkommen?
-
+<div class="exercise" markdown="1" data-answers='["**wäre**","**hätte**","**Könntest**","**wäre**","**hätten**"]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | Ich ___ (wäre / hätte / würde) gern in Berlin. | |
+| 2 | Wenn ich Geld ___ (hätte / wäre / würde), kaufte ich ein Auto. | |
+| 3 | ___ (Könntest / Müsstest / Würdest) du mir bitte helfen? | |
+| 4 | Das ___ (wäre / hätte / würde) eine gute Idee! | |
+| 5 | Wir ___ (hätten / wären / würden) gern mehr Zeit. | |
+</div>
+<div class="exercise" markdown="1" data-answers='["**hätte**","**wärst**","**wäre**","**würden**","**Hättet**"]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | Ich ___ gern einen Hund. | |
+| 2 | Du ___ nicht so müde, wenn du früher schlafen würdest. | |
+| 3 | Er ___ gern Arzt. | |
+| 4 | Wir ___ gern ins Kino gehen. | |
+| 5 | ___ ihr Zeit für mich? | |
+</div>
+<div class="exercise" markdown="1" data-answers='["Ihr **würdet** gern Kaffee **trinken**."]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | Ich lerne Deutsch. (würde) → Ich ___ gern Deutsch ___. | |
+| 2 | Sie kauft ein Haus. (würde) → Sie ___ gern ein Haus ___. | |
+| 3 | Wir essen Pizza. (würden) → Wir ___ gern Pizza ___. | |
+| 4 | Er reist nach Ägypten. (würde) → Er ___ gern nach Ägypten ___. | |
+| 5 | Ihr trinkt Kaffee. (würdet) → Ihr ___ gern Kaffee ___. | |
+</div>
+<div class="exercise" markdown="1" data-answers='["Wenn ihr früher **kämet** (kommen würdet)","**könntet** ihr den Film sehen."]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | Wenn ich Zeit ___, ___ ich Sport machen. (haben / würde) | |
+| 2 | Wenn du Deutsch ___ (können), ___ du in Deutschland arbeiten. | |
+| 3 | Wenn wir ein Auto ___ (haben), ___ wir reisen. (würden) | |
+| 4 | Wenn er reich ___ (sein), ___ er ein Schloss kaufen. (würde) | |
+| 5 | Wenn ihr früher ___ (kommen), ___ ihr den Film sehen. (würdet / können) | |
+</div>
+<div class="exercise" markdown="1" data-answers='["Would you come along tomorrow?"]'>
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | Ich wäre gern bei dir. | |
+| 2 | Könntest du mir bitte das Salz geben? | |
+| 3 | Das wäre fantastisch! | |
+| 4 | Wenn ich Zeit hätte, würde ich ein Buch lesen. | |
+| 5 | Würdest du morgen mitkommen? | |
+</div>
 ---
-
-## ✅ Solutions
-
-### Solution Exercise 1
-1. **wäre** | 2. **hätte** | 3. **Könntest** | 4. **wäre** | 5. **hätten**
-
-### Solution Exercise 2
-1. **hätte** | 2. **wärst** | 3. **wäre** | 4. **würden** | 5. **Hättet**
-
-### Solution Exercise 3
-1. Ich **würde** gern Deutsch **lernen**.
-2. Sie **würde** gern ein Haus **kaufen**.
-3. Wir **würden** gern Pizza **essen**.
-4. Er **würde** gern nach Ägypten **reisen**.
-5. Ihr **würdet** gern Kaffee **trinken**.
-
-### Solution Exercise 4
-1. Wenn ich Zeit **hätte**, **würde** ich Sport machen.
-2. Wenn du Deutsch **könntest**, **könntest** du in Deutschland arbeiten.
-3. Wenn wir ein Auto **hätten**, **würden** wir reisen.
-4. Wenn er reich **wäre**, **würde** er ein Schloss kaufen.
-5. Wenn ihr früher **kämet** (kommen würdet), **könntet** ihr den Film sehen.
-
-### Solution Exercise 5
-1. I wish I were with you.
-2. Could you please give me the salt?
-3. That would be fantastic!
-4. If I had time, I would read a book.
-5. Would you come along tomorrow?
 
 ---
 

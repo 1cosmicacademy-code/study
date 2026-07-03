@@ -85,36 +85,20 @@
 
 </div>
 
-## Exercise 5: Dialogue at the Government Office 💬
+<div class="exercise" markdown="1" data-answers='["Termin","Pass","Ausweis","müssen","unterschreiben","Gebühr","bezahlen","vier"]'>
 
-**Complete the dialogue between Mr. Khaled (citizen) and Ms. Weber (clerk):**
+| Speaker | Text | Answer |
+|---------|------|--------|
+| Frau Weber | Guten Morgen! Haben Sie einen ______? | |
+| Herr Khaled | Ja, um 10 Uhr. Ich möchte einen neuen ______ beantragen. | |
+| Frau Weber | Haben Sie Ihren alten Pass und Ihren ______ dabei? | |
+| Frau Weber | Gut. Dann ______ Sie dieses Formular ausfüllen. | |
+| Herr Khaled | Wo muss ich ______? | |
+| Frau Weber | Hier unten, bitte. Die ______ ist 60 Euro. | |
+| Herr Khaled | Kann ich mit Karte ______? | |
+| Frau Weber | Ja, natürlich! In ______ Wochen ist der Pass fertig. | |
 
-> **Frau Weber:** Guten Morgen! Haben Sie einen (1) ______________?
-> *(Good morning! Do you have an appointment?)*
->
-> **Herr Khaled:** Ja, um 10 Uhr. Ich möchte einen neuen (2) ______________ beantragen.
-> *(Yes, at 10 o'clock. I want to apply for a new passport.)*
->
-> **Frau Weber:** Haben Sie Ihren alten Pass und Ihren (3) ______________ dabei?
-> *(Do you have your old passport and your ID with you?)*
->
-> **Herr Khaled:** Ja, hier bitte.
-> *(Yes, here you go.)*
->
-> **Frau Weber:** Gut. Dann (4) ______________ Sie dieses Formular ausfüllen.
-> *(Good. Then you must fill out this form.)*
->
-> **Herr Khaled:** Wo muss ich (5) ______________?
-> *(Where must I sign?)*
->
-> **Frau Weber:** Hier unten, bitte. Die (6) ______________ ist 60 Euro.
-> *(Here at the bottom, please. The fee is 60 euros.)*
->
-> **Herr Khaled:** Kann ich mit Karte (7) ______________?
-> *(Can I pay by card?)*
->
-> **Frau Weber:** Ja, natürlich! In (8) ______________ Wochen ist der Pass fertig.
-> *(Yes, of course! In four weeks the passport will be ready.)*
+</div>
 
 
 ## Exercise 6: True or False? ❌✅

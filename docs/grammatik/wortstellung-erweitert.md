@@ -213,139 +213,44 @@ TE — KA — MO — LO
 
 ## 6. 📝 تمارين
 
-### تمرين 1: حدد الـ Satzklammer 🔍
-
-**ضع قوساً حول الفعلين (القوس المفتوح والقوس المغلق):**
-
-1. Ich muss heute einkaufen gehen.
-2. Er hat gestern einen Film gesehen.
-3. Wir rufen dich morgen an.
-4. Kannst du mir bitte helfen?
-5. Sie ist nach Berlin gefahren.
-
-✅ **الحل:**
-
-1. Ich **[muss]** heute einkaufen **[gehen]**.
-2. Er **[hat]** gestern einen Film **[gesehen]**.
-3. Wir **[rufen]** dich morgen **[an]**.
-4. **[Kannst]** du mir bitte **[helfen]**?
-5. Sie **[ist]** nach Berlin **[gefahren]**.
-
----
-
-### تمرين 2: رتب المفعول به بالترتيب الصحيح 🔀
-
-1. Ich schenke (das Buch / der Mutter).
-   → Ich schenke ___________________________________
-
-2. Er gibt (dem Kind / den Ball).
-   → Er gibt ___________________________________
-
-3. Ich gebe (es / dem Mann).
-   → Ich gebe ___________________________________
-
-4. Sie kauft (der Freundin / ein Geschenk).
-   → Sie kauft ___________________________________
-
-5. Er zeigt (ihnen / das Haus).
-   → Er zeigt ___________________________________
-
-✅ **الحل:**
-
-1. **der Mutter das Buch** (D → A: اسم + اسم)
-2. **dem Kind den Ball** (D → A: اسم + اسم)
-3. **es dem Mann** (A → D: ضمير + اسم — الضمير أولاً!)
-4. **der Freundin ein Geschenk** (D → A: اسم + اسم)
-5. **ihnen das Haus** (D → A: ضمير + اسم)
-
----
-
-### تمرين 3: ضع "nicht" في المكان الصحيح 🚫
-
-1. Ich komme. (نفي الفعل)
-   → ___________________________________
-
-2. Er fährt mit dem Auto. (نفي "mit dem Auto")
-   → ___________________________________
-
-3. Sie arbeitet heute. (نفي "heute")
-   → ___________________________________
-
-4. Wir gehen ins Kino. (نفي كامل)
-   → ___________________________________
-
-5. Ich habe den Mann gesehen. (نفي "den Mann")
-   → ___________________________________
-
-✅ **الحل:**
-
-1. **Ich komme nicht.**
-2. **Er fährt nicht mit dem Auto.**
-3. **Sie arbeitet nicht heute.** (أو **Heute arbeitet sie nicht.**)
-4. **Wir gehen nicht ins Kino.**
-5. **Ich habe nicht den Mann gesehen.** (نفي الشخص المحدد)
-
----
-
-### تمرين 4: رتب الكلمات لتكوين جملة صحيحة 🔀
-
-**طبق قواعد ترتيب الكلمات المتقدمة:**
-
-1. heute / fahre / Ich / nach Berlin / mit dem Zug
-   → ___________________________________
-
-2. gestern / einen Film / gesehen / hat / Er
-   → ___________________________________
-
-3. morgen / mich / anrufen / Kannst / du / ?
-   → ___________________________________
-
-4. nicht / ich / heute / komme / , / sondern morgen
-   → ___________________________________
-
-5. jeden Tag / um 7 Uhr / steht / Er / auf
-   → ___________________________________
-
-✅ **الحل:**
-
-1. **Ich fahre heute mit dem Zug nach Berlin.** (Satzklammer بسيطة)
-2. **Er hat gestern einen Film gesehen.** (Perfekt مع Satzklammer)
-3. **Kannst du mich morgen anrufen?** (Modalverb مع Satzklammer)
-4. **Ich komme nicht heute, sondern morgen.** (nicht قبل heute)
-5. **Er steht jeden Tag um 7 Uhr auf.** (Trennbare Verb + Satzklammer)
-
----
-
-### تمرين 5: صح أم خطأ؟ ❌✅
-
-| # | الجملة | صح/خطأ |
-|---|--------|:-------:|
-| 1 | في Satzklammer، الفعل المساعد يفتح القوس والفعل الأساسي يغلقه. | |
-| 2 | المفعول به الضمير يأتي دائماً بعد المفعول به الاسم. | |
-| 3 | عند نفي الفعل فقط، nicht يروح في آخر الجملة. | |
-| 4 | في الانعكاس (Inversion)، الفعل يروح في الموضع الثالث. | |
-| 5 | Dativ يأتي قبل Akkusativ عندما يكون كلاهما اسمين. | |
-
-✅ **الحل:**
-
-1. **✅** صحيح! الفعل المساعد/Modalverb يفتح، والفعل الأساسي/Partizip يغلق.
-2. **❌** خطأ! الضمير يأتي **قبل** الاسم دائماً.
-3. **✅** صحيح! "Ich komme nicht." — nicht في آخر الجملة.
-4. **❌** خطأ! الفعل يبقى في **الموضع الثاني** دائماً.
-5. **✅** صحيح! Dativ → Akkusativ للاسمين.
-
----
-
-## 💡 خلاصة
-
-| القاعدة | الشرح |
-|:-------|:-------|
-| **Satzklammer** | الفعل المساعد = قوس مفتوح ← الفعل الأساسي = قوس مغلق |
-| **ترتيب المفعول به** | اسم + اسم → Dativ قبل Akkusativ \| ضمير → ضمير قبل اسم |
-| **nicht** | نفي الفعل → آخر الجملة \| نفي عنصر → قبله |
-| **Inversion** | الفعل يبقى في الموضع الثاني حتى لو بدأت بعنصر آخر |
-| **TEKAMOLO** | Temporal → Kausal → Modal → Lokal |
-
-> 🎯 **نصيحة:** التركيز على **Satzklammer** هو المفتاح لفهم الجمل الألمانية المعقدة. تمرن على تحديد القوسين في كل جملة!
-
-[🔙 العودة إلى القواعد](index.md)
+<div class="exercise" markdown="1" data-answers='["Ich [muss] heute einkaufen [gehen].","Er [hat] gestern einen Film [gesehen].","Wir [rufen] dich morgen [an].","[Kannst] du mir bitte [helfen]?","Sie [ist] nach Berlin [gefahren]."]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | Ich muss heute einkaufen gehen. | |
+| 2 | Er hat gestern einen Film gesehen. | |
+| 3 | Wir rufen dich morgen an. | |
+| 4 | Kannst du mir bitte helfen? | |
+| 5 | Sie ist nach Berlin gefahren. | |
+</div><div class="exercise" markdown="1" data-answers='["der Mutter das Buch","dem Kind den Ball","es dem Mann","der Freundin ein Geschenk","ihnen das Haus"]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | Ich schenke (das Buch / der Mutter). | |
+| 2 | Er gibt (dem Kind / den Ball). | |
+| 3 | Ich gebe (es / dem Mann). | |
+| 4 | Sie kauft (der Freundin / ein Geschenk). | |
+| 5 | Er zeigt (ihnen / das Haus). | |
+</div><div class="exercise" markdown="1" data-answers='["Ich komme nicht.","Er fährt nicht mit dem Auto.","Sie arbeitet nicht heute.","Wir gehen nicht ins Kino.","Ich habe nicht den Mann gesehen."]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | Ich komme. (نفي الفعل) | |
+| 2 | Er fährt mit dem Auto. (نفي "mit dem Auto") | |
+| 3 | Sie arbeitet heute. (نفي "heute") | |
+| 4 | Wir gehen ins Kino. (نفي كامل) | |
+| 5 | Ich habe den Mann gesehen. (نفي "den Mann") | |
+</div><div class="exercise" markdown="1" data-answers='["Ich fahre heute mit dem Zug nach Berlin.","Er hat gestern einen Film gesehen.","Kannst du mich morgen anrufen?","Ich komme nicht heute","sondern morgen.","Er steht jeden Tag um 7 Uhr auf."]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | heute / fahre / Ich / nach Berlin / mit dem Zug | |
+| 2 | gestern / einen Film / gesehen / hat / Er | |
+| 3 | morgen / mich / anrufen / Kannst / du / ? | |
+| 4 | nicht / ich / heute / komme / , / sondern morgen | |
+| 5 | jeden Tag / um 7 Uhr / steht / Er / auf | |
+</div><div class="exercise" markdown="1" data-answers='["✅","❌","✅","❌","✅"]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 |  | |
+| 2 |  | |
+| 3 |  | |
+| 4 |  | |
+| 5 |  | |
+</div>

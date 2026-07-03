@@ -142,36 +142,19 @@
 
 **أكمل الحوار بين شخصين:**
 
-> **A:** Hallo Lisa! Ich habe am Samstag ___________________.  
-> *(مرحباً ليسا! عندي عيد ميلاد يوم السبت.)*
-> 
-> **B:** Oh, wirklich? Herzlichen ___________________! 🎂  
-> *(أوه، حقاً؟ تهانينا الحارة!)*
-> 
-> **A:** Danke! Ich ___________________ dich ein. Kommst du zur ___________________?  
-> *(شكراً! أدعوك. هل ستأتي إلى الحفلة؟)*
-> 
-> **B:** Ja, ___________________! Wann ist die Party?  
-> *(نعم، بكل سرور! متى الحفلة؟)*
-> 
-> **A:** ___________________ Samstag um 15 Uhr.  
-> *(يوم السبت الساعة 3.)*
-> 
-> **B:** Super! Ich bringe einen ___________________ mit.  
-> *(ممتاز! سأحضر كعكة.)*
-> 
-> **A:** Toll! Ich wünsche ___________________ einen schönen Tag! Bis Samstag!  
-> *(رائع! أتمنى لك يوماً جميلاً! ليوم السبت!)*
+<div class="exercise" markdown="1" data-answers='["Geburtstag","Glückwunsch","lade","Party","gerne","Am","Kuchen","dir"]'>
 
-✅ **الحل:**
+| المتحدث | النص | الإجابة |
+|---------|------|---------|
+| A | Hallo Lisa! Ich habe am Samstag ___________________. *(مرحباً ليسا! عندي عيد ميلاد يوم السبت.)* | |
+| B | Oh, wirklich? Herzlichen ___________________! 🎂 *(أوه، حقاً؟ تهانينا الحارة!)* | |
+| A | Danke! Ich ___________________ dich ein. Kommst du zur ___________________? *(شكراً! أدعوك. هل ستأتي إلى الحفلة؟)* | |
+| B | Ja, ___________________! Wann ist die Party? *(نعم، بكل سرور! متى الحفلة؟)* | |
+| A | ___________________ Samstag um 15 Uhr. *(يوم السبت الساعة 3.)* | |
+| B | Super! Ich bringe einen ___________________ mit. *(ممتاز! سأحضر كعكة.)* | |
+| A | Toll! Ich wünsche ___________________ einen schönen Tag! Bis Samstag! *(رائع! أتمنى لك يوماً جميلاً! ليوم السبت!)* | |
 
-> **A:** Hallo Lisa! Ich habe am Samstag **Geburtstag**.  
-> **B:** Oh, wirklich? Herzlichen **Glückwunsch**! 🎂  
-> **A:** Danke! Ich **lade** dich ein. Kommst du zur **Party**?  
-> **B:** Ja, **gerne**! Wann ist die Party?  
-> **A:** **Am** Samstag um 15 Uhr.  
-> **B:** Super! Ich bringe einen **Kuchen** mit.  
-> **A:** Toll! Ich wünsche **dir** einen schönen Tag! Bis Samstag!  
+</div>  
 
 ---
 

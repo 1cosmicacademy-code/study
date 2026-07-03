@@ -131,77 +131,52 @@
 
 ## 📝 تمارين
 
-### تمرين 1: اختر حرف الجر الزماني الصحيح (um, am, im, seit, von...bis)
-
-1. _______ 9 Uhr beginnt die Arbeit. (الساعة)
-2. _______ Montag habe ich einen Termin. (يوم)
-3. _______ Sommer ist es heiß. (فصل)
-4. _______ 2021 lerne ich Deutsch. (منذ)
-5. _______ 8 _______ 16 Uhr bin ich im Büro. (من ... إلى)
-
-### تمرين 2: اختر حرف الجر المكاني الصحيح مع Dativ (aus, bei, mit, nach, zu, von)
-
-1. Ich komme _______ der Türkei. (من)
-2. Sie wohnt _______ ihrer Schwester. (عند)
-3. Ich fahre _______ dem Fahrrad zur Arbeit. (بـ)
-4. Wir fliegen _______ Italien. (إلى)
-5. Er geht _______ seinem Freund. (إلى)
-
-### تمرين 3: أكمل بـ Dativ أو Akkusativ حسب السياق
-
-1. Das Kind sitzt auf _______ (der Stuhl). (Dativ — ثابت)
-2. Das Kind setzt sich auf _______ (der Stuhl). (Akkusativ — حركة)
-3. Die Blume ist in _______ (die Vase). (Dativ — ثابت)
-4. Ich stelle die Blume in _______ (die Vase). (Akkusativ — حركة)
-5. Der Hund liegt unter _______ (der Tisch). (Dativ — ثابت)
-
-### تمرين 4: اختر حرف الجر المناسب (durch, für, gegen, ohne, um)
-
-1. Wir gehen _______ den Wald. (عبر)
-2. Das Geschenk ist _______ dich. (من أجل)
-3. Ich bin _______ Gewalt. (ضد)
-4. Er geht _______ mich. (بدون)
-5. Wir laufen _______ den Teich. (حول)
-
-### تمرين 5: ترجم إلى الألمانية
-
-1. أنا أعيش في ألمانيا منذ ثلاث سنوات.
-   → ___________________________________
-2. في الصيف نسافر بالقطار إلى النمسا.
-   → ___________________________________
-3. أضع الكتاب على الطاولة.
-   → ___________________________________
-4. القطة تحت السرير.
-   → ___________________________________
-5. من الاثنين إلى الجمعة أعمل في المكتب.
-   → ___________________________________
-
+<div class="exercise" markdown="1" data-answers='["Um","Am","Im","Seit","Von ... bis"]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | _______ 9 Uhr beginnt die Arbeit. (الساعة) | |
+| 2 | _______ Montag habe ich einen Termin. (يوم) | |
+| 3 | _______ Sommer ist es heiß. (فصل) | |
+| 4 | _______ 2021 lerne ich Deutsch. (منذ) | |
+| 5 | _______ 8 _______ 16 Uhr bin ich im Büro. (من ... إلى) | |
+</div>
+<div class="exercise" markdown="1" data-answers='["aus","bei","mit","nach","zu"]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | Ich komme _______ der Türkei. (من) | |
+| 2 | Sie wohnt _______ ihrer Schwester. (عند) | |
+| 3 | Ich fahre _______ dem Fahrrad zur Arbeit. (بـ) | |
+| 4 | Wir fliegen _______ Italien. (إلى) | |
+| 5 | Er geht _______ seinem Freund. (إلى) | |
+</div>
+<div class="exercise" markdown="1" data-answers='["unter **dem** Tisch (Dativ)"]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | Das Kind sitzt auf _______ (der Stuhl). (Dativ — ثابت) | |
+| 2 | Das Kind setzt sich auf _______ (der Stuhl). (Akkusativ — حركة) | |
+| 3 | Die Blume ist in _______ (die Vase). (Dativ — ثابت) | |
+| 4 | Ich stelle die Blume in _______ (die Vase). (Akkusativ — حركة) | |
+| 5 | Der Hund liegt unter _______ (der Tisch). (Dativ — ثابت) | |
+</div>
+<div class="exercise" markdown="1" data-answers='["durch","für","gegen","ohne","um"]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | Wir gehen _______ den Wald. (عبر) | |
+| 2 | Das Geschenk ist _______ dich. (من أجل) | |
+| 3 | Ich bin _______ Gewalt. (ضد) | |
+| 4 | Er geht _______ mich. (بدون) | |
+| 5 | Wir laufen _______ den Teich. (حول) | |
+</div>
+<div class="exercise" markdown="1" data-answers='["Von Montag bis Freitag arbeite ich im Büro."]'>
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | أنا أعيش في ألمانيا منذ ثلاث سنوات. | |
+| 2 | في الصيف نسافر بالقطار إلى النمسا. | |
+| 3 | أضع الكتاب على الطاولة. | |
+| 4 | القطة تحت السرير. | |
+| 5 | من الاثنين إلى الجمعة أعمل في المكتب. | |
+</div>
 ---
-
-## ✅ الحلول
-
-### حل تمرين 1
-1. Um | 2. Am | 3. Im | 4. Seit | 5. Von ... bis
-
-### حل تمرين 2
-1. aus | 2. bei | 3. mit | 4. nach | 5. zu
-
-### حل تمرين 3
-1. auf **dem** Stuhl (Dativ)
-2. auf **den** Stuhl (Akkusativ)
-3. in **der** Vase (Dativ)
-4. in **die** Vase (Akkusativ)
-5. unter **dem** Tisch (Dativ)
-
-### حل تمرين 4
-1. durch | 2. für | 3. gegen | 4. ohne | 5. um
-
-### حل تمرين 5
-1. Ich wohne seit drei Jahren in Deutschland.
-2. Im Sommer fahren wir mit dem Zug nach Österreich.
-3. Ich lege das Buch auf den Tisch.
-4. Die Katze ist unter dem Bett.
-5. Von Montag bis Freitag arbeite ich im Büro.
 
 ---
 
