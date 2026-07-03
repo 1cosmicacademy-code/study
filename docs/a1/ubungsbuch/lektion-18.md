@@ -11,6 +11,8 @@
 
 **الكلمات:** das Amt — der Beamte — das Formular — der Antrag — der Pass — der Ausweis — die Unterschrift — der Schalter
 
+<div class="exercise" markdown="1" data-answers='["Amt", "Beamte", "Formular", "Antrag", "Schalter", "Pass", "unterschreiben", "Ausweis"]'>
+
 | # | الجملة | الكلمة المناسبة |
 |---|--------|-----------------|
 | 1 | Ich muss zum ______________ gehen. (أنا مضطر أروح للدائرة الحكومية) | ______________ |
@@ -22,24 +24,13 @@
 | 7 | Bitte ______________ Sie hier. (من فضلك وقع هنا) | ______________ |
 | 8 | Haben Sie Ihren ______________ dabei? (هل معك بطاقة هويتك؟) | ______________ |
 
-✅ **الحل:**
-
-| # | الإجابة |
-|---|---------|
-| 1 | **Amt** |
-| 2 | **Beamte** |
-| 3 | **Formular** |
-| 4 | **Antrag** |
-| 5 | **Schalter** |
-| 6 | **Pass** |
-| 7 | **unterschreiben** *(ملاحظة: Unterschrift = اسم، unterschreiben = فعل)* |
-| 8 | **Ausweis** |
-
----
+</div>
 
 ## التمرين 2: اختر الإجابة الصحيحة 🎯
 
 **اختر الكلمة الصحيحة:**
+
+<div class="exercise" data-type="choice" markdown="1" data-answers='["a", "b", "c", "c", "b", "b", "b", "b", "b", "b"]'>
 
 | # | الجملة | الاختيارات |
 |---|--------|------------|
@@ -54,26 +45,13 @@
 | 9 | Sie ______________ das Formular ausfüllen. (يجب - رسمي مع Sie) | a) musst / b) müssen / c) müsst |
 | 10 | ______________ ich morgen kommen? (هل يستطيع - ich) | a) Darf / b) Kann / c) Soll |
 
-✅ **الحل:**
-
-| # | الإجابة | الشرح |
-|---|---------|-------|
-| 1 | **a) muss** | müssen = يجب / مضطر |
-| 2 | **b) Darf** | Darf ich = هل يُسمح لي |
-| 3 | **c) sollen** | sollen = من المفترض |
-| 4 | **c) Können** | Können Sie = هل تستطيع |
-| 5 | **b) dürfen** | dürfen + nicht = غير مسموح |
-| 6 | **b) Schalter** | der Schalter = الشباك / الكاونتر |
-| 7 | **b) Termin** | einen Termin machen = يحجز موعداً |
-| 8 | **b) Gebühr** | die Gebühr = الرسم / الرسوم |
-| 9 | **b) müssen** | Sie müssen (رسمي) |
-| 10 | **b) Kann** | Kann ich = هل أستطيع |
-
----
+</div>
 
 ## التمرين 3: ربط — صِل العبارة بالمعنى 🔗
 
 **صِل العبارة الألمانية بالمعنى العربي:**
+
+<div class="exercise" data-type="match" markdown="1" data-answers='["ج", "د", "ه", "ز", "و", "ح", "ب", "أ"]'>
 
 | # | الألمانية | العربية |
 |---|-----------|---------|
@@ -86,24 +64,13 @@
 | 7. Wo ist der Schalter? | ز. هل عندك موعد؟ |
 | 8. Haben Sie Ihren Ausweis dabei? | ح. هذا طلبك. |
 
-✅ **الحل:**
-
-| # | الإجابة | الترجمة |
-|---|---------|---------|
-| 1 | **ج** — Ich muss zum Amt = أنا مضطر أروح للدائرة |
-| 2 | **د** — Können Sie mir helfen? = هل تستطيع مساعدتي؟ |
-| 3 | **ه** — einen Pass beantragen = تقديم طلب جواز سفر |
-| 4 | **ز** — Haben Sie einen Termin? = هل عندك موعد؟ |
-| 5 | **و** — Bitte füllen Sie das Formular aus = من فضلك املأ الاستمارة |
-| 6 | **ح** — Hier ist Ihr Antrag = هذا طلبك |
-| 7 | **ب** — Wo ist der Schalter? = أين الشباك؟ |
-| 8 | **أ** — Haben Sie Ihren Ausweis dabei? = هل معك بطاقة هوية؟ |
-
----
+</div>
 
 ## التمرين 4: ترجم (Translate) 🌍
 
 **ترجم هذه الجمل من العربية إلى الألمانية:**
+
+<div class="exercise" markdown="1" data-answers='["Ich muss ein Formular ausfüllen.", "Können Sie mir bitte helfen?", "Wo ist der Schalter?", "Ich möchte einen Pass beantragen.", "Unterschreiben Sie bitte hier.", "Haben Sie einen Termin?", "Das Amt ist von 9 bis 16 Uhr geöffnet.", "Hier dürfen Sie nicht rauchen."]'>
 
 | # | العربية | الألمانية |
 |---|---------|-----------|
@@ -116,20 +83,7 @@
 | 7 | الدائرة مفتوحة من 9 إلى 16. | ______________ |
 | 8 | غير مسموح بالتدخين هنا. | ______________ |
 
-✅ **الحل:**
-
-| # | العربية | الألمانية |
-|---|---------|-----------|
-| 1 | أنا مضطر لملء استمارة. | **Ich muss ein Formular ausfüllen.** |
-| 2 | هل تستطيع مساعدتي من فضلك؟ | **Können Sie mir bitte helfen?** |
-| 3 | أين الشباك (الكاونتر)؟ | **Wo ist der Schalter?** |
-| 4 | أنا أريد تقديم طلب جواز سفر. | **Ich möchte einen Pass beantragen.** |
-| 5 | من فضلك أوقع هنا. | **Unterschreiben Sie bitte hier.** |
-| 6 | هل عندك موعد؟ | **Haben Sie einen Termin?** |
-| 7 | الدائرة مفتوحة من 9 إلى 16. | **Das Amt ist von 9 bis 16 Uhr geöffnet.** |
-| 8 | غير مسموح بالتدخين هنا. | **Hier dürfen Sie nicht rauchen.** |
-
----
+</div>
 
 ## التمرين 5: حوار في الدائرة الحكومية 💬
 
@@ -162,15 +116,12 @@
 > **Frau Weber:** Ja, natürlich! In (8) ______________ Wochen ist der Pass fertig.
 > *(نعم، طبعاً! خلال أربعة أسابيع سيكون الجواز جاهزاً.)*
 
-✅ **الحل:**
-
-(1) **Termin** | (2) **Pass / Reisepass** | (3) **Personalausweis** | (4) **müssen** | (5) **unterschreiben** | (6) **Gebühr** | (7) **bezahlen** | (8) **vier**
-
----
 
 ## التمرين 6: صح أم خطأ؟ ❌✅
 
 **هل الجملة صحيحة (✅) أم خطأ (❌)؟**
+
+<div class="exercise" data-type="choice" markdown="1" data-answers='["✅", "\"مسموح لك الوقوف هنا\"", "✅", "✅", "✅", "die Gebühr = الرسوم", "✅", "✅", "✅", "der Antrag = الطلب"]'>
 
 | # | الجملة | صح/خطأ |
 |---|--------|:-------:|
@@ -185,26 +136,13 @@
 | 9 | Die Öffnungszeiten = ساعات العمل | |
 | 10 | Der Antrag = التوقيع | |
 
-✅ **الحل:**
-
-| # | الجملة | صح/خطأ | التصحيح (إن كان خطأ) |
-|---|--------|:-------:|----------------------|
-| 1 | Ich muss ein Formular ausfüllen. | ✅ | صحيح! (müssen + ausfüllen) |
-| 2 | Du darfst hier parken. | ❌ | معناها **"مسموح لك الوقوف هنا"** مش غير مسموح. النفي: **Du darfst hier nicht parken.** |
-| 3 | Können Sie mir bitte helfen? | ✅ | صحيح! (können = يستطيع) |
-| 4 | Sie sollen den Pass mitbringen. | ✅ | صحيح! (sollen = من المفترض) |
-| 5 | Der Beamte = الموظف الحكومي | ✅ | صحيح! (die Beamtin = موظفة) |
-| 6 | Die Gebühr kostet 20 Euro. | ❌ | **die Gebühr = الرسوم** مش الموعد. الموعد = der Termin |
-| 7 | Wo ist der Schalter? | ✅ | صحيح! |
-| 8 | Ich möchte einen Termin machen. | ✅ | صحيح! |
-| 9 | Die Öffnungszeiten = ساعات العمل | ✅ | صحيح! |
-| 10 | Der Antrag = التوقيع | ❌ | **der Antrag = الطلب**، التوقيع = die Unterschrift |
-
----
+</div>
 
 ## التمرين 7: كوّن جملة — رتب الكلمات مع Modalverben 🧩
 
 **رتب الكلمات لتكون جملة صحيحة مع Modalverb (تذكير: الفعل الأساسي يروح آخر الجملة!):**
+
+<div class="exercise" markdown="1" data-answers='["Ich muss zum Amt gehen.", "Sie müssen ein Formular ausfüllen.", "Wo kann ich einen Termin machen?", "Hier dürfen Sie nicht parken.", "Sie sollen den Pass mitbringen.", "Können Sie mir bitte helfen?", "Sie müssen den Antrag unterschreiben.", "Ich kann mit der Karte bezahlen."]'>
 
 | # | الكلمات | الجملة الصحيحة |
 |---|---------|----------------|
@@ -217,20 +155,7 @@
 | 7 | Antrag / müssen / unterschreiben / Sie / den | ______________ |
 | 8 | die Karte / Ich / können / mit / bezahlen | ______________ |
 
-✅ **الحل:**
-
-| # | الجملة الصحيحة | الترجمة |
-|---|-----------------|---------|
-| 1 | **Ich muss zum Amt gehen.** | أنا مضطر أروح للدائرة الحكومية. |
-| 2 | **Sie müssen ein Formular ausfüllen.** | حضرتك يجب أن تملأ استمارة. |
-| 3 | **Wo kann ich einen Termin machen?** | أين أستطيع حجز موعد؟ |
-| 4 | **Hier dürfen Sie nicht parken.** | غير مسموح لك الوقوف هنا. |
-| 5 | **Sie sollen den Pass mitbringen.** | من المفترض أن تحضر جواز السفر معك. |
-| 6 | **Können Sie mir bitte helfen?** | هل تستطيع مساعدتي من فضلك؟ |
-| 7 | **Sie müssen den Antrag unterschreiben.** | يجب أن توقع على الطلب. |
-| 8 | **Ich kann mit der Karte bezahlen.** | أستطيع الدفع بالبطاقة. |
-
----
+</div>
 
 ## التمرين 8: املأ استمارة طلب (Antrag ausfüllen) 📄
 

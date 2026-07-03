@@ -11,6 +11,8 @@
 
 **Words:** das Amt — der Beamte — das Formular — der Antrag — der Pass — der Ausweis — die Unterschrift — der Schalter
 
+<div class="exercise" markdown="1" data-answers='["Amt", "Beamte", "Formular", "Antrag", "Schalter", "Pass", "unterschreiben", "Ausweis"]'>
+
 | # | Sentence | Correct Word |
 |---|----------|--------------|
 | 1 | Ich muss zum ______________ gehen. (I have to go to the government office) | ______________ |
@@ -22,24 +24,13 @@
 | 7 | Bitte ______________ Sie hier. (Please sign here) | ______________ |
 | 8 | Haben Sie Ihren ______________ dabei? (Do you have your ID card with you?) | ______________ |
 
-✅ **Answers:**
-
-| # | Answer |
-|---|--------|
-| 1 | **Amt** |
-| 2 | **Beamte** |
-| 3 | **Formular** |
-| 4 | **Antrag** |
-| 5 | **Schalter** |
-| 6 | **Pass** |
-| 7 | **unterschreiben** *(Note: Unterschrift = noun, unterschreiben = verb)* |
-| 8 | **Ausweis** |
-
----
+</div>
 
 ## Exercise 2: Choose the correct answer 🎯
 
 **Choose the correct word:**
+
+<div class="exercise" data-type="choice" markdown="1" data-answers='["a", "b", "c", "c", "b", "b", "b", "b", "b", "b"]'>
 
 | # | Sentence | Choices |
 |---|----------|---------|
@@ -54,26 +45,13 @@
 | 9 | Sie ______________ das Formular ausfüllen. (must — formal) | a) musst / b) müssen / c) müsst |
 | 10 | ______________ ich morgen kommen? (can I — ich) | a) Darf / b) Kann / c) Soll |
 
-✅ **Answers:**
-
-| # | Answer | Explanation |
-|---|--------|-------------|
-| 1 | **a) muss** | müssen = must / have to |
-| 2 | **b) Darf** | Darf ich = Am I allowed to |
-| 3 | **c) sollen** | sollen = are supposed to |
-| 4 | **c) Können** | Können Sie = Can you (formal) |
-| 5 | **b) dürfen** | dürfen + nicht = not allowed |
-| 6 | **b) Schalter** | der Schalter = counter / service window |
-| 7 | **b) Termin** | einen Termin machen = to make an appointment |
-| 8 | **b) Gebühr** | die Gebühr = fee |
-| 9 | **b) müssen** | Sie müssen (formal: you must) |
-| 10 | **b) Kann** | Kann ich = Can I |
-
----
+</div>
 
 ## Exercise 3: Match — Connect the phrase to the meaning 🔗
 
 **Connect the German phrase with the English meaning:**
+
+<div class="exercise" data-type="match" markdown="1" data-answers='["c", "d", "e", "g", "f", "h", "b", "a"]'>
 
 | # | German | English |
 |---|--------|---------|
@@ -86,24 +64,13 @@
 | 7. Wo ist der Schalter? | g. Do you have an appointment? |
 | 8. Haben Sie Ihren Ausweis dabei? | h. Here is your application. |
 
-✅ **Answers:**
-
-| # | Answer | Translation |
-|---|--------|-------------|
-| 1 | **c** — Ich muss zum Amt = I have to go to the office |
-| 2 | **d** — Können Sie mir helfen? = Can you help me? |
-| 3 | **e** — einen Pass beantragen = to apply for a passport |
-| 4 | **g** — Haben Sie einen Termin? = Do you have an appointment? |
-| 5 | **f** — Bitte füllen Sie das Formular aus = Please fill out the form |
-| 6 | **h** — Hier ist Ihr Antrag = Here is your application |
-| 7 | **b** — Wo ist der Schalter? = Where is the counter? |
-| 8 | **a** — Haben Sie Ihren Ausweis dabei? = Do you have your ID with you? |
-
----
+</div>
 
 ## Exercise 4: Translate 🌍
 
 **Translate these sentences from English to German:**
+
+<div class="exercise" markdown="1" data-answers='["Ich muss ein Formular ausfüllen.", "Können Sie mir bitte helfen?", "Wo ist der Schalter?", "Ich möchte einen Pass beantragen.", "Unterschreiben Sie bitte hier.", "Haben Sie einen Termin?", "Das Amt ist von 9 bis 16 Uhr geöffnet.", "Hier dürfen Sie nicht rauchen."]'>
 
 | # | English | German |
 |---|---------|--------|
@@ -116,20 +83,7 @@
 | 7 | The office is open from 9 to 4. | ______________ |
 | 8 | Smoking is not allowed here. | ______________ |
 
-✅ **Answers:**
-
-| # | English | German |
-|---|---------|--------|
-| 1 | I must fill out a form. | **Ich muss ein Formular ausfüllen.** |
-| 2 | Can you help me, please? | **Können Sie mir bitte helfen?** |
-| 3 | Where is the counter? | **Wo ist der Schalter?** |
-| 4 | I want to apply for a passport. | **Ich möchte einen Pass beantragen.** |
-| 5 | Please sign here. | **Unterschreiben Sie bitte hier.** |
-| 6 | Do you have an appointment? | **Haben Sie einen Termin?** |
-| 7 | The office is open from 9 to 4. | **Das Amt ist von 9 bis 16 Uhr geöffnet.** |
-| 8 | Smoking is not allowed here. | **Hier dürfen Sie nicht rauchen.** |
-
----
+</div>
 
 ## Exercise 5: Dialogue at the Government Office 💬
 
@@ -162,15 +116,12 @@
 > **Frau Weber:** Ja, natürlich! In (8) ______________ Wochen ist der Pass fertig.
 > *(Yes, of course! In four weeks the passport will be ready.)*
 
-✅ **Answers:**
-
-(1) **Termin** | (2) **Pass / Reisepass** | (3) **Personalausweis** | (4) **müssen** | (5) **unterschreiben** | (6) **Gebühr** | (7) **bezahlen** | (8) **vier**
-
----
 
 ## Exercise 6: True or False? ❌✅
 
 **Is the sentence correct (✅) or wrong (❌)?**
+
+<div class="exercise" data-type="choice" markdown="1" data-answers='["✅", "\"You ARE allowed to park here\"", "✅", "✅", "✅", "die Gebühr = the fee", "✅", "✅", "✅", "der Antrag = the application"]'>
 
 | # | Sentence | Correct/Wrong |
 |---|----------|:-------------:|
@@ -185,26 +136,13 @@
 | 9 | Die Öffnungszeiten = opening hours | |
 | 10 | Der Antrag = the signature | |
 
-✅ **Answers:**
-
-| # | Sentence | Correct/Wrong | Correction (if wrong) |
-|---|----------|:-------------:|-----------------------|
-| 1 | Ich muss ein Formular ausfüllen. | ✅ | Correct! (müssen + ausfüllen) |
-| 2 | Du darfst hier parken. | ❌ | It means **"You ARE allowed to park here"** not "not allowed". Negation: **Du darfst hier nicht parken.** |
-| 3 | Können Sie mir bitte helfen? | ✅ | Correct! (können = can) |
-| 4 | Sie sollen den Pass mitbringen. | ✅ | Correct! (sollen = supposed to) |
-| 5 | Der Beamte = the civil servant | ✅ | Correct! (die Beamtin = female civil servant) |
-| 6 | Die Gebühr kostet 20 Euro. | ❌ | **die Gebühr = the fee** not the appointment. Appointment = der Termin |
-| 7 | Wo ist der Schalter? | ✅ | Correct! |
-| 8 | Ich möchte einen Termin machen. | ✅ | Correct! |
-| 9 | Die Öffnungszeiten = opening hours | ✅ | Correct! |
-| 10 | Der Antrag = the signature | ❌ | **der Antrag = the application**, signature = die Unterschrift |
-
----
+</div>
 
 ## Exercise 7: Form a sentence — Order the words with Modalverben 🧩
 
 **Put the words in order to make a correct sentence with Modalverb (remember: the main verb goes to the end!):**
+
+<div class="exercise" markdown="1" data-answers='["Ich muss zum Amt gehen.", "Sie müssen ein Formular ausfüllen.", "Wo kann ich einen Termin machen?", "Hier dürfen Sie nicht parken.", "Sie sollen den Pass mitbringen.", "Können Sie mir bitte helfen?", "Sie müssen den Antrag unterschreiben.", "Ich kann mit der Karte bezahlen."]'>
 
 | # | Words | Correct Sentence |
 |---|-------|------------------|
@@ -217,20 +155,7 @@
 | 7 | Antrag / müssen / unterschreiben / Sie / den | ______________ |
 | 8 | die Karte / Ich / können / mit / bezahlen | ______________ |
 
-✅ **Answers:**
-
-| # | Correct Sentence | Translation |
-|---|------------------|-------------|
-| 1 | **Ich muss zum Amt gehen.** | I have to go to the government office. |
-| 2 | **Sie müssen ein Formular ausfüllen.** | You (formal) must fill out a form. |
-| 3 | **Wo kann ich einen Termin machen?** | Where can I make an appointment? |
-| 4 | **Hier dürfen Sie nicht parken.** | You are not allowed to park here. |
-| 5 | **Sie sollen den Pass mitbringen.** | You are supposed to bring your passport. |
-| 6 | **Können Sie mir bitte helfen?** | Can you help me, please? |
-| 7 | **Sie müssen den Antrag unterschreiben.** | You must sign the application. |
-| 8 | **Ich kann mit der Karte bezahlen.** | I can pay by card. |
-
----
+</div>
 
 ## Exercise 8: Fill Out a Passport Application (Antrag ausfüllen) 📄
 

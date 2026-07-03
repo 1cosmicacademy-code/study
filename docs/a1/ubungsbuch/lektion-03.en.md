@@ -9,6 +9,8 @@
 
 **Choose the right definite article for each word:**
 
+<div class="exercise" markdown="1" data-answers='["der","die","das","die","der","das","die","das","der","das"]'>
+
 | # | Word | Options | Your Answer |
 |---|------|---------|:-----------:|
 | 1 | ____ Tisch | der · die · das | ⬜ |
@@ -22,26 +24,15 @@
 | 9 | ____ Supermarkt | der · die · das | ⬜ |
 | 10 | ____ Auto | der · die · das | ⬜ |
 
-✅ **Solution:**
-
-| # | Answer | Explanation |
-|---|--------|-------------|
-| 1 | **der** Tisch | masculine 🟦 |
-| 2 | **die** Lampe | feminine 🟥 (ends with -e) |
-| 3 | **das** Buch | neuter 🟩 |
-| 4 | **die** Schule | feminine 🟥 (ends with -e) |
-| 5 | **der** Bahnhof | masculine 🟦 |
-| 6 | **das** Fenster | neuter 🟩 |
-| 7 | **die** Blume | feminine 🟥 (ends with -e) |
-| 8 | **das** Museum | neuter 🟩 |
-| 9 | **der** Supermarkt | masculine 🟦 |
-| 10 | **das** Auto | neuter 🟩 |
+</div>
 
 ---
 
 ## Exercise 2: Fill in ein or eine 🖊️
 
 **Complete the sentences with ein (masculine/neuter) or eine (feminine):**
+
+<div class="exercise" markdown="1" data-answers='["ein","eine","ein","eine","ein","eine","ein","eine","ein","ein"]'>
 
 | # | Sentence | ein / eine |
 |---|----------|:----------:|
@@ -56,26 +47,15 @@
 | 9 | Das ist ____ Flughafen. | ________ |
 | 10 | Das ist ____ Café. | ________ |
 
-✅ **Solution:**
-
-| # | Answer | Explanation |
-|---|--------|-------------|
-| 1 | **ein** Park | der → ein 🟦 |
-| 2 | **eine** Schule | die → eine 🟥 |
-| 3 | **ein** Haus | das → ein 🟩 |
-| 4 | **eine** Lampe | die → eine 🟥 |
-| 5 | **ein** Stuhl | der → ein 🟦 |
-| 6 | **eine** Bibliothek | die → eine 🟥 |
-| 7 | **ein** Bett | das → ein 🟩 |
-| 8 | **eine** Tasche | die → eine 🟥 |
-| 9 | **ein** Flughafen | der → ein 🟦 |
-| 10 | **ein** Café | das → ein 🟩 |
+</div>
 
 ---
 
 ## Exercise 3: Match 🔗
 
 **Match the German word with its English meaning:**
+
+<div class="exercise" markdown="1" data-answers='["D","A","G","C","B","E","H","F","J","I"]'>
 
 | German | English |
 |--------|---------|
@@ -90,20 +70,7 @@
 | 9. der Ball | I. the café |
 | 10. das Café | J. the ball |
 
-✅ **Solution:**
-
-| # | Answer |
-|---|--------|
-| 1 | **D** — die Stadt = the city 🟥 |
-| 2 | **A** — der Park = the park 🟦 |
-| 3 | **G** — das Buch = the book 🟩 |
-| 4 | **C** — die Bibliothek = the library 🟥 |
-| 5 | **B** — die Tür = the door 🟥 |
-| 6 | **E** — das Bett = the bed 🟩 |
-| 7 | **H** — die Kirche = the church 🟥 |
-| 8 | **F** — der Computer = the computer 🟦 |
-| 9 | **J** — der Ball = the ball 🟦 |
-| 10 | **I** — das Café = the café 🟩 |
+</div>
 
 ---
 
@@ -115,6 +82,8 @@
 Tisch · Schule · Haus · Lampe · Park · Buch · Stadt · Auto · Fenster · Bahnhof · Blume · Bett
 ```
 
+<div class="exercise" markdown="1" data-answers='["Tisch","Schule","Haus","Park","Lampe","Buch","Bahnhof","Stadt","Auto","","Blume","Fenster"]'>
+
 | der 🟦 | die 🟥 | das 🟩 |
 |:------:|:------:|:------:|
 | ________ | ________ | ________ |
@@ -122,20 +91,13 @@ Tisch · Schule · Haus · Lampe · Park · Buch · Stadt · Auto · Fenster · 
 | ________ | ________ | ________ |
 | ________ | ________ | ________ |
 
-✅ **Solution:**
-
-| der 🟦 | die 🟥 | das 🟩 |
-|:------:|:------:|:------:|
-| **Tisch** | **Schule** | **Haus** |
-| **Park** | **Lampe** | **Buch** |
-| **Bahnhof** | **Stadt** | **Auto** |
-| *(also: Supermarkt, Flughafen, Stuhl, Ball, Computer)* | **Blume** | **Fenster** |
-| | *(also: Bibliothek, Kirche, Tür, Tasche)* | **Bett** |
-| | | *(also: Café, Kino, Museum)* |
+</div>
 
 ---
 
 ## Exercise 5: Translate from Arabic to German 🌍
+
+<div class="exercise" markdown="1" data-answers='["Das ist ein Park.","Das ist eine Schule.","Das ist ein Haus.","Das ist eine Lampe.","Das ist ein Buch.","Das ist ein Kino.","Das ist ein Tisch.","Das ist ein Auto."]'>
 
 | # | English | German |
 |---|---------|--------|
@@ -148,24 +110,15 @@ Tisch · Schule · Haus · Lampe · Park · Buch · Stadt · Auto · Fenster · 
 | 7 | That is a table. (Tisch) | ______________ |
 | 8 | That is a car. (Auto) | ______________ |
 
-✅ **Solution:**
-
-| # | English | German | Note |
-|---|---------|--------|------|
-| 1 | That is a park. | **Das ist ein Park.** | der → ein 🟦 |
-| 2 | That is a school. | **Das ist eine Schule.** | die → eine 🟥 |
-| 3 | That is a house. | **Das ist ein Haus.** | das → ein 🟩 |
-| 4 | That is a lamp. | **Das ist eine Lampe.** | die → eine 🟥 |
-| 5 | That is a book. | **Das ist ein Buch.** | das → ein 🟩 |
-| 6 | That is a cinema. | **Das ist ein Kino.** | das → ein 🟩 |
-| 7 | That is a table. | **Das ist ein Tisch.** | der → ein 🟦 |
-| 8 | That is a car. | **Das ist ein Auto.** | das → ein 🟩 |
+</div>
 
 ---
 
 ## Exercise 6: True or False? (Richtig oder falsch?) ✅❌
 
 **Is the sentence correct? Mark ✔️ or ❌:**
+
+<div class="exercise" markdown="1" data-answers='["❌","❌","✔️","✔️","✔️","❌","✔️","✔️"]'>
 
 | # | Sentence | ✔️ / ❌ |
 |---|----------|:-------:|
@@ -178,24 +131,15 @@ Tisch · Schule · Haus · Lampe · Park · Buch · Stadt · Auto · Fenster · 
 | 7 | Das ist **eine** Stadt. | ⬜ |
 | 8 | Das ist **ein** Auto. | ⬜ |
 
-✅ **Solution:**
-
-| # | ✔️ / ❌ | Corrected Sentence | Explanation |
-|---|:-------:|--------------------|-------------|
-| 1 | ❌ | **ein** Park | Park is masculine ← ein (not eine!) |
-| 2 | ❌ | **eine** Schule | Schule is feminine ← eine (not ein!) |
-| 3 | ✔️ | Correct | Haus is neuter ← ein ✅ |
-| 4 | ✔️ | Correct | Lampe is feminine ← eine ✅ |
-| 5 | ✔️ | Correct | Tisch is masculine ← ein ✅ |
-| 6 | ❌ | **ein** Buch | Buch is neuter ← ein (not eine!) |
-| 7 | ✔️ | Correct | Stadt is feminine ← eine ✅ |
-| 8 | ✔️ | Correct | Auto is neuter ← ein ✅ |
+</div>
 
 ---
 
 ## Exercise 7: Answer the Question (Was ist das?) 🗣️
 
 **Look at the (imaginary) picture and answer:**
+
+<div class="exercise" markdown="1" data-answers='["Das ist eine Bibliothek.","Das ist ein Haus.","Das ist ein Bahnhof.","Das ist ein Supermarkt.","Das ist ein Kino.","Das ist ein Bett.","Das ist ein Auto.","Das ist eine Schule."]'>
 
 | # | Picture (description) | Question | Your Answer |
 |---|----------------------|----------|:-----------:|
@@ -208,24 +152,15 @@ Tisch · Schule · Haus · Lampe · Park · Buch · Stadt · Auto · Fenster · 
 | 7 | 🚗 You drive it | Was ist das? (Auto) | ______________ |
 | 8 | 🏫 You learn here | Was ist das? (Schule) | ______________ |
 
-✅ **Solution:**
-
-| # | Correct Answer | Translation |
-|---|----------------|-------------|
-| 1 | **Das ist eine Bibliothek.** | That is a library. 🟥 |
-| 2 | **Das ist ein Haus.** | That is a house. 🟩 |
-| 3 | **Das ist ein Bahnhof.** | That is a train station. 🟦 |
-| 4 | **Das ist ein Supermarkt.** | That is a supermarket. 🟦 |
-| 5 | **Das ist ein Kino.** | That is a cinema. 🟩 |
-| 6 | **Das ist ein Bett.** | That is a bed. 🟩 |
-| 7 | **Das ist ein Auto.** | That is a car. 🟩 |
-| 8 | **Das ist eine Schule.** | That is a school. 🟥 |
+</div>
 
 ---
 
 ## Exercise 8: Form a Complete Sentence 🧩
 
 **Use the words to make a correct sentence. Start every sentence with Das:**
+
+<div class="exercise" markdown="1" data-answers='["Das ist eine Lampe.","Das ist ein Ball.","Das ist ein Café.","Das ist eine Kirche.","Das ist ein Museum.","Das ist ein Flughafen.","Das ist eine Tür.","Das ist eine Blume."]'>
 
 | # | Words | Complete Sentence |
 |---|-------|-------------------|
@@ -238,18 +173,7 @@ Tisch · Schule · Haus · Lampe · Park · Buch · Stadt · Auto · Fenster · 
 | 7 | Tür / das / eine / ist | **______________** |
 | 8 | ist / Blume / das / eine | **______________** |
 
-✅ **Solution:**
-
-| # | Correct Sentence | Translation |
-|---|------------------|-------------|
-| 1 | **Das ist eine Lampe.** | That is a lamp. |
-| 2 | **Das ist ein Ball.** | That is a ball. |
-| 3 | **Das ist ein Café.** | That is a café. |
-| 4 | **Das ist eine Kirche.** | That is a church. |
-| 5 | **Das ist ein Museum.** | That is a museum. |
-| 6 | **Das ist ein Flughafen.** | That is an airport. |
-| 7 | **Das ist eine Tür.** | That is a door. |
-| 8 | **Das ist eine Blume.** | That is a flower. |
+</div>
 
 ---
 
@@ -260,6 +184,8 @@ Tisch · Schule · Haus · Lampe · Park · Buch · Stadt · Auto · Fenster · 
 ```
 schön · groß · klein · neu · alt
 ```
+
+<div class="exercise" markdown="1" data-answers='["schön","groß","klein","neu","alt","neu","schön","alt"]'>
 
 | # | Sentence | Right Adjective |
 |---|----------|:---------------:|
@@ -272,24 +198,15 @@ schön · groß · klein · neu · alt
 | 7 | Die Blume ist ____. (beautiful) | ________ |
 | 8 | Das Kino ist ____. (old) | ________ |
 
-✅ **Solution:**
-
-| # | Answer | Sentence |
-|---|--------|----------|
-| 1 | **schön** | Der Park ist schön. — The park is beautiful. |
-| 2 | **groß** | Die Schule ist groß. — The school is big. |
-| 3 | **klein** | Das Haus ist klein. — The house is small. |
-| 4 | **neu** | Das Auto ist neu. — The car is new. |
-| 5 | **alt** | Der Tisch ist alt. — The table is old. |
-| 6 | **neu** | Das Buch ist neu. — The book is new. |
-| 7 | **schön** | Die Blume ist schön. — The flower is beautiful. |
-| 8 | **alt** | Das Kino ist alt. — The cinema is old. |
+</div>
 
 ---
 
 ## Exercise 10: Correct the Error 🔧
 
 **Each sentence has one mistake. Write the correct sentence:**
+
+<div class="exercise" markdown="1" data-answers='["Das ist ein Park.","Das ist eine Schule.","Das ist ein Buch.","Die Lampe ist schön.","Das ist eine Tasche.","Das Museum ist klein.","Das ist ein Kino.","Der Tisch ist groß."]'>
 
 | # | Wrong Sentence | Correct Sentence |
 |---|----------------|------------------|
@@ -302,18 +219,7 @@ schön · groß · klein · neu · alt
 | 7 | Das ist eine Kino. | **______________** |
 | 8 | Die Tisch ist groß. | **______________** |
 
-✅ **Solution:**
-
-| # | Correct Sentence | Error Explanation |
-|---|------------------|-------------------|
-| 1 | **Das ist ein Park.** | Park is masculine ← ein (not eine) |
-| 2 | **Das ist eine Schule.** | Schule is feminine ← eine (not ein) |
-| 3 | **Das ist ein Buch.** | Buch is neuter ← ein (not eine) |
-| 4 | **Die Lampe ist schön.** | Lampe is feminine ← die (not der) |
-| 5 | **Das ist eine Tasche.** | Tasche is feminine ← eine (not ein) |
-| 6 | **Das Museum ist klein.** | Museum is singular ← ist (not sind) |
-| 7 | **Das ist ein Kino.** | Kino is neuter ← ein (not eine) |
-| 8 | **Der Tisch ist groß.** | Tisch is masculine ← der (not die) |
+</div>
 
 ---
 

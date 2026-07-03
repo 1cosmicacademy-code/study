@@ -18,25 +18,18 @@
 | **E** | **das Flugzeug** — the airplane |
 | **F** | **das Schiff** — the ship |
 
+<div class="exercise" markdown="1" data-type="choice" data-answers='["A","B","C","E","F","D"]'>
+
 | # | Sentence | Answer |
 |---|----------|--------|
-| 1 | Ich fahre mit dem ___________ zur Schule. (a road vehicle) | **____** |
-| 2 | Wir fahren mit dem ___________ nach Berlin. (fast, on rails) | **____** |
-| 3 | Sie fährt mit der ___________ in die Stadt. (underground) | **____** |
-| 4 | Er fährt mit dem ___________ nach Ägypten. (in the sky) | **____** |
-| 5 | Ich fahre mit dem ___________ zum Strand. (on water) | **____** |
-| 6 | Kinder fahren mit dem ___________ zur Schule. (sporty — two wheels) | **____** |
+| 1 | Ich fahre mit dem ___________ zur Schule. (a road vehicle) | |
+| 2 | Wir fahren mit dem ___________ nach Berlin. (fast, on rails) | |
+| 3 | Sie fährt mit der ___________ in die Stadt. (underground) | |
+| 4 | Er fährt mit dem ___________ nach Ägypten. (in the sky) | |
+| 5 | Ich fahre mit dem ___________ zum Strand. (on water) | |
+| 6 | Kinder fahren mit dem ___________ zur Schule. (sporty — two wheels) | |
 
-✅ **Solution:**
-
-| # | Answer |
-|---|--------|
-| 1 | **A (der Bus)** — Ich fahre mit dem Bus zur Schule. |
-| 2 | **B (der Zug)** — Wir fahren mit dem Zug nach Berlin. |
-| 3 | **C (die U-Bahn)** — Sie fährt mit der U-Bahn in die Stadt. |
-| 4 | **E (das Flugzeug)** — Er fährt mit dem Flugzeug nach Ägypten. |
-| 5 | **F (das Schiff)** — Ich fahre mit dem Schiff zum Strand. |
-| 6 | **D (das Fahrrad)** — Kinder fahren mit dem Fahrrad zur Schule. |
+</div>
 
 ---
 
@@ -44,29 +37,20 @@
 
 **Conjugate the verb **fahren** correctly:**
 
+<div class="exercise" markdown="1" data-answers='["fahre","fährst","fährt","fahren","fahrt","fahren","Fährst","fährt"]'>
+
 | # | Sentence | Correct form |
 |---|----------|--------------|
-| 1 | Ich ___________ mit dem Bus. (fahren) | **______________** |
-| 2 | Du ___________ mit der Bahn. (fahren) | **______________** |
-| 3 | Er ___________ mit dem Auto. (fahren) | **______________** |
-| 4 | Wir ___________ mit dem Zug. (fahren) | **______________** |
-| 5 | Ihr ___________ mit dem Taxi. (fahren) | **______________** |
-| 6 | Sie (they) ___________ mit der U-Bahn. (fahren) | **______________** |
-| 7 | ___________ du mit dem Fahrrad? (fahren) | **______________** |
-| 8 | My mother ___________ mit dem Bus zur Arbeit. (fahren) | **______________** |
+| 1 | Ich ___________ mit dem Bus. (fahren) | |
+| 2 | Du ___________ mit der Bahn. (fahren) | |
+| 3 | Er ___________ mit dem Auto. (fahren) | |
+| 4 | Wir ___________ mit dem Zug. (fahren) | |
+| 5 | Ihr ___________ mit dem Taxi. (fahren) | |
+| 6 | Sie (they) ___________ mit der U-Bahn. (fahren) | |
+| 7 | ___________ du mit dem Fahrrad? (fahren) | |
+| 8 | My mother ___________ mit dem Bus zur Arbeit. (fahren) | |
 
-✅ **Solution:**
-
-| # | Answer | Explanation |
-|---|--------|-------------|
-| 1 | **fahre** | Ich → fahre |
-| 2 | **fährst** | Du → fährst (vowel changes a → ä) |
-| 3 | **fährt** | Er → fährt (vowel changes a → ä) |
-| 4 | **fahren** | Wir → fahren (infinitive) |
-| 5 | **fahrt** | Ihr → fahrt |
-| 6 | **fahren** | Sie (they) → fahren (infinitive) |
-| 7 | **Fährst** | Fährst du? = Do you go by...? |
-| 8 | **fährt** | My mother (she) → fährt |
+</div>
 
 ---
 
@@ -74,27 +58,19 @@
 
 **Match the German sentence with the correct English translation:**
 
-| German | English |
-|--------|---------|
-| 1. Eine Fahrkarte bitte! | A. The day ticket |
-| 2. Einfach oder hin und zurück? | B. How much does that cost? |
-| 3. Die Tageskarte | C. A ticket, please! |
-| 4. Was kostet das? | D. One-way or round trip? |
-| 5. Der Automat | E. How long does the trip take? |
-| 6. Wie lange dauert die Fahrt? | F. The ticket machine |
-| 7. Gute Reise! | G. Have a good trip! |
+<div class="exercise" markdown="1" data-type="match" data-answers='["C","D","A","B","F","E","G"]' data-options='["A","B","C","D","E","F","G"]'>
 
-✅ **Solution:**
+| German | English | Letter |
+|--------|---------|:------:|
+| 1. Eine Fahrkarte bitte! | A. The day ticket | |
+| 2. Einfach oder hin und zurück? | B. How much does that cost? | |
+| 3. Die Tageskarte | C. A ticket, please! | |
+| 4. Was kostet das? | D. One-way or round trip? | |
+| 5. Der Automat | E. How long does the trip take? | |
+| 6. Wie lange dauert die Fahrt? | F. The ticket machine | |
+| 7. Gute Reise! | G. Have a good trip! | |
 
-| # | Answer |
-|---|--------|
-| 1 | **C** — Eine Fahrkarte bitte! = A ticket, please! |
-| 2 | **D** — Einfach oder hin und zurück? = One-way or round trip? |
-| 3 | **A** — Die Tageskarte = The day ticket |
-| 4 | **B** — Was kostet das? = How much does that cost? |
-| 5 | **F** — Der Automat = The ticket machine |
-| 6 | **E** — Wie lange dauert die Fahrt? = How long does the trip take? |
-| 7 | **G** — Gute Reise! = Have a good trip! |
+</div>
 
 ---
 
@@ -102,29 +78,20 @@
 
 **Complete the sentence with **mit** + the correct vehicle (pay attention to Dative!):**
 
+<div class="exercise" markdown="1" data-answers='["mit dem Bus","mit dem Zug","mit der U-Bahn","mit dem Auto","mit dem Fahrrad","mit dem Flugzeug","mit der S-Bahn","mit dem Taxi"]'>
+
 | # | Sentence | Complete |
 |---|----------|----------|
-| 1 | Ich fahre ___________ (der Bus) zur Arbeit. | **______________** |
-| 2 | Wir fahren ___________ (der Zug) nach Hamburg. | **______________** |
-| 3 | Sie kommt ___________ (die U-Bahn). | **______________** |
-| 4 | Er fährt ___________ (das Auto) nach Hause. | **______________** |
-| 5 | The children fahren ___________ (das Fahrrad) zur Schule. | **______________** |
-| 6 | Ich reise ___________ (das Flugzeug) nach Spanien. | **______________** |
-| 7 | Fährst du ___________ (die S-Bahn)? | **______________** |
-| 8 | Sie fahren ___________ (das Taxi) zum Hotel. | **______________** |
+| 1 | Ich fahre ___________ (der Bus) zur Arbeit. | |
+| 2 | Wir fahren ___________ (der Zug) nach Hamburg. | |
+| 3 | Sie kommt ___________ (die U-Bahn). | |
+| 4 | Er fährt ___________ (das Auto) nach Hause. | |
+| 5 | The children fahren ___________ (das Fahrrad) zur Schule. | |
+| 6 | Ich reise ___________ (das Flugzeug) nach Spanien. | |
+| 7 | Fährst du ___________ (die S-Bahn)? | |
+| 8 | Sie fahren ___________ (das Taxi) zum Hotel. | |
 
-✅ **Solution:**
-
-| # | Answer | Explanation |
-|---|--------|-------------|
-| 1 | **mit dem Bus** | der Bus → Dative = dem Bus |
-| 2 | **mit dem Zug** | der Zug → Dative = dem Zug |
-| 3 | **mit der U-Bahn** | die U-Bahn → Dative = der U-Bahn |
-| 4 | **mit dem Auto** | das Auto → Dative = dem Auto |
-| 5 | **mit dem Fahrrad** | das Fahrrad → Dative = dem Fahrrad |
-| 6 | **mit dem Flugzeug** | das Flugzeug → Dative = dem Flugzeug |
-| 7 | **mit der S-Bahn** | die S-Bahn → Dative = der S-Bahn |
-| 8 | **mit dem Taxi** | das Taxi → Dative = dem Taxi |
+</div>
 
 ---
 
@@ -132,29 +99,20 @@
 
 **Translate these sentences:**
 
+<div class="exercise" markdown="1" data-answers='["Ich möchte eine Fahrkarte nach Berlin, bitte.","Wann fährt der Zug?","Wie lange dauert die Fahrt?","Ich fahre mit dem Bus zur Schule.","Von welchem Gleis?","Gute Reise!","Wo ist der Ausgang?","Was kostet das?"]'>
+
 | # | English | German |
 |---|---------|--------|
-| 1 | I'd like a ticket to Berlin, please. | **______________** |
-| 2 | When does the train leave? | **______________** |
-| 3 | How long does the trip take? | **______________** |
-| 4 | I go to school by bus. | **______________** |
-| 5 | From which platform? | **______________** |
-| 6 | Have a good trip! | **______________** |
-| 7 | Where is the exit? | **______________** |
-| 8 | How much does that cost? | **______________** |
+| 1 | I'd like a ticket to Berlin, please. | |
+| 2 | When does the train leave? | |
+| 3 | How long does the trip take? | |
+| 4 | I go to school by bus. | |
+| 5 | From which platform? | |
+| 6 | Have a good trip! | |
+| 7 | Where is the exit? | |
+| 8 | How much does that cost? | |
 
-✅ **Solution:**
-
-| # | German | Notes |
-|---|--------|-------|
-| 1 | **Ich möchte eine Fahrkarte nach Berlin, bitte.** | Or: Eine Fahrkarte nach Berlin bitte! |
-| 2 | **Wann fährt der Zug?** | fährt = leaves / goes (for vehicles) |
-| 3 | **Wie lange dauert die Fahrt?** | die Fahrt = the trip / journey |
-| 4 | **Ich fahre mit dem Bus zur Schule.** | mit dem Bus = by bus |
-| 5 | **Von welchem Gleis?** | Gleis = platform / track |
-| 6 | **Gute Reise!** | Said to someone traveling |
-| 7 | **Wo ist der Ausgang?** | der Ausgang = the exit |
-| 8 | **Was kostet das?** | kosten = to cost |
+</div>
 
 ---
 
@@ -162,27 +120,19 @@
 
 **Each sentence has one mistake. Write the correct sentence:**
 
+<div class="exercise" markdown="1" data-answers='["Ich fahre mit dem Bus.","Wann fährt der Zug?","Einfach oder hin und zurück?","Wir fahren mit dem Taxi.","Wo ist das Gleis?","Das kostet 5 Euro.","Fahrt ihr mit dem Bus?"]'>
+
 | # | Sentence (with mistake) | Correct |
 |---|-------------------------|---------|
-| 1 | Ich fahre mit der Bus. | **______________** |
-| 2 | Wann fahrt der Zug? | **______________** |
-| 3 | I'd like a ticket to Berlin. — Einfach und zurück? | **______________** |
-| 4 | Wir fährt mit dem Taxi. | **______________** |
-| 5 | Wo ist der Gleis? | **______________** |
-| 6 | Das kosten 5 Euro. | **______________** |
-| 7 | Fährst ihr mit dem Bus? | **______________** |
+| 1 | Ich fahre mit der Bus. | |
+| 2 | Wann fahrt der Zug? | |
+| 3 | I'd like a ticket to Berlin. — Einfach und zurück? | |
+| 4 | Wir fährt mit dem Taxi. | |
+| 5 | Wo ist der Gleis? | |
+| 6 | Das kosten 5 Euro. | |
+| 7 | Fährst ihr mit dem Bus? | |
 
-✅ **Solution:**
-
-| # | Correct | Explanation |
-|---|---------|-------------|
-| 1 | **Ich fahre mit dem Bus.** | der Bus → Dative = **dem** Bus (not der) |
-| 2 | **Wann fährt der Zug?** | der Zug (he) → **fährt** (not fahrt — fahrt is for ihr) |
-| 3 | **Einfach oder hin und zurück?** | The correct question is: **oder** (or) not und (and) |
-| 4 | **Wir fahren mit dem Taxi.** | Wir → **fahren** (not fährt — fährt is for er/sie/es) |
-| 5 | **Wo ist das Gleis?** | das Gleis (neuter) → **das** (not der) |
-| 6 | **Das kostet 5 Euro.** | Das (it) → **kostet** (not kosten — kosten is for wir/sie) |
-| 7 | **Fahrt ihr mit dem Bus?** | ihr → **fahrt** (not fährst — fährst is for du) |
+</div>
 
 ---
 
@@ -197,27 +147,20 @@
 | RE 7 | 12:15 | Gleis 1 | 4 hours | 40 € |
 | ICE 309 | 14:45 | Gleis 2 | 3 hours | 90 € |
 
+<div class="exercise" markdown="1" data-answers='["ICE 101 fährt um 8 Uhr.","ICE 205 fährt von Gleis 5.","Die Fahrt dauert 4 Stunden.","ICE 309 kostet 90 Euro.","RE 7 ist am billigsten. Er kostet 40 Euro.","ICE 205 fährt um 10:30."]'>
+
 **Questions:**
 
 | # | Question | Answer in German |
 |---|----------|-----------------|
-| 1 | When does ICE 101 leave? | **______________** |
-| 2 | From which platform does ICE 205 leave? | **______________** |
-| 3 | How long does the trip take with RE 7? | **______________** |
-| 4 | How much does ICE 309 cost? | **______________** |
-| 5 | Which train is the cheapest? | **______________** |
-| 6 | Which train leaves at 10:30? | **______________** |
+| 1 | When does ICE 101 leave? | |
+| 2 | From which platform does ICE 205 leave? | |
+| 3 | How long does the trip take with RE 7? | |
+| 4 | How much does ICE 309 cost? | |
+| 5 | Which train is the cheapest? | |
+| 6 | Which train leaves at 10:30? | |
 
-✅ **Solution:**
-
-| # | Answer | Translation |
-|---|--------|-------------|
-| 1 | **ICE 101 fährt um 8 Uhr.** | ICE 101 leaves at 8 o'clock. |
-| 2 | **ICE 205 fährt von Gleis 5.** | ICE 205 leaves from platform 5. |
-| 3 | **Die Fahrt dauert 4 Stunden.** | The trip takes 4 hours. |
-| 4 | **ICE 309 kostet 90 Euro.** | ICE 309 costs 90 euros. |
-| 5 | **RE 7 ist am billigsten. Er kostet 40 Euro.** | RE 7 is the cheapest. It costs 40 euros. |
-| 6 | **ICE 205 fährt um 10:30.** | ICE 205 leaves at 10:30. |
+</div>
 
 ---
 
@@ -225,29 +168,20 @@
 
 **Arrange the words to make a correct sentence:**
 
+<div class="exercise" markdown="1" data-answers='["Ich möchte eine Fahrkarte.","Wann fährt der Zug?","Ich fahre mit dem Bus.","Das kostet 60 Euro.","Wie lange dauert die Fahrt?","Wo ist Gleis 5?","Gute Reise!","Fahren Sie mit dem Taxi?"]'>
+
 | # | Words | Correct sentence |
 |---|-------|-----------------|
-| 1 | Fahrkarte / eine / Ich / möchte | **______________** |
-| 2 | fährt / der / Wann / Zug / ? | **______________** |
-| 3 | mit / fahre / Bus / dem / Ich | **______________** |
-| 4 | kostet / Das / 60 / Euro | **______________** |
-| 5 | dauert / Fahrt / Wie / die / lange / ? | **______________** |
-| 6 | ist / Wo / Gleis / 5 / ? | **______________** |
-| 7 | Reise / Gute / ! | **______________** |
-| 8 | dem / Taxi / mit / Sie / Fahren / ? | **______________** |
+| 1 | Fahrkarte / eine / Ich / möchte | |
+| 2 | fährt / der / Wann / Zug / ? | |
+| 3 | mit / fahre / Bus / dem / Ich | |
+| 4 | kostet / Das / 60 / Euro | |
+| 5 | dauert / Fahrt / Wie / die / lange / ? | |
+| 6 | ist / Wo / Gleis / 5 / ? | |
+| 7 | Reise / Gute / ! | |
+| 8 | dem / Taxi / mit / Sie / Fahren / ? | |
 
-✅ **Solution:**
-
-| # | Correct sentence | Translation |
-|---|-----------------|-------------|
-| 1 | **Ich möchte eine Fahrkarte.** | I'd like a ticket. |
-| 2 | **Wann fährt der Zug?** | When does the train leave? |
-| 3 | **Ich fahre mit dem Bus.** | I go by bus. |
-| 4 | **Das kostet 60 Euro.** | That costs 60 euros. |
-| 5 | **Wie lange dauert die Fahrt?** | How long does the trip take? |
-| 6 | **Wo ist Gleis 5?** | Where is platform 5? |
-| 7 | **Gute Reise!** | Have a good trip! |
-| 8 | **Fahren Sie mit dem Taxi?** | Do you go by taxi? |
+</div>
 
 ---
 
@@ -285,9 +219,9 @@
 
 | # | Situation | Your German sentence |
 |---|-----------|---------------------|
-| 1 | How do you go to school / university / work? | **______________** |
-| 2 | How do you go to the market or mall? | **______________** |
-| 3 | How do you travel to another country? | **______________** |
+| 1 | How do you go to school / university / work? | |
+| 2 | How do you go to the market or mall? | |
+| 3 | How do you travel to another country? | |
 
 ✅ **Sample answers:**
 

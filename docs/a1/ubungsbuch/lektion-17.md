@@ -11,6 +11,8 @@
 
 **الكلمات:** der Arzt — die Lehrerin — der Koch — der Polizist — der Programmierer — die Verkäuferin
 
+<div class="exercise" markdown="1" data-answers='["Arzt", "Lehrerin", "Koch", "Polizist", "Programmierer", "Verkäuferin"]'>
+
 | # | الجملة | الكلمة المناسبة |
 |---|--------|-----------------|
 | 1 | Ich arbeite im Krankenhaus. Ich bin ______________. (أنا أشتغل في المستشفى. أنا طبيب) | ______________ |
@@ -20,22 +22,13 @@
 | 5 | Ich arbeite am Computer. Ich mache Programme. Ich bin ______________. (أنا أشتغل على الكمبيوتر. أسوي برامج. أنا مبرمج) | ______________ |
 | 6 | Meine Schwester arbeitet im Supermarkt. Sie ist ______________. (أختي تعمل في السوبرماركت. هي بايعة) | ______________ |
 
-✅ **الحل:**
-
-| # | الإجابة |
-|---|---------|
-| 1 | **Arzt** |
-| 2 | **Lehrerin** |
-| 3 | **Koch** |
-| 4 | **Polizist** |
-| 5 | **Programmierer** |
-| 6 | **Verkäuferin** |
-
----
+</div>
 
 ## التمرين 2: اختر الإجابة الصحيحة 🎯
 
 **اختر الكلمة الصحيحة:**
+
+<div class="exercise" data-type="choice" markdown="1" data-answers='["b", "a", "c", "a", "b", "a", "b", "b"]'>
 
 | # | الجملة | الاختيارات |
 |---|--------|------------|
@@ -48,24 +41,13 @@
 | 7 | Ich ________ Programmierer. | a) bist / b) bin / c) seid |
 | 8 | ________ arbeitet im Krankenhaus. (هي) | a) Er / b) Sie / c) Wir |
 
-✅ **الحل:**
-
-| # | الإجابة | الشرح |
-|---|---------|-------|
-| 1 | **b) arbeitet** | Er = هو → arbeitet |
-| 2 | **a) arbeite** | Ich = أنا → arbeite |
-| 3 | **c) arbeiten** | Wir = نحن → arbeiten |
-| 4 | **a) Arbeitest** | du → arbeitest |
-| 5 | **b) arbeitet** | Ihr = أنتم → arbeitet |
-| 6 | **a) bist** | du → bist (Was bist du von Beruf?) |
-| 7 | **b) bin** | Ich → bin (Ich bin Programmierer.) |
-| 8 | **b) Sie** | Sie arbeitet = هي تعمل (في الألماني، sie = هي) |
-
----
+</div>
 
 ## التمرين 3: ربط — صِل المهنة بمكان العمل 🔗
 
 **صِل المهنة بمكان العمل المناسب:**
+
+<div class="exercise" data-type="match" markdown="1" data-answers='["ج", "د", "أ", "ب", "ه"]'>
 
 | المهنة | مكان العمل |
 |--------|------------|
@@ -75,21 +57,13 @@
 | 4. der Programmierer | د. im Restaurant |
 | 5. die Verkäuferin | ه. im Supermarkt |
 
-✅ **الحل:**
-
-| # | الإجابة |
-|---|---------|
-| 1 | **ج** — der Arzt → im Krankenhaus |
-| 2 | **د** — der Koch → im Restaurant |
-| 3 | **أ** — die Lehrerin → in der Schule |
-| 4 | **ب** — der Programmierer → im Büro |
-| 5 | **ه** — die Verkäuferin → im Supermarkt |
-
----
+</div>
 
 ## التمرين 4: المؤنث — حول للمؤنث 👩
 
 **اكتب المؤنث من هذه المهن:**
+
+<div class="exercise" markdown="1" data-answers='["die Ärztin", "die Lehrerin", "die Studentin", "die Köchin", "die Verkäuferin", "die Polizistin", "die Programmiererin", "die Musikerin", "die Kellnerin", "die Fahrerin"]'>
 
 | # | المذكر (مذكر) | المؤنث (Weiblich) |
 |---|---------------|-------------------|
@@ -104,26 +78,13 @@
 | 9 | der Kellner | ______________ |
 | 10 | der Fahrer | ______________ |
 
-✅ **الحل:**
-
-| # | المذكر | المؤنث |
-|---|--------|---------|
-| 1 | der Arzt | **die Ärztin** |
-| 2 | der Lehrer | **die Lehrerin** |
-| 3 | der Student | **die Studentin** |
-| 4 | der Koch | **die Köchin** |
-| 5 | der Verkäufer | **die Verkäuferin** |
-| 6 | der Polizist | **die Polizistin** |
-| 7 | der Programmierer | **die Programmiererin** |
-| 8 | der Musiker | **die Musikerin** |
-| 9 | der Kellner | **die Kellnerin** |
-| 10 | der Fahrer | **die Fahrerin** |
-
----
+</div>
 
 ## التمرين 5: ترجم (Translate) 🌍
 
 **ترجم هذه الجمل من العربية إلى الألمانية:**
+
+<div class="exercise" markdown="1" data-answers='["Was bist du von Beruf?", "Ich bin Student.", "Wo arbeitest du?", "Ich arbeite im Krankenhaus.", "Er arbeitet als Koch.", "Ich verdiene gut.", "Sie ist Lehrerin.", "Wir arbeiten in einer Firma."]'>
 
 | # | العربية | الألمانية |
 |---|---------|-----------|
@@ -136,24 +97,13 @@
 | 7 | هي مدرسة. | ______________ |
 | 8 | نحن نعمل في شركة. | ______________ |
 
-✅ **الحل:**
-
-| # | العربية | الألمانية |
-|---|---------|-----------|
-| 1 | وش تشتغل؟ | **Was bist du von Beruf?** |
-| 2 | أنا طالب. | **Ich bin Student.** |
-| 3 | أين تعمل؟ | **Wo arbeitest du?** |
-| 4 | أنا أعمل في مستشفى. | **Ich arbeite im Krankenhaus.** |
-| 5 | هو يعمل كطباخ. | **Er arbeitet als Koch.** |
-| 6 | أنا أكسب كويس. | **Ich verdiene gut.** |
-| 7 | هي مدرسة. | **Sie ist Lehrerin.** |
-| 8 | نحن نعمل في شركة. | **Wir arbeiten in einer Firma.** |
-
----
+</div>
 
 ## التمرين 6: كوّن جملة — رتب الكلمات 🧩
 
 **رتب الكلمات لتكون جملة صحيحة:**
+
+<div class="exercise" markdown="1" data-answers='["Was bist du von Beruf?", "Er arbeitet im Büro.", "Ich arbeite als Koch.", "Sie arbeitet im Krankenhaus.", "Wo arbeitest du?", "Er ist Programmierer.", "Sie ist Lehrerin.", "Wir arbeiten in einer Firma."]'>
 
 | # | الكلمات | الجملة الصحيحة |
 |---|---------|----------------|
@@ -166,24 +116,13 @@
 | 7 | Lehrerin / Sie / ist | ______________ |
 | 8 | in / arbeiten / Firma / Wir / einer | ______________ |
 
-✅ **الحل:**
-
-| # | الجملة الصحيحة | الترجمة |
-|---|-----------------|---------|
-| 1 | **Was bist du von Beruf?** | وش تشتغل؟ |
-| 2 | **Er arbeitet im Büro.** | هو يعمل في المكتب. |
-| 3 | **Ich arbeite als Koch.** | أنا أعمل كطباخ. |
-| 4 | **Sie arbeitet im Krankenhaus.** | هي تعمل في المستشفى. |
-| 5 | **Wo arbeitest du?** | أين تعمل؟ |
-| 6 | **Er ist Programmierer.** | هو مبرمج. |
-| 7 | **Sie ist Lehrerin.** | هي مدرسة. |
-| 8 | **Wir arbeiten in einer Firma.** | نحن نعمل في شركة. |
-
----
+</div>
 
 ## التمرين 7: صح أم خطأ؟ ❌✅
 
 **هل الجملة صحيحة (✅) أم خطأ (❌)؟**
+
+<div class="exercise" data-type="choice" markdown="1" data-answers='["✅", "arbeitet", "✅", "arbeiten", "✅", "✅", "✅", "✅", "✅", "✅"]'>
 
 | # | الجملة | صح/خطأ |
 |---|--------|:-------:|
@@ -198,22 +137,7 @@
 | 9 | Sie arbeitet als Polizistin. (هي تشتغل شرطية) | |
 | 10 | Wo arbeitest du? (أين تعمل؟) - eine richtige Frage | |
 
-✅ **الحل:**
-
-| # | الجملة | صح/خطأ | التصحيح (إن كان خطأ) |
-|---|--------|:-------:|----------------------|
-| 1 | Ich arbeite im Büro. | ✅ | صحيح! |
-| 2 | Er arbeiten als Lehrer. | ❌ | **arbeitet** (Er = هو → arbeitet) |
-| 3 | Sie ist Ärztin. | ✅ | صحيح! |
-| 4 | Wir arbeitet in einer Firma. | ❌ | **arbeiten** (Wir = نحن → arbeiten) |
-| 5 | Was bist du von Beruf? | ✅ | صحيح! |
-| 6 | Ich bin Studentin. | ✅ | صحيح! (إذا كانت المتحدثة بنت) |
-| 7 | Du arbeitest im Krankenhaus. | ✅ | صحيح! |
-| 8 | Ihr arbeitet viel. | ✅ | صحيح! |
-| 9 | Sie arbeitet als Polizistin. | ✅ | صحيح! |
-| 10 | Wo arbeitest du? | ✅ | صحيح! (سؤال صحيح) |
-
----
+</div>
 
 ## التمرين 8: حوار — تعارف عن العمل 💬
 
@@ -240,27 +164,12 @@
 > **Ahmed:** Ja, ich arbeite sehr ______________. Die Arbeit ist interessant.
 > *(أيوه، أحب أشتغل كثيراً. الشغل مثير للاهتمام.)*
 
-✅ **الحل:**
-
-> **Ahmed:** Hallo Sarah! Wie geht es **dir**?
->
-> **Sarah:** Hallo Ahmed! Mir geht es **gut**, danke. Und **dir**?
->
-> **Ahmed:** Auch gut. Sag mal, **was** machst du beruflich?
->
-> **Sarah:** Ich **bin** Studentin. Ich studiere an der Universität. **Und** du?
->
-> **Ahmed:** Ich **bin** Verkäufer. Ich **arbeite** im Supermarkt.
->
-> **Sarah:** **Arbeitest** du gern?
->
-> **Ahmed:** Ja, ich arbeite sehr **gern**. Die Arbeit ist interessant.
-
----
 
 ## التمرين 9: اكتب عكس الجملة 🔄
 
 **اكتب عكس الجملة (من الإيجاب إلى النفي أو العكس):**
+
+<div class="exercise" markdown="1" data-answers='["nicht", "wenig", "langweilig", "schwer", "suche"]'>
 
 | # | الجملة | العكس / النفي |
 |---|--------|---------------|
@@ -270,23 +179,15 @@
 | 4 | Das ist leicht. → | Das ist ______________. |
 | 5 | Ich habe einen Job. → | Ich ______________ keinen Job. |
 
+</div>
+
 **الكلمات المساعدة:** nicht — langweilig — schwer — suche — wenig
-
-✅ **الحل:**
-
-| # | الجملة الأصلية | العكس / النفي |
-|---|----------------|---------------|
-| 1 | Ich arbeite gern. | Ich arbeite **nicht** gern. |
-| 2 | Er arbeitet viel. | Er arbeitet **wenig**. |
-| 3 | Mein Beruf ist interessant. | Mein Beruf ist **langweilig**. |
-| 4 | Das ist leicht. | Das ist **schwer**. |
-| 5 | Ich habe einen Job. | Ich **suche** keinen Job. *(أو: Ich habe keinen Job.)* |
-
----
 
 ## التمرين 10: اكتب جملة بنفسك ✏️
 
 **استخدم هذه الكلمات لتكون جملة ألمانية صحيحة:**
+
+<div class="exercise" markdown="1" data-answers='["Ich bin Student.", "Er arbeitet als Mechaniker.", "Sie arbeitet im Krankenhaus.", "Wir arbeiten im Büro.", "Was bist du von Beruf?", "Ich verdiene gut.", "Mein Bruder ist Koch.", "Ihr arbeitet bei einer Firma."]'>
 
 | # | الكلمات | كوّن جملة |
 |---|---------|-----------|
@@ -299,20 +200,7 @@
 | 7 | mein Bruder / sein / Koch | **_____** |
 | 8 | ihr / arbeiten / bei / eine Firma | **_____** |
 
-✅ **الحل:**
-
-| # | الجملة الصحيحة | الترجمة |
-|---|-----------------|---------|
-| 1 | **Ich bin Student.** | أنا طالب. |
-| 2 | **Er arbeitet als Mechaniker.** | هو يعمل ميكانيكياً. |
-| 3 | **Sie arbeitet im Krankenhaus.** | هي تعمل في المستشفى. |
-| 4 | **Wir arbeiten im Büro.** | نحن نعمل في المكتب. |
-| 5 | **Was bist du von Beruf?** | وش تشتغل؟ |
-| 6 | **Ich verdiene gut.** | أنا أكسب كويس. |
-| 7 | **Mein Bruder ist Koch.** | أخي طباخ. |
-| 8 | **Ihr arbeitet bei einer Firma.** | أنتم تعملون في شركة. |
-
----
+</div>
 
 ## 📊 جدول تقدمك
 

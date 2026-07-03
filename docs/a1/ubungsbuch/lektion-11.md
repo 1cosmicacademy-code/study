@@ -9,6 +9,8 @@
 
 **اختر حرف الجر الصحيح من القائمة:** (in — auf — unter — neben — zwischen — hinter — vor — an)
 
+<div class="exercise" markdown="1" data-answers='["auf","unter","neben","an","vor","hinter","an","zwischen","in","auf"]'>
+
 | # | الجملة | حرف الجر |
 |---|--------|---------|
 | 1 | Das Buch ist ___ dem Tisch. (على) | **______** |
@@ -22,20 +24,7 @@
 | 9 | Die Kinder sind ___ der Schule. (في) | **______** |
 | 10 | Die Tasse ist ___ dem Tisch. (على) | **______** |
 
-✅ **الحل:**
-
-| # | الإجابة |
-|---|---------|
-| 1 | **auf** — Das Buch ist **auf** dem Tisch. |
-| 2 | **unter** — Die Katze schläft **unter** dem Bett. |
-| 3 | **neben** — Der Stuhl steht **neben** dem Tisch. |
-| 4 | **an** — Die Lampe hängt **an** der Decke. |
-| 5 | **vor** — Das Auto ist **vor** dem Haus. |
-| 6 | **hinter** — Der Garten ist **hinter** dem Haus. |
-| 7 | **an** — Das Bild hängt **an** der Wand. |
-| 8 | **zwischen** — Der Tisch steht **zwischen** dem Sofa und **dem** Sessel. |
-| 9 | **in** — Die Kinder sind **in** der Schule. |
-| 10 | **auf** — Die Tasse ist **auf** dem Tisch. |
+</div>
 
 ---
 
@@ -73,7 +62,7 @@
    - b) an dem
    - c) an die
 
-7. Die Blumen sind ___ Vase. (المزهرية — die Vase)
+7. Die Blumen sind ___ Vase.
    - a) in der
    - b) in dem
    - c) im
@@ -83,24 +72,13 @@
    - b) zwischen der / der
    - c) zwischen das / das
 
-✅ **الحل:**
-
-| # | الإجابة | الشرح |
-|---|---------|-------|
-| 1 | **b** | die Tasche → in **der** Tasche (Dativ مؤنث) |
-| 2 | **a** | das Schlafzimmer → in + dem = **im** Schlafzimmer |
-| 3 | **b** | der Stuhl → auf **dem** Stuhl (Dativ مذكر) |
-| 4 | **b** | das Sofa → auf **dem** Sofa (Dativ محايد) |
-| 5 | **b** | die Tür → neben **der** Tür (Dativ مؤنث) |
-| 6 | **a** | die Wand → an **der** Wand (Dativ مؤنث) |
-| 7 | **a** | die Vase → in **der** Vase (Dativ مؤنث) |
-| 8 | **a** | der Tisch → **dem** Tisch + das Sofa → **dem** Sofa |
-
 ---
 
 ## التمرين 3: صِل (Match) 🔗
 
 **صِل الجملة الألمانية بالترجمة العربية الصحيحة:**
+
+<div class="exercise" markdown="1" data-type="match" data-answers='["د","أ","ز","ب","ج","و","ه"]'>
 
 | # | Deutsch | # | Arabisch |
 |---|---------|---|----------|
@@ -112,8 +90,7 @@
 | 6 | Der Schrank ist hinter der Tür. | و | الخزانة خلف الباب. |
 | 7 | Das Bild ist an der Wand. | ز | الكرسي بجانب الطاولة. |
 
-✅ **الحل:**
-1 ← **د**, 2 ← **أ**, 3 ← **ز**, 4 ← **ب**, 5 ← **ج**, 6 ← **و**, 7 ← **ه**
+</div>
 
 ---
 
@@ -139,19 +116,13 @@
 6. und / Die Lampe / dem / zwischen / dem / ist / Sofa / Sessel
    **→** _______________________________
 
-✅ **الحل:**
-1. **Das Buch ist auf dem Tisch.**
-2. **Die Katze ist unter dem Bett.**
-3. **Der Stuhl steht neben dem Tisch.**
-4. **Das Bett ist im Schlafzimmer.**
-5. **Das Bild hängt an der Wand.**
-6. **Die Lampe ist zwischen dem Sofa und dem Sessel.**
-
 ---
 
 ## التمرين 5: ترجم إلى الألمانية 🌐
 
 **ترجم الجمل التالية إلى الألمانية:**
+
+<div class="exercise" markdown="1" data-answers='["Der Schlüssel ist in der Tasche.","Die Katze ist unter dem Tisch.","Der Stuhl ist neben der Tür.","Die Lampe ist auf dem Tisch.","Das Auto ist vor dem Haus.","Die Kinder sind im Garten.","Das Bild ist an der Wand.","Das Bett ist zwischen dem Schrank und dem Fenster."]'>
 
 | # | العربية | الألمانية |
 |---|---------|----------|
@@ -164,24 +135,15 @@
 | 7 | الصورة على الحائط. | **__________________** |
 | 8 | السرير بين الخزانة والنافذة. | **__________________** |
 
-✅ **الحل:**
-
-| # | الألمانية |
-|---|----------|
-| 1 | **Der Schlüssel ist in der Tasche.** |
-| 2 | **Die Katze ist unter dem Tisch.** |
-| 3 | **Der Stuhl ist neben der Tür.** |
-| 4 | **Die Lampe ist auf dem Tisch.** |
-| 5 | **Das Auto ist vor dem Haus.** |
-| 6 | **Die Kinder sind im Garten.** |
-| 7 | **Das Bild ist an der Wand.** |
-| 8 | **Das Bett ist zwischen dem Schrank und dem Fenster.** |
+</div>
 
 ---
 
 ## التمرين 6: صحح الخطأ ❌🔧
 
 **في كل جملة خطأ واحد. ابحث عنه وصححه:**
+
+<div class="exercise" markdown="1" data-answers='["auf dem Tisch","unter dem Bett","neben der Tür","im Schlafzimmer","zwischen dem Sofa und dem Sessel","an der Wand","hinter der Tür","in der Küche"]'>
 
 | # | الجملة الخطأ | التصحيح |
 |---|-------------|---------|
@@ -194,18 +156,7 @@
 | 7 | Der Schrank ist **hinter das** Tür. | **__________________** |
 | 8 | Die Kinder sind **im** Küche. | **__________________** |
 
-✅ **الحل:**
-
-| # | التصحيح | الشرح |
-|---|---------|-------|
-| 1 | **auf dem** Tisch | der Tisch (مذكر) → Dativ = **dem** |
-| 2 | **unter dem** Bett | das Bett (محايد) → Dativ = **dem** |
-| 3 | **neben der** Tür | die Tür (مؤنث) → Dativ = **der** |
-| 4 | **im** Schlafzimmer | das Schlafzimmer → in + dem = **im** |
-| 5 | **zwischen dem** Sofa und **dem** Sessel | das Sofa (محايد) → **dem** / der Sessel (مذكر) → **dem** |
-| 6 | **an der** Wand | für Bilder sagt man **an der** Wand (معلق), nicht auf |
-| 7 | **hinter der** Tür | die Tür (مؤنث) → Dativ = **der** |
-| 8 | **in der** Küche | die Küche (مؤنث) → in **der** Küche (ليس im لأن im = in + dem) |
+</div>
 
 ---
 
@@ -223,6 +174,8 @@
 
 **اختر صح (Richtig) أو خطأ (Falsch):**
 
+<div class="exercise" markdown="1" data-type="choice" data-answers='["خطأ","صح","صح","صح","خطأ","صح","خطأ","صح"]'>
+
 | # | الجملة | صح | خطأ |
 |---|--------|:--:|:---:|
 | 1 | Lisa wohnt in einem Haus. | ○ | ○ |
@@ -234,20 +187,7 @@
 | 7 | Der Tisch in der Küche ist hinter dem Fenster. | ○ | ○ |
 | 8 | An der Wand im Wohnzimmer hängt ein Bild. | ○ | ○ |
 
-✅ **الحل:**
-
-| # | الإجابة | الشرح |
-|---|---------|-------|
-| 1 | **خطأ (Falsch)** — Lisa wohnt in **einer Wohnung**, nicht in einem Haus. |
-| 2 | **خطأ (Falsch)** — Die Wohnung hat 4 Zimmer: Wohnzimmer, Küche, Bad, Schlafzimmer. النص يقول "ein Wohnzimmer, eine Küche, ein Bad und ein Schlafzimmer" = أربع غرف وليس أربع غرف = صح. **ملاحظة: الحمام (Bad) يعتبر غرفة في ألمانيا.** الإجابة **صح (Richtig)** — العدد الإجمالي للغرف هو 4. |
-| 3 | **صح (Richtig)** — النص: "Das Sofa ist vor dem Tisch." |
-| 4 | **صح (Richtig)** — النص: "Neben dem Sofa ist ein Sessel." |
-| 5 | **خطأ (Falsch)** — النص: "Die Lampe ist auf **dem Nachttisch**" (طاولة صغيرة بجانب السرير)، وليس على الخزانة. |
-| 6 | **صح (Richtig)** — النص: "Auf dem Tisch sind Teller und Tassen." |
-| 7 | **خطأ (Falsch)** — النص: "Der Tisch ist **vor** dem Fenster" (أمام)، وليس خلف. |
-| 8 | **صح (Richtig)** — النص: "An der Wand hängt ein Bild." |
-
-> **تصحيح السؤال 2:** الإجابة الصحيحة هي **صح (Richtig)** — Lisa's Wohnung hat vier Zimmer (Wohnzimmer, Küche, Bad, Schlafzimmer = 4 Räume).
+</div>
 
 ---
 
@@ -262,16 +202,6 @@
 5. Der Stuhl ist __________ Tisch.
 6. An der Wand __________ ein Bild.
 7. Das Bett ist __________ Schrank und __________ Fenster.
-
-✅ **الحل (مثال — إجابتك قد تختلف):**
-
-1. In meinem Zimmer ist **ein Bett**.
-2. **Der Nachttisch** ist neben dem Bett.
-3. Der Tisch ist **vor dem** Fenster.
-4. Die Lampe ist **auf dem** Tisch.
-5. Der Stuhl ist **neben dem** Tisch.
-6. An der Wand **hängt** ein Bild.
-7. Das Bett ist **zwischen dem** Schrank und **dem** Fenster.
 
 ---
 
@@ -303,19 +233,6 @@
 8. Der Schrank ist _____ der Tür. (hinter + Dativ)
    → **______**
 
-✅ **الحل:**
-
-| # | الإجابة |
-|---|---------|
-| 1 | **unter** — Die Katze ist **unter** dem Tisch. |
-| 2 | **auf** — Das Buch ist **auf** dem Sofa. |
-| 3 | **neben** — Der Stuhl steht **neben** dem Tisch. |
-| 4 | **an** — Das Bild hängt **an** der Wand. |
-| 5 | **vor** — Das Auto ist **vor** dem Haus. |
-| 6 | **zwischen** — Die Lampe ist **zwischen** dem Sofa und **dem** Sessel. |
-| 7 | **im** — Die Kinder sind **im** Garten. (in + dem = im) |
-| 8 | **hinter** — Der Schrank ist **hinter** der Tür. |
-
 ---
 
 ## التمرين 10: تخيل واكتب 🎨✍️
@@ -333,14 +250,6 @@
 3. **__________________________________**
 4. **__________________________________**
 5. **__________________________________**
-
-✅ **مثال للحل (إجابتك قد تكون مختلفة):**
-
-1. **Das Sofa ist neben dem Tisch.**
-2. **Der Sessel ist zwischen dem Sofa und der Lampe.**
-3. **Das Buch ist auf dem Tisch.**
-4. **Der Schrank ist hinter der Tür.**
-5. **Das Bild hängt an der Wand.**
 
 ---
 

@@ -1,4 +1,5 @@
 # 📝 Übungsbuch A1 — Lesson 19: Reisen in Deutschland
+
 ## 🧩 Exercises — Traveling in Germany
 
 [🔙 Back to A1 Level](../index.md) | [📕 Back to Lesson](lektion-19.en.md)
@@ -8,6 +9,8 @@
 > 🧒 These exercises help you remember travel words and grammar. Try to solve them yourself before looking at the answers!
 
 ---
+
+<div class="exercise" markdown="1" data-answers='["fährt", "fahre", "Fährst", "fahren", "fahrt", "fahren", "fährt", "fahren"]'>
 
 ## 🥇 Exercise 1: Fill in the Blanks — Verb "fahren"
 
@@ -24,22 +27,9 @@
 7. Das Taxi ______ zum Flughafen.
 8. Anna und ich ______ nach Berlin.
 
-<details>
-<summary>✅ Answers</summary>
+</div>
 
-| # | Answer | Explanation |
-|:-|:-------|:------------|
-| 1 | **fährt** | der Zug (he) → fährt |
-| 2 | **fahre** | ich → fahre |
-| 3 | **Fährst** | du → fährst + verb comes first in questions |
-| 4 | **fahren** | die Eltern (they) → fahren |
-| 5 | **fahrt** | ihr → fahrt |
-| 6 | **fahren** | wir → fahren |
-| 7 | **fährt** | das Taxi (it) → fährt |
-| 8 | **fahren** | Anna und ich = wir → fahren |
-</details>
-
----
+<div class="exercise" data-type="choice" markdown="1" data-answers='["b", "a", "c", "b", "b", "b", "a", "c"]'>
 
 ## 🥈 Exercise 2: Choose the Correct Answer
 
@@ -85,22 +75,9 @@
    - b) Flughafen
    - c) Zimmer
 
-<details>
-<summary>✅ Answers</summary>
+</div>
 
-| # | Answer | Explanation |
-|:-|:-------|:------------|
-| 1 | **b) nach** | nach + city (Berlin) |
-| 2 | **a) mit** | mit + means of transport |
-| 3 | **c) Wo** | Wo = where (location) |
-| 4 | **b) kaufen** | ein Ticket kaufen = to buy a ticket |
-| 5 | **b) Wann** | Wann = when (time question) |
-| 6 | **b) der** | die U-Bahn → mit **der** U-Bahn |
-| 7 | **a) nach** | nach + city (München) |
-| 8 | **c) Zimmer** | das Zimmer = the room |
-</details>
-
----
+<div class="exercise" data-type="match" markdown="1" data-answers='["die U-Bahn", "das Fahrrad", "das Flugzeug", "der Zug", "das Auto"]'>
 
 ## 🥉 Exercise 3: Match — Means of Transport
 
@@ -114,17 +91,9 @@
 | 4. It runs on tracks. 🚆 | 🔴 Subway |
 | 5. It has four wheels and drives on the street. 🚗 | 🟣 Airplane |
 
-<details>
-<summary>✅ Answers</summary>
+</div>
 
-1. Underground → 🔴 **die U-Bahn**
-2. Two wheels → 🟡 **das Fahrrad**
-3. Flies → 🟣 **das Flugzeug**
-4. On tracks → 🟢 **der Zug**
-5. Four wheels → 🔵 **das Auto**
-</details>
-
----
+<div class="exercise" markdown="1" data-answers='["mit dem Zug", "Wo", "fliegen", "Wann", "nehme", "möchte", "links", "fahren mit dem Auto"]'>
 
 ## 🏆 Exercise 4: Translate into German
 
@@ -139,20 +108,9 @@
 7. The bicycle is on the left.
 8. They go by car to the market.
 
-<details>
-<summary>✅ Answers</summary>
+</div>
 
-1. Ich möchte **mit dem Zug** **nach Berlin** fahren.
-2. **Wo** ist der Bahnhof, bitte?
-3. Wir **fliegen** **mit dem Flugzeug** **nach Deutschland**.
-4. **Wann** **fährt** der Bus ab?
-5. Ich **nehme** das Taxi **zum Flughafen**.
-6. Ich **möchte** ein Zimmer **für eine Person**.
-7. Das Fahrrad ist **links**.
-8. Sie **fahren mit dem Auto** **zum Markt**.
-</details>
-
----
+<div class="exercise" markdown="1" data-answers='["Correction", ":-----------", "fährt", "fährst", "möchte", "dem", "in", "Wohin"]'>
 
 ## 🏅 Exercise 5: Correct the Mistakes
 
@@ -176,20 +134,9 @@
 6. ❌ Wohin ist der Bahnhof?
    → ✅ ___________________
 
-<details>
-<summary>✅ Answers</summary>
+</div>
 
-| Wrong Sentence | Correction |
-|:---------------|:-----------|
-| Ich **fährt** nach Berlin. | Ich **fahre** nach Berlin. |
-| Wir **fährst** mit dem Bus. | Wir **fahren** mit dem Bus. |
-| Du **möchte** ein Ticket kaufen. | Du **möchtest** ein Ticket kaufen. |
-| Ich fahre mit **dem** U-Bahn. | Ich fahre mit **der** U-Bahn. (die U-Bahn!) |
-| Er fährt **in** Berlin. | Er fährt **nach** Berlin. |
-| **Wohin** ist der Bahnhof? | **Wo** ist der Bahnhof? |
-</details>
-
----
+<div class="exercise" markdown="1" data-answers='["möchte", "Möchtet", "möchten", "Möchtest", "möchte", "möchten"]'>
 
 ## 🎯 Exercise 6: Fill in the Blanks — "möchten"
 
@@ -202,18 +149,7 @@
 5. Er ______ in Deutschland reisen. (He would like to travel in Germany)
 6. Sie (formal) ______ ein Ticket nach Berlin. (You would like a ticket to Berlin)
 
-<details>
-<summary>✅ Answers</summary>
-
-1. Ich **möchte** ein Eis essen.
-2. **Möchtet** ihr ein Hotel buchen? (ihr → möchtet)
-3. Wir **möchten** den Bahnhof sehen.
-4. **Möchtest** du mit dem Zug fahren? (du → möchtest + verb first in question)
-5. Er **möchte** in Deutschland reisen.
-6. Sie **möchten** ein Ticket nach Berlin. (Sie formal = möchten)
-</details>
-
----
+</div>
 
 ## 🧩 Exercise 7: Complete the Dialogue
 
@@ -241,6 +177,8 @@
 
 ---
 
+<div class="exercise" markdown="1" data-answers='["nach Berlin", "mit dem Bus", "ein Ticket kaufen", "Wo ist der Bahnhof?", "mit der U-Bahn", "Wohin fährst du heute?"]'>
+
 ## 🔗 Exercise 8: Put the Words in Order
 
 **Arrange the words to form a correct sentence:**
@@ -263,18 +201,9 @@
 6. du / Wohin / heute / fährst
    → ___________________________________
 
-<details>
-<summary>✅ Answers</summary>
+</div>
 
-1. Ich fahre **nach Berlin**.
-2. Er fährt **mit dem Bus**.
-3. Ich möchte **ein Ticket kaufen**. (second verb at the end!)
-4. **Wo ist der Bahnhof?**
-5. Sie fährt **mit der U-Bahn**.
-6. **Wohin fährst du heute?** (question: verb first!)
-</details>
-
----
+<div class="exercise" data-type="choice" markdown="1" data-answers='["Fahrkarte", "Zimmer", "bleiben", "kommen", "der Bahnsteig", "wo"]'>
 
 ## 🧠 Exercise 9: Which Word Doesn't Belong?
 
@@ -287,20 +216,7 @@
 5. das Ticket — die Fahrkarte — der Helm — **der Bahnsteig**
 6. nach — mit — **wo** — in
 
-<details>
-<summary>✅ Answers with Explanation</summary>
-
-| # | Odd Word | Explanation |
-|:-|:----------|:------------|
-| 1 | **Fahrkarte** | The rest are means of transport. Fahrkarte = ticket |
-| 2 | **Zimmer** | The rest are stations and airports. Zimmer = room |
-| 3 | **bleiben** | The rest are movement verbs. bleiben = to stay |
-| 4 | **kommen** | The rest are directions. kommen = to come |
-| 5 | **der Bahnsteig** | The rest are things you can buy. Bahnsteig = platform |
-| 6 | **wo** | The rest are prepositions. wo = where (question word) |
-</details>
-
----
+</div>
 
 ## 🌍 Exercise 10: Open Questions — Short Answers
 

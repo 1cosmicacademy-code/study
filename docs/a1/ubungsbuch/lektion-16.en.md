@@ -11,6 +11,7 @@
 
 **Words:** der Supermarkt — die Kasse — die Tüte — der Einkaufswagen — das Geld
 
+<div class="exercise" markdown="1" data-answers='["Supermarkt", "Kasse", "Tüte", "Einkaufswagen", "Geld"]'>
 | # | Sentence | Correct Word |
 |---|----------|--------------|
 | 1 | Ich kaufe im ______________ ein. (I shop at the supermarket) | ______________ |
@@ -19,22 +20,13 @@
 | 4 | Der ______________ ist voll mit Obst. (The shopping cart is full of fruit) | ______________ |
 | 5 | Ich habe nicht genug ______________. (I don't have enough money) | ______________ |
 
-✅ **Answers:**
-
-| # | Answer |
-|---|--------|
-| 1 | **Supermarkt** |
-| 2 | **Kasse** |
-| 3 | **Tüte** |
-| 4 | **Einkaufswagen** |
-| 5 | **Geld** |
-
+</div>
 ---
-
 ## Exercise 2: Choose the correct answer 🎯
 
 **Choose the correct word:**
 
+<div class="exercise" markdown="1" data-type="choice" data-answers='["b) kostet", "b) kosten", "b) kosten", "b) Haben", "b) möchte", "c) geschlossen", "b) teuer", "b) Karte"]'>
 | # | Sentence | Choices |
 |---|----------|---------|
 | 1 | Die Banane ________ 30 Cent. | a) kosten / b) kostet / c) kaufen |
@@ -46,25 +38,13 @@
 | 7 | Das ist aber ________! (expensive!) | a) billig / b) teuer / c) lecker |
 | 8 | Kann ich mit ________ zahlen? | a) Tüte / b) Karte / c) Regal |
 
-✅ **Answers:**
-
-| # | Answer | Explanation |
-|---|--------|-------------|
-| 1 | **b) kostet** | singular (Die Banane) → kostet |
-| 2 | **b) kosten** | plural (Die Äpfel) → kosten |
-| 3 | **b) kosten** | plural (Die Tomaten) → kosten |
-| 4 | **b) Haben** | Haben Sie = Do you have (formal) |
-| 5 | **b) möchte** | Ich möchte = I would like |
-| 6 | **c) geschlossen** | geschlossen = closed |
-| 7 | **b) teuer** | teuer = expensive |
-| 8 | **b) Karte** | mit Karte zahlen = to pay by card |
-
+</div>
 ---
-
 ## Exercise 3: Match — Connect the word to the meaning 🔗
 
 **Connect the German word with the English meaning:**
 
+<div class="exercise" markdown="1" data-type="match" data-answers='["d", "h", "f", "a", "b", "g", "e", "c", "i", "j"]'>
 | German | English |
 |--------|---------|
 | 1. der Verkäufer | a. the shopping basket |
@@ -78,27 +58,13 @@
 | 9. der Bäcker | i. the baker |
 | 10. die Kasse | j. the cash register / checkout |
 
-✅ **Answers:**
-
-| # | Answer |
-|---|--------|
-| 1 | **d** — der Verkäufer = the salesperson (male) |
-| 2 | **h** — das Angebot = the offer / sale |
-| 3 | **f** — die Quittung = the receipt |
-| 4 | **a** — der Einkaufskorb = the shopping basket |
-| 5 | **b** — billig = cheap |
-| 6 | **g** — teuer = expensive |
-| 7 | **e** — der Preis = the price |
-| 8 | **c** — der Kunde = the customer |
-| 9 | **i** — der Bäcker = the baker |
-| 10 | **j** — die Kasse = the cash register |
-
+</div>
 ---
-
 ## Exercise 4: Fill in the blank — Prices 💰
 
 **Write the price in German (in words):**
 
+<div class="exercise" markdown="1" data-answers='["ein Euro", "zwei Euro fünfzig", "neunundneunzig Cent", "fünf Euro", "zehn Euro fünfzig"]'>
 | # | Price (in numbers) | In German |
 |---|:------------------:|-----------|
 | 1 | 1.00 € | ______________ |
@@ -107,22 +73,13 @@
 | 4 | 5.00 € | ______________ |
 | 5 | 10.50 € | ______________ |
 
-✅ **Answers:**
-
-| # | Price | In German |
-|---|:-----:|-----------|
-| 1 | 1.00 € | **ein Euro** |
-| 2 | 2.50 € | **zwei Euro fünfzig** |
-| 3 | 0.99 € | **neunundneunzig Cent** |
-| 4 | 5.00 € | **fünf Euro** |
-| 5 | 10.50 € | **zehn Euro fünfzig** |
-
+</div>
 ---
-
 ## Exercise 5: Translate 🌍
 
 **Translate these sentences from English to German:**
 
+<div class="exercise" markdown="1" data-answers='["Wie viel kosten die Äpfel?", "Ich möchte ein Kilo Bananen, bitte.", "Haben Sie Milch?", "Das ist sehr teuer!", "Wo ist die Kasse?", "Kann ich mit Karte zahlen?", "Das ist alles.", "Was macht das zusammen?"]'>
 | # | English | German |
 |---|---------|--------|
 | 1 | How much are the apples? | ______________ |
@@ -134,21 +91,8 @@
 | 7 | That's everything. | ______________ |
 | 8 | What's the total? | ______________ |
 
-✅ **Answers:**
-
-| # | English | German |
-|---|---------|--------|
-| 1 | How much are the apples? | **Wie viel kosten die Äpfel?** |
-| 2 | I would like one kilo of bananas, please. | **Ich möchte ein Kilo Bananen, bitte.** |
-| 3 | Do you have milk? | **Haben Sie Milch?** |
-| 4 | This is very expensive! | **Das ist sehr teuer!** |
-| 5 | Where is the checkout? | **Wo ist die Kasse?** |
-| 6 | Can I pay by card? | **Kann ich mit Karte zahlen?** |
-| 7 | That's everything. | **Das ist alles.** |
-| 8 | What's the total? | **Was macht das zusammen?** |
-
+</div>
 ---
-
 ## Exercise 6: Form a sentence — Order the words 🧩
 
 **Put the words in order to make a correct sentence:**
@@ -181,6 +125,7 @@
 
 **Is the sentence correct (✅) or wrong (❌)?**
 
+<div class="exercise" markdown="1" data-type="choice" data-answers='["kostet", "kosten", "kostet"]'>
 | # | Sentence | Correct/Wrong |
 |---|----------|:-------------:|
 | 1 | Der Apfel kosten 1 Euro. (The apple costs 1 euro) | |
@@ -194,23 +139,8 @@
 | 9 | Die Tüte kosten 10 Cent. (The bag costs 10 cents) | |
 | 10 | Der Supermarkt ist offen. (The supermarket is open) | |
 
-✅ **Answers:**
-
-| # | Sentence | Correct/Wrong | Correction (if wrong) |
-|---|----------|:-------------:|-----------------------|
-| 1 | Der Apfel kosten 1 Euro. | ❌ | **kostet** (Der Apfel = singular → kostet) |
-| 2 | Wie viel kostet die Banane? | ✅ | Correct! |
-| 3 | Die Äpfel kostet 3 Euro. | ❌ | **kosten** (Die Äpfel = plural → kosten) |
-| 4 | Ich möchte ein Kilo Kartoffeln, bitte. | ✅ | Correct! |
-| 5 | Haben Sie eine Tüte? | ✅ | Correct! |
-| 6 | Wo ist die Kasse? | ✅ | Correct! |
-| 7 | Das ist alles. | ✅ | Correct! |
-| 8 | Kann ich mit Bargeld zahlen? | ✅ | Correct! |
-| 9 | Die Tüte kosten 10 Cent. | ❌ | **kostet** (Die Tüte = singular → kostet) |
-| 10 | Der Supermarkt ist offen. | ✅ | Correct! (offen and geöffnet are both okay) |
-
+</div>
 ---
-
 ## Exercise 8: Dialogue at the Shop 💬
 
 **Complete the dialogue between the customer and the salesperson:**
@@ -276,6 +206,7 @@
 
 **Write the opposite of the word:**
 
+<div class="exercise" markdown="1" data-answers='["teuer", "billig", "geschlossen", "verkaufen", "kaufen", "mit Karte zahlen"]'>
 | # | Word | Opposite |
 |---|------|----------|
 | 1 | **billig** (cheap) → | ______________ (________) |
@@ -285,23 +216,13 @@
 | 5 | **verkaufen** (to sell) → | ______________ (________) |
 | 6 | **cash** (Bargeld) → | ______________ (pay by card) |
 
-✅ **Answers:**
-
-| # | Word | Opposite | Pronunciation |
-|---|------|----------|---------------|
-| 1 | billig (cheap) | **teuer** (expensive) | TOY-er |
-| 2 | teuer (expensive) | **billig** (cheap) | BIL-ish |
-| 3 | offen (open) | **geschlossen** (closed) | ge-SHLOS-en |
-| 4 | kaufen (to buy) | **verkaufen** (to sell) | fer-KOW-fen |
-| 5 | verkaufen (to sell) | **kaufen** (to buy) | KOW-fen |
-| 6 | cash (Bargeld) | **mit Karte zahlen** (pay by card) | |
-
+</div>
 ---
-
 ## Exercise 10: Write a Sentence Yourself ✏️
 
 **Use these words to make a correct German sentence:**
 
+<div class="exercise" markdown="1" data-answers='["Ich suche den Supermarkt.", "Wir brauchen eine Tüte.", "Der Kunde bezahlt an der Kasse.", "Die Verkäuferin verkauft Äpfel.", "Ich nehme ein Kilo Kartoffeln.", "Das Brot kostet 2,50 Euro.", "Der Supermarkt ist geschlossen.", "Hast du eine Einkaufsliste?"]'>
 | # | Words | Make a sentence |
 |---|-------|-----------------|
 | 1 | ich / suchen / der Supermarkt | **_____** |
@@ -313,48 +234,5 @@
 | 7 | der Supermarkt / sein / geschlossen | **_____** |
 | 8 | du / haben / eine Einkaufsliste | **_____** (question) |
 
-✅ **Answers:**
-
-| # | Correct Sentence | Translation |
-|---|------------------|-------------|
-| 1 | **Ich suche den Supermarkt.** | I am looking for the supermarket. |
-| 2 | **Wir brauchen eine Tüte.** | We need a bag. |
-| 3 | **Der Kunde bezahlt an der Kasse.** | The customer pays at the checkout. |
-| 4 | **Die Verkäuferin verkauft Äpfel.** | The saleswoman sells apples. |
-| 5 | **Ich nehme ein Kilo Kartoffeln.** | I'm taking a kilo of potatoes. |
-| 6 | **Das Brot kostet 2,50 Euro.** | The bread costs 2.50 euros. |
-| 7 | **Der Supermarkt ist geschlossen.** | The supermarket is closed. |
-| 8 | **Hast du eine Einkaufsliste?** | Do you have a shopping list? |
-
----
-
-## 📊 Your Progress Table
-
-| Exercise | Topic | ✔️ Done? |
-|----------|-------|:--------:|
-| 1 | Shop vocabulary — fill in | ⬜ |
-| 2 | Choose kostet/kosten | ⬜ |
-| 3 | Match words | ⬜ |
-| 4 | Write prices in German | ⬜ |
-| 5 | Translate sentences | ⬜ |
-| 6 | Order the words | ⬜ |
-| 7 | True or false | ⬜ |
-| 8 | Dialogue at the shop | ⬜ |
-| 9 | Write the opposite | ⬜ |
-| 10 | Write sentences yourself | ⬜ |
-
-> 🎉 **Well done!** If you solved all the exercises, you're ready to shop in German at any store!
-> 👉 Go to the next lesson: [Lektion 17: Work](index.md)
-
----
-
-## 📚 Related Grammar
-
-<div class="grammar-links">
-  <a href="/grammatik/akkusativ/" class="grammar-btn">🇩🇪 Akkusativ 🎯</a>
-  <a href="/grammatik/artikel/" class="grammar-btn">🇩🇪 Artikel 📦</a>
-  <a href="/grammatik/plural/" class="grammar-btn">🇩🇪 Plural 🔢</a>
-  <a href="/grammatik/satzbau/" class="grammar-btn">🇩🇪 Satzbau 🏗️</a>
 </div>
-
-[🔙 Back to Exercises](index.md)
+---

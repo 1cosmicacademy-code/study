@@ -1,6 +1,7 @@
 site_name: تعلم الألمانية | Learn German
 site_description: موقع تعلم اللغة الألمانية للمبتدئين — Integrationskurs A1/A2
 site_author: Ahmad Sharf
+site_url: https://study-german-509.netlify.app
 
 theme:
   name: material
@@ -44,6 +45,7 @@ extra_css:
 
 extra_javascript:
   - assets/js/video-switcher.js
+  - assets/js/exercise-checker.js
 
 plugins:
   - search

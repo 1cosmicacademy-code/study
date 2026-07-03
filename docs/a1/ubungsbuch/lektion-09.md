@@ -9,6 +9,8 @@
 
 **اكتب اليوم الألماني الصحيح:**
 
+<div class="exercise" markdown="1" data-answers='["Montag","Dienstag","Mittwoch","Donnerstag","Freitag","Samstag","Sonntag"]'>
+
 | # | الجملة | اليوم المطلوب |
 |---|--------|---------------|
 | 1 | _________ ist der erste Tag der Woche. (Monday) | **______________** |
@@ -19,23 +21,15 @@
 | 6 | _________ ist Samstag. (Saturday) | **______________** |
 | 7 | _________ ist der letzte Tag der Woche. (Sunday) | **______________** |
 
-✅ **الحل:**
-
-| # | الإجابة |
-|---|---------|
-| 1 | **Montag** |
-| 2 | **Dienstag** |
-| 3 | **Mittwoch** |
-| 4 | **Donnerstag** |
-| 5 | **Freitag** |
-| 6 | **Samstag** |
-| 7 | **Sonntag** |
+</div>
 
 ---
 
 ## التمرين 2: am — املأ الفراغ 🖊️
 
 **املأ الفراغ بـ am أو -- (إذا كانت الجملة لا تحتاج am):**
+
+<div class="exercise" markdown="1" data-answers='["am","am","Am","Am","Am","Am"]'>
 
 | # | الجملة |
 |---|--------|
@@ -46,22 +40,15 @@
 | 5 | _____ Sonntag schlafe ich lange. |
 | 6 | _____ Samstag um 10 Uhr habe ich einen Kurs. |
 
-✅ **الحل:**
-
-| # | الإجابة | الشرح |
-|---|---------|-------|
-| 1 | **am** | am Montag = في الإثنين |
-| 2 | **am** | am Dienstag = في الثلاثاء |
-| 3 | **Am** | Am Mittwoch = في الأربعاء (أول الجملة بحرف كبير) |
-| 4 | **Am** | Am Freitabend = مساء الجمعة |
-| 5 | **Am** | Am Sonntag = في الأحد |
-| 6 | **Am** | Am Samstag = في السبت |
+</div>
 
 ---
 
 ## التمرين 3: اختر am / um / im 🎯
 
 **اختر الكلمة الصحيحة:**
+
+<div class="exercise" markdown="1" data-type="choice" data-answers='["b","c","a","c","b","a","c","a"]'>
 
 | # | الجملة | الخيارات |
 |---|--------|----------|
@@ -74,24 +61,15 @@
 | 7 | _____ Winter schneit es. | a) Am b) Um c) Im |
 | 8 | Hast du _____ Samstag Zeit? | a) am b) um c) im |
 
-✅ **الحل:**
-
-| # | الإجابة | الشرح |
-|---|---------|-------|
-| 1 | **b (um)** | um + ساعة = um 8 Uhr |
-| 2 | **c (Im)** | im + فصل = Im Sommer |
-| 3 | **a (am)** | am + يوم = am Montag |
-| 4 | **c (Im)** | im + شهر = Im Januar |
-| 5 | **b (um)** | um + ساعة = um 15 Uhr |
-| 6 | **a (Am)** | am + وقت = Am Abend |
-| 7 | **c (Im)** | im + فصل = Im Winter |
-| 8 | **a (am)** | am + يوم = am Samstag |
+</div>
 
 ---
 
 ## التمرين 4: صِل (Match) 🔗
 
 **صِل الجملة الألمانية بالترجمة العربية:**
+
+<div class="exercise" markdown="1" data-type="match" data-answers='["ب","د","أ","ه","ج","ز","و"]' data-options='["أ","ب","ج","د","ه","و","ز"]'>
 
 | الألمانية | العربية |
 |-----------|---------|
@@ -103,17 +81,7 @@
 | 6. Ich möchte einen Termin. | و. الساعة 11 صباحاً. |
 | 7. Um 11 Uhr vormittags. | ز. أنا أريد موعداً. |
 
-✅ **الحل:**
-
-| # | الإجابة |
-|---|---------|
-| 1 | **ب** — Wann hast du Zeit? = متى عندك وقت؟ |
-| 2 | **د** — Am Dienstag habe ich frei = أنا متفرغ يوم الثلاثاء |
-| 3 | **أ** — Der Termin ist am Dienstag = الموعد يوم الثلاثاء |
-| 4 | **ه** — Tut mir leid, ich habe keine Zeit = آسف، ليس عندي وقت |
-| 5 | **ج** — Passt dir Freitag? = هل يوم الجمعة يناسبك؟ |
-| 6 | **ز** — Ich möchte einen Termin = أنا أريد موعداً |
-| 7 | **و** — Um 11 Uhr vormittags = الساعة 11 صباحاً |
+</div>
 
 ---
 
@@ -171,6 +139,8 @@
 
 **اقرأ الجملة واختر صح (Richtig) أو خطأ (Falsch):**
 
+<div class="exercise" markdown="1" data-type="choice" data-answers='["صح","صح","صح","خطأ","خطأ","صح","صح"]'>
+
 | # | الجملة | صح | خطأ |
 |---|--------|:--:|:---:|
 | 1 | Montag ist vor Dienstag. | ⬜ | ⬜ |
@@ -181,23 +151,15 @@
 | 6 | Mittwoch ist der dritte Tag der Woche. | ⬜ | ⬜ |
 | 7 | Der Termin = الموعد | ⬜ | ⬜ |
 
-✅ **الحل:**
-
-| # | الإجابة | الشرح |
-|---|---------|-------|
-| 1 | **صح (Richtig)** — الإثنين قبل الثلاثاء ✅ |
-| 2 | **صح (Richtig)** — السبت والأحد نهاية الأسبوع ✅ |
-| 3 | **صح (Richtig)** — am Montag = في الإثنين ✅ |
-| 4 | **خطأ (Falsch)** — um نستخدمها مع الساعات، مش الأيام! ❌ |
-| 5 | **خطأ (Falsch)** — في الصيف الجو حار مش بارد! ❌ |
-| 6 | **صح (Richtig)** — الأربعاء هو اليوم الثالث ✅ |
-| 7 | **صح (Richtig)** — der Termin = الموعد ✅ |
+</div>
 
 ---
 
 ## التمرين 7: ترجم من عربي لألماني 🌍
 
 **ترجم هذه الجمل من العربية إلى الألمانية:**
+
+<div class="exercise" markdown="1" data-answers='["Ich m&#246;chte einen Termin am Montag.","Hast du am Samstag Zeit?","Der Termin ist am Dienstag um 3 Uhr.","Tut mir leid, ich habe keine Zeit.","Im Sommer ist es hei&#223;.","Mein Geburtstag ist am 15. M&#228;rz.","Am Sonntag habe ich frei.","Vielen Dank! Auf Wiedersehen!"]'>
 
 | # | العربية | الألمانية |
 |---|---------|-----------|
@@ -210,24 +172,15 @@
 | 7 | يوم الأحد أنا متفرغ. | ______________ |
 | 8 | شكراً جزيلاً! إلى اللقاء! | ______________ |
 
-✅ **الحل:**
-
-| # | الألمانية | ملاحظات |
-|---|-----------|---------|
-| 1 | **Ich möchte einen Termin am Montag.** | möchte = أريد / einen Termin = موعد / am Montag = يوم الإثنين |
-| 2 | **Hast du am Samstag Zeit?** | Hast du = هل عندك / am Samstag = يوم السبت |
-| 3 | **Der Termin ist am Dienstag um 3 Uhr.** | ist = هو / um 3 Uhr = الساعة 3 |
-| 4 | **Tut mir leid, ich habe keine Zeit.** | Tut mir leid = آسف / keine Zeit = لا وقت |
-| 5 | **Im Sommer ist es heiß.** | Im Sommer = في الصيف / heiß = حار |
-| 6 | **Mein Geburtstag ist am 15. März.** | Mein Geburtstag = عيد ميلادي / am 15. März = في 15 مارس |
-| 7 | **Am Sonntag habe ich frei.** | Am Sonntag = يوم الأحد / frei = متفرغ |
-| 8 | **Vielen Dank! Auf Wiedersehen!** | Vielen Dank = شكراً جزيلاً / Auf Wiedersehen = إلى اللقاء |
+</div>
 
 ---
 
 ## التمرين 8: كوّن جملة 🧩
 
 **رتب الكلمات لتكون جملة صحيحة:**
+
+<div class="exercise" markdown="1" data-answers='["Ich m&#246;chte einen Termin.","Hast du am Samstag Zeit?","Der Termin ist am Montag um 10 Uhr.","Tut mir leid, ich habe keine Zeit.","Am Sonntag habe ich frei.","Im Sommer ist es hei&#223;."]'>
 
 | # | الكلمات | الجملة الصحيحة |
 |---|---------|----------------|
@@ -238,22 +191,15 @@
 | 5 | am / ich / frei / Sonntag / habe | **______________** |
 | 6 | ist / im / es / Sommer / heiß | **______________** |
 
-✅ **الحل:**
-
-| # | الجملة الصحيحة | الترجمة |
-|---|-----------------|---------|
-| 1 | **Ich möchte einen Termin.** | أريد موعداً. |
-| 2 | **Hast du am Samstag Zeit?** | هل عندك وقت يوم السبت؟ |
-| 3 | **Der Termin ist am Montag um 10 Uhr.** | الموعد يوم الإثنين الساعة 10. |
-| 4 | **Tut mir leid, ich habe keine Zeit.** | آسف، ليس عندي وقت. |
-| 5 | **Am Sonntag habe ich frei.** | يوم الأحد أنا متفرغ. |
-| 6 | **Im Sommer ist es heiß.** | في الصيف الجو حار. |
+</div>
 
 ---
 
 ## التمرين 9: صِل اليوم بالتاريخ 📆
 
 **أي يوم يصادف هذا التاريخ؟ صِل:**
+
+<div class="exercise" markdown="1" data-type="match" data-answers='["ب","ه","ج","أ","د"]' data-options='["أ","ب","ج","د","ه"]'>
 
 | التاريخ | اليوم |
 |---------|-------|
@@ -263,21 +209,15 @@
 | 4. Heute ist Samstag. Morgen ist... | د. Donnerstag |
 | 5. Heute ist Dienstag. Übermorgen ist... | ه. Mittwoch |
 
-✅ **الحل:**
-
-| # | الإجابة | الشرح |
-|---|---------|-------|
-| 1 | **ب (Dienstag)** — اليوم إثنين بكرة ثلاثاء |
-| 2 | **ه (Dienstag)** — اليوم أربعاء أمس كان ثلاثاء |
-| 3 | **ج (Samstag)** — اليوم جمعة بعد بكرة سبت |
-| 4 | **أ (Sonntag)** — اليوم سبت بكرة أحد |
-| 5 | **د (Donnerstag)** — اليوم ثلاثاء بعد بكرة خميس |
+</div>
 
 ---
 
 ## التمرين 10: الشهور — املأ الفراغ 📆
 
 **اكتب اسم الشهر بالألماني:**
+
+<div class="exercise" markdown="1" data-answers='["Januar","M&#228;rz","Mai","Juli","September","November","Mein Geburtstag ist im Juni.","Im Oktober habe ich Urlaub."]'>
 
 | # | العربي | الألماني |
 |---|--------|----------|
@@ -290,18 +230,7 @@
 | 7 | عيد ميلادي في يونيو. | ______________ |
 | 8 | في أكتوبر عندي إجازة. | ______________ |
 
-✅ **الحل:**
-
-| # | الإجابة |
-|---|---------|
-| 1 | **Januar** |
-| 2 | **März** |
-| 3 | **Mai** |
-| 4 | **Juli** |
-| 5 | **September** |
-| 6 | **November** |
-| 7 | **Mein Geburtstag ist im Juni.** |
-| 8 | **Im Oktober habe ich Urlaub.** |
+</div>
 
 ---
 

@@ -9,6 +9,8 @@
 
 **اختَر أداة التعريف الصحيحة لكل كلمة:**
 
+<div class="exercise" markdown="1" data-answers='["der","die","das","die","der","das","die","das","der","das"]'>
+
 | # | الكلمة | الخيارات | إجابتك |
 |---|--------|----------|:------:|
 | 1 | ____ Tisch | der · die · das | ⬜ |
@@ -22,26 +24,15 @@
 | 9 | ____ Supermarkt | der · die · das | ⬜ |
 | 10 | ____ Auto | der · die · das | ⬜ |
 
-✅ **الحل:**
-
-| # | الإجابة | الشرح |
-|---|---------|-------|
-| 1 | **der** Tisch | مذكر 🟦 |
-| 2 | **die** Lampe | مؤنث 🟥 (تنتهي بـ -e) |
-| 3 | **das** Buch | محايد 🟩 |
-| 4 | **die** Schule | مؤنث 🟥 (تنتهي بـ -e) |
-| 5 | **der** Bahnhof | مذكر 🟦 |
-| 6 | **das** Fenster | محايد 🟩 |
-| 7 | **die** Blume | مؤنث 🟥 (تنتهي بـ -e) |
-| 8 | **das** Museum | محايد 🟩 |
-| 9 | **der** Supermarkt | مذكر 🟦 |
-| 10 | **das** Auto | محايد 🟩 |
+</div>
 
 ---
 
 ## التمرين 2: املأ الفراغ بـ ein / eine 🖊️
 
 **اكمل الجمل بـ ein (للمذكر والمحايد) أو eine (للمؤنث):**
+
+<div class="exercise" markdown="1" data-answers='["ein","eine","ein","eine","ein","eine","ein","eine","ein","ein"]'>
 
 | # | الجملة | ein / eine |
 |---|--------|:----------:|
@@ -56,26 +47,15 @@
 | 9 | Das ist ____ Flughafen. | ________ |
 | 10 | Das ist ____ Café. | ________ |
 
-✅ **الحل:**
-
-| # | الإجابة | الشرح |
-|---|---------|-------|
-| 1 | **ein** Park | der → ein 🟦 |
-| 2 | **eine** Schule | die → eine 🟥 |
-| 3 | **ein** Haus | das → ein 🟩 |
-| 4 | **eine** Lampe | die → eine 🟥 |
-| 5 | **ein** Stuhl | der → ein 🟦 |
-| 6 | **eine** Bibliothek | die → eine 🟥 |
-| 7 | **ein** Bett | das → ein 🟩 |
-| 8 | **eine** Tasche | die → eine 🟥 |
-| 9 | **ein** Flughafen | der → ein 🟦 |
-| 10 | **ein** Café | das → ein 🟩 |
+</div>
 
 ---
 
 ## التمرين 3: صِل (Match) 🔗
 
 **صِل الكلمة الألمانية بالمعنى العربي:**
+
+<div class="exercise" markdown="1" data-answers='["د","أ","ز","ج","ب","ه","ح","و","ي","ط"]'>
 
 | الألمانية | العربية |
 |-----------|---------|
@@ -90,20 +70,7 @@
 | 9. der Ball | ط. المقهى |
 | 10. das Café | ي. الكرة |
 
-✅ **الحل:**
-
-| # | الإجابة |
-|---|---------|
-| 1 | **د** — die Stadt = المدينة 🟥 |
-| 2 | **أ** — der Park = الحديقة 🟦 |
-| 3 | **ز** — das Buch = الكتاب 🟩 |
-| 4 | **ج** — die Bibliothek = المكتبة 🟥 |
-| 5 | **ب** — die Tür = الباب 🟥 |
-| 6 | **ه** — das Bett = السرير 🟩 |
-| 7 | **ح** — die Kirche = الكنيسة 🟥 |
-| 8 | **و** — der Computer = الكمبيوتر 🟦 |
-| 9 | **ي** — der Ball = الكرة 🟦 |
-| 10 | **ط** — das Café = المقهى 🟩 |
+</div>
 
 ---
 
@@ -115,6 +82,8 @@
 Tisch · Schule · Haus · Lampe · Park · Buch · Stadt · Auto · Fenster · Bahnhof · Blume · Bett
 ```
 
+<div class="exercise" markdown="1" data-answers='["Tisch","Schule","Haus","Park","Lampe","Buch","Bahnhof","Stadt","Auto","","Blume","Fenster"]'>
+
 | der 🟦 | die 🟥 | das 🟩 |
 |:------:|:------:|:------:|
 | ________ | ________ | ________ |
@@ -122,20 +91,13 @@ Tisch · Schule · Haus · Lampe · Park · Buch · Stadt · Auto · Fenster · 
 | ________ | ________ | ________ |
 | ________ | ________ | ________ |
 
-✅ **الحل:**
-
-| der 🟦 | die 🟥 | das 🟩 |
-|:------:|:------:|:------:|
-| **Tisch** | **Schule** | **Haus** |
-| **Park** | **Lampe** | **Buch** |
-| **Bahnhof** | **Stadt** | **Auto** |
-| *(زائد: Supermarkt, Flughafen, Stuhl, Ball, Computer)* | **Blume** | **Fenster** |
-| | *(زائد: Bibliothek, Kirche, Tür, Tasche)* | **Bett** |
-| | | *(زائد: Café, Kino, Museum)* |
+</div>
 
 ---
 
 ## التمرين 5: ترجم من العربية إلى الألمانية 🌍
+
+<div class="exercise" markdown="1" data-answers='["Das ist ein Park.","Das ist eine Schule.","Das ist ein Haus.","Das ist eine Lampe.","Das ist ein Buch.","Das ist ein Kino.","Das ist ein Tisch.","Das ist ein Auto."]'>
 
 | # | العربية | الألمانية |
 |---|---------|-----------|
@@ -148,24 +110,15 @@ Tisch · Schule · Haus · Lampe · Park · Buch · Stadt · Auto · Fenster · 
 | 7 | هذه طاولة. (Tisch) | ______________ |
 | 8 | هذه سيارة. (Auto) | ______________ |
 
-✅ **الحل:**
-
-| # | العربية | الألمانية | ملاحظة |
-|---|---------|-----------|--------|
-| 1 | هذه حديقة. | **Das ist ein Park.** | der → ein 🟦 |
-| 2 | هذه مدرسة. | **Das ist eine Schule.** | die → eine 🟥 |
-| 3 | هذا بيت. | **Das ist ein Haus.** | das → ein 🟩 |
-| 4 | هذه لمبة. | **Das ist eine Lampe.** | die → eine 🟥 |
-| 5 | هذا كتاب. | **Das ist ein Buch.** | das → ein 🟩 |
-| 6 | هذه سينما. | **Das ist ein Kino.** | das → ein 🟩 |
-| 7 | هذه طاولة. | **Das ist ein Tisch.** | der → ein 🟦 |
-| 8 | هذه سيارة. | **Das ist ein Auto.** | das → ein 🟩 |
+</div>
 
 ---
 
 ## التمرين 6: صحيح أم خطأ؟ (Richtig oder falsch?) ✅❌
 
 **هل الجملة صحيحة؟ ضع علامة ✔️ أو ❌:**
+
+<div class="exercise" markdown="1" data-answers='["❌","❌","✔️","✔️","✔️","❌","✔️","✔️"]'>
 
 | # | الجملة | ✔️ / ❌ |
 |---|--------|:-------:|
@@ -178,24 +131,15 @@ Tisch · Schule · Haus · Lampe · Park · Buch · Stadt · Auto · Fenster · 
 | 7 | Das ist **eine** Stadt. | ⬜ |
 | 8 | Das ist **ein** Auto. | ⬜ |
 
-✅ **الحل:**
-
-| # | ✔️ / ❌ | الجملة الصحيحة | الشرح |
-|---|:-------:|----------------|-------|
-| 1 | ❌ | **ein** Park | Park مذكر ← ein (وليس eine!) |
-| 2 | ❌ | **eine** Schule | Schule مؤنث ← eine (وليس ein!) |
-| 3 | ✔️ | صحيحة | Haus محايد ← ein ✅ |
-| 4 | ✔️ | صحيحة | Lampe مؤنث ← eine ✅ |
-| 5 | ✔️ | صحيحة | Tisch مذكر ← ein ✅ |
-| 6 | ❌ | **ein** Buch | Buch محايد ← ein (وليس eine!) |
-| 7 | ✔️ | صحيحة | Stadt مؤنث ← eine ✅ |
-| 8 | ✔️ | صحيحة | Auto محايد ← ein ✅ |
+</div>
 
 ---
 
 ## التمرين 7: جاوب على السؤال (Was ist das?) 🗣️
 
 **شوف الصورة (بالخيال 😄) وجاوب:**
+
+<div class="exercise" markdown="1" data-answers='["Das ist eine Bibliothek.","Das ist ein Haus.","Das ist ein Bahnhof.","Das ist ein Supermarkt.","Das ist ein Kino.","Das ist ein Bett.","Das ist ein Auto.","Das ist eine Schule."]'>
 
 | # | الصورة (وصف) | السؤال | جوابك |
 |---|--------------|--------|:-----:|
@@ -208,24 +152,15 @@ Tisch · Schule · Haus · Lampe · Park · Buch · Stadt · Auto · Fenster · 
 | 7 | 🚗 تروح به المشاوير | Was ist das? (Auto) | ______________ |
 | 8 | 🏫 تتعلم فيه | Was ist das? (Schule) | ______________ |
 
-✅ **الحل:**
-
-| # | الجواب الصحيح | المعنى |
-|---|----------------|--------|
-| 1 | **Das ist eine Bibliothek.** | هذه مكتبة. 🟥 |
-| 2 | **Das ist ein Haus.** | هذا بيت. 🟩 |
-| 3 | **Das ist ein Bahnhof.** | هذه محطة قطار. 🟦 |
-| 4 | **Das ist ein Supermarkt.** | هذا سوبرماركت. 🟦 |
-| 5 | **Das ist ein Kino.** | هذه سينما. 🟩 |
-| 6 | **Das ist ein Bett.** | هذا سرير. 🟩 |
-| 7 | **Das ist ein Auto.** | هذه سيارة. 🟩 |
-| 8 | **Das ist eine Schule.** | هذه مدرسة. 🟥 |
+</div>
 
 ---
 
 ## التمرين 8: كوّن جملة كاملة 🧩
 
 **استخدم الكلمات لتكوين جملة صحيحة. كل جملة تبدأ بـ Das:**
+
+<div class="exercise" markdown="1" data-answers='["Das ist eine Lampe.","Das ist ein Ball.","Das ist ein Café.","Das ist eine Kirche.","Das ist ein Museum.","Das ist ein Flughafen.","Das ist eine Tür.","Das ist eine Blume."]'>
 
 | # | الكلمات | الجملة الكاملة |
 |---|---------|----------------|
@@ -238,18 +173,7 @@ Tisch · Schule · Haus · Lampe · Park · Buch · Stadt · Auto · Fenster · 
 | 7 | Tür / das / eine / ist | **______________** |
 | 8 | ist / Blume / das / eine | **______________** |
 
-✅ **الحل:**
-
-| # | الجملة الصحيحة | المعنى |
-|---|-----------------|--------|
-| 1 | **Das ist eine Lampe.** | هذه لمبة. |
-| 2 | **Das ist ein Ball.** | هذه كرة. |
-| 3 | **Das ist ein Café.** | هذا مقهى. |
-| 4 | **Das ist eine Kirche.** | هذه كنيسة. |
-| 5 | **Das ist ein Museum.** | هذا متحف. |
-| 6 | **Das ist ein Flughafen.** | هذا مطار. |
-| 7 | **Das ist eine Tür.** | هذا باب. |
-| 8 | **Das ist eine Blume.** | هذه زهرة. |
+</div>
 
 ---
 
@@ -260,6 +184,8 @@ Tisch · Schule · Haus · Lampe · Park · Buch · Stadt · Auto · Fenster · 
 ```
 schön · groß · klein · neu · alt
 ```
+
+<div class="exercise" markdown="1" data-answers='["schön","groß","klein","neu","alt","neu","schön","alt"]'>
 
 | # | الجملة | الصفة المناسبة |
 |---|--------|:--------------:|
@@ -272,24 +198,15 @@ schön · groß · klein · neu · alt
 | 7 | Die Blume ist ____. (الزهرة جميلة) | ________ |
 | 8 | Das Kino ist ____. (السينما قديمة) | ________ |
 
-✅ **الحل:**
-
-| # | الإجابة | المعنى |
-|---|---------|--------|
-| 1 | **schön** | Der Park ist schön. — الحديقة جميلة. |
-| 2 | **groß** | Die Schule ist groß. — المدرسة كبيرة. |
-| 3 | **klein** | Das Haus ist klein. — البيت صغير. |
-| 4 | **neu** | Das Auto ist neu. — السيارة جديدة. |
-| 5 | **alt** | Der Tisch ist alt. — الطاولة قديمة. |
-| 6 | **neu** | Das Buch ist neu. — الكتاب جديد. |
-| 7 | **schön** | Die Blume ist schön. — الزهرة جميلة. |
-| 8 | **alt** | Das Kino ist alt. — السينما قديمة. |
+</div>
 
 ---
 
 ## التمرين 10: صحّح الخطأ 🔧
 
 **في كل جملة خطأ واحد. اكتب الجملة الصحيحة:**
+
+<div class="exercise" markdown="1" data-answers='["Das ist ein Park.","Das ist eine Schule.","Das ist ein Buch.","Die Lampe ist schön.","Das ist eine Tasche.","Das Museum ist klein.","Das ist ein Kino.","Der Tisch ist groß."]'>
 
 | # | الجملة الخطأ | الجملة الصحيحة |
 |---|--------------|----------------|
@@ -302,18 +219,7 @@ schön · groß · klein · neu · alt
 | 7 | Das ist eine Kino. | **______________** |
 | 8 | Die Tisch ist groß. | **______________** |
 
-✅ **الحل:**
-
-| # | الجملة الصحيحة | شرح الخطأ |
-|---|----------------|-----------|
-| 1 | **Das ist ein Park.** | Park مذكر ← ein (ليس eine) |
-| 2 | **Das ist eine Schule.** | Schule مؤنث ← eine (ليس ein) |
-| 3 | **Das ist ein Buch.** | Buch محايد ← ein (ليس eine) |
-| 4 | **Die Lampe ist schön.** | Lampe مؤنث ← die (ليس der) |
-| 5 | **Das ist eine Tasche.** | Tasche مؤنث ← eine (ليس ein) |
-| 6 | **Das Museum ist klein.** | Museum مفرد ← ist (ليس sind) |
-| 7 | **Das ist ein Kino.** | Kino محايد ← ein (ليس eine) |
-| 8 | **Der Tisch ist groß.** | Tisch مذكر ← der (ليس die) |
+</div>
 
 ---
 

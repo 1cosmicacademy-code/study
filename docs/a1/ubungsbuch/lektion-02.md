@@ -9,6 +9,8 @@
 
 **اكمل الجمل بالتصريف الصحيح للفعل sein (bin / bist / ist / sind / seid):**
 
+<div class="exercise" markdown="1" data-answers='["bin","bist","ist","sind","seid","sind","sind","bist","sind","bin"]'>
+
 | # | الجملة | التصريف الصحيح |
 |---|--------|----------------|
 | 1 | Ich ________ Arzt. | ______________ |
@@ -22,26 +24,15 @@
 | 9 | Was ________ Sie von Beruf? | ______________ |
 | 10 | Ich ________ Köchin. | ______________ |
 
-✅ **الحل:**
-
-| # | الإجابة | الشرح |
-|---|---------|-------|
-| 1 | **bin** — Ich bin Arzt | مع ich: bin |
-| 2 | **bist** — Du bist Student | مع du: bist |
-| 3 | **ist** — Er ist Lehrer | مع er: ist |
-| 4 | **sind** — Wir sind Verkäufer | مع wir: sind |
-| 5 | **seid** — Ihr seid Schüler | مع ihr: seid |
-| 6 | **sind** — Sie sind Ingenieurin | مع Sie (رسمي): sind |
-| 7 | **sind** — Sie sind Polizisten | مع sie (جمع): sind |
-| 8 | **bist** — Was bist du von Beruf? | du → bist |
-| 9 | **sind** — Was sind Sie von Beruf? | Sie → sind |
-| 10 | **bin** — Ich bin Köchin | Ich → bin |
+</div>
 
 ---
 
 ## التمرين 2: اختر — مذكر ولا مؤنث؟ 🎯
 
 **اختر الشكل الصحيح (مذكر أو مؤنث) حسب المعنى:**
+
+<div class="exercise" markdown="1" data-type="choice" data-answers='["أ","ب","ب","أ","ب","أ","أ","ب"]'>
 
 | # | الجملة | أ | ب |
 |---|--------|---|---|
@@ -54,24 +45,15 @@
 | 7 | Ich bin ________. (ولد) | **Student** | Studentin |
 | 8 | Ich bin ________. (بنت) | Fahrer | **Fahrerin** |
 
-✅ **الحل:**
-
-| # | الإجابة | الشرح |
-|---|---------|-------|
-| 1 | **أ (Arzt)** — Vater = أب (مذكر) |
-| 2 | **ب (Lehrerin)** — Mutter = أم (مؤنث) |
-| 3 | **ب (Studentin)** — Schwester = أخت (مؤنث) |
-| 4 | **أ (Koch)** — Bruder = أخ (مذكر) |
-| 5 | **ب (Polizistin)** — Frau = امرأة (مؤنث) |
-| 6 | **أ (Manager)** — Mann = رجل (مذكر) |
-| 7 | **أ (Student)** — ولد = مذكر |
-| 8 | **ب (Fahrerin)** — بنت = مؤنث |
+</div>
 
 ---
 
 ## التمرين 3: صِل المهنة بالعربية 🔗
 
 **صِل المهنة الألمانية بالمعنى العربي:**
+
+<div class="exercise" markdown="1" data-answers='["ب","أ","ه","ز","ج","د","ح","و","ي","ط"]'>
 
 | الألمانية | العربية |
 |-----------|---------|
@@ -86,26 +68,15 @@
 | 9. die Köchin | ط. المدرّس |
 | 10. der Lehrer | ي. الطبّاخة |
 
-✅ **الحل:**
-
-| # | الإجابة |
-|---|---------|
-| 1 | **ب** — der Arzt = الطبيب |
-| 2 | **أ** — die Lehrerin = المدرّسة |
-| 3 | **ه** — der Student = الطالب الجامعي |
-| 4 | **ز** — der Koch = الطبّاخ |
-| 5 | **ج** — die Polizistin = الشرطية |
-| 6 | **د** — der Ingenieur = المهندس |
-| 7 | **ح** — die Fahrerin = السائقة |
-| 8 | **و** — der Verkäufer = البائع (لاحظ: مذكر) |
-| 9 | **ي** — die Köchin = الطبّاخة |
-| 10 | **ط** — der Lehrer = المدرّس |
+</div>
 
 ---
 
 ## التمرين 4: اختر — du ولا Sie؟ 🎯
 
 **هل نستخدم du (غير رسمي) أم Sie (رسمي)؟**
+
+<div class="exercise" markdown="1" data-type="choice" data-answers='["du","Sie","du","Sie","Sie","du","Sie","du"]'>
 
 | # | الموقف | du | Sie |
 |---|--------|:--:|:---:|
@@ -118,24 +89,15 @@
 | 7 | تسأل شخص غريب عن المهنة | ⬜ | **✅** |
 | 8 | تسأل زميلك في الفصل | **✅** | ⬜ |
 
-✅ **الحل:**
-
-| # | الإجابة | الشرح |
-|---|---------|-------|
-| 1 | **du** ✅ — الصديق = غير رسمي |
-| 2 | **Sie** ✅ — المدرّسة = رسمي |
-| 3 | **du** ✅ — الأخ = عائلة = غير رسمي |
-| 4 | **Sie** ✅ — المدير = رسمي |
-| 5 | **Sie** ✅ — الشرطي = رسمي |
-| 6 | **du** ✅ — الجد = عائلة = غير رسمي |
-| 7 | **Sie** ✅ — شخص غريب = رسمي |
-| 8 | **du** ✅ — زميل الفصل = غير رسمي |
+</div>
 
 ---
 
 ## التمرين 5: اكتب الجملة الصحيحة ✍️
 
 **اكتب جملة كاملة تصف مهنة كل شخص (استخدم sein):**
+
+<div class="exercise" markdown="1" data-answers='["Ich bin Student.","Du bist Lehrer.","Er ist Arzt.","Sie ist Ärztin.","Wir sind Ingenieure.","Ihr seid Köche.","Sie sind Polizisten.","Sie ist Verkäuferin."]'>
 
 | # | الفكرة | الجملة |
 |---|--------|--------|
@@ -148,22 +110,13 @@
 | 7 | هم ← شرطة | **______________** |
 | 8 | هي ← بائعة | **______________** |
 
-✅ **الحل:**
-
-| # | الجملة | التصريف الصحيح |
-|---|--------|----------------|
-| 1 | **Ich bin Student.** | ich → bin |
-| 2 | **Du bist Lehrer.** | du → bist |
-| 3 | **Er ist Arzt.** | er → ist |
-| 4 | **Sie ist Ärztin.** | sie (هي) → ist |
-| 5 | **Wir sind Ingenieure.** | wir → sind |
-| 6 | **Ihr seid Köche.** | ihr → seid |
-| 7 | **Sie sind Polizisten.** | sie (هم) → sind |
-| 8 | **Sie ist Verkäuferin.** | sie (هي) → ist |
+</div>
 
 ---
 
 ## التمرين 6: رتب الكلمات لتكون جملة 🧩
+
+<div class="exercise" markdown="1" data-answers='["Ich bin Arzt.","Was bist du von Beruf?","Sie ist Ärztin.","Wo arbeitest du?","Was sind Sie von Beruf?","Er arbeitet im Krankenhaus.","Sie arbeitet als Verkäuferin bei Lidl.","Ich bin Studentin."]'>
 
 | # | الكلمات | الجملة الصحيحة |
 |---|---------|----------------|
@@ -176,22 +129,13 @@
 | 7 | bei / Verkäuferin / Sie / arbeitet / Lidl | **______________** |
 | 8 | bin / Studentin / Ich | **______________** |
 
-✅ **الحل:**
-
-| # | الجملة الصحيحة | الترجمة |
-|---|-----------------|---------|
-| 1 | **Ich bin Arzt.** | أنا طبيب. |
-| 2 | **Was bist du von Beruf?** | ما مهنتك؟ (غير رسمي) |
-| 3 | **Sie ist Ärztin.** | هي طبيبة. |
-| 4 | **Wo arbeitest du?** | أين تعمل؟ |
-| 5 | **Was sind Sie von Beruf?** | ما مهنتكم؟ (رسمي) |
-| 6 | **Er arbeitet im Krankenhaus.** | هو يعمل في المستشفى. |
-| 7 | **Sie arbeitet als Verkäuferin bei Lidl.** | هي تعمل بائعة عند ليدل. |
-| 8 | **Ich bin Studentin.** | أنا طالبة جامعية. |
+</div>
 
 ---
 
 ## التمرين 7: ترجم من العربية للألمانية 🌍
+
+<div class="exercise" markdown="1" data-answers='["Was bist du von Beruf?","Ich bin Lehrer.","Sie ist Ärztin.","Wo arbeiten Sie?","Ich arbeite im Krankenhaus.","Er arbeitet bei BMW.","Wir sind Studenten.","Was sind Sie von Beruf?"]'>
 
 | # | العربية | الألمانية |
 |---|---------|-----------|
@@ -204,24 +148,15 @@
 | 7 | نحن طلاب. | ______________ |
 | 8 | ما مهنتكم؟ (رسمي) | ______________ |
 
-✅ **الحل:**
-
-| # | العربية | الألمانية | ملاحظات |
-|---|---------|-----------|---------|
-| 1 | ما مهنتك؟ (غير رسمي) | **Was bist du von Beruf?** | du → غير رسمي |
-| 2 | أنا مدرّس. | **Ich bin Lehrer.** | ich → bin |
-| 3 | هي طبيبة. | **Sie ist Ärztin.** | هي = sie (صغيرة) |
-| 4 | أين تعمل؟ (رسمي) | **Wo arbeiten Sie?** | Sie (رسمي) → arbeiten |
-| 5 | أنا أعمل في مستشفى. | **Ich arbeite im Krankenhaus.** | im = in + dem |
-| 6 | هو يعمل عند BMW. | **Er arbeitet bei BMW.** | bei = عند (شركة) |
-| 7 | نحن طلاب. | **Wir sind Studenten.** | wir → sind |
-| 8 | ما مهنتكم؟ (رسمي) | **Was sind Sie von Beruf?** | Sie (رسمي) → sind |
+</div>
 
 ---
 
 ## التمرين 8: صحح الخطأ 🔍
 
 **في كل جملة خطأ واحد. صححه:**
+
+<div class="exercise" markdown="1" data-answers='["Ich bin Arzt.","Du bist Student.","Er ist Lehrer.","Wir sind Verkäufer.","Ihr seid Schüler.","Sie sind Ingenieur.","Was bist du von Beruf?","Was sind Sie von Beruf?"]'>
 
 | # | الجملة الخطأ | الجملة الصحيحة |
 |---|--------------|----------------|
@@ -234,22 +169,13 @@
 | 7 | Was **sind** du von Beruf? | **______________** |
 | 8 | Was **bist** Sie von Beruf? | **______________** |
 
-✅ **الحل:**
-
-| # | الجملة الصحيحة | الشرح |
-|---|-----------------|-------|
-| 1 | **Ich bin Arzt.** | مع ich: **bin** (ليس ist) |
-| 2 | **Du bist Student.** | مع du: **bist** (ليس sind) |
-| 3 | **Er ist Lehrer.** | مع er: **ist** (ليس bin) |
-| 4 | **Wir sind Verkäufer.** | مع wir: **sind** (ليس bist) |
-| 5 | **Ihr seid Schüler.** | مع ihr: **seid** (ليس sind) |
-| 6 | **Sie sind Ingenieur.** | مع Sie (رسمي): **sind** (ليس bist) |
-| 7 | **Was bist du von Beruf?** | مع du: **bist** (ليس sind) |
-| 8 | **Was sind Sie von Beruf?** | مع Sie: **sind** (ليس bist) |
+</div>
 
 ---
 
 ## التمرين 9: اختر الإجابة الصحيحة — المهنة والمكان 🎯
+
+<div class="exercise" markdown="1" data-type="choice" data-answers='["ب","أ","ج","ب","ج","ج"]'>
 
 | # | السؤال | أ | ب | ج |
 |---|--------|---|---|---|
@@ -260,16 +186,7 @@
 | 5 | Wo arbeitet ein Manager? | in der Schule | im Krankenhaus | **im Büro** |
 | 6 | Wo arbeitet ein Verkäufer? | in der Schule | im Krankenhaus | **im Supermarkt** |
 
-✅ **الحل:**
-
-| # | الإجابة | الشرح |
-|---|---------|-------|
-| 1 | **ب** — الطبيب يعمل في المستشفى |
-| 2 | **أ** — المدرّس يعمل في المدرسة |
-| 3 | **ج** — الطبّاخ يعمل في المطعم |
-| 4 | **ب** — الشرطي يعمل في الشرطة |
-| 5 | **ج** — المدير يعمل في المكتب |
-| 6 | **ج** — البائع يعمل في السوبرماركت |
+</div>
 
 ---
 

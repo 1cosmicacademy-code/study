@@ -9,6 +9,8 @@
 
 **Choose the right word from the list:** (Schule — Lehrer — Schüler — Beruf — Prüfung — Note)
 
+<div class="exercise" markdown="1" data-answers='["Schule","Lehrer","Schüler","Beruf","Prüfung","Note"]'>
+
 | # | Sentence | Word |
 |---|----------|------|
 | 1 | Ich gehe in die ___ . (school) | **______** |
@@ -18,16 +20,7 @@
 | 5 | Morgen habe ich eine ___ . (exam) | **______** |
 | 6 | Ich habe eine gute ___ bekommen. (grade) | **______** |
 
-✅ **Answers:**
-
-| # | Answer |
-|---|--------|
-| 1 | **Schule** — Ich gehe in die Schule. |
-| 2 | **Lehrer** — Der Lehrer unterrichtet die Kinder. |
-| 3 | **Schüler** — Der Schüler lernt in der Klasse. |
-| 4 | **Beruf** — Was ist dein Beruf? |
-| 5 | **Prüfung** — Morgen habe ich eine Prüfung. |
-| 6 | **Note** — Ich habe eine gute Note bekommen. |
+</div>
 
 ---
 
@@ -75,24 +68,13 @@
    - b) seid
    - c) ist
 
-✅ **Answers:**
-
-| # | Answer | Explanation |
-|---|--------|-------------|
-| 1 | **a** | ich → **bin** |
-| 2 | **b** | du → **bist** |
-| 3 | **c** | er → **ist** |
-| 4 | **a** | wir → **sind** |
-| 5 | **b** | ihr → **seid** |
-| 6 | **a** | du → **bist** |
-| 7 | **c** | sie (she) → **ist** |
-| 8 | **a** | sie (they) → **sind** |
-
 ---
 
 ## Exercise 3: Match the profession with the description 🔗
 
 **Match the German profession with the correct English description:**
+
+<div class="exercise" markdown="1" data-type="match" data-answers='["C","E","A","F","B","D","H","G"]'>
 
 | # | Deutsch | # | English |
 |---|---------|---|---------|
@@ -105,8 +87,7 @@
 | 7 | der Ingenieur | G | serves customers in a café |
 | 8 | der Kellner | H | builds and designs things |
 
-✅ **Answers:**
-1 ← **C**, 2 ← **E**, 3 ← **A**, 4 ← **F**, 5 ← **B**, 6 ← **D**, 7 ← **H**, 8 ← **G**
+</div>
 
 ---
 
@@ -138,21 +119,13 @@
 8. Deutsch / mag / Ich
    **→** _______________________________
 
-✅ **Answers:**
-1. **Ich bin Schüler.**
-2. **Was bist du von Beruf?**
-3. **Meine Mutter ist Lehrerin.**
-4. **Wir möchten Polizisten werden.**
-5. **Was möchtest du werden?**
-6. **Mein Bruder möchte Arzt werden.**
-7. **Ich gehe in die Schule.**
-8. **Ich mag Deutsch.**
-
 ---
 
 ## Exercise 5: Translate into German 🌐
 
 **Translate these sentences into German:**
+
+<div class="exercise" markdown="1" data-answers='["Ich bin Schüler.","Was bist du von Beruf?","Er ist Lehrer.","Ich möchte Arzt werden.","Was möchtest du werden?","Meine Schwester möchte Lehrerin werden.","Wir sind in der Schule.","Sie ist Ärztin."]'>
 
 | # | English | German |
 |---|---------|--------|
@@ -165,24 +138,15 @@
 | 7 | We are at school. | **__________________** |
 | 8 | She is a doctor. | **__________________** |
 
-✅ **Answers:**
-
-| # | German |
-|---|--------|
-| 1 | **Ich bin Schüler.** |
-| 2 | **Was bist du von Beruf?** |
-| 3 | **Er ist Lehrer.** |
-| 4 | **Ich möchte Arzt werden.** |
-| 5 | **Was möchtest du werden?** |
-| 6 | **Meine Schwester möchte Lehrerin werden.** |
-| 7 | **Wir sind in der Schule.** |
-| 8 | **Sie ist Ärztin.** |
+</div>
 
 ---
 
 ## Exercise 6: Find and correct the mistake ❌🔧
 
 **Each sentence has one mistake. Find it and correct it:**
+
+<div class="exercise" markdown="1" data-answers='["Ich bin Schüler","Du bist Student","Er ist Lehrer","Wir sind in der Schule","Ich möchte Arzt werden","Was bist du von Beruf?","Sie sind Studenten","Correct"]'>
 
 | # | Wrong sentence | Correction |
 |---|----------------|------------|
@@ -195,24 +159,15 @@
 | 7 | Sie (they) **ist** Studenten. | **__________________** |
 | 8 | Ich **möchte** Lehrer **werden**. (If correct, write "Correct") | **__________________** |
 
-✅ **Answers:**
-
-| # | Correction | Explanation |
-|---|------------|-------------|
-| 1 | **Ich bin** Schüler | ich → **bin** (not bist) |
-| 2 | **Du bist** Student | du → **bist** (not bin) |
-| 3 | **Er ist** Lehrer | er → **ist** (not bin) |
-| 4 | **Wir sind** in der Schule | wir → **sind** (not bist) |
-| 5 | **Ich möchte Arzt werden** | after möchte → **werden** (not sein) |
-| 6 | **Was bist du von Beruf?** | du → **bist** (not ist) |
-| 7 | **Sie sind Studenten** | sie (plural) → **sind** (not ist) |
-| 8 | **Correct** ✓ | The sentence is correct! Ich möchte Lehrer werden. |
+</div>
 
 ---
 
 ## Exercise 7: Fill in with "möchten" 🔤
 
 **Complete the sentences with the correct form of "möchten":**
+
+<div class="exercise" markdown="1" data-answers='["möchte","möchtest","möchte","möchten","möchtet","möchten","möchtest","möchte"]'>
 
 | # | Sentence | Missing word |
 |---|----------|-------------|
@@ -225,18 +180,7 @@
 | 7 | Was ___ du werden? (you want) | **______** |
 | 8 | Meine Schwester ___ Ärztin werden. (she wants) | **______** |
 
-✅ **Answers:**
-
-| # | Answer |
-|---|--------|
-| 1 | **möchte** — Ich möchte Arzt werden. |
-| 2 | **möchtest** — Du möchtest Lehrer werden. |
-| 3 | **möchte** — Er möchte Ingenieur werden. |
-| 4 | **möchten** — Wir möchten Polizisten werden. |
-| 5 | **möchtet** — Ihr möchtet Studenten sein. |
-| 6 | **möchten** — Sie möchten Kellner werden. |
-| 7 | **möchtest** — Was möchtest du werden? |
-| 8 | **möchte** — Meine Schwester möchte Ärztin werden. |
+</div>
 
 ---
 
@@ -284,19 +228,6 @@
    - b) Buch
    - c) Bleistift
 
-✅ **Answers:**
-
-| # | Answer | Explanation |
-|---|--------|-------------|
-| 1 | **b** | Hausaufgabe = homework |
-| 2 | **b** | Lehrer = teacher (teaches) |
-| 3 | **a** | Klasse = class |
-| 4 | **b** | Note = grade |
-| 5 | **b** | Lieblingsfach = favourite subject |
-| 6 | **b** | eine Prüfung schreiben = to write an exam |
-| 7 | **b** | Bleistift = pencil |
-| 8 | **b** | Buch = book |
-
 ---
 
 ## Exercise 9: Read the text and answer (True / False) 📖
@@ -310,6 +241,8 @@
 >
 > Was möchte ich werden? Ich möchte Polizist werden. Polizist ist ein cooler Beruf!
 
+<div class="exercise" markdown="1" data-type="choice" data-answers='["True","False","False","True","False","True","True","True"]'>
+
 | # | Statement | True | False |
 |---|-----------|:----:|:-----:|
 | 1 | Tom is a student. | ○ | ○ |
@@ -321,18 +254,7 @@
 | 7 | Tom wants to become a police officer. | ○ | ○ |
 | 8 | Tom thinks being a police officer is cool. | ○ | ○ |
 
-✅ **Answers:**
-
-| # | Answer | Explanation |
-|---|--------|-------------|
-| 1 | **True (Richtig)** — Text: "Ich bin Schüler." |
-| 2 | **False (Falsch)** — Text: "Ich gehe in die **9.** Klasse" (not 10) |
-| 3 | **False (Falsch)** — Text: "Meine Lieblingsfächer sind Mathe und **Sport**" (not German) |
-| 4 | **True (Richtig)** — Text: "Ich mag Deutsch nicht — Deutsch ist schwer!" |
-| 5 | **False (Falsch)** — Text: "Mein Vater ist von Beruf **Ingenieur**" (not Lehrer) |
-| 6 | **True (Richtig)** — Text: "Meine Mutter ist Ärztin. Sie arbeitet im Krankenhaus." |
-| 7 | **True (Richtig)** — Text: "Ich möchte Polizist werden." |
-| 8 | **True (Richtig)** — Text: "Polizist ist ein cooler Beruf!" |
+</div>
 
 ---
 
@@ -347,16 +269,6 @@
 5. Mein Vater ist **__________________** von Beruf. (your father's job)
 6. Meine Mutter ist **__________________** von Beruf. (your mother's job)
 7. Ich möchte **__________________** werden. (your future dream)
-
-✅ **Example answer (your personal answer may be different):**
-
-1. Ich heiße **Ahmed**.
-2. Ich bin **15** Jahre alt.
-3. Ich bin **Schüler**.
-4. Mein Lieblingsfach ist **Mathe**.
-5. Mein Vater ist **Ingenieur** von Beruf.
-6. Meine Mutter ist **Lehrerin** von Beruf.
-7. Ich möchte **Arzt** werden.
 
 ---
 

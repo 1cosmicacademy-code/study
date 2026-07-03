@@ -6,6 +6,8 @@
 [🔙 Back to Exercises](index.md) · [📕 Lesson Today](../kursbuch/lektion-05.en.md)
 
 ---
+<div class="exercise" markdown="1" data-answers='["Montag","Dienstag","Mittwoch","Donnerstag","Freitag","Samstag","Sonntag","das Wochenende"]'>
+
 
 ## Exercise 1: Days of the Week 🗓️
 
@@ -22,22 +24,10 @@
 | 7 | Sunday | **______________** |
 | 8 | Weekend | **______________** |
 
-✅ **Solution:**
-
-| # | In English | In German |
-|---|------------|-----------|
-| 1 | Monday | **Montag** |
-| 2 | Tuesday | **Dienstag** |
-| 3 | Wednesday | **Mittwoch** |
-| 4 | Thursday | **Donnerstag** |
-| 5 | Friday | **Freitag** |
-| 6 | Saturday | **Samstag** |
-| 7 | Sunday | **Sonntag** |
-| 8 | Weekend | **das Wochenende** |
-
-> 💡 Notice: Most days end with **-tag** (day). **Mittwoch** is the odd one — it means "mid-week"!
-
+</div>
 ---
+<div class="exercise" markdown="1" data-answers='["Es ist acht Uhr.","Es ist neun Uhr fünf.","Es ist zehn Uhr fünfzehn.","Es ist zwölf Uhr dreißig.","Es ist drei Uhr fünfundvierzig.","Es ist sieben Uhr zwanzig.","Es ist sechs Uhr."]'>
+
 
 ## Exercise 2: What Time Is It? 🕐
 
@@ -53,22 +43,10 @@
 | 6 | 7:20 | **Es ist ________** |
 | 7 | 6:00 | **Es ist ________** |
 
-✅ **Solution:**
-
-| # | Time | In German |
-|---|------|-----------|
-| 1 | 8:00 | **Es ist acht Uhr.** |
-| 2 | 9:05 | **Es ist neun Uhr fünf.** |
-| 3 | 10:15 | **Es ist zehn Uhr fünfzehn.** |
-| 4 | 12:30 | **Es ist zwölf Uhr dreißig.** |
-| 5 | 3:45 | **Es ist drei Uhr fünfundvierzig.** |
-| 6 | 7:20 | **Es ist sieben Uhr zwanzig.** |
-| 7 | 6:00 | **Es ist sechs Uhr.** |
-
-> 💡 **Formula:** Say **Es ist [hour] Uhr [minute]**.
-> Example: Es ist drei Uhr fünfundvierzig = 3:45
-
+</div>
 ---
+<div class="exercise" markdown="1" data-answers='["habe","hast","hat","haben","habt","haben","haben","Hast"]'>
+
 
 ## Exercise 3: Fill in the Blank — haben 🖊️
 
@@ -85,20 +63,10 @@
 | 7 | Sie (plural) ________ ein Haus. (have) | **________** |
 | 8 | ________ du am Samstag Zeit? (Do you have) | **________** |
 
-✅ **Solution:**
-
-| # | Sentence | Correct Form | Rule |
-|---|----------|--------------|------|
-| 1 | Ich **habe** einen Hund. | **habe** | with ich = habe |
-| 2 | Du **hast** ein Buch. | **hast** | with du = hast |
-| 3 | Er **hat** eine Schwester. | **hat** | with er/sie/es = hat (no b!) |
-| 4 | Wir **haben** heute Zeit. | **haben** | with wir = haben |
-| 5 | Ihr **habt** eine Frage? | **habt** | with ihr = habt |
-| 6 | Sie (form.) **haben** einen Termin. | **haben** | with Sie (formal) = haben |
-| 7 | Sie (pl.) **haben** ein Haus. | **haben** | with sie (plural) = haben |
-| 8 | **Hast** du am Samstag Zeit? | **Hast** | Question with du = Hast du...? |
-
+</div>
 ---
+<div class="exercise" markdown="1" data-answers='["stehe ... auf","sieht ... fern","kaufen ... ein","Kommst ... mit","mache ... auf","macht ... zu"]'>
+
 
 ## Exercise 4: Separable Verbs 🔄
 
@@ -113,20 +81,10 @@
 | 4 | **aufmachen** (open) | Ich _________ das Fenster _________ |
 | 5 | **zumachen** (close) | Sie _________ die Tür _________ |
 
-✅ **Solution:**
-
-| # | Infinitive | Complete Sentence | English |
-|---|------------|-------------------|---------|
-| 0 | aufstehen | Ich **stehe** um 7 Uhr **auf**. | I get up at 7. |
-| 1 | fernsehen | Er **sieht** abends **fern**. | He watches TV in the evening. |
-| 2 | einkaufen | Wir **kaufen** am Samstag **ein**. | We shop on Saturday. |
-| 3 | mitkommen | **Kommst** du **mit**? | Are you coming along? |
-| 4 | aufmachen | Ich **mache** das Fenster **auf**. | I open the window. |
-| 5 | zumachen | Sie **macht** die Tür **zu**. | She closes the door. |
-
-> 🧠 **Golden Rule:** The verb conjugates normally in position 2, and the prefix (auf-, ein-, fern-, mit-, zu-) goes to the end of the sentence!
-
+</div>
 ---
+<div class="exercise" markdown="1" data-answers='["A","A","B","B","A","C","A","B"]' data-type="choice">
+
 
 ## Exercise 5: Multiple Choice 🎯
 
@@ -143,20 +101,10 @@
 | 7 | Um wie viel Uhr __________ der Kurs? | **beginnt** | beginnst | beginnen |
 | 8 | __________ ihr Zeit? | Hast | **Habt** | Hat |
 
-✅ **Solution:**
-
-| # | Answer | Explanation |
-|---|--------|-------------|
-| 1 | **A (stehe)** — Ich stehe auf | Separable verb: ich stehe ... auf |
-| 2 | **A (machst)** — Was machst du? | du + machen = machst |
-| 3 | **B (Spielst)** — Spielst du? | du + spielen = spielst |
-| 4 | **B (hat)** — Er hat | er + haben = hat (irregular!) |
-| 5 | **A (höre)** — Ich höre | ich + hören = höre |
-| 6 | **C (haben)** — Wir haben | wir + haben = haben |
-| 7 | **A (beginnt)** — Der Kurs beginnt | er (der Kurs) + beginnen = beginnt |
-| 8 | **B (Habt)** — Habt ihr? | ihr + haben = habt |
-
+</div>
 ---
+<div class="exercise" markdown="1" data-answers='["D","A","B","C","F","E","H","G"]' data-type="match">
+
 
 ## Exercise 6: Match 🔗
 
@@ -173,20 +121,10 @@
 | 7. **fernsehen** | G. to ride a bike |
 | 8. **Fahrrad fahren** | H. to watch TV |
 
-✅ **Solution:**
-
-| # | Answer |
-|---|--------|
-| 1 | **D** — Fußball spielen = to play soccer |
-| 2 | **A** — Musik hören = to listen to music |
-| 3 | **B** — lesen = to read |
-| 4 | **C** — schwimmen = to swim |
-| 5 | **F** — Freunde treffen = to meet friends |
-| 6 | **E** — Kino gehen = to go to the cinema |
-| 7 | **H** — fernsehen = to watch TV |
-| 8 | **G** — Fahrrad fahren = to ride a bike |
-
+</div>
 ---
+<div class="exercise" markdown="1" data-answers='["Ich stehe um 7 Uhr auf.","Spielst du gern Fußball?","Wir haben heute Zeit.","Was machst du in der Freizeit?","Er hat eine Schwester.","Er sieht abends fern.","Ich gehe um 10 Uhr schlafen.","Wir kaufen am Samstag ein."]'>
+
 
 ## Exercise 7: Sentence Order 🧩
 
@@ -203,22 +141,10 @@
 | 7 | at 10 o'clock / sleep / go / I | **______________** |
 | 8 | on Saturday / shop / we | **______________** |
 
-✅ **Solution:**
-
-| # | Correct Sentence | Translation |
-|---|------------------|-------------|
-| 1 | **Ich stehe um 7 Uhr auf.** | I get up at 7 o'clock. |
-| 2 | **Spielst du gern Fußball?** | Do you like playing soccer? |
-| 3 | **Wir haben heute Zeit.** | We have time today. |
-| 4 | **Was machst du in der Freizeit?** | What do you do in your free time? |
-| 5 | **Er hat eine Schwester.** | He has a sister. |
-| 6 | **Er sieht abends fern.** | He watches TV in the evening. |
-| 7 | **Ich gehe um 10 Uhr schlafen.** | I go to sleep at 10 o'clock. |
-| 8 | **Wir kaufen am Samstag ein.** | We shop on Saturday. |
-
-> 🧠 **Remember German word order:** The verb is always in the second position!
-
+</div>
 ---
+<div class="exercise" markdown="1" data-answers='["Es ist sieben Uhr.","Ich stehe um 6 Uhr auf.","Ich habe eine Schwester.","Spielst du gern Fußball?","Ich höre Musik.","Was machst du in der Freizeit?","Heute ist Montag.","Am Wochenende habe ich Zeit."]'>
+
 
 ## Exercise 8: Translate 🌍
 
@@ -235,20 +161,10 @@
 | 7 | Today is Monday. | **______________** |
 | 8 | On the weekend I have time. | **______________** |
 
-✅ **Solution:**
-
-| # | English | German | Notes |
-|---|---------|--------|-------|
-| 1 | It's 7 o'clock. | **Es ist sieben Uhr.** | Es ist + hour + Uhr |
-| 2 | I get up at 6 o'clock. | **Ich stehe um 6 Uhr auf.** | aufstehen = separable! stehe ... auf |
-| 3 | I have a sister. | **Ich habe eine Schwester.** | haben with ich = habe |
-| 4 | Do you like playing soccer? | **Spielst du gern Fußball?** | gern = like to / du + spielen = spielst |
-| 5 | I listen to music. | **Ich höre Musik.** | hören = to listen / hear |
-| 6 | What do you do in your free time? | **Was machst du in der Freizeit?** | Freizeit = free time |
-| 7 | Today is Monday. | **Heute ist Montag.** | heute + ist + day |
-| 8 | On the weekend I have time. | **Am Wochenende habe ich Zeit.** | am Wochenende = on the weekend |
-
+</div>
 ---
+<div class="exercise" markdown="1" data-answers='["✅","✅","✅","✅","✅","❌","✅","✅"]'>
+
 
 ## Exercise 9: True or False? ✅❌
 
@@ -265,19 +181,7 @@
 | 7 | Heute ist Samstag. — Correct (if today is Saturday) | ________ |
 | 8 | Was machst du in der Freizeit? — Correct | ________ |
 
-✅ **Solution:**
-
-| # | Sentence | ✅ / ❌ | Reason |
-|---|----------|:------:|--------|
-| 1 | Ich habe einen Hund. | **✅** | haben + ich = habe (correct) |
-| 2 | Du hast eine Katze. — Wrong (correct: Du habst) | **✅** statement is wrong | The original sentence IS correct. "habst" is wrong! Du hast is the correct form. |
-| 3 | Er hat um 8 Uhr Unterricht. | **✅** | er + haben = hat (correct) |
-| 4 | Wir haben am Montag frei. — Wrong (correct: Wir habt) | **✅** statement is wrong | Wir haben IS correct. Wir habt is wrong! |
-| 5 | Siehst du gern fern? | **✅** | fernsehen = separable, with du = siehst ... fern |
-| 6 | Ich stehst um 7 Uhr auf. | **❌** | Correct: Ich **stehe** ... auf (with ich = stehe!) |
-| 7 | Heute ist Samstag. (if correct) | **✅** | Heute ist Samstag = Today is Saturday (correct) |
-| 8 | Was machst du in der Freizeit? | **✅** | machst + du = correct |
-
+</div>
 ---
 
 ## Exercise 10: Write About Your Day ✍️

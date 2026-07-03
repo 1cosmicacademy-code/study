@@ -25,9 +25,9 @@
 | 15 | [تمارين Lektion 15](lektion-15.md) | Wege in der Stadt |
 | 16 | [تمارين Lektion 16](lektion-16.md) | Im Laden |
 | 17 | [تمارين Lektion 17](lektion-17.md) | Arbeit |
-| 18 | [تمارين Lektion 18](lektion-18.md) | Im Büro |
+| 18 | [تمارين Lektion 18](lektion-18.md) | Beim Amt |
 | 19 | [تمارين Lektion 19](lektion-19.md) | Reisen in Deutschland |
-| 20 | [تمارين Lektion 20](lektion-20.md) | Feste und Feiern | |
+| 20 | [تمارين Lektion 20](lektion-20.md) | Feste und Feiern |
 
 ---
 

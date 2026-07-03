@@ -1,4 +1,5 @@
 # 📝 Übungsbuch A1 — Lektion 19: Reisen in Deutschland
+
 ## 🧩 تمارين الدرس 19 — السفر في ألمانيا
 
 [🔙 العودة إلى المستوى A1](../index.md) | [📕 العودة إلى الدرس](lektion-19.md)
@@ -8,6 +9,8 @@
 > 🧒 هذه التمارين تساعدك على تذكر كلمات السفر وقواعدها. حاول أن تحل بنفسك قبل النظر إلى الإجابة!
 
 ---
+
+<div class="exercise" markdown="1" data-answers='["fährt", "fahre", "Fährst", "fahren", "fahrt", "fahren", "fährt", "fahren"]'>
 
 ## 🥇 التمرين 1: املأ الفراغ — الفعل "fahren"
 
@@ -24,22 +27,9 @@
 7. Das Taxi ______ zum Flughafen.
 8. Anna und ich ______ nach Berlin.
 
-<details>
-<summary>✅ الإجابات</summary>
+</div>
 
-| # | الإجابة | الشرح |
-|:-|:--------|:------|
-| 1 | **fährt** | der Zug (هو) → fährt |
-| 2 | **fahre** | ich → fahre |
-| 3 | **Fährst** | du → fährst + السؤال يبدأ بالفعل |
-| 4 | **fahren** | die Eltern (هم) → fahren |
-| 5 | **fahrt** | ihr → fahrt |
-| 6 | **fahren** | wir → fahren |
-| 7 | **fährt** | das Taxi (هو) → fährt |
-| 8 | **fahren** | Anna und ich = wir → fahren |
-</details>
-
----
+<div class="exercise" data-type="choice" markdown="1" data-answers='["b", "a", "c", "b", "b", "b", "a", "c"]'>
 
 ## 🥈 التمرين 2: اختر الإجابة الصحيحة
 
@@ -85,22 +75,9 @@
    - b) Flughafen
    - c) Zimmer
 
-<details>
-<summary>✅ الإجابات</summary>
+</div>
 
-| # | الإجابة | الشرح |
-|:-|:--------|:------|
-| 1 | **b) nach** | nach + مدينة (Berlin) |
-| 2 | **a) mit** | mit + وسيلة النقل |
-| 3 | **c) Wo** | Wo = أين (مكان) |
-| 4 | **b) kaufen** | ein Ticket kaufen = يشتري تذكرة |
-| 5 | **b) Wann** | Wann = متى (سؤال عن الوقت) |
-| 6 | **b) der** | die U-Bahn → mit **der** U-Bahn |
-| 7 | **a) nach** | nach + مدينة (München) |
-| 8 | **c) Zimmer** | das Zimmer = الغرفة |
-</details>
-
----
+<div class="exercise" data-type="match" markdown="1" data-answers='["die U-Bahn", "das Fahrrad", "das Flugzeug", "der Zug", "das Auto"]'>
 
 ## 🥉 التمرين 3: ربط — Verkehrsmittel und Sätze
 
@@ -114,17 +91,9 @@
 | 4. Es fährt auf Schienen. 🚆 | 🔴 die U-Bahn |
 | 5. Es hat vier Räder und fährt auf der Straße. 🚗 | 🟣 das Flugzeug |
 
-<details>
-<summary>✅ الإجابات</summary>
+</div>
 
-1. تحت الأرض → 🔴 **die U-Bahn**
-2. عجلتان → 🟡 **das Fahrrad**
-3. يطير → 🟣 **das Flugzeug**
-4. على قضبان → 🟢 **der Zug**
-5. أربع عجلات → 🔵 **das Auto**
-</details>
-
----
+<div class="exercise" markdown="1" data-answers='["mit dem Zug", "Wo", "fliegen", "Wann", "nehme", "möchte", "links", "fahren mit dem Auto"]'>
 
 ## 🏆 التمرين 4: ترجم إلى الألمانية
 
@@ -139,20 +108,9 @@
 7. الدراجة على اليسار.
 8. هم يذهبون بالسيارة إلى السوق.
 
-<details>
-<summary>✅ الإجابات</summary>
+</div>
 
-1. Ich möchte **mit dem Zug** **nach Berlin** fahren.
-2. **Wo** ist der Bahnhof, bitte?
-3. Wir **fliegen** / reisen **mit dem Flugzeug** **nach Deutschland**.
-4. **Wann** **fährt** der Bus ab?
-5. Ich **nehme** das Taxi **zum Flughafen**.
-6. Ich **möchte** ein Zimmer **für eine Person**.
-7. Das Fahrrad ist **links**.
-8. Sie **fahren mit dem Auto** **zum Markt**.
-</details>
-
----
+<div class="exercise" markdown="1" data-answers='["التصحيح", ":--------", "fährt", "fährst", "möchte", "dem", "in", "Wohin"]'>
 
 ## 🏅 التمرين 5: صحح الخطأ — Die Fehler korrigieren
 
@@ -176,20 +134,9 @@
 6. ❌ Wohin ist der Bahnhof?
    → ✅ ___________________
 
-<details>
-<summary>✅ الإجابات</summary>
+</div>
 
-| الجملة الخطأ | التصحيح |
-|:-------------|:--------|
-| Ich **fährt** nach Berlin. | Ich **fahre** nach Berlin. |
-| Wir **fährst** mit dem Bus. | Wir **fahren** mit dem Bus. |
-| Du **möchte** ein Ticket kaufen. | Du **möchtest** ein Ticket kaufen. |
-| Ich fahre mit **dem** U-Bahn. | Ich fahre mit **der** U-Bahn. (die U-Bahn!) |
-| Er fährt **in** Berlin. | Er fährt **nach** Berlin. |
-| **Wohin** ist der Bahnhof? | **Wo** ist der Bahnhof? |
-</details>
-
----
+<div class="exercise" markdown="1" data-answers='["möchte", "Möchtet", "möchten", "Möchtest", "möchte", "möchten"]'>
 
 ## 🎯 التمرين 6: املأ الفراغ — "möchten"
 
@@ -202,18 +149,7 @@
 5. Er ______ in Deutschland reisen. (هو يريد السفر في ألمانيا)
 6. Sie (formal) ______ ein Ticket nach Berlin. (حضرتك تريد تذكرة إلى برلين)
 
-<details>
-<summary>✅ الإجابات</summary>
-
-1. Ich **möchte** ein Eis essen.
-2. **Möchtet** ihr ein Hotel buchen? (ihr → möchtet)
-3. Wir **möchten** den Bahnhof sehen.
-4. **Möchtest** du mit dem Zug fahren? (du → möchtest + الفعل أولاً في السؤال)
-5. Er **möchte** in Deutschland reisen.
-6. Sie **möchten** ein Ticket nach Berlin. (Sie formal = möchten)
-</details>
-
----
+</div>
 
 ## 🧩 التمرين 7: أكمل الحوار — Dialog ergänzen
 
@@ -241,6 +177,8 @@
 
 ---
 
+<div class="exercise" markdown="1" data-answers='["nach Berlin", "mit dem Bus", "ein Ticket kaufen", "Wo ist der Bahnhof?", "mit der U-Bahn", "Wohin fährst du heute?"]'>
+
 ## 🔗 التمرين 8: ضع الجمل في الترتيب الصحيح
 
 **رتب الكلمات لتكون جملة صحيحة:**
@@ -263,18 +201,9 @@
 6. du / Wohin / heute / fährst
    → ___________________________________
 
-<details>
-<summary>✅ الإجابات</summary>
+</div>
 
-1. Ich fahre **nach Berlin**.
-2. Er fährt **mit dem Bus**.
-3. Ich möchte **ein Ticket kaufen**. (الفعل الثاني في النهاية!)
-4. **Wo ist der Bahnhof?**
-5. Sie fährt **mit der U-Bahn**.
-6. **Wohin fährst du heute?** (السؤال: الفعل في البداية)
-</details>
-
----
+<div class="exercise" data-type="choice" markdown="1" data-answers='["Fahrkarte", "Zimmer", "bleiben", "kommen", "der Bahnsteig", "wo"]'>
 
 ## 🧠 التمرين 9: أي كلمة لا تنتمي للمجموعة؟
 
@@ -287,20 +216,7 @@
 5. das Ticket — die Fahrkarte — der Helm — **der Bahnsteig**
 6. nach — mit — **wo** — in
 
-<details>
-<summary>✅ الإجابات مع الشرح</summary>
-
-| # | الكلمة الغريبة | الشرح |
-|:-|:---------------|:------|
-| 1 | **Fahrkarte** | الكلمات الباقية وسائل نقل، Fahrkarte = تذكرة |
-| 2 | **Zimmer** | الكلمات الباقية محطات ومطارات، Zimmer = غرفة |
-| 3 | **bleiben** | الباقي أفعال حركة، bleiben = يبقى |
-| 4 | **kommen** | الباقي اتجاهات، kommen = يأتي |
-| 5 | **der Bahnsteig** | الباقي أشياء تشتريها، Bahnsteig = رصيف |
-| 6 | **wo** | الباقي حروف جر (Verhältniswörter)، wo = أين (أداة استفهام) |
-</details>
-
----
+</div>
 
 ## 🌍 التمرين 10: أسئلة مفتوحة — اجابة قصيرة
 

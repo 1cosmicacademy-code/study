@@ -4,6 +4,8 @@
 > 💡 **Tip:** Try to solve the exercises yourself first, then check the solution!
 
 ---
+<div class="exercise" markdown="1" data-answers='["der Apfel","der Saft ... der Orangensaft","das Brot","die Milch","der Fisch","der Salat","der Kuchen","die Kartoffel","das Hähnchen","die Nudeln"]'>
+
 
 ## Exercise 1: Fill in the Blank — Food 🖊️
 
@@ -22,22 +24,10 @@
 | 9 | 🐔 A bird whose meat we eat | **______________** |
 | 10 | 🍝 Italian pasta | **______________** |
 
-✅ **Solution:**
-
-| # | German Word |
-|---|-------------|
-| 1 | **der Apfel** |
-| 2 | **der Saft** or **der Orangensaft** |
-| 3 | **das Brot** |
-| 4 | **die Milch** |
-| 5 | **der Fisch** |
-| 6 | **der Salat** |
-| 7 | **der Kuchen** |
-| 8 | **die Kartoffel** |
-| 9 | **das Hähnchen** |
-| 10 | **die Nudeln** |
-
+</div>
 ---
+<div class="exercise" markdown="1" data-answers='["die Äpfel","die Bananen","die Tische","die Eier","die Tomaten","die Fische","die Kuchen","die Kartoffeln","die Väter","die Gurken"]'>
+
 
 ## Exercise 2: Write the Plural ✍️
 
@@ -56,22 +46,10 @@
 | 9 | **der Vater** | **______________** |
 | 10 | **die Gurke** | **______________** |
 
-✅ **Solution:**
-
-| # | Plural | Method | Explanation |
-|---|--------|:------:|-------------|
-| 1 | **die Äpfel** | 🟣 Umlaut | a → ä, no extra ending |
-| 2 | **die Bananen** | 🟡 -n | Feminine words often add -n |
-| 3 | **die Tische** | 🟢 -e | Masculine words often add -e |
-| 4 | **die Eier** | 🟠 -er | Neuter words may add -er |
-| 5 | **die Tomaten** | 🟡 -en | Feminine words often add -en |
-| 6 | **die Fische** | 🟢 -e | Masculine words often add -e |
-| 7 | **die Kuchen** | — No change | Some words don't change in plural |
-| 8 | **die Kartoffeln** | 🟡 -n | Words ending in -el become -eln |
-| 9 | **die Väter** | 🟣 Umlaut | a → ä, no extra ending |
-| 10 | **die Gurken** | 🟡 -n | Feminine words often add -n |
-
+</div>
 ---
+<div class="exercise" markdown="1" data-answers='["kein","nicht","kein","keinen","nicht","nicht","keine","keinen","nicht","keinen"]'>
+
 
 ## Exercise 3: Choose — **nicht** or **kein/keine**? 🎯
 
@@ -90,27 +68,10 @@
 | 9 | Sie arbeitet ________. (She doesn't work — negating the verb) |
 | 10 | Ich trinke ________ Kaffee am Abend. (I drink no coffee in the evening — negating noun) |
 
-✅ **Solution:**
-
-| # | Answer | Explanation |
-|---|--------|-------------|
-| 1 | **kein** | Negating the noun (Fleisch is neuter → kein) |
-| 2 | **nicht** | Negating the adjective (heiß) |
-| 3 | **kein** | Negating the noun (Bier is neuter → kein) |
-| 4 | **keinen** | Negating the noun (Hunger is masculine + Accusative → keinen) |
-| 5 | **nicht** | Negating the verb (kommt) |
-| 6 | **nicht** | Negating the adjective (frisch) |
-| 7 | **keine** | Negating the noun (Milch is feminine → keine) |
-| 8 | **keinen** | Negating the noun (Fisch is masculine + Accusative → keinen) |
-| 9 | **nicht** | Negating the verb (arbeitet) |
-| 10 | **keinen** | Negating the noun (Kaffee is masculine + Accusative → keinen) |
-
-**Reminder:**
-- **nicht** → with verbs and adjectives
-- **kein** → with masculine and neuter nouns
-- **keine** → with feminine and plural nouns
-
+</div>
 ---
+<div class="exercise" markdown="1" data-answers='["C","G","A","E","F","B","D","I","J","H"]' data-type="match">
+
 
 ## Exercise 4: Match 🔗
 
@@ -129,22 +90,10 @@
 | 9. die Rechnung | I. sweet |
 | 10. sauer | J. the bill / check |
 
-✅ **Solution:**
-
-| # | Answer |
-|---|--------|
-| 1 | **C** — der Honig = honey |
-| 2 | **G** — das Hähnchen = chicken |
-| 3 | **A** — der Hunger = hunger |
-| 4 | **E** — die Gabel = fork |
-| 5 | **F** — lecker = delicious |
-| 6 | **B** — das Messer = knife |
-| 7 | **D** — das Glas = glass |
-| 8 | **I** — süß = sweet |
-| 9 | **J** — die Rechnung = the bill |
-| 10 | **H** — sauer = sour |
-
+</div>
 ---
+<div class="exercise" markdown="1" data-answers='["Ich trinke keinen Kaffee.","Sie isst kein Fleisch.","Er kommt heute nicht.","Wir haben keine Milch.","Er mag keinen Fisch."]'>
+
 
 ## Exercise 5: Form a Sentence — Negation 🧩
 
@@ -158,21 +107,10 @@
 | 4 | Milch / wir / haben / keine | **_______________** |
 | 5 | mag / keinen / Fisch / er | **_______________** |
 
-✅ **Solution:**
-
-| # | Correct Sentence | Translation |
-|---|------------------|-------------|
-| 1 | **Ich trinke keinen Kaffee.** | I don't drink coffee. |
-| 2 | **Sie isst kein Fleisch.** | She doesn't eat meat. |
-| 3 | **Er kommt heute nicht.** | He's not coming today. |
-| 4 | **Wir haben keine Milch.** | We have no milk. |
-| 5 | **Er mag keinen Fisch.** | He doesn't like fish. |
-
-**Word order explanation:**
-- With **kein/keine**: verb + kein/keine + noun (Ich trinke **keinen** Kaffee)
-- With **nicht**: verb + ... + **nicht** at the end (Er kommt heute **nicht**)
-
+</div>
 ---
+<div class="exercise" markdown="1" data-answers='["Ich möchte einen Salat, bitte.","Ich esse kein Fleisch.","Haben Sie Milch?","Der Kaffee ist nicht heiß.","Der Apfel schmeckt lecker!","Ich habe keinen Hunger.","Sie ist Vegetarierin.","Ich möchte ein Glas Wasser.","Wir trinken kein Bier.","Die Rechnung, bitte."]'>
+
 
 ## Exercise 6: Translate 🌍
 
@@ -191,22 +129,10 @@
 | 9 | We don't drink beer. | ______________ |
 | 10 | The bill, please. | ______________ |
 
-✅ **Solution:**
-
-| # | English | German | Notes |
-|---|---------|--------|-------|
-| 1 | I would like a salad, please. | **Ich möchte einen Salat, bitte.** | möchte = I would like (polite) |
-| 2 | I don't eat meat. | **Ich esse kein Fleisch.** | kein with Fleisch (neuter) |
-| 3 | Do you have milk? | **Haben Sie Milch?** | Haben Sie = Do you have |
-| 4 | The coffee is not hot. | **Der Kaffee ist nicht heiß.** | nicht with adjective heiß |
-| 5 | The apple tastes delicious! | **Der Apfel schmeckt lecker!** | schmeckt lecker = tastes delicious |
-| 6 | I am not hungry. | **Ich habe keinen Hunger.** | keinen because Hunger is masculine |
-| 7 | She is a vegetarian. | **Sie ist Vegetarierin.** | Vegetarierin = vegetarian (female) |
-| 8 | I'd like a glass of water. | **Ich möchte ein Glas Wasser.** | ein Glas Wasser = a glass of water |
-| 9 | We don't drink beer. | **Wir trinken kein Bier.** | kein with Bier (neuter) |
-| 10 | The bill, please. | **Die Rechnung, bitte.** | Rechnung = bill/check |
-
+</div>
 ---
+<div class="exercise" markdown="1" data-answers='["","keine","","kein","nicht","","","","",""]'>
+
 
 ## Exercise 7: True or False? ❌✅
 
@@ -225,21 +151,7 @@
 | 9 | Die Milch ist nicht kalt. (The milk is not cold) | |
 | 10 | Ich mag keine Kartoffeln. (I don't like potatoes) | |
 
-✅ **Solution:**
-
-| # | Sentence | ✅/❌ | Correction (if wrong) |
-|---|----------|:----:|-----------------------|
-| 1 | Ich möchte einen Apfel. | ✅ | Correct! |
-| 2 | Ich habe kein Milch. | ❌ | **keine** Milch (Milch is feminine → keine) |
-| 3 | Der Kaffee ist nicht heiß. | ✅ | Correct! |
-| 4 | Sie trinken keinen Bier. | ❌ | **kein** Bier (Bier is neuter → kein) |
-| 5 | Das ist keine gut. | ❌ | Das ist **nicht** gut (gut is adjective → nicht) |
-| 6 | Ich esse nicht. | ✅ | Correct! |
-| 7 | Wir haben keine Bananen. | ✅ | Correct! (plural → keine) |
-| 8 | Er isst kein Fleisch. | ✅ | Correct! (Fleisch is neuter → kein) |
-| 9 | Die Milch ist nicht kalt. | ✅ | Correct! (kalt is adjective → nicht) |
-| 10 | Ich mag keine Kartoffeln. | ✅ | Correct! (plural → keine) |
-
+</div>
 ---
 
 ## Exercise 8: Restaurant Dialogue 💬
@@ -270,33 +182,10 @@
 > **Gast:** Nein, danke. Das ist alles. Die ______________, bitte.
 > *(No thanks. That is all. The bill, please.)*
 
-✅ **Solution:**
-
-> **Kellner:** Guten Tag! Was möchten Sie **essen**?
-> *(Good day! What would you like to eat?)*
->
-> **Gast:** Ich möchte einen Salat und **ein Glas** Wasser, bitte.
-> *(I'd like a salad and a glass of water, please.)*
->
-> **Kellner:** Möchten Sie **auch** Fleisch oder Fisch?
-> *(Would you also like meat or fish?)*
->
-> **Gast:** Nein danke, ich esse **kein** Fleisch und **keinen** Fisch. Ich bin Vegetarierin.
-> *(No thanks, I eat no meat and no fish. I'm a vegetarian.)*
->
-> **Kellner:** Kein Problem! Möchten Sie auch einen **Saft**?
-> *(No problem! Would you also like a juice?)*
->
-> **Gast:** Ja, einen Orangensaft, **bitte**.
-> *(Yes, an orange juice, please.)*
->
-> **Kellner:** Sehr gerne. **Möchten** Sie noch etwas?
-> *(With pleasure. Would you like anything else?)*
->
-> **Gast:** Nein, danke. Das ist alles. Die **Rechnung**, bitte.
-> *(No thanks. That is all. The bill, please.)*
 
 ---
+<div class="exercise" markdown="1" data-answers='["C (sauer) ... sauer","A (süß) ... süß","E (salzig) ... salzig","B (scharf) ... scharf","D (bitter) ... bitter"]'>
+
 
 ## Exercise 9: Describe the Food 🍽️
 
@@ -310,17 +199,10 @@
 | 4 | 🌶️ **der Chili** | D. **bitter** (bitter) |
 | 5 | ☕ **der schwarze Kaffee** | E. **salzig** (salty) |
 
-✅ **Solution:**
-
-| # | Description | Translation |
-|---|-------------|-------------|
-| 1 | **C (sauer)** — Die Zitrone ist **sauer**. | The lemon is sour. |
-| 2 | **A (süß)** — Der Kuchen ist **süß**. | The cake is sweet. |
-| 3 | **E (salzig)** — Das Salz ist **salzig**. | The salt is salty. |
-| 4 | **B (scharf)** — Der Chili ist **scharf**. | The chili is spicy. |
-| 5 | **D (bitter)** — Der schwarze Kaffee ist **bitter**. | The black coffee is bitter. |
-
+</div>
 ---
+<div class="exercise" markdown="1" data-answers='["Ich möchte Salat.","Er isst kein Fleisch.","Wir trinken Wasser.","Der Kaffee ist nicht heiß.","Sie hat keine Milch.","Das Brot schmeckt lecker.","Magst du Äpfel?","Der Salat ist frisch."]'>
+
 
 ## Exercise 10: Write Your Own Sentence ✏️
 
@@ -337,19 +219,7 @@
 | 7 | du / mögen / Äpfel | **_____** (question) |
 | 8 | der Salat / sein / frisch | **_____** |
 
-✅ **Solution:**
-
-| # | Correct Sentence | Translation |
-|---|------------------|-------------|
-| 1 | **Ich möchte Salat.** | I would like salad. |
-| 2 | **Er isst kein Fleisch.** | He doesn't eat meat. |
-| 3 | **Wir trinken Wasser.** | We drink water. |
-| 4 | **Der Kaffee ist nicht heiß.** | The coffee is not hot. |
-| 5 | **Sie hat keine Milch.** | She has no milk. |
-| 6 | **Das Brot schmeckt lecker.** | The bread tastes delicious. |
-| 7 | **Magst du Äpfel?** | Do you like apples? |
-| 8 | **Der Salat ist frisch.** | The salad is fresh. |
-
+</div>
 ---
 
 ## 📊 Your Progress Tracker

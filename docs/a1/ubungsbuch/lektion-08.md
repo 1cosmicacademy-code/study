@@ -107,6 +107,8 @@
 
 **صل كل جملة مع التصريف الثالث المناسب:**
 
+<div class="exercise" markdown="1" data-type="match" data-answers='["ث","ج","أ","ب","ت","ث","خ","أ"]' data-options='["أ","ب","ت","ث","ج","ح","خ","د"]'>
+
 | الجملة | | Partizip II |
 |--------|---|-------------|
 | 1. Ich habe einen Kuchen ... | (أ) | getrunken |
@@ -118,19 +120,7 @@
 | 7. Die Kinder haben gespielt und ... | (خ) | getanzt |
 | 8. Ich habe Wasser ... | (د) | gebacken |
 
-<details>
-<summary>✅ الحلول</summary>
-
-1. Ich habe einen Kuchen **gegessen** ← (ث)
-2. Wir haben Musik **gehört** ← (ج)
-3. Er hat Cola **getrunken** ← (أ)
-4. Du bist um 9 Uhr **gekommen** ← (ب)
-5. Ihr seid nach Hause **gegangen** ← (ت)
-6. Sie hat Pizza **gegessen** ← (ث) — أو **mitgebracht** (ح)
-7. Die Kinder haben gespielt und **getanzt** ← (خ)
-8. Ich habe Wasser **getrunken** ← (أ)
-
-</details>
+</div>
 
 ---
 
@@ -243,6 +233,8 @@
 
 **الجمل التالية في المضارع (Präsens). أعد كتابتها في الماضي (Perfekt):**
 
+<div class="exercise" markdown="1" data-answers='["Ich habe Geburtstag gefeiert.","Tom ist um 8 Uhr gekommen.","Wir haben ein Lied gesungen.","Lisa hat viel getanzt.","Die G&#228;ste haben Saft getrunken.","Du hast Kuchen mitgebracht.","Ihr habt die Wohnung aufger&#228;umt.","Ich bin zu Hause geblieben."]'>
+
 | Präsens (المضارع) | Perfekt (الماضي) |
 |-------------------|-----------------|
 | 1. Ich feiere Geburtstag. | → ________________ |
@@ -254,21 +246,7 @@
 | 7. Ihr räumt die Wohnung auf. | → ________________ |
 | 8. Ich bleibe zu Hause. | → ________________ |
 
-<details>
-<summary>✅ الحلول</summary>
-
-| Präsens | Perfekt |
-|---------|---------|
-| 1. Ich feiere Geburtstag. | 1. Ich **habe** Geburtstag **gefeiert**. |
-| 2. Tom kommt um 8 Uhr. | 2. Tom **ist** um 8 Uhr **gekommen**. |
-| 3. Wir singen ein Lied. | 3. Wir **haben** ein Lied **gesungen**. |
-| 4. Lisa tanzt viel. | 4. Lisa **hat** viel **getanzt**. |
-| 5. Die Gäste trinken Saft. | 5. Die Gäste **haben** Saft **getrunken**. |
-| 6. Du bringst Kuchen mit. | 6. Du **hast** Kuchen **mitgebracht**. |
-| 7. Ihr räumt die Wohnung auf. | 7. Ihr **habt** die Wohnung **aufgeräumt**. |
-| 8. Ich bleibe zu Hause. | 8. Ich **bin** zu Hause **geblieben**. |
-
-</details>
+</div>
 
 ---
 

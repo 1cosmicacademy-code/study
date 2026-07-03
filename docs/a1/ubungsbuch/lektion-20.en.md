@@ -11,6 +11,8 @@
 
 > feiern 🎉 | schenken 🎁 | einladen 💌 | gratulieren 🎊 | wünschen ✨
 
+<div class="exercise" data-type="choice" markdown="1" data-answers='["feiere", "lade ... ein", "schenke", "wünsche", "gratuliere"]'>
+
 | # | Sentence | Correct Word |
 |---|----------|--------------|
 | 1. Ich ___________ meinen Geburtstag. (celebrate) | _______________ |
@@ -19,21 +21,13 @@
 | 4. Ich ___________ dir alles Gute. (wish) | _______________ |
 | 5. Ich ___________ dir zum Geburtstag. (congratulate) | _______________ |
 
-✅ **Solution:**
-
-| # | Answer | Explanation |
-|---|--------|-------------|
-| 1 | **feiere** | feiern = to celebrate — ich feiere |
-| 2 | **lade ... ein** | einladen = to invite — ich lade ein |
-| 3 | **schenke** | schenken = to give a gift — ich schenke |
-| 4 | **wünsche** | wünschen = to wish — ich wünsche |
-| 5 | **gratuliere** | gratulieren = to congratulate — ich gratuliere |
-
----
+</div>
 
 ## Exercise 2: Match (Zuordnen) 🔗
 
 **Match the German holiday with the English translation:**
+
+<div class="exercise" data-type="match" markdown="1" data-answers='["C", "D", "A", "E", "B"]'>
 
 | German | English |
 |--------|---------|
@@ -43,23 +37,15 @@
 | 4. Neujahr | D. Easter |
 | 5. der Geburtstag | E. New Year |
 
-✅ **Solution:**
-
-| # | Answer | Explanation |
-|---|--------|-------------|
-| 1 | **C** — Weihnachten = Christmas (Dec 24-26) |
-| 2 | **D** — Ostern = Easter (in spring) |
-| 3 | **A** — Silvester = New Year's Eve (Dec 31) |
-| 4 | **E** — Neujahr = New Year (Jan 1) |
-| 5 | **B** — der Geburtstag = birthday (your personal day) |
-
----
+</div>
 
 ## Exercise 3: Fill in the Right Greeting 🎉
 
 **Choose the right greeting for each situation:**
 
 > Herzlichen Glückwunsch 🎂 | Frohe Weihnachten 🎄 | Guten Rutsch ins neue Jahr 🎆 | Frohe Ostern 🐣 | Alles Gute zum Geburtstag 🎈
+
+<div class="exercise" data-type="choice" markdown="1" data-answers='["Alles Gute zum Geburtstag!", "Frohe Weihnachten!", "Guten Rutsch ins neue Jahr!", "Frohe Ostern!", "Alles Gute zum Geburtstag!"]'>
 
 | # | Situation | Right Greeting |
 |---|-----------|----------------|
@@ -69,21 +55,13 @@
 | 4. Spring — Easter | _______________ |
 | 5. Your friend's birthday — a nice greeting | _______________ |
 
-✅ **Solution:**
-
-| # | Answer | Explanation |
-|---|--------|-------------|
-| 1 | **Alles Gute zum Geburtstag!** or **Herzlichen Glückwunsch!** | Any birthday greeting works |
-| 2 | **Frohe Weihnachten!** | Christmas is Dec 24-26 |
-| 3 | **Guten Rutsch ins neue Jahr!** | New Year's Eve |
-| 4 | **Frohe Ostern!** | Easter in spring |
-| 5 | **Alles Gute zum Geburtstag!** | A nice formal birthday wish |
-
----
+</div>
 
 ## Exercise 4: Multiple Choice 🎯
 
 **Choose A, B, or C:**
+
+<div class="exercise" data-type="choice" markdown="1" data-answers='["A (lade)", "B (hast)", "C (bekommt)", "B (feiern)", "B (tanzt)", "C (singen)"]'>
 
 | # | Sentence | A | B | C |
 |---|----------|---|---|---|
@@ -94,22 +72,13 @@
 | 5 | Ihr ___________ auf der Party. | tanze | tanzt | tanzen |
 | 6 | Sie (plural) ___________ together. | singe | singst | singen |
 
-✅ **Solution:**
-
-| # | Answer | Explanation |
-|---|--------|-------------|
-| 1 | **A (lade)** — Ich lade ... ein | einladen with ich = lade ein |
-| 2 | **B (hast)** — Du hast Geburtstag | haben with du = hast |
-| 3 | **C (bekommt)** — Er bekommt | bekommen with er = bekommt |
-| 4 | **B (feiern)** — Wir feiern | feiern with wir = feiern |
-| 5 | **B (tanzt)** — Ihr tanzt | tanzen with ihr = tanzt |
-| 6 | **C (singen)** — Sie singen | singen with sie (plural) = singen |
-
----
+</div>
 
 ## Exercise 5: Put the Words in Order 🧩
 
 **Arrange the words to make a correct sentence:**
+
+<div class="exercise" markdown="1" data-answers='["Ich feiere meinen Geburtstag.", "Kommst du zur Party?", "Ich lade dich ein.", "Ich schenke dir eine Blume.", "Ich wünsche dir alles Gute."]'>
 
 | # | Words | Correct Sentence |
 |---|-------|-----------------|
@@ -119,21 +88,11 @@
 | 4 | schenke / ich / dir / eine Blume | _______________ |
 | 5 | wünsche / ich / dir / alles Gute | _______________ |
 
-✅ **Solution:**
-
-| # | Correct Sentence | Translation |
-|---|------------------|-------------|
-| 1 | **Ich feiere meinen Geburtstag.** | I celebrate my birthday. |
-| 2 | **Kommst du zur Party?** | Are you coming to the party? |
-| 3 | **Ich lade dich ein.** | I invite you. |
-| 4 | **Ich schenke dir eine Blume.** | I give you a flower. |
-| 5 | **Ich wünsche dir alles Gute.** | I wish you all the best. |
-
-**Remember:** In German, the verb is always in **second position**!
-
----
+</div>
 
 ## Exercise 6: Translate from English to German 🌍
+
+<div class="exercise" markdown="1" data-answers='["Mein Geburtstag ist im Januar.", "Hast du im März Geburtstag?", "Ich lade dich zu meiner Party ein!", "Ich wünsche dir alles Gute zum Geburtstag!", "Wir feiern Weihnachten zu Hause.", "Meine Schwester schenkt mir eine Blume."]'>
 
 | # | English | German |
 |---|---------|--------|
@@ -144,22 +103,13 @@
 | 5 | We celebrate Christmas at home. | _______________ |
 | 6 | My sister gives me a flower. | _______________ |
 
-✅ **Solution:**
-
-| # | German | Notes |
-|---|--------|-------|
-| 1 | **Mein Geburtstag ist im Januar.** | Im = in + dem (in the month) |
-| 2 | **Hast du im März Geburtstag?** | Hast du = do you have |
-| 3 | **Ich lade dich zu meiner Party ein!** | zu meiner = to my |
-| 4 | **Ich wünsche dir alles Gute zum Geburtstag!** | The complete birthday wish |
-| 5 | **Wir feiern Weihnachten zu Hause.** | zu Hause = at home |
-| 6 | **Meine Schwester schenkt mir eine Blume.** | Schwester = sister / schenkt = gives |
-
----
+</div>
 
 ## Exercise 7: Find and Fix the Mistake ❌➡️✅
 
 **Each sentence has one mistake. Write the correct sentence:**
+
+<div class="exercise" markdown="1" data-answers='["Ich feiere meinen Geburtstag.", "Du schenkst mir ein Geschenk.", "Er lädt seine Freunde ein.", "Wir feiern Weihnachten.", "Ihr tanzt auf der Party.", "Sie singen zusammen."]'>
 
 | # | Sentence (with mistake) | Correct Sentence |
 |---|-------------------------|-----------------|
@@ -170,22 +120,13 @@
 | 5 | Ihr tanzen auf der Party. | _______________ |
 | 6 | Sie (plural) singt zusammen. | _______________ |
 
-✅ **Solution:**
-
-| # | Correct Sentence | Explanation |
-|---|------------------|-------------|
-| 1 | **Ich feiere meinen Geburtstag.** | Ich + feiere (not feierst) |
-| 2 | **Du schenkst mir ein Geschenk.** | Du + schenkst (not schenke) |
-| 3 | **Er lädt seine Freunde ein.** | Er + lädt ein (not laden) |
-| 4 | **Wir feiern Weihnachten.** | Wir + feiern (not feiert) |
-| 5 | **Ihr tanzt auf der Party.** | Ihr + tanzt (not tanzen) |
-| 6 | **Sie singen zusammen.** | Sie (plural) + singen (not singt) |
-
----
+</div>
 
 ## Exercise 8: Find the Odd One Out 🕵️
 
 **In each group, one word is different. Underline it:**
+
+<div class="exercise" data-type="choice" markdown="1" data-answers='["Geschenk", "Geschenk", "Gast", "Party", "Party"]'>
 
 | # | Group | Odd Word |
 |---|-------|----------|
@@ -195,17 +136,7 @@
 | 4 | wünschen — schenken — gratulieren — Party | _______________ |
 | 5 | Januar — März — Party — Dezember | _______________ |
 
-✅ **Solution:**
-
-| # | Answer | Explanation |
-|---|--------|-------------|
-| 1 | **Geschenk** | The rest are holidays, Geschenk = gift |
-| 2 | **Geschenk** | The rest are verbs, Geschenk = noun (gift) |
-| 3 | **Gast** | The rest are things at a party, Gast = person |
-| 4 | **Party** | The rest are verbs, Party = noun |
-| 5 | **Party** | The rest are months, Party = party (not a month) |
-
----
+</div>
 
 ## Exercise 9: Write the Dialogue ✍️
 
@@ -246,6 +177,8 @@
 
 ## Exercise 10: Match the Question with the Answer 🔗
 
+<div class="exercise" data-type="match" markdown="1" data-answers='["C", "A", "D", "E", "B"]'>
+
 | # | Question | Answer | Match |
 |---|----------|--------|-------|
 | 1 | Wann hast du Geburtstag? | A. Yes, with pleasure! | 1 → ____ |
@@ -254,17 +187,7 @@
 | 4 | Was wünschst du dir? | D. I give you a flower. | 4 → ____ |
 | 5 | Herzlichen Glückwunsch! | E. I wish for flowers. | 5 → ____ |
 
-✅ **Solution:**
-
-| # | Answer | Explanation |
-|---|--------|-------------|
-| 1 | **C** — On March 15. | "When" question → date answer |
-| 2 | **A** — Yes, with pleasure! | "Are you coming?" → yes answer |
-| 3 | **D** — I give you a flower. | "What gift?" → gift answer |
-| 4 | **E** — I wish for flowers. | "What do you wish for?" → wish answer |
-| 5 | **B** — I wish you all the best! | Congratulations → reply with congratulations |
-
----
+</div>
 
 ## 📊 Your Progress Tracker
 

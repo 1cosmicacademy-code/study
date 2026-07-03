@@ -9,6 +9,8 @@
 
 **Write the correct German day:**
 
+<div class="exercise" markdown="1" data-answers='["Montag","Dienstag","Mittwoch","Donnerstag","Freitag","Samstag","Sonntag"]'>
+
 | # | Sentence | Answer |
 |---|----------|--------|
 | 1 | _________ is the first day of the week. (Monday) | **______________** |
@@ -19,23 +21,15 @@
 | 6 | _________ is Saturday. (Saturday) | **______________** |
 | 7 | _________ is the last day of the week. (Sunday) | **______________** |
 
-✅ **Answer Key:**
-
-| # | Answer |
-|---|--------|
-| 1 | **Montag** |
-| 2 | **Dienstag** |
-| 3 | **Mittwoch** |
-| 4 | **Donnerstag** |
-| 5 | **Freitag** |
-| 6 | **Samstag** |
-| 7 | **Sonntag** |
+</div>
 
 ---
 
 ## Exercise 2: am — Fill in the Blank 🖊️
 
 **Fill in the blank with am or -- (if the sentence doesn't need am):**
+
+<div class="exercise" markdown="1" data-answers='["am","am","Am","Am","Am","Am"]'>
 
 | # | Sentence |
 |---|----------|
@@ -46,22 +40,15 @@
 | 5 | _____ Sonntag schlafe ich lange. |
 | 6 | _____ Samstag um 10 Uhr habe ich einen Kurs. |
 
-✅ **Answer Key:**
-
-| # | Answer | Explanation |
-|---|--------|-------------|
-| 1 | **am** | am Montag = on Monday |
-| 2 | **am** | am Dienstag = on Tuesday |
-| 3 | **Am** | Am Mittwoch = on Wednesday (capital at start of sentence) |
-| 4 | **Am** | Am Freitagabend = on Friday evening |
-| 5 | **Am** | Am Sonntag = on Sunday |
-| 6 | **Am** | Am Samstag = on Saturday |
+</div>
 
 ---
 
 ## Exercise 3: Choose am / um / im 🎯
 
 **Choose the correct word:**
+
+<div class="exercise" markdown="1" data-type="choice" data-answers='["b","c","a","c","b","a","c","a"]'>
 
 | # | Sentence | Options |
 |---|----------|---------|
@@ -74,24 +61,15 @@
 | 7 | _____ Winter schneit es. | a) Am b) Um c) Im |
 | 8 | Hast du _____ Samstag Zeit? | a) am b) um c) im |
 
-✅ **Answer Key:**
-
-| # | Answer | Explanation |
-|---|--------|-------------|
-| 1 | **b (um)** | um + clock time = um 8 Uhr |
-| 2 | **c (Im)** | im + season = Im Sommer |
-| 3 | **a (am)** | am + day = am Montag |
-| 4 | **c (Im)** | im + month = Im Januar |
-| 5 | **b (um)** | um + clock time = um 15 Uhr |
-| 6 | **a (Am)** | am + time of day = Am Abend |
-| 7 | **c (Im)** | im + season = Im Winter |
-| 8 | **a (am)** | am + day = am Samstag |
+</div>
 
 ---
 
 ## Exercise 4: Match 🔗
 
 **Match the German sentence with the English translation:**
+
+<div class="exercise" markdown="1" data-type="match" data-answers='["b","d","a","e","c","g","f"]' data-options='["a","b","c","d","e","f","g"]'>
 
 | German | English |
 |--------|---------|
@@ -103,17 +81,7 @@
 | 6. Ich möchte einen Termin. | f. At 11 o'clock in the morning. |
 | 7. Um 11 Uhr vormittags. | g. I would like an appointment. |
 
-✅ **Answer Key:**
-
-| # | Answer |
-|---|--------|
-| 1 | **b** — Wann hast du Zeit? = When do you have time? |
-| 2 | **d** — Am Dienstag habe ich frei = I am free on Tuesday |
-| 3 | **a** — Der Termin ist am Dienstag = The appointment is on Tuesday |
-| 4 | **e** — Tut mir leid, ich habe keine Zeit = Sorry, I have no time |
-| 5 | **c** — Passt dir Freitag? = Does Friday suit you? |
-| 6 | **g** — Ich möchte einen Termin = I would like an appointment |
-| 7 | **f** — Um 11 Uhr vormittags = At 11 o'clock in the morning |
+</div>
 
 ---
 
@@ -157,6 +125,8 @@
 
 **Read the sentence and choose Richtig (True) or Falsch (False):**
 
+<div class="exercise" markdown="1" data-type="choice" data-answers='["True","True","True","False","False","True","True"]'>
+
 | # | Sentence | True | False |
 |---|----------|:----:|:-----:|
 | 1 | Montag comes before Dienstag. | ⬜ | ⬜ |
@@ -167,23 +137,15 @@
 | 6 | Mittwoch is the third day of the week. | ⬜ | ⬜ |
 | 7 | Der Termin = the appointment | ⬜ | ⬜ |
 
-✅ **Answer Key:**
-
-| # | Answer | Explanation |
-|---|--------|-------------|
-| 1 | **True (Richtig)** — Monday is before Tuesday ✅ |
-| 2 | **True (Richtig)** — Saturday and Sunday are the weekend ✅ |
-| 3 | **True (Richtig)** — am Montag = on Monday ✅ |
-| 4 | **False (Falsch)** — um is used with clock times, not days! ❌ |
-| 5 | **False (Falsch)** — In summer it is hot, not cold! ❌ |
-| 6 | **True (Richtig)** — Wednesday is the third day ✅ |
-| 7 | **True (Richtig)** — der Termin = the appointment ✅ |
+</div>
 
 ---
 
 ## Exercise 7: Translate from English to German 🌍
 
 **Translate these sentences from English to German:**
+
+<div class="exercise" markdown="1" data-answers='["Ich m&#246;chte einen Termin am Montag.","Hast du am Samstag Zeit?","Der Termin ist am Dienstag um 3 Uhr.","Tut mir leid, ich habe keine Zeit.","Im Sommer ist es hei&#223;.","Mein Geburtstag ist am 15. M&#228;rz.","Am Sonntag habe ich frei.","Vielen Dank! Auf Wiedersehen!"]'>
 
 | # | English | German |
 |---|---------|--------|
@@ -196,24 +158,15 @@
 | 7 | On Sunday I am free. | ______________ |
 | 8 | Thank you very much! Goodbye! | ______________ |
 
-✅ **Answer Key:**
-
-| # | German | Notes |
-|---|--------|-------|
-| 1 | **Ich möchte einen Termin am Montag.** | möchte = I would like / einen Termin = an appointment / am Montag = on Monday |
-| 2 | **Hast du am Samstag Zeit?** | Hast du = Do you have / am Samstag = on Saturday |
-| 3 | **Der Termin ist am Dienstag um 3 Uhr.** | ist = is / um 3 Uhr = at 3 o'clock |
-| 4 | **Tut mir leid, ich habe keine Zeit.** | Tut mir leid = I'm sorry / keine Zeit = no time |
-| 5 | **Im Sommer ist es heiß.** | Im Sommer = in summer / heiß = hot |
-| 6 | **Mein Geburtstag ist am 15. März.** | Mein Geburtstag = my birthday / am 15. März = on March 15th |
-| 7 | **Am Sonntag habe ich frei.** | Am Sonntag = on Sunday / frei = free |
-| 8 | **Vielen Dank! Auf Wiedersehen!** | Vielen Dank = thank you very much / Auf Wiedersehen = goodbye |
+</div>
 
 ---
 
 ## Exercise 8: Form Sentences 🧩
 
 **Put the words in order to make a correct sentence:**
+
+<div class="exercise" markdown="1" data-answers='["Ich m&#246;chte einen Termin.","Hast du am Samstag Zeit?","Der Termin ist am Montag um 10 Uhr.","Tut mir leid, ich habe keine Zeit.","Am Sonntag habe ich frei.","Im Sommer ist es hei&#223;."]'>
 
 | # | Words | Correct Sentence |
 |---|-------|-----------------|
@@ -224,22 +177,15 @@
 | 5 | am / ich / frei / Sonntag / habe | **______________** |
 | 6 | ist / im / es / Sommer / heiß | **______________** |
 
-✅ **Answer Key:**
-
-| # | Correct Sentence | Translation |
-|---|------------------|-------------|
-| 1 | **Ich möchte einen Termin.** | I would like an appointment. |
-| 2 | **Hast du am Samstag Zeit?** | Do you have time on Saturday? |
-| 3 | **Der Termin ist am Montag um 10 Uhr.** | The appointment is on Monday at 10 o'clock. |
-| 4 | **Tut mir leid, ich habe keine Zeit.** | Sorry, I have no time. |
-| 5 | **Am Sonntag habe ich frei.** | On Sunday I am free. |
-| 6 | **Im Sommer ist es heiß.** | In summer it is hot. |
+</div>
 
 ---
 
 ## Exercise 9: Match the Date with the Day 📆
 
 **What day matches? Match:**
+
+<div class="exercise" markdown="1" data-type="match" data-answers='["b","e","c","a","d"]' data-options='["a","b","c","d","e"]'>
 
 | Situation | Day |
 |-----------|-----|
@@ -249,21 +195,15 @@
 | 4. Today is Saturday. Tomorrow is... | d. Thursday |
 | 5. Today is Tuesday. The day after tomorrow is... | e. Wednesday |
 
-✅ **Answer Key:**
-
-| # | Answer | Explanation |
-|---|--------|-------------|
-| 1 | **b (Tuesday)** | Today Monday → tomorrow Tuesday |
-| 2 | **e (Tuesday)** | Today Wednesday → yesterday Tuesday |
-| 3 | **c (Saturday)** | Today Friday → day after tomorrow Saturday |
-| 4 | **a (Sunday)** | Today Saturday → tomorrow Sunday |
-| 5 | **d (Thursday)** | Today Tuesday → day after tomorrow Thursday |
+</div>
 
 ---
 
 ## Exercise 10: Months — Fill in the Blank 📆
 
 **Write the German name of the month:**
+
+<div class="exercise" markdown="1" data-answers='["Januar","M&#228;rz","Mai","Juli","September","November","Mein Geburtstag ist im Juni.","Im Oktober habe ich Urlaub."]'>
 
 | # | English | German |
 |---|---------|--------|
@@ -276,18 +216,7 @@
 | 7 | My birthday is in June. | ______________ |
 | 8 | In October I have vacation. | ______________ |
 
-✅ **Answer Key:**
-
-| # | Answer |
-|---|--------|
-| 1 | **Januar** |
-| 2 | **März** |
-| 3 | **Mai** |
-| 4 | **Juli** |
-| 5 | **September** |
-| 6 | **November** |
-| 7 | **Mein Geburtstag ist im Juni.** |
-| 8 | **Im Oktober habe ich Urlaub.** |
+</div>
 
 ---
 

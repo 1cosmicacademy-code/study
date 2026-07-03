@@ -11,6 +11,7 @@
 
 **الكلمات:** der Supermarkt — die Kasse — die Tüte — der Einkaufswagen — das Geld
 
+<div class="exercise" markdown="1" data-answers='["Supermarkt", "Kasse", "Tüte", "Einkaufswagen", "Geld"]'>
 | # | الجملة | الكلمة المناسبة |
 |---|--------|-----------------|
 | 1 | Ich kaufe im ______________ ein. (أنا أتسوق في السوبرماركت) | ______________ |
@@ -19,22 +20,13 @@
 | 4 | Der ______________ ist voll mit Obst. (عربة التسوق مليئة بالفواكه) | ______________ |
 | 5 | Ich habe nicht genug ______________. (ليس عندي فلوس كافية) | ______________ |
 
-✅ **الحل:**
-
-| # | الإجابة |
-|---|---------|
-| 1 | **Supermarkt** |
-| 2 | **Kasse** |
-| 3 | **Tüte** |
-| 4 | **Einkaufswagen** |
-| 5 | **Geld** |
-
+</div>
 ---
-
 ## التمرين 2: اختر الإجابة الصحيحة 🎯
 
 **اختر الكلمة الصحيحة:**
 
+<div class="exercise" markdown="1" data-type="choice" data-answers='["b) kostet", "b) kosten", "b) kosten", "b) Haben", "b) möchte", "c) geschlossen", "b) teuer", "b) Karte"]'>
 | # | الجملة | الاختيارات |
 |---|--------|------------|
 | 1 | Die Banane ________ 30 Cent. | a) kosten / b) kostet / c) kaufen |
@@ -46,25 +38,13 @@
 | 7 | Das ist aber ________! (غالي!) | a) billig / b) teuer / c) lecker |
 | 8 | Kann ich mit ________ zahlen? | a) Tüte / b) Karte / c) Regal |
 
-✅ **الحل:**
-
-| # | الإجابة | الشرح |
-|---|---------|-------|
-| 1 | **b) kostet** | مفرد (Die Banane) → kostet |
-| 2 | **b) kosten** | جمع (Die Äpfel) → kosten |
-| 3 | **b) kosten** | جمع (Die Tomaten) → kosten |
-| 4 | **b) Haben** | Haben Sie = هل عندكم (مهذب) |
-| 5 | **b) möchte** | Ich möchte = أريد |
-| 6 | **c) geschlossen** | geschlossen = مغلق |
-| 7 | **b) teuer** | teuer = غالي |
-| 8 | **b) Karte** | mit Karte zahlen = يدفع بالبطاقة |
-
+</div>
 ---
-
 ## التمرين 3: ربط — صِل الكلمة بالمعنى 🔗
 
 **صِل الكلمة الألمانية بالمعنى العربي:**
 
+<div class="exercise" markdown="1" data-type="match" data-answers='["د", "ح", "و", "أ", "ب", "ز", "ه", "ج", "ط", "ي"]'>
 | الألمانية | العربية |
 |-----------|---------|
 | 1. der Verkäufer | أ. سلة التسوق |
@@ -78,27 +58,13 @@
 | 9. der Bäcker | ط. الخباز |
 | 10. die Kasse | ي. الكاشير |
 
-✅ **الحل:**
-
-| # | الإجابة | الترجمة |
-|---|---------|---------|
-| 1 | **د** — der Verkäufer = البايع |
-| 2 | **ح** — das Angebot = العرض / التخفيض |
-| 3 | **و** — die Quittung = الإيصال / الفاتورة |
-| 4 | **أ** — der Einkaufskorb = سلة التسوق |
-| 5 | **ب** — billig = رخيص |
-| 6 | **ز** — teuer = غالي |
-| 7 | **ه** — der Preis = السعر |
-| 8 | **ج** — der Kunde = الزبون |
-| 9 | **ط** — der Bäcker = الخباز |
-| 10 | **ي** — die Kasse = الكاشير |
-
+</div>
 ---
-
 ## التمرين 4: املأ الفراغ — السعر 💰
 
 **اكتب السعر الصحيح بالألمانية (حروفاً):**
 
+<div class="exercise" markdown="1" data-answers='["ein Euro", "zwei Euro fünfzig", "neunundneunzig Cent", "fünf Euro", "zehn Euro fünfzig"]'>
 | # | السعر (بالأرقام) | بالألمانية |
 |---|:-----------------:|------------|
 | 1 | 1,00 € | ______________ |
@@ -107,22 +73,13 @@
 | 4 | 5,00 € | ______________ |
 | 5 | 10,50 € | ______________ |
 
-✅ **الحل:**
-
-| # | السعر | بالألمانية |
-|---|:-----:|------------|
-| 1 | 1,00 € | **ein Euro** |
-| 2 | 2,50 € | **zwei Euro fünfzig** |
-| 3 | 0,99 € | **neunundneunzig Cent** |
-| 4 | 5,00 € | **fünf Euro** |
-| 5 | 10,50 € | **zehn Euro fünfzig** |
-
+</div>
 ---
-
 ## التمرين 5: ترجم (Translate) 🌍
 
 **ترجم هذه الجمل من العربية إلى الألمانية:**
 
+<div class="exercise" markdown="1" data-answers='["Wie viel kosten die Äpfel?", "Ich möchte ein Kilo Bananen, bitte.", "Haben Sie Milch?", "Das ist sehr teuer!", "Wo ist die Kasse?", "Kann ich mit Karte zahlen?", "Das ist alles.", "Was macht das zusammen?"]'>
 | # | العربية | الألمانية |
 |---|---------|-----------|
 | 1 | كم سعر التفاح؟ | ______________ |
@@ -134,24 +91,13 @@
 | 7 | هذا كل شيء. | ______________ |
 | 8 | كم المجموع؟ | ______________ |
 
-✅ **الحل:**
-
-| # | العربية | الألمانية |
-|---|---------|-----------|
-| 1 | كم سعر التفاح؟ | **Wie viel kosten die Äpfel?** |
-| 2 | أريد كيلو موز من فضلك. | **Ich möchte ein Kilo Bananen, bitte.** |
-| 3 | هل عندكم حليب؟ | **Haben Sie Milch?** |
-| 4 | هذا غالي جداً! | **Das ist sehr teuer!** |
-| 5 | أين الكاشير؟ | **Wo ist die Kasse?** |
-| 6 | هل أستطيع الدفع بالبطاقة؟ | **Kann ich mit Karte zahlen?** |
-| 7 | هذا كل شيء. | **Das ist alles.** |
-| 8 | كم المجموع؟ | **Was macht das zusammen?** |
-
+</div>
 ---
-
 ## التمرين 6: كوّن جملة — رتب الكلمات 🧩
 
 **رتب الكلمات لتكون جملة صحيحة:**
+
+<div class="exercise" markdown="1" data-answers='["Der Apfel kostet 50 Cent.","Ich möchte ein Kilo Äpfel.","Haben Sie Milch?","Was macht das zusammen?","Kann ich mit Karte zahlen?","Ich brauche eine Tüte.","Der Supermarkt ist geschlossen."]'>
 
 | # | الكلمات | الجملة الصحيحة |
 |---|---------|----------------|
@@ -163,17 +109,7 @@
 | 6 | Tüte / brauche / eine / ich | ______________ |
 | 7 | geschlossen / ist / Supermarkt / der | ______________ |
 
-✅ **الحل:**
-
-| # | الجملة الصحيحة | الترجمة |
-|---|-----------------|---------|
-| 1 | **Der Apfel kostet 50 Cent.** | التفاحة سعرها 50 سنتاً. |
-| 2 | **Ich möchte ein Kilo Äpfel.** | أريد كيلو تفاح. |
-| 3 | **Haben Sie Milch?** | هل عندكم حليب؟ |
-| 4 | **Was macht das zusammen?** | كم المجموع؟ |
-| 5 | **Kann ich mit Karte zahlen?** | هل أستطيع الدفع بالبطاقة؟ |
-| 6 | **Ich brauche eine Tüte.** | أحتاج كيساً. |
-| 7 | **Der Supermarkt ist geschlossen.** | السوبرماركت مغلق. |
+</div>
 
 ---
 
@@ -181,6 +117,7 @@
 
 **هل الجملة صحيحة (✅) أم خطأ (❌)؟**
 
+<div class="exercise" markdown="1" data-type="choice" data-answers='["kostet", "kosten", "kostet"]'>
 | # | الجملة | صح/خطأ |
 |---|--------|:-------:|
 | 1 | Der Apfel kosten 1 Euro. (التفاحة سعرها 1 يورو) | |
@@ -194,23 +131,8 @@
 | 9 | Die Tüte kosten 10 Cent. (الكيس سعره 10 سنت) | |
 | 10 | Der Supermarkt ist offen. (السوبرماركت مفتوح) | |
 
-✅ **الحل:**
-
-| # | الجملة | صح/خطأ | التصحيح (إن كان خطأ) |
-|---|--------|:-------:|----------------------|
-| 1 | Der Apfel kosten 1 Euro. | ❌ | **kostet** (Der Apfel = مفرد → kostet) |
-| 2 | Wie viel kostet die Banane? | ✅ | صحيح! |
-| 3 | Die Äpfel kostet 3 Euro. | ❌ | **kosten** (Die Äpfel = جمع → kosten) |
-| 4 | Ich möchte ein Kilo Kartoffeln, bitte. | ✅ | صحيح! |
-| 5 | Haben Sie eine Tüte? | ✅ | صحيح! |
-| 6 | Wo ist die Kasse? | ✅ | صحيح! |
-| 7 | Das ist alles. | ✅ | صحيح! |
-| 8 | Kann ich mit Bargeld zahlen? | ✅ | صحيح! |
-| 9 | Die Tüte kosten 10 Cent. | ❌ | **kostet** (Die Tüte = مفرد → kostet) |
-| 10 | Der Supermarkt ist offen. | ✅ | صحيح! (offen و geöffnet كلاهما صح) |
-
+</div>
 ---
-
 ## التمرين 8: حوار في المتجر 💬
 
 **اكمل الحوار بين الزبون والبايعة:**
@@ -276,6 +198,7 @@
 
 **اكتب عكس الكلمة:**
 
+<div class="exercise" markdown="1" data-answers='["teuer", "billig", "geschlossen", "verkaufen", "kaufen", "mit Karte zahlen"]'>
 | # | الكلمة | العكس |
 |---|--------|-------|
 | 1 | **billig** (رخيص) → | ______________ (________) |
@@ -285,23 +208,13 @@
 | 5 | **verkaufen** (يبيع) → | ______________ (________) |
 | 6 | **das Bargeld** (الكاش) → | ______________ (الدفع بالبطاقة) |
 
-✅ **الحل:**
-
-| # | الكلمة | العكس | النطق |
-|---|--------|-------|-------|
-| 1 | billig (رخيص) | **teuer** (غالي) | TOY-er |
-| 2 | teuer (غالي) | **billig** (رخيص) | BIL-ish |
-| 3 | offen (مفتوح) | **geschlossen** (مغلق) | ge-SHLOS-en |
-| 4 | kaufen (يشتري) | **verkaufen** (يبيع) | fer-KOW-fen |
-| 5 | verkaufen (يبيع) | **kaufen** (يشتري) | KOW-fen |
-| 6 | das Bargeld (الكاش) | **mit Karte zahlen** (الدفع بالبطاقة) | |
-
+</div>
 ---
-
 ## التمرين 10: اكتب جملة بنفسك ✏️
 
 **استخدم هذه الكلمات لتكون جملة ألمانية صحيحة:**
 
+<div class="exercise" markdown="1" data-answers='["Ich suche den Supermarkt.", "Wir brauchen eine Tüte.", "Der Kunde bezahlt an der Kasse.", "Die Verkäuferin verkauft Äpfel.", "Ich nehme ein Kilo Kartoffeln.", "Das Brot kostet 2,50 Euro.", "Der Supermarkt ist geschlossen.", "Hast du eine Einkaufsliste?"]'>
 | # | الكلمات | كوّن جملة |
 |---|---------|-----------|
 | 1 | ich / suchen / der Supermarkt | **_____** |
@@ -313,48 +226,5 @@
 | 7 | der Supermarkt / sein / geschlossen | **_____** |
 | 8 | du / haben / eine Einkaufsliste | **_____** (سؤال) |
 
-✅ **الحل:**
-
-| # | الجملة الصحيحة | الترجمة |
-|---|-----------------|---------|
-| 1 | **Ich suche den Supermarkt.** | أنا أبحث عن السوبرماركت. |
-| 2 | **Wir brauchen eine Tüte.** | نحن بحاجة إلى كيس. |
-| 3 | **Der Kunde bezahlt an der Kasse.** | الزبون يدفع عند الكاشير. |
-| 4 | **Die Verkäuferin verkauft Äpfel.** | البايعة تبيع تفاحاً. |
-| 5 | **Ich nehme ein Kilo Kartoffeln.** | أنا آخذ كيلو بطاطس. |
-| 6 | **Das Brot kostet 2,50 Euro.** | الخبز سعره 2.50 يورو. |
-| 7 | **Der Supermarkt ist geschlossen.** | السوبرماركت مغلق. |
-| 8 | **Hast du eine Einkaufsliste?** | هل عندك لائحة تسوق؟ |
-
----
-
-## 📊 جدول تقدمك
-
-| التمرين | الموضوع | ✔️ حلّيته؟ |
-|---------|---------|:----------:|
-| 1 | كلمات المتجر — املأ الفراغ | ⬜ |
-| 2 | اختر kostet/kosten | ⬜ |
-| 3 | وصل الكلمات | ⬜ |
-| 4 | كتابة الأسعار بالألمانية | ⬜ |
-| 5 | ترجمة جمل | ⬜ |
-| 6 | ترتيب الجمل | ⬜ |
-| 7 | صح أم خطأ | ⬜ |
-| 8 | حوار في المتجر | ⬜ |
-| 9 | كتابة العكس | ⬜ |
-| 10 | كتابة جمل بنفسك | ⬜ |
-
-> 🎉 **أحسنت!** إذا حلّيت كل التمارين، فأنت مستعد تتسوق بالألماني في أي متجر!
-> 👉 روح للدرس الجاي: [Lektion 17: Arbeit](index.md)
-
----
-
-## 📚 القواعد المرتبطة
-
-<div class="grammar-links">
-  <a href="/grammatik/akkusativ/" class="grammar-btn">🇩🇪 Akkusativ (🎯)</a>
-  <a href="/grammatik/artikel/" class="grammar-btn">🇩🇪 Artikel (📦)</a>
-  <a href="/grammatik/plural/" class="grammar-btn">🇩🇪 Plural (🔢)</a>
-  <a href="/grammatik/satzbau/" class="grammar-btn">🇩🇪 Satzbau (🏗️)</a>
 </div>
-
-[🔙 رجوع إلى التمارين](index.md)
+---

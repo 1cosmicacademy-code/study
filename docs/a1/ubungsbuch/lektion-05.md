@@ -6,6 +6,8 @@
 [🔙 رجوع إلى التمارين](index.md) · [📕 درس اليوم](../kursbuch/lektion-05.md)
 
 ---
+<div class="exercise" markdown="1" data-answers='["Montag","Dienstag","Mittwoch","Donnerstag","Freitag","Samstag","Sonntag","das Wochenende"]'>
+
 
 ## التمرين 1: أيام الأسبوع 🗓️
 
@@ -22,23 +24,10 @@
 | 7 | الأحد | **______________** |
 | 8 | عطلة نهاية الأسبوع | **______________** |
 
-✅ **الحل:**
-
-| # | بالعربية | بالألمانية |
-|---|---------|-----------|
-| 1 | الاثنين | **Montag** |
-| 2 | الثلاثاء | **Dienstag** |
-| 3 | الأربعاء | **Mittwoch** |
-| 4 | الخميس | **Donnerstag** |
-| 5 | الجمعة | **Freitag** |
-| 6 | السبت | **Samstag** |
-| 7 | الأحد | **Sonntag** |
-| 8 | عطلة نهاية الأسبوع | **das Wochenende** |
-
-> 💡 لاحظ: كل الأيام مذكّرة (der) ما عدا Mittwoch ينتهي بـ -och مش -tag.  
-> **Sonntag** = Sonne (شمس) + Tag (يوم) = يوم الشمس = الأحد!
-
+</div>
 ---
+<div class="exercise" markdown="1" data-answers='["Es ist acht Uhr.","Es ist neun Uhr fünf.","Es ist zehn Uhr fünfzehn.","Es ist zwölf Uhr dreißig.","Es ist drei Uhr fünfundvierzig.","Es ist sieben Uhr zwanzig.","Es ist sechs Uhr."]'>
+
 
 ## التمرين 2: كم الساعة؟ 🕐
 
@@ -54,22 +43,10 @@
 | 6 | 7:20 | **Es ist ________** |
 | 7 | 6:00 | **Es ist ________** |
 
-✅ **الحل:**
-
-| # | الوقت | بالألمانية |
-|---|------|-----------|
-| 1 | 8:00 | **Es ist acht Uhr.** |
-| 2 | 9:05 | **Es ist neun Uhr fünf.** |
-| 3 | 10:15 | **Es ist zehn Uhr fünfzehn.** |
-| 4 | 12:30 | **Es ist zwölf Uhr dreißig.** |
-| 5 | 3:45 | **Es ist drei Uhr fünfundvierzig.** |
-| 6 | 7:20 | **Es ist sieben Uhr zwanzig.** |
-| 7 | 6:00 | **Es ist sechs Uhr.** |
-
-> 💡 **الطريقة:** تقول **Es ist [ساعة] Uhr [دقيقة]**.
-> مثال: Es ist drei Uhr fünfundvierzig = 3:45
-
+</div>
 ---
+<div class="exercise" markdown="1" data-answers='["habe","hast","hat","haben","habt","haben","haben","Hast"]'>
+
 
 ## التمرين 3: املأ الفراغ — haben 🖊️
 
@@ -86,20 +63,10 @@
 | 7 | Sie (plural) ________ ein Haus. (have) | **________** |
 | 8 | ________ du am Samstag Zeit? (Have) | **________** |
 
-✅ **الحل:**
-
-| # | الجملة | التصريف الصحيح | القاعدة |
-|---|--------|---------------|---------|
-| 1 | Ich **habe** einen Hund. | **habe** | مع ich = habe |
-| 2 | Du **hast** ein Buch. | **hast** | مع du = hast |
-| 3 | Er **hat** eine Schwester. | **hat** | مع er/sie/es = hat (بدون b!) |
-| 4 | Wir **haben** heute Zeit. | **haben** | مع wir = haben |
-| 5 | Ihr **habt** eine Frage? | **habt** | مع ihr = habt |
-| 6 | Sie (form.) **haben** einen Termin. | **haben** | مع Sie (رسمي) = haben |
-| 7 | Sie (pl.) **haben** ein Haus. | **haben** | مع sie (جمع) = haben |
-| 8 | **Hast** du am Samstag Zeit? | **Hast** | السؤال مع du = Hast du...? |
-
+</div>
 ---
+<div class="exercise" markdown="1" data-answers='["stehe ... auf","sieht ... fern","kaufen ... ein","Kommst ... mit","mache ... auf","macht ... zu"]'>
+
 
 ## التمرين 4: الأفعال المنفصلة 🔄
 
@@ -114,20 +81,10 @@
 | 4 | **aufmachen** (يفتح) | Ich _________ das Fenster _________ |
 | 5 | **zumachen** (يقفل) | Sie _________ die Tür _________ |
 
-✅ **الحل:**
-
-| # | المصدر | الجملة الكاملة | الترجمة |
-|---|--------|---------------|---------|
-| 0 | aufstehen | Ich **stehe** um 7 Uhr **auf**. | أنا أقوم الساعة 7. |
-| 1 | fernsehen | Er **sieht** abends **fern**. | هو يتفرج تلفزيون بالمساء. |
-| 2 | einkaufen | Wir **kaufen** am Samstag **ein**. | نحن نتسوق يوم السبت. |
-| 3 | mitkommen | **Kommst** du **mit**? | هل تجي مع؟ |
-| 4 | aufmachen | Ich **mache** das Fenster **auf**. | أنا أفتح الشباك. |
-| 5 | zumachen | Sie **macht** die Tür **zu**. | هي تقفل الباب. |
-
-> 🧠 **القاعدة الذهبية:** الفعل يتصرف بشكل طبيعي في مكانه الثاني ← البادئة (auf-, ein-, fern-, mit-, zu-) تروح آخر الجملة!
-
+</div>
 ---
+<div class="exercise" markdown="1" data-answers='["أ","أ","ب","ب","أ","ج","أ","ب"]' data-type="choice">
+
 
 ## التمرين 5: اختر الإجابة الصحيحة 🎯
 
@@ -144,20 +101,10 @@
 | 7 | Um wie viel Uhr __________ der Kurs? | **beginnt** | beginnst | beginnen |
 | 8 | __________ ihr Zeit? | Hast | **Habt** | Hat |
 
-✅ **الحل:**
-
-| # | الإجابة | الشرح |
-|---|---------|-------|
-| 1 | **أ (stehe)** — Ich stehe auf | الفعل المنفصل: ich stehe ... auf |
-| 2 | **أ (machst)** — Was machst du? | du + machen = machst |
-| 3 | **ب (Spielst)** — Spielst du? | du + spielen = spielst |
-| 4 | **ب (hat)** — Er hat | er + haben = hat (شاذ!) |
-| 5 | **أ (höre)** — Ich höre | ich + hören = höre |
-| 6 | **ج (haben)** — Wir haben | wir + haben = haben |
-| 7 | **أ (beginnt)** — Der Kurs beginnt | er (der Kurs) + beginnen = beginnt |
-| 8 | **ب (Habt)** — Habt ihr? | ihr + haben = habt |
-
+</div>
 ---
+<div class="exercise" markdown="1" data-answers='["د","أ","ب","ج","و","ه","ح","ز"]' data-type="match">
+
 
 ## التمرين 6: صِل (Match) 🔗
 
@@ -174,20 +121,10 @@
 | 7. **fernsehen** | ز. يركب دراجة |
 | 8. **Fahrrad fahren** | ح. يتفرج على تلفزيون |
 
-✅ **الحل:**
-
-| # | الإجابة |
-|---|---------|
-| 1 | **د** — Fußball spielen = يلعب كرة قدم |
-| 2 | **أ** — Musik hören = يسمع موسيقى |
-| 3 | **ب** — lesen = يقرأ |
-| 4 | **ج** — schwimmen = يسبح |
-| 5 | **و** — Freunde treffen = يقابل الأصدقاء |
-| 6 | **ه** — Kino gehen = يروح السينما |
-| 7 | **ح** — fernsehen = يتفرج على تلفزيون |
-| 8 | **ز** — Fahrrad fahren = يركب دراجة |
-
+</div>
 ---
+<div class="exercise" markdown="1" data-answers='["Ich stehe um 7 Uhr auf.","Spielst du gern Fußball?","Wir haben heute Zeit.","Was machst du in der Freizeit?","Er hat eine Schwester.","Er sieht abends fern.","Ich gehe um 10 Uhr schlafen.","Wir kaufen am Samstag ein."]'>
+
 
 ## التمرين 7: رتب الجملة 🧩
 
@@ -204,22 +141,10 @@
 | 7 | um 10 Uhr / schlafen / gehe / ich | **______________** |
 | 8 | am Samstag / kaufen / wir / ein | **______________** |
 
-✅ **الحل:**
-
-| # | الجملة الصحيحة | الترجمة |
-|---|-----------------|---------|
-| 1 | **Ich stehe um 7 Uhr auf.** | أنا أقوم الساعة 7. |
-| 2 | **Spielst du gern Fußball?** | هل تحب تلعب كرة قدم؟ |
-| 3 | **Wir haben heute Zeit.** | عندنا وقت اليوم. |
-| 4 | **Was machst du in der Freizeit?** | شنو تسوي في وقت الفراغ؟ |
-| 5 | **Er hat eine Schwester.** | عنده أخت. |
-| 6 | **Er sieht abends fern.** | هو يتفرج تلفزيون بالمساء. |
-| 7 | **Ich gehe um 10 Uhr schlafen.** | أنام الساعة 10. |
-| 8 | **Wir kaufen am Samstag ein.** | نتسوق يوم السبت. |
-
-> 🧠 **تذكر ترتيب الجملة الألماني:** الفعل في المكان الثاني!
-
+</div>
 ---
+<div class="exercise" markdown="1" data-answers='["Es ist sieben Uhr.","Ich stehe um 6 Uhr auf.","Ich habe eine Schwester.","Spielst du gern Fußball?","Ich höre Musik.","Was machst du in der Freizeit?","Heute ist Montag.","Am Wochenende habe ich Zeit."]'>
+
 
 ## التمرين 8: ترجم 🌍
 
@@ -236,20 +161,10 @@
 | 7 | اليوم الاثنين. | **______________** |
 | 8 | عطلة نهاية الأسبوع عندي وقت. | **______________** |
 
-✅ **الحل:**
-
-| # | العربية | الألمانية | ملاحظات |
-|---|---------|-----------|---------|
-| 1 | الساعة 7:00. | **Es ist sieben Uhr.** | Es ist + ساعة + Uhr |
-| 2 | أنا أقوم الساعة 6. | **Ich stehe um 6 Uhr auf.** | aufstehen = فعل منفصل! stehe ... auf |
-| 3 | عندي أخت. | **Ich habe eine Schwester.** | haben مع ich = habe |
-| 4 | هل تحب تلعب كرة قدم؟ | **Spielst du gern Fußball?** | gern = أحب / du + spielen = spielst |
-| 5 | أنا أسمع موسيقى. | **Ich höre Musik.** | hören = يسمع |
-| 6 | ماذا تفعل في وقت الفراغ؟ | **Was machst du in der Freizeit?** | Freizeit = وقت الفراغ |
-| 7 | اليوم الاثنين. | **Heute ist Montag.** | اليوم + ist + اليوم |
-| 8 | عطلة نهاية الأسبوع عندي وقت. | **Am Wochenende habe ich Zeit.** | am Wochenende = في عطلة نهاية الأسبوع |
-
+</div>
 ---
+<div class="exercise" markdown="1" data-answers='["✅","✅","✅","✅","✅","❌","✅","✅"]'>
+
 
 ## التمرين 9: صح أم خطأ؟ ✅❌
 
@@ -266,19 +181,7 @@
 | 7 | Heute ist Samstag. — صحيح (إذا اليوم سبت) | ________ |
 | 8 | Was machst du in der Freizeit? — صحيح | ________ |
 
-✅ **الحل:**
-
-| # | الجملة | ✅ / ❌ | السبب |
-|---|--------|:------:|-------|
-| 1 | Ich habe einen Hund. | **✅** | haben + ich = habe (صح) |
-| 2 | Du hast eine Katze. — خطأ (الصحيح: Du habst) | **✅** خطأ في السؤال | الجملة الأصلية **صحيحة**! Du hast هو الصح. "habst" خطأ! |
-| 3 | Er hat um 8 Uhr Unterricht. | **✅** | er + haben = hat (صح) |
-| 4 | Wir haben am Montag frei. — خطأ (الصحيح: Wir habt) | **✅** خطأ في السؤال | Wir haben هو الصح! Wir habt خطأ. |
-| 5 | Siehst du gern fern? | **✅** | fernsehen = فعل منفصل، sieht ... fern مع du = siehst ... fern |
-| 6 | Ich stehst um 7 Uhr auf. | **❌** | الصح: Ich **stehe** ... auf (مع ich = stehe!) |
-| 7 | Heute ist Samstag. (إذا اليوم سبت) | **✅** | Heute ist Samstag = اليوم السبت (صح) |
-| 8 | Was machst du in der Freizeit? | **✅** | machst + du = صح |
-
+</div>
 ---
 
 ## التمرين 10: اكتب عن يومك ✍️

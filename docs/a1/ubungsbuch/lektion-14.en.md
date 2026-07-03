@@ -9,6 +9,7 @@
 
 **Choose the correct word from the list:** (krank — Fieber — Arzt — Husten — Kopfschmerzen)
 
+<div class="exercise" markdown="1" data-answers='["krank", "Fieber", "Arzt", "Husten", "Kopfschmerzen"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
 | 1 | Ich bin ___. (I am sick) | **______** |
@@ -17,22 +18,13 @@
 | 4 | Ich habe ___. (I have a cough) | **______** |
 | 5 | Ich habe ___. (I have a headache) | **______** |
 
-✅ **Answers:**
-
-| # | Answer |
-|---|--------|
-| 1 | **krank** — Ich bin **krank**. |
-| 2 | **Fieber** — Ich habe **Fieber**. |
-| 3 | **Arzt** — Ich muss zum **Arzt** gehen. |
-| 4 | **Husten** — Ich habe **Husten**. |
-| 5 | **Kopfschmerzen** — Ich habe **Kopfschmerzen**. |
-
+</div>
 ---
-
 ## Exercise 2: Choose the correct answer 🔘
 
 **Choose a, b or c:**
 
+<div class="exercise" markdown="1" data-type="choice" data-answers='["b", "a", "b", "a", "b", "b", "c", "a"]'>
 1. ___ tut der Kopf weh.
    - a) Ich
    - b) Mir
@@ -73,25 +65,13 @@
    - b) Krankmeldung
    - c) Sprechstunde
 
-✅ **Answers:**
-
-| # | Answer | Explanation |
-|---|--------|-------------|
-| 1 | **b** | Mir tut der Kopf weh = My head hurts (Dativ) |
-| 2 | **a** | Halsschmerzen = sore throat |
-| 3 | **b** | Ich **bin** krank (to be) + Ich **habe** Fieber (to have) |
-| 4 | **a** | Mir tun die Beine weh (Dativ + plural) |
-| 5 | **b** | Ich **kann** nicht arbeiten = I cannot work |
-| 6 | **b** | krankschreiben = to write a sick note |
-| 7 | **c** | Ich **muss** zum Arzt = I must go to the doctor |
-| 8 | **a** | die **Krankschreibung** = the sick certificate |
-
+</div>
 ---
-
 ## Exercise 3: Match 🔗
 
 **Match the German sentence with the correct English translation:**
 
+<div class="exercise" markdown="1" data-type="match" data-answers='["C", "A", "G", "B", "E", "D", "F", "H"]'>
 | # | Deutsch | # | English |
 |---|---------|---|---------|
 | 1 | Ich bin krank. | A | I have a fever. |
@@ -103,11 +83,8 @@
 | 7 | Hier ist die Krankschreibung. | G | My head hurts. |
 | 8 | Bleib zu Hause und ruh dich aus! | H | Stay at home and rest! |
 
-✅ **Answers:**
-1 ← **C**, 2 ← **A**, 3 ← **G**, 4 ← **B**, 5 ← **E**, 6 ← **D**, 7 ← **F**, 8 ← **H**
-
+</div>
 ---
-
 ## Exercise 4: Put the words in order 🔄
 
 **Arrange the words to make a correct German sentence:**
@@ -136,23 +113,11 @@
 8. Hause / Ich / zu / muss / bleiben
    **→** _______________________________
 
-✅ **Answers:**
-
-1. **Ich bin krank.**
-2. **Ich habe Fieber.**
-3. **Mir tut der Kopf weh.**
-4. **Ich muss zum Arzt gehen.**
-5. **Ich kann heute nicht kommen.**
-6. **Hier ist die Krankschreibung.**
-7. **Mir tun die Augen weh.**
-8. **Ich muss zu Hause bleiben.**
-
----
-
 ## Exercise 5: Translate into German 🌐
 
 **Translate these sentences into German:**
 
+<div class="exercise" markdown="1" data-answers='["Ich bin krank.", "Ich habe Fieber.", "Mir tut der Kopf weh.", "Ich habe Halsschmerzen.", "Ich kann heute nicht kommen.", "Ich muss zu Hause bleiben.", "Ich habe Husten und Schnupfen.", "Danke, Herr Doktor!"]'>
 | # | English | German |
 |---|---------|--------|
 | 1 | I am sick. | **__________________** |
@@ -164,25 +129,13 @@
 | 7 | I have a cough and a cold. | **__________________** |
 | 8 | Thank you, doctor! | **__________________** |
 
-✅ **Answers:**
-
-| # | German |
-|---|--------|
-| 1 | **Ich bin krank.** |
-| 2 | **Ich habe Fieber.** |
-| 3 | **Mir tut der Kopf weh.** |
-| 4 | **Ich habe Halsschmerzen.** |
-| 5 | **Ich kann heute nicht kommen.** |
-| 6 | **Ich muss zu Hause bleiben.** |
-| 7 | **Ich habe Husten und Schnupfen.** |
-| 8 | **Danke, Herr Doktor!** |
-
+</div>
 ---
-
 ## Exercise 6: Find and correct the mistake ❌🔧
 
 **Each sentence has one mistake. Find it and correct it:**
 
+<div class="exercise" markdown="1" data-answers='["Ich bin krank.", "Mir", "Ich habe Kopfschmerzen.", "Ich kann heute nicht kommen.", "Mir", "Ich habe Fieber.", "Die Ärztin schreibt mich krank.", "Mir tut"]'>
 | # | Wrong sentence | Correction |
 |---|----------------|------------|
 | 1 | Ich **habe** krank. | **__________________** |
@@ -194,21 +147,8 @@
 | 7 | Die Ärztin schreibt mich **gesund**. | **__________________** |
 | 8 | **Mir tun** der Hals weh. | **__________________** |
 
-✅ **Answers:**
-
-| # | Correction | Explanation |
-|---|------------|-------------|
-| 1 | **Ich bin krank.** | krank **sein** = to be sick, we use **bin** (to be) |
-| 2 | **Mir** tut der Kopf weh. | **Mir** (Dativ) = to me, not Ich (Nominativ) |
-| 3 | **Ich habe Kopfschmerzen.** | Correct form is **Kopfschmerzen** (plural), not Kopfweh |
-| 4 | **Ich kann heute nicht kommen.** | **kann nicht** = cannot, **muss** = must/have to |
-| 5 | **Mir** tut der Bauch weh. | We use **Mir** (Dativ), not Mein (my) |
-| 6 | **Ich habe Fieber.** | **haben** with symptoms, not sein |
-| 7 | **Die Ärztin schreibt mich krank.** | **krankschreiben** = to give a sick note |
-| 8 | **Mir tut** der Hals weh. | der Hals (singular) → **tut** (singular), not **tun** (plural) |
-
+</div>
 ---
-
 ## Exercise 7: Read and choose (short text) 📖
 
 **Read the text and answer the questions:**
@@ -221,6 +161,7 @@
 
 **Choose Richtig (True) or Falsch (False):**
 
+<div class="exercise" markdown="1" data-type="choice" data-answers='["False (Falsch)", "True (Richtig)", "False (Falsch)", "True (Richtig)", "False (Falsch)", "True (Richtig)", "False (Falsch)", "True (Richtig)"]'>
 | # | Statement | True | False |
 |---|-----------|:----:|:-----:|
 | 1 | Tom is healthy. | ○ | ○ |
@@ -232,25 +173,13 @@
 | 7 | Tom drinks coffee at home. | ○ | ○ |
 | 8 | After five days Tom is healthy again. | ○ | ○ |
 
-✅ **Answers:**
-
-| # | Answer | Explanation |
-|---|--------|-------------|
-| 1 | **False (Falsch)** — Tom says: "Ich bin **krank**" (sick), not healthy. |
-| 2 | **True (Richtig)** — Text: "Ich habe Fieber und Kopfschmerzen." |
-| 3 | **False (Falsch)** — Text: "Ich habe einen Termin **um 10 Uhr**" (at 10). 9 o'clock is when the practice opens. |
-| 4 | **True (Richtig)** — Text: "Der Arzt heißt Dr. Weber." |
-| 5 | **False (Falsch)** — Text: "Ich schreibe Sie krank **für fünf Tage**" (five days), not three. |
-| 6 | **True (Richtig)** — Text: "Bleiben Sie zu Hause..." |
-| 7 | **False (Falsch)** — Text: "trinke **Tee**" (tea), not coffee. |
-| 8 | **True (Richtig)** — Text: "Nach fünf Tage bin ich wieder **gesund**." |
-
+</div>
 ---
-
 ## Exercise 8: Write the correct sentence with "weh tun" ✍️
 
 **Write a complete sentence using "Mir tut / Mir tun ... weh":**
 
+<div class="exercise" markdown="1" data-answers='["Mir tut der Kopf weh.", "Mir tut der Hals weh.", "Mir tut der Bauch weh.", "Mir tut der Rücken weh.", "Mir tun die Augen weh.", "Mir tun die Beine weh.", "Mir tun die Arme weh.", "Mir tun die Füße weh."]'>
 | # | Body part | Full sentence |
 |---|-----------|---------------|
 | 1 | der Kopf | **________________________** |
@@ -262,21 +191,8 @@
 | 7 | die Arme | **________________________** |
 | 8 | die Füße (feet) | **________________________** |
 
-✅ **Answers:**
-
-| # | Full sentence |
-|---|---------------|
-| 1 | **Mir tut der Kopf weh.** |
-| 2 | **Mir tut der Hals weh.** |
-| 3 | **Mir tut der Bauch weh.** |
-| 4 | **Mir tut der Rücken weh.** |
-| 5 | **Mir tun die Augen weh.** |
-| 6 | **Mir tun die Beine weh.** |
-| 7 | **Mir tun die Arme weh.** |
-| 8 | **Mir tun die Füße weh.** |
-
+</div>
 ---
-
 ## Exercise 9: Complete the dialogue 🗣️
 
 **Complete the dialogue between the doctor (Arzt) and the patient (Patient) with the correct words:**
@@ -290,35 +206,11 @@
 **Arzt:** Okay. Ich ___ (6) Sie krank für drei Tage. Hier ist die ___ (7).
 **Patient:** Danke ___ (8)!
 
-✅ **Answers:**
-
-| # | Word |
-|---|------|
-| 1 | **fehlt** |
-| 2 | **geht** |
-| 3 | **Fieber** |
-| 4 | **Kopfschmerzen** |
-| 5 | **weh** |
-| 6 | **schreibe** |
-| 7 | **Krankschreibung** |
-| 8 | **schön** |
-
-**Complete dialogue:**
-> **Arzt:** Guten Tag! Was **fehlt** Ihnen?
-> **Patient:** Guten Tag, Herr Doktor. Mir **geht** es nicht gut.
-> **Arzt:** Haben Sie **Fieber**?
-> **Patient:** Ja, ich habe Fieber und **Kopfschmerzen**.
-> **Arzt:** Tut Ihnen der Hals **weh**?
-> **Patient:** Ja, mir tut der Hals weh.
-> **Arzt:** Okay. Ich **schreibe** Sie krank für drei Tage. Hier ist die **Krankschreibung**.
-> **Patient:** Danke **schön**!
-
----
-
 ## Exercise 10: What do you say in these situations? 🎭
 
 **Write what you say in German in each situation:**
 
+<div class="exercise" markdown="1" data-answers='["Ich bin krank.", "Ich habe Fieber.", "Mir tut der Kopf weh.", "Ich muss zum Arzt gehen.", "Ich kann heute nicht kommen.", "Ich habe Husten und Schnupfen.", "Können Sie mich krankschreiben?", "Danke, Herr Doktor!"]'>
 | # | Situation | What do you say in German? |
 |---|-----------|---------------------------|
 | 1 | You want to say you are sick | **________________________** |
@@ -330,31 +222,5 @@
 | 7 | You want to ask for a sick note | **________________________** |
 | 8 | You want to thank the doctor | **________________________** |
 
-✅ **Answers (example — your answer may vary slightly):**
-
-| # | German |
-|---|--------|
-| 1 | **Ich bin krank.** |
-| 2 | **Ich habe Fieber.** |
-| 3 | **Mir tut der Kopf weh.** |
-| 4 | **Ich muss zum Arzt gehen.** |
-| 5 | **Ich kann heute nicht kommen.** |
-| 6 | **Ich habe Husten und Schnupfen.** |
-| 7 | **Können Sie mich krankschreiben?** (Can you give me a sick note?) |
-| 8 | **Danke, Herr Doktor!** |
-
----
-
-🎉 **Well done!** Now you can talk about being sick and sick leave in German! Get well soon and stay healthy! 💪
-
----
-
-## 📚 Related Grammar
-
-<div class="grammar-links">
-  <a href="/grammatik/perfekt/" class="grammar-btn">🇩🇪 Perfekt ✅</a>
-  <a href="/grammatik/prateritum/" class="grammar-btn">🇩🇪 Präteritum 📜</a>
-  <a href="/grammatik/temporal-lokal-angaben/" class="grammar-btn">🇩🇪 Temporal- und Lokalangaben ⏰</a>
 </div>
-
-[🔙 Back to A1 Level](../index.md) • [📕 Exercise Book](index.md)
+---

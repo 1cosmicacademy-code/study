@@ -11,6 +11,8 @@
 
 > feiern 🎉 | schenken 🎁 | einladen 💌 | gratulieren 🎊 | wünschen ✨
 
+<div class="exercise" data-type="choice" markdown="1" data-answers='["feiere", "lade ... ein", "schenke", "wünsche", "gratuliere"]'>
+
 | # | الجملة | الكلمة المناسبة |
 |---|--------|----------------|
 | 1. Ich ___________ meinen Geburtstag. (احتفل) | _______________ |
@@ -19,21 +21,13 @@
 | 4. Ich ___________ dir alles Gute. (أتمنى) | _______________ |
 | 5. Ich ___________ dir zum Geburtstag. (أهنئك) | _______________ |
 
-✅ **الحل:**
-
-| # | الإجابة | الشرح |
-|---|---------|-------|
-| 1 | **feiere** | feiern = يحتفل — ich feiere |
-| 2 | **lade ... ein** | einladen = يدعو — ich lade ein |
-| 3 | **schenke** | schenken = يهدي — ich schenke |
-| 4 | **wünsche** | wünschen = يتمنى — ich wünsche |
-| 5 | **gratuliere** | gratulieren = يهنئ — ich gratuliere |
-
----
+</div>
 
 ## التمرين 2: صِل (Match) 🔗
 
 **صِل العيد الألماني بالترجمة العربية:**
+
+<div class="exercise" data-type="match" markdown="1" data-answers='["ج", "د", "أ", "ه", "ب"]'>
 
 | الألمانية | العربية |
 |-----------|---------|
@@ -43,23 +37,15 @@
 | 4. Neujahr | د. عيد الفصح |
 | 5. der Geburtstag | ه. السنة الجديدة |
 
-✅ **الحل:**
-
-| # | الإجابة | الشرح |
-|---|---------|-------|
-| 1 | **ج** — Weihnachten = الكريسماس (عيد الميلاد المسيحي) |
-| 2 | **د** — Ostern = عيد الفصح (عيد البيض والأرانب) |
-| 3 | **أ** — Silvester = رأس السنة (31 ديسمبر) |
-| 4 | **ه** — Neujahr = السنة الجديدة (1 يناير) |
-| 5 | **ب** — der Geburtstag = عيد الميلاد (كل شخص له تاريخ) |
-
----
+</div>
 
 ## التمرين 3: املأ الفراغ بالتهنئة المناسبة 🎉
 
 **اختر التهنئة المناسبة للموقف:**
 
 > Herzlichen Glückwunsch 🎂 | Frohe Weihnachten 🎄 | Guten Rutsch ins neue Jahr 🎆 | Frohe Ostern 🐣 | Alles Gute zum Geburtstag 🎈
+
+<div class="exercise" data-type="choice" markdown="1" data-answers='["Alles Gute zum Geburtstag!", "Frohe Weihnachten!", "Guten Rutsch ins neue Jahr!", "Frohe Ostern!", "Alles Gute zum Geburtstag!"]'>
 
 | # | الموقف | التهنئة المناسبة |
 |---|--------|----------------|
@@ -69,21 +55,13 @@
 | 4. الربيع — عيد الفصح | _______________ |
 | 5. صديقتك عندها عيد ميلاد — تهنئة رسمية حلوة | _______________ |
 
-✅ **الحل:**
-
-| # | الإجابة | الشرح |
-|---|---------|-------|
-| 1 | **Alles Gute zum Geburtstag!** أو **Herzlichen Glückwunsch!** | أي تهنئة عيد ميلاد تنفع |
-| 2 | **Frohe Weihnachten!** | الكريسماس 24-26 ديسمبر |
-| 3 | **Guten Rutsch ins neue Jahr!** | ليلة رأس السنة |
-| 4 | **Frohe Ostern!** | عيد الفصح في الربيع |
-| 5 | **Alles Gute zum Geburtstag!** | تهنئة جميلة ورسمية لعيد الميلاد |
-
----
+</div>
 
 ## التمرين 4: اختر الإجابة الصحيحة 🎯
 
 **اختر أ أو ب أو ج:**
+
+<div class="exercise" data-type="choice" markdown="1" data-answers='["أ (lade)", "ب (hast)", "ج (bekommt)", "ب (feiern)", "ب (tanzt)", "ج (singen)"]'>
 
 | # | الجملة | أ | ب | ج |
 |---|--------|---|---|---|
@@ -94,22 +72,13 @@
 | 5 | Ihr ___________ auf der Party. | tanze | tanzt | tanzen |
 | 6 | Sie (جمع) ___________ zusammen. | singe | singst | singen |
 
-✅ **الحل:**
-
-| # | الإجابة | الشرح |
-|---|---------|-------|
-| 1 | **أ (lade)** — Ich lade ... ein | einladen مع ich = lade ein |
-| 2 | **ب (hast)** — Du hast Geburtstag | haben مع du = hast |
-| 3 | **ج (bekommt)** — Er bekommt | bekommen مع er = bekommt |
-| 4 | **ب (feiern)** — Wir feiern | feiern مع wir = feiern |
-| 5 | **ب (tanzt)** — Ihr tanzt | tanzen مع ihr = tanzt |
-| 6 | **ج (singen)** — Sie singen | singen مع sie (جمع) = singen |
-
----
+</div>
 
 ## التمرين 5: رتّب الكلمات لتكوّن جملة 🧩
 
 **رتّب الكلمات لتكون جملة صحيحة:**
+
+<div class="exercise" markdown="1" data-answers='["Ich feiere meinen Geburtstag.", "Kommst du zur Party?", "Ich lade dich ein.", "Ich schenke dir eine Blume.", "Ich wünsche dir alles Gute."]'>
 
 | # | الكلمات | الجملة الصحيحة |
 |---|---------|----------------|
@@ -119,21 +88,11 @@
 | 4 | schenke / ich / dir / eine Blume | _______________ |
 | 5 | wünsche / ich / dir / alles Gute | _______________ |
 
-✅ **الحل:**
-
-| # | الجملة الصحيحة | الترجمة |
-|---|-----------------|---------|
-| 1 | **Ich feiere meinen Geburtstag.** | أحتفل بعيد ميلادي. |
-| 2 | **Kommst du zur Party?** | هل ستأتي للحفلة؟ |
-| 3 | **Ich lade dich ein.** | أدعوك. |
-| 4 | **Ich schenke dir eine Blume.** | أهديك زهرة. |
-| 5 | **Ich wünsche dir alles Gute.** | أتمنى لك كل الخير. |
-
-**تذكير:** في الألمانية، الفعل دائماً في **المكان الثاني**!
-
----
+</div>
 
 ## التمرين 6: ترجم من العربية إلى الألمانية 🌍
+
+<div class="exercise" markdown="1" data-answers='["Mein Geburtstag ist im Januar.", "Hast du im März Geburtstag?", "Ich lade dich zu meiner Party ein!", "Ich wünsche dir alles Gute zum Geburtstag!", "Wir feiern Weihnachten zu Hause.", "Meine Schwester schenkt mir eine Blume."]'>
 
 | # | العربية | الألمانية |
 |---|---------|-----------|
@@ -144,22 +103,13 @@
 | 5 | نحتفل بالكريسماس في البيت. | _______________ |
 | 6 | أختي تهديني زهرة. | _______________ |
 
-✅ **الحل:**
-
-| # | الألمانية | ملاحظات |
-|---|-----------|---------|
-| 1 | **Mein Geburtstag ist im Januar.** | Im = in + dem (في الشهر) |
-| 2 | **Hast du im März Geburtstag?** | Hast du = هل لديك |
-| 3 | **Ich lade dich zu meiner Party ein!** | zu meiner = إلى حفلتي |
-| 4 | **Ich wünsche dir alles Gute zum Geburtstag!** | التهنئة الكاملة لعيد الميلاد |
-| 5 | **Wir feiern Weihnachten zu Hause.** | zu Hause = في البيت |
-| 6 | **Meine Schwester schenkt mir eine Blume.** | Schwester = أخت / schenkt = تهدي |
-
----
+</div>
 
 ## التمرين 7: صحح الخطأ ❌➡️✅
 
 **في كل جملة خطأ واحد. اكتب الجملة صحيحة:**
+
+<div class="exercise" markdown="1" data-answers='["Ich feiere meinen Geburtstag.", "Du schenkst mir ein Geschenk.", "Er lädt seine Freunde ein.", "Wir feiern Weihnachten.", "Ihr tanzt auf der Party.", "Sie singen zusammen."]'>
 
 | # | الجملة (بها خطأ) | الجملة الصحيحة |
 |---|-----------------|----------------|
@@ -170,22 +120,13 @@
 | 5 | Ihr tanzen auf der Party. | _______________ |
 | 6 | Sie (جمع) singt zusammen. | _______________ |
 
-✅ **الحل:**
-
-| # | الجملة الصحيحة | الشرح |
-|---|-----------------|-------|
-| 1 | **Ich feiere meinen Geburtstag.** | Ich + feiere (ليس feierst) |
-| 2 | **Du schenkst mir ein Geschenk.** | Du + schenkst (ليس schenke) |
-| 3 | **Er lädt seine Freunde ein.** | Er + lädt ein (ليس laden) |
-| 4 | **Wir feiern Weihnachten.** | Wir + feiern (ليس feiert) |
-| 5 | **Ihr tanzt auf der Party.** | Ihr + tanzt (ليس tanzen) |
-| 6 | **Sie singen zusammen.** | Sie (جمع) + singen (ليس singt) |
-
----
+</div>
 
 ## التمرين 8: ضع دائرة حول الكلمة المختلفة 🕵️
 
 **في كل مجموعة، كلمة واحدة مختلفة عن الباقي. ضع خط تحتها:**
+
+<div class="exercise" data-type="choice" markdown="1" data-answers='["Geschenk", "Geschenk", "Gast", "Party", "Party"]'>
 
 | # | المجموعة | الكلمة المختلفة |
 |---|----------|----------------|
@@ -195,17 +136,7 @@
 | 4 | wünschen — schenken — gratulieren — Party | _______________ |
 | 5 | Januar — März — Party — Dezember | _______________ |
 
-✅ **الحل:**
-
-| # | الإجابة | الشرح |
-|---|---------|-------|
-| 1 | **Geschenk** | الباقي أسماء أعياد، Geschenk = هدية |
-| 2 | **Geschenk** | الباقي أفعال، Geschenk = اسم (هدية) |
-| 3 | **Gast** | الباقي أشياء موجودة في الحفلة، Gast = شخص |
-| 4 | **Party** | الباقي أفعال، Party = اسم (حفلة) |
-| 5 | **Party** | الباقي شهور، Party = حفلة (ليست شهراً) |
-
----
+</div>
 
 ## التمرين 9: اكتب الحوار ✍️
 
@@ -246,6 +177,8 @@
 
 ## التمرين 10: اربط السؤال بالجواب 🔗
 
+<div class="exercise" data-type="match" markdown="1" data-answers='["ج", "أ", "د", "ه", "ب"]'>
+
 | # | السؤال | الجواب | الإجابة |
 |---|--------|--------|---------|
 | 1 | Wann hast du Geburtstag? | أ. Ja, gerne! | 1 → ____ |
@@ -254,17 +187,7 @@
 | 4 | Was wünschst du dir? | د. Ich schenke dir eine Blume. | 4 → ____ |
 | 5 | Herzlichen Glückwunsch! | ه. Ich wünsche mir Blumen. | 5 → ____ |
 
-✅ **الحل:**
-
-| # | الإجابة | الشرح |
-|---|---------|-------|
-| 1 | **ج** — Am 15. März. | سؤال "متى" → جواب بتاريخ |
-| 2 | **أ** — Ja, gerne! | سؤال "هل ستأتي؟" → جواب بنعم |
-| 3 | **د** — Ich schenke dir eine Blume. | سؤال "ماذا تهدي؟" → جواب بهدية |
-| 4 | **ه** — Ich wünsche mir Blumen. | سؤال "ماذا تتمنى؟" → جواب بأمنية |
-| 5 | **ب** — Ich wünsche dir alles Gute! | تهنئة → رد بتهنئة |
-
----
+</div>
 
 ## 📊 جدول تقدمك
 

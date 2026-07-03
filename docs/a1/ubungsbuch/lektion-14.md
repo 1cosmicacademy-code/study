@@ -9,6 +9,7 @@
 
 **اختر الكلمة الصحيحة من القائمة:** (krank — Fieber — Arzt — Husten — Kopfschmerzen)
 
+<div class="exercise" markdown="1" data-answers='["krank", "Fieber", "Arzt", "Husten", "Kopfschmerzen"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
 | 1 | Ich bin ___. (أنا مريض) | **______** |
@@ -17,22 +18,13 @@
 | 4 | Ich habe ___. (عندي سعال) | **______** |
 | 5 | Ich habe ___. (عندي صداع) | **______** |
 
-✅ **الحل:**
-
-| # | الإجابة |
-|---|---------|
-| 1 | **krank** — Ich bin **krank**. |
-| 2 | **Fieber** — Ich habe **Fieber**. |
-| 3 | **Arzt** — Ich muss zum **Arzt** gehen. |
-| 4 | **Husten** — Ich habe **Husten**. |
-| 5 | **Kopfschmerzen** — Ich habe **Kopfschmerzen**. |
-
+</div>
 ---
-
 ## التمرين 2: اختر الإجابة الصحيحة 🔘
 
 **اختر a, b أو c:**
 
+<div class="exercise" markdown="1" data-type="choice" data-answers='["b", "a", "b", "a", "b", "b", "c", "a"]'>
 1. ___ tut der Kopf weh.
    - a) Ich
    - b) Mir
@@ -73,25 +65,13 @@
    - b) Krankmeldung
    - c) Sprechstunde
 
-✅ **الحل:**
-
-| # | الإجابة | الشرح |
-|---|---------|-------|
-| 1 | **b** | Mir tut der Kopf weh = رأسي يؤلمني (Dativ) |
-| 2 | **a** | Halsschmerzen = ألم في الحلق |
-| 3 | **b** | Ich **bin** krank + Ich **habe** Fieber |
-| 4 | **a** | Mir tun die Beine weh (Dativ + جمع) |
-| 5 | **b** | Ich **kann** nicht arbeiten = لا أستطيع العمل |
-| 6 | **b** | krankschreiben = يكتب إجازة مرضية |
-| 7 | **c** | Ich **muss** zum Arzt = يجب أن أذهب |
-| 8 | **a** | die **Krankschreibung** = شهادة الإجازة المرضية |
-
+</div>
 ---
-
 ## التمرين 3: صِل (Match) 🔗
 
 **صِل الجملة الألمانية بالترجمة العربية الصحيحة:**
 
+<div class="exercise" markdown="1" data-type="match" data-answers='["ج", "أ", "ز", "ب", "ه", "د", "و", "ح"]'>
 | # | Deutsch | # | Arabisch |
 |---|---------|---|----------|
 | 1 | Ich bin krank. | أ | عندي حمى. |
@@ -103,11 +83,8 @@
 | 7 | Hier ist die Krankschreibung. | ز | رأسي يؤلمني. |
 | 8 | Bleib zu Hause und ruh dich aus! | ح | ابق في البيت واسترح! |
 
-✅ **الحل:**
-1 ← **ج**, 2 ← **أ**, 3 ← **ز**, 4 ← **ب**, 5 ← **ه**, 6 ← **د**, 7 ← **و**, 8 ← **ح**
-
+</div>
 ---
-
 ## التمرين 4: رتّب الكلمات لتكوين جملة صحيحة 🔄
 
 **رتب الكلمات لتكون جملة ألمانية صحيحة:**
@@ -136,23 +113,11 @@
 8. Hause / Ich / zu / muss / bleiben
    **→** _______________________________
 
-✅ **الحل:**
-
-1. **Ich bin krank.**
-2. **Ich habe Fieber.**
-3. **Mir tut der Kopf weh.**
-4. **Ich muss zum Arzt gehen.**
-5. **Ich kann heute nicht kommen.**
-6. **Hier ist die Krankschreibung.**
-7. **Mir tun die Augen weh.**
-8. **Ich muss zu Hause bleiben.**
-
----
-
 ## التمرين 5: ترجم إلى الألمانية 🌐
 
 **ترجم الجمل التالية إلى الألمانية:**
 
+<div class="exercise" markdown="1" data-answers='["Ich bin krank.", "Ich habe Fieber.", "Mir tut der Kopf weh.", "Ich habe Halsschmerzen.", "Ich kann heute nicht kommen.", "Ich muss zu Hause bleiben.", "Ich habe Husten und Schnupfen.", "Danke, Herr Doktor!"]'>
 | # | العربية | الألمانية |
 |---|---------|----------|
 | 1 | أنا مريض. | **__________________** |
@@ -164,25 +129,13 @@
 | 7 | عندي سعال وزكام. | **__________________** |
 | 8 | شكراً يا دكتور! | **__________________** |
 
-✅ **الحل:**
-
-| # | الألمانية |
-|---|----------|
-| 1 | **Ich bin krank.** |
-| 2 | **Ich habe Fieber.** |
-| 3 | **Mir tut der Kopf weh.** |
-| 4 | **Ich habe Halsschmerzen.** |
-| 5 | **Ich kann heute nicht kommen.** |
-| 6 | **Ich muss zu Hause bleiben.** |
-| 7 | **Ich habe Husten und Schnupfen.** |
-| 8 | **Danke, Herr Doktor!** |
-
+</div>
 ---
-
 ## التمرين 6: صحح الخطأ ❌🔧
 
 **في كل جملة خطأ واحد. ابحث عنه وصححه:**
 
+<div class="exercise" markdown="1" data-answers='["Ich bin krank.", "Mir", "Ich habe Kopfschmerzen.", "Ich kann heute nicht kommen.", "Mir", "Ich habe Fieber.", "Die Ärztin schreibt mich krank.", "Mir tut"]'>
 | # | الجملة الخطأ | التصحيح |
 |---|-------------|---------|
 | 1 | Ich **habe** krank. | **__________________** |
@@ -194,21 +147,8 @@
 | 7 | Die Ärztin schreibt mich **gesund**. | **__________________** |
 | 8 | **Mir tun** der Hals weh. | **__________________** |
 
-✅ **الحل:**
-
-| # | التصحيح | الشرح |
-|---|---------|-------|
-| 1 | **Ich bin krank.** | krank sein = يكون مريضاً، نستخدم **bin** (فعل يكون) |
-| 2 | **Mir** tut der Kopf weh. | **Mir** (Dativ) = لي / عندي، مش Ich (Nominativ) |
-| 3 | **Ich habe Kopfschmerzen.** | الصحيح Kopfschmerzen (جمع)، وليس Kopfweh (نادر الاستخدام) |
-| 4 | **Ich kann heute nicht kommen.** | **kann nicht** = لا أستطيع، **muss** = يجب / مضطر |
-| 5 | **Mir** tut der Bauch weh. | نستخدم **Mir** (Dativ) مش Mein |
-| 6 | **Ich habe Fieber.** | **haben** مع الأعراض، مش sein |
-| 7 | **Die Ärztin schreibt mich krank.** | **krankschreiben** = يكتب إجازة مرضية |
-| 8 | **Mir tut** der Hals weh. | der Hals (مفرد) → **tut** (مفرد)، مش **tun** (جمع) |
-
+</div>
 ---
-
 ## التمرين 7: اقرأ واختر (نص قصير) 📖
 
 **اقرأ النص ثم أجب عن الأسئلة:**
@@ -221,6 +161,7 @@
 
 **اختر صح (Richtig) أو خطأ (Falsch):**
 
+<div class="exercise" markdown="1" data-type="choice" data-answers='["خطأ (Falsch)", "صح (Richtig)", "خطأ (Falsch)", "صح (Richtig)", "خطأ (Falsch)", "صح (Richtig)", "خطأ (Falsch)", "صح (Richtig)"]'>
 | # | الجملة | صح | خطأ |
 |---|--------|:--:|:---:|
 | 1 | Tom ist gesund. | ○ | ○ |
@@ -232,25 +173,13 @@
 | 7 | Tom trinkt Kaffee zu Hause. | ○ | ○ |
 | 8 | Nach fünf Tagen ist Tom wieder gesund. | ○ | ○ |
 
-✅ **الحل:**
-
-| # | الإجابة | الشرح |
-|---|---------|-------|
-| 1 | **خطأ (Falsch)** — Tom sagt: "Ich bin **krank**" (مريض)، وليس gesund. |
-| 2 | **صح (Richtig)** — النص: "Ich habe Fieber und Kopfschmerzen." |
-| 3 | **خطأ (Falsch)** — النص: "Ich habe einen Termin **um 10 Uhr**." (وليس 9). الساعة 9 هي وقت فتح العيادة. |
-| 4 | **صح (Richtig)** — النص: "Der Arzt heißt Dr. Weber." |
-| 5 | **خطأ (Falsch)** — النص: "Ich schreibe Sie krank **für fünf Tage**." (خمسة أيام وليس ثلاثة). |
-| 6 | **صح (Richtig)** — النص: "Bleiben Sie zu Hause..." |
-| 7 | **خطأ (Falsch)** — النص: "trinke **Tee**" (شاي)، وليس Kaffee (قهوة). |
-| 8 | **صح (Richtig)** — النص: "Nach fünf Tage bin ich wieder **gesund**." |
-
+</div>
 ---
-
 ## التمرين 8: اكتب الجملة الصحيحة باستخدام "weh tun" ✍️
 
 **اكتب جملة كاملة باستخدام "Mir tut / Mir tun ... weh":**
 
+<div class="exercise" markdown="1" data-answers='["Mir tut der Kopf weh.", "Mir tut der Hals weh.", "Mir tut der Bauch weh.", "Mir tut der Rücken weh.", "Mir tun die Augen weh.", "Mir tun die Beine weh.", "Mir tun die Arme weh.", "Mir tun die Füße weh."]'>
 | # | الجزء من الجسم | الجملة الكاملة |
 |---|----------------|---------------|
 | 1 | der Kopf | **________________________** |
@@ -262,21 +191,8 @@
 | 7 | die Arme | **________________________** |
 | 8 | die Füße (أقدام) | **________________________** |
 
-✅ **الحل:**
-
-| # | الجملة الكاملة |
-|---|----------------|
-| 1 | **Mir tut der Kopf weh.** |
-| 2 | **Mir tut der Hals weh.** |
-| 3 | **Mir tut der Bauch weh.** |
-| 4 | **Mir tut der Rücken weh.** |
-| 5 | **Mir tun die Augen weh.** |
-| 6 | **Mir tun die Beine weh.** |
-| 7 | **Mir tun die Arme weh.** |
-| 8 | **Mir tun die Füße weh.** |
-
+</div>
 ---
-
 ## التمرين 9: أكمل الحوار 🗣️
 
 **أكمل الحوار بين الطبيب (Arzt) والمريض (Patient) بالكلمات المناسبة:**
@@ -290,35 +206,11 @@
 **Arzt:** Okay. Ich ___ (6) Sie krank für drei Tage. Hier ist die ___ (7).
 **Patient:** Danke ___ (8)!
 
-✅ **الحل:**
-
-| # | الكلمة |
-|---|--------|
-| 1 | **fehlt** |
-| 2 | **geht** |
-| 3 | **Fieber** |
-| 4 | **Kopfschmerzen** |
-| 5 | **weh** |
-| 6 | **schreibe** |
-| 7 | **Krankschreibung** |
-| 8 | **schön** |
-
-**الحوار الكامل:**
-> **Arzt:** Guten Tag! Was **fehlt** Ihnen?
-> **Patient:** Guten Tag, Herr Doktor. Mir **geht** es nicht gut.
-> **Arzt:** Haben Sie **Fieber**?
-> **Patient:** Ja, ich habe Fieber und **Kopfschmerzen**.
-> **Arzt:** Tut Ihnen der Hals **weh**?
-> **Patient:** Ja, mir tut der Hals weh.
-> **Arzt:** Okay. Ich **schreibe** Sie krank für drei Tage. Hier ist die **Krankschreibung**.
-> **Patient:** Danke **schön**!
-
----
-
 ## التمرين 10: ماذا تقول في هذه المواقف؟ 🎭
 
 **اكتب ماذا تقول بالألمانية في كل موقف:**
 
+<div class="exercise" markdown="1" data-answers='["Ich bin krank.", "Ich habe Fieber.", "Mir tut der Kopf weh.", "Ich muss zum Arzt gehen.", "Ich kann heute nicht kommen.", "Ich habe Husten und Schnupfen.", "Können Sie mich krankschreiben?", "Danke, Herr Doktor!"]'>
 | # | الموقف | ماذا تقول بالألمانية؟ |
 |---|--------|----------------------|
 | 1 | تريد أن تقول أنك مريض | **________________________** |
@@ -330,31 +222,5 @@
 | 7 | تريد أن تطلب شهادة إجازة مرضية | **________________________** |
 | 8 | تريد أن تشكر الدكتور | **________________________** |
 
-✅ **الحل (مثال — إجابتك قد تختلف قليلاً):**
-
-| # | الألمانية |
-|---|----------|
-| 1 | **Ich bin krank.** |
-| 2 | **Ich habe Fieber.** |
-| 3 | **Mir tut der Kopf weh.** |
-| 4 | **Ich muss zum Arzt gehen.** |
-| 5 | **Ich kann heute nicht kommen.** |
-| 6 | **Ich habe Husten und Schnupfen.** |
-| 7 | **Können Sie mich krankschreiben?** (هل يمكنكم كتابة إجازة مرضية لي؟) |
-| 8 | **Danke, Herr Doktor!** |
-
----
-
-🎉 **أحسنت!** الحين تقدر تتكلم عن المرض والإجازة المرضية في الألمانية! صحتك وربك يشفيك! 💪
-
----
-
-## 📚 القواعد المرتبطة
-
-<div class="grammar-links">
-  <a href="/grammatik/perfekt/" class="grammar-btn">🇩🇪 Perfekt ✅</a>
-  <a href="/grammatik/prateritum/" class="grammar-btn">🇩🇪 Präteritum 📜</a>
-  <a href="/grammatik/temporal-lokal-angaben/" class="grammar-btn">🇩🇪 Temporal- und Lokalangaben ⏰</a>
 </div>
-
-[🔙 العودة إلى المستوى A1](../index.md) • [📕 كتاب التمارين](index.md)
+---

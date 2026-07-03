@@ -4,6 +4,8 @@
 > 💡 **نصيحة:** حاول تحل التمارين بنفسك أولاً، بعدين شوف الحل!
 
 ---
+<div class="exercise" markdown="1" data-answers='["der Apfel","der Saft ... der Orangensaft","das Brot","die Milch","der Fisch","der Salat","der Kuchen","die Kartoffel","das Hähnchen","die Nudeln"]'>
+
 
 ## التمرين 1: املأ الفراغ — الطعام 🖊️
 
@@ -22,22 +24,10 @@
 | 9 | 🐔 طائر نأكل لحمه | **______________** |
 | 10 | 🍝 معكرونة إيطالية | **______________** |
 
-✅ **الحل:**
-
-| # | الكلمة بالألمانية |
-|---|-------------------|
-| 1 | **der Apfel** |
-| 2 | **der Saft** أو **der Orangensaft** |
-| 3 | **das Brot** |
-| 4 | **die Milch** |
-| 5 | **der Fisch** |
-| 6 | **der Salat** |
-| 7 | **der Kuchen** |
-| 8 | **die Kartoffel** |
-| 9 | **das Hähnchen** |
-| 10 | **die Nudeln** |
-
+</div>
 ---
+<div class="exercise" markdown="1" data-answers='["die Äpfel","die Bananen","die Tische","die Eier","die Tomaten","die Fische","die Kuchen","die Kartoffeln","die Väter","die Gurken"]'>
+
 
 ## التمرين 2: اكتب الجمع ✍️
 
@@ -56,22 +46,10 @@
 | 9 | **der Vater** | **______________** |
 | 10 | **die Gurke** | **______________** |
 
-✅ **الحل:**
-
-| # | الجمع | الطريقة | الشرح |
-|---|-------|:-------:|-------|
-| 1 | **die Äpfel** | 🟣 Umlaut | تتغير a → ä بدون إضافة حرف |
-| 2 | **die Bananen** | 🟡 -n | المؤنث غالباً يضيف -n |
-| 3 | **die Tische** | 🟢 -e | المذكر غالباً يضيف -e |
-| 4 | **die Eier** | 🟠 -er | المحايد قد يضيف -er |
-| 5 | **die Tomaten** | 🟡 -en | المؤنث غالباً يضيف -en |
-| 6 | **die Fische** | 🟢 -e | المذكر غالباً يضيف -e |
-| 7 | **die Kuchen** | — بدون تغيير | بعض الكلمات ما تتغير في الجمع |
-| 8 | **die Kartoffeln** | 🟡 -n | تنتهي بـ -el فتصير -eln |
-| 9 | **die Väter** | 🟣 Umlaut | a → ä بدون إضافة حرف |
-| 10 | **die Gurken** | 🟡 -n | المؤنث غالباً يضيف -n |
-
+</div>
 ---
+<div class="exercise" markdown="1" data-answers='["kein","nicht","kein","keinen","nicht","nicht","keine","keinen","nicht","keinen"]'>
+
 
 ## التمرين 3: اختر — **nicht** ولا **kein/keine**؟ 🎯
 
@@ -90,27 +68,10 @@
 | 9 | Sie arbeitet ________. (هي لا تعمل — نفي الفعل) |
 | 10 | Ich trinke ________ Kaffee am Abend. (أنا لا أشرب قهوة في المساء — نفي الاسم) |
 
-✅ **الحل:**
-
-| # | الإجابة | الشرح |
-|---|---------|-------|
-| 1 | **kein** | نفي الاسم (Fleisch محايد → kein) |
-| 2 | **nicht** | نفي الصفة (heiß) |
-| 3 | **kein** | نفي الاسم (Bier محايد → kein) |
-| 4 | **keinen** | نفي الاسم (Hunger مذكر + أكوزاتيف → keinen) |
-| 5 | **nicht** | نفي الفعل (kommt) |
-| 6 | **nicht** | نفي الصفة (frisch) |
-| 7 | **keine** | نفي الاسم (Milch مؤنث → keine) |
-| 8 | **keinen** | نفي الاسم (Fisch مذكر + أكوزاتيف → keinen) |
-| 9 | **nicht** | نفي الفعل (arbeitet) |
-| 10 | **keinen** | نفي الاسم (Kaffee مذكر + أكوزاتيف → keinen) |
-
-**تذكير:**
-- **nicht** → مع الفعل والصفة
-- **kein** → مع الاسم المذكر والمحايد
-- **keine** → مع الاسم المؤنث والجمع
-
+</div>
 ---
+<div class="exercise" markdown="1" data-answers='["ج","ز","أ","ه","و","ب","د","ط","ي","ح"]' data-type="match">
+
 
 ## التمرين 4: صِل (Match) 🔗
 
@@ -129,22 +90,10 @@
 | 9. die Rechnung | ط. حلو |
 | 10. sauer | ي. الفاتورة |
 
-✅ **الحل:**
-
-| # | الإجابة |
-|---|---------|
-| 1 | **ج** — der Honig = العسل |
-| 2 | **ز** — das Hähnchen = الدجاج |
-| 3 | **أ** — der Hunger = الجوع |
-| 4 | **ه** — die Gabel = الشوكة |
-| 5 | **و** — lecker = لذيذ |
-| 6 | **ب** — das Messer = السكين |
-| 7 | **د** — das Glas = كأس |
-| 8 | **ط** — süß = حلو (طعم) |
-| 9 | **ي** — die Rechnung = الفاتورة |
-| 10 | **ح** — sauer = حامض |
-
+</div>
 ---
+<div class="exercise" markdown="1" data-answers='["Ich trinke keinen Kaffee.","Sie isst kein Fleisch.","Er kommt heute nicht.","Wir haben keine Milch.","Er mag keinen Fisch."]'>
+
 
 ## التمرين 5: كوّن جملة — النفي 🧩
 
@@ -158,21 +107,10 @@
 | 4 | Milch / wir / haben / keine | **_______________** |
 | 5 | mag / keinen / Fisch / er | **_______________** |
 
-✅ **الحل:**
-
-| # | الجملة الصحيحة | الترجمة |
-|---|-----------------|---------|
-| 1 | **Ich trinke keinen Kaffee.** | أنا لا أشرب قهوة. |
-| 2 | **Sie isst kein Fleisch.** | هي لا تأكل لحماً. |
-| 3 | **Er kommt heute nicht.** | هو لا يأتي اليوم. |
-| 4 | **Wir haben keine Milch.** | ليس عندنا حليب. |
-| 5 | **Er mag keinen Fisch.** | هو لا يحب السمك. |
-
-**شرح الترتيب:**
-- مع **kein/keine**: الفعل + kein/keine + الاسم (Ich trinke **keinen** Kaffee)
-- مع **nicht**: الفعل + ... + **nicht** في الآخر (Er kommt heute **nicht**)
-
+</div>
 ---
+<div class="exercise" markdown="1" data-answers='["Ich möchte einen Salat, bitte.","Ich esse kein Fleisch.","Haben Sie Milch?","Der Kaffee ist nicht heiß.","Der Apfel schmeckt lecker!","Ich habe keinen Hunger.","Sie ist Vegetarierin.","Ich möchte ein Glas Wasser.","Wir trinken kein Bier.","Die Rechnung, bitte."]'>
+
 
 ## التمرين 6: ترجم (Translate) 🌍
 
@@ -191,22 +129,10 @@
 | 9 | نحن لا نشرب بيرة. | ______________ |
 | 10 | الفاتورة من فضلك. | ______________ |
 
-✅ **الحل:**
-
-| # | العربية | الألمانية | ملاحظات |
-|---|---------|-----------|---------|
-| 1 | أريد سلطة من فضلك. | **Ich möchte einen Salat, bitte.** | möchte = أريد (مهذب) |
-| 2 | أنا لا آكل لحماً. | **Ich esse kein Fleisch.** | kein مع Fleisch (محايد) |
-| 3 | هل عندكم حليب؟ | **Haben Sie Milch?** | Haben Sie = هل عندكم |
-| 4 | القهوة ليست ساخنة. | **Der Kaffee ist nicht heiß.** | nicht مع الصفة heiß |
-| 5 | التفاح لذيذ! | **Der Apfel schmeckt lecker!** | schmeckt lecker = طعمه لذيذ |
-| 6 | ليس عندي جوع. | **Ich habe keinen Hunger.** | keinen لأن Hunger مذكر |
-| 7 | هي نباتية. | **Sie ist Vegetarierin.** | Vegetarierin = نباتية (مؤنث) |
-| 8 | أريد كأس ماء. | **Ich möchte ein Glas Wasser.** | ein Glas Wasser = كأس ماء |
-| 9 | نحن لا نشرب بيرة. | **Wir trinken kein Bier.** | kein مع Bier (محايد) |
-| 10 | الفاتورة من فضلك. | **Die Rechnung, bitte.** | Rechnung = فاتورة |
-
+</div>
 ---
+<div class="exercise" markdown="1" data-answers='["","keine","","kein","nicht","","","","",""]'>
+
 
 ## التمرين 7: صح أم خطأ؟ ❌✅
 
@@ -225,21 +151,7 @@
 | 9 | Die Milch ist nicht kalt. (الحليب ليس بارداً) | |
 | 10 | Ich mag keine Kartoffeln. (لا أحب البطاطس) | |
 
-✅ **الحل:**
-
-| # | الجملة | صح/خطأ | التصحيح (إن كان خطأ) |
-|---|--------|:-------:|----------------------|
-| 1 | Ich möchte einen Apfel. | ✅ | صحيح! |
-| 2 | Ich habe kein Milch. | ❌ | **keine** Milch (Milch مؤنث → keine) |
-| 3 | Der Kaffee ist nicht heiß. | ✅ | صحيح! |
-| 4 | Sie trinken keinen Bier. | ❌ | **kein** Bier (Bier محايد → kein) |
-| 5 | Das ist keine gut. | ❌ | Das ist **nicht** gut (gut صفة → nicht) |
-| 6 | Ich esse nicht. | ✅ | صحيح! |
-| 7 | Wir haben keine Bananen. | ✅ | صحيح! (جمع → keine) |
-| 8 | Er isst kein Fleisch. | ✅ | صحيح! (Fleisch محايد → kein) |
-| 9 | Die Milch ist nicht kalt. | ✅ | صحيح! (kalt صفة → nicht) |
-| 10 | Ich mag keine Kartoffeln. | ✅ | صحيح! (جمع → keine) |
-
+</div>
 ---
 
 ## التمرين 8: حوار في المطعم 💬
@@ -270,33 +182,10 @@
 > **Gast:** Nein, danke. Das ist alles. Die ______________, bitte.
 > *(لا شكراً. هذا كل شيء. الفاتورة من فضلك.)*
 
-✅ **الحل:**
-
-> **Kellner:** Guten Tag! Was möchten Sie **essen**?
-> *(مساء الخير! ماذا تريد أن تأكل؟)*
->
-> **Gast:** Ich möchte einen Salat und **ein Glas** Wasser, bitte.
-> *(أريد سلطة وكأس ماء من فضلك.)*
->
-> **Kellner:** Möchten Sie **auch** Fleisch oder Fisch?
-> *(هل تريد أيضاً لحماً أو سمكاً؟)*
->
-> **Gast:** Nein danke, ich esse **kein** Fleisch und **keinen** Fisch. Ich bin Vegetarierin.
-> *(لا شكراً، أنا لا آكل لحماً ولا سمكاً. أنا نباتية.)*
->
-> **Kellner:** Kein Problem! Möchten Sie auch einen **Saft**?
-> *(لا مشكلة! هل تريد أيضاً عصيراً؟)*
->
-> **Gast:** Ja, einen Orangensaft, **bitte**.
-> *(نعم، عصير برتقال من فضلك.)*
->
-> **Kellner:** Sehr gerne. **Möchten** Sie noch etwas?
-> *(بكل سرور. هل تريد شيئاً أيضاً؟)*
->
-> **Gast:** Nein, danke. Das ist alles. Die **Rechnung**, bitte.
-> *(لا شكراً. هذا كل شيء. الفاتورة من فضلك.)*
 
 ---
+<div class="exercise" markdown="1" data-answers='["ج (sauer) ... sauer","أ (süß) ... süß","ه (salzig) ... salzig","ب (scharf) ... scharf","د (bitter) ... bitter"]'>
+
 
 ## التمرين 9: صف الأكل 🍽️
 
@@ -310,17 +199,10 @@
 | 4 | 🌶️ **der Chili** | د. **bitter** (مر) |
 | 5 | ☕ **der schwarze Kaffee** | ه. **salzig** (مالح) |
 
-✅ **الحل:**
-
-| # | الوصف | الترجمة |
-|---|-------|---------|
-| 1 | **ج (sauer)** — Die Zitrone ist **sauer**. | الليمون حامض. |
-| 2 | **أ (süß)** — Der Kuchen ist **süß**. | الكعكة حلوة. |
-| 3 | **ه (salzig)** — Das Salz ist **salzig**. | الملح مالح. |
-| 4 | **ب (scharf)** — Der Chili ist **scharf**. | الشطة حارة. |
-| 5 | **د (bitter)** — Der schwarze Kaffee ist **bitter**. | القهوة السوداء مُرّة. |
-
+</div>
 ---
+<div class="exercise" markdown="1" data-answers='["Ich möchte Salat.","Er isst kein Fleisch.","Wir trinken Wasser.","Der Kaffee ist nicht heiß.","Sie hat keine Milch.","Das Brot schmeckt lecker.","Magst du Äpfel?","Der Salat ist frisch."]'>
+
 
 ## التمرين 10: اكتب جملة بنفسك ✏️
 
@@ -337,19 +219,7 @@
 | 7 | du / mögen / Äpfel | **_____** (سؤال) |
 | 8 | der Salat / sein / frisch | **_____** |
 
-✅ **الحل:**
-
-| # | الجملة الصحيحة | الترجمة |
-|---|-----------------|---------|
-| 1 | **Ich möchte Salat.** | أريد سلطة. |
-| 2 | **Er isst kein Fleisch.** | هو لا يأكل لحماً. |
-| 3 | **Wir trinken Wasser.** | نحن نشرب ماءً. |
-| 4 | **Der Kaffee ist nicht heiß.** | القهوة ليست ساخنة. |
-| 5 | **Sie hat keine Milch.** | هي ليس عندها حليب. |
-| 6 | **Das Brot schmeckt lecker.** | الخبز طعمه لذيذ. |
-| 7 | **Magst du Äpfel?** | هل تحب التفاح؟ |
-| 8 | **Der Salat ist frisch.** | السلطة طازجة. |
-
+</div>
 ---
 
 ## 📊 جدول تقدمك

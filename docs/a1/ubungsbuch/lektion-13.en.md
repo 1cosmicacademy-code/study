@@ -9,6 +9,8 @@
 
 **Write the correct body part in German:**
 
+<div class="exercise" markdown="1" data-answers='["das Auge","der Mund","das Ohr","der Fuß","die Nase","der Finger","die Hand","der Kopf"]'>
+
 | # | Description | Body Part in German |
 |---|-------------|---------------------|
 | 1 | You see with it. (eye) | **________________** |
@@ -20,24 +22,15 @@
 | 7 | You write with it. (hand) | **________________** |
 | 8 | You hit a ball with it. (head) | **________________** |
 
-✅ **Solution:**
-
-| # | Body Part in German | Pronunciation |
-|---|---------------------|---------------|
-| 1 | **das Auge** | dahs OW-guh |
-| 2 | **der Mund** | deer moont |
-| 3 | **das Ohr** | dahs ohr |
-| 4 | **der Fuß** | deer fooss |
-| 5 | **die Nase** | dee NAH-zuh |
-| 6 | **der Finger** | deer FING-er |
-| 7 | **die Hand** | dee hahnt |
-| 8 | **der Kopf** | deer kopf |
+</div>
 
 ---
 
 ## Exercise 2: Match 🔗
 
 **Match the German word with the English meaning:**
+
+<div class="exercise" markdown="1" data-type="match" data-answers='["c","a","e","b","d","g","f","h"]'>
 
 | German | English |
 |--------|---------|
@@ -50,24 +43,15 @@
 | 7. das Knie | g. back |
 | 8. die Zähne | h. teeth |
 
-✅ **Solution:**
-
-| # | Answer |
-|---|--------|
-| 1 | **c** — der Hals = neck / throat |
-| 2 | **a** — die Schulter = shoulder |
-| 3 | **e** — der Arm = arm |
-| 4 | **b** — der Bauch = stomach / belly |
-| 5 | **d** — das Bein = leg |
-| 6 | **g** — der Rücken = back |
-| 7 | **f** — das Knie = knee |
-| 8 | **h** — die Zähne = teeth |
+</div>
 
 ---
 
 ## Exercise 3: Choose mein or meine 🎯
 
 **Choose mein or meine based on the word's article:**
+
+<div class="exercise" markdown="1" data-type="choice" data-answers='["mein","meine","mein","meine","mein","meine","mein","meine"]'>
 
 | # | Sentence | mein | meine |
 |---|----------|:----:|:-----:|
@@ -80,18 +64,7 @@
 | 7 | **______** Auge tut weh. (das) | ⬜ | ⬜ |
 | 8 | **______** Zähne tun weh. (plural) | ⬜ | ⬜ |
 
-✅ **Solution:**
-
-| # | Answer | Explanation |
-|---|--------|-------------|
-| 1 | **mein** — Mein Kopf | der Kopf → mein |
-| 2 | **meine** — Meine Hand | die Hand → meine |
-| 3 | **mein** — Mein Bauch | der Bauch → mein |
-| 4 | **meine** — Meine Nase | die Nase → meine |
-| 5 | **mein** — Mein Bein | das Bein → mein |
-| 6 | **meine** — Meine Füße | plural → meine |
-| 7 | **mein** — Mein Auge | das Auge → mein |
-| 8 | **meine** — Meine Zähne | plural → meine |
+</div>
 
 ---
 
@@ -100,6 +73,8 @@
 **Complete the sentence with a word from the box:**
 
 > Fieber — Husten — Schnupfen — Kopfschmerzen — Halsschmerzen — Erkältung
+
+<div class="exercise" markdown="1" data-answers='["Fieber","Husten","Schnupfen","Kopfschmerzen","Halsschmerzen","Erkältung"]'>
 
 | # | Sentence |
 |---|----------|
@@ -110,16 +85,7 @@
 | 5 | Ich habe _____________. (pain in the throat) |
 | 6 | Ich habe eine _____________. (a cold — all symptoms together) |
 
-✅ **Solution:**
-
-| # | Answer | Meaning |
-|---|--------|---------|
-| 1 | Ich habe **Fieber**. | I have a fever. |
-| 2 | Ich habe **Husten**. | I have a cough. |
-| 3 | Ich habe **Schnupfen**. | I have a runny nose. |
-| 4 | Ich habe **Kopfschmerzen**. | I have a headache. |
-| 5 | Ich habe **Halsschmerzen**. | I have a sore throat. |
-| 6 | Ich habe eine **Erkältung**. | I have a cold. |
+</div>
 
 ---
 
@@ -136,21 +102,13 @@
 > **Patient:** Aaaaah.  
 > **Arzt:** Gute ______________! (get well soon)
 
-✅ **Solution:**
-
-| # | Answer | Explanation |
-|---|--------|-------------|
-| 1 | **Ihnen** | Was fehlt Ihnen? = What's wrong with you? (formal) |
-| 2 | **habe** | Ich habe = I have |
-| 3 | **Fieber** | fever |
-| 4 | **Mund** | den Mund aufmachen = to open the mouth |
-| 5 | **Besserung** | Gute Besserung! = Get well soon! |
-
 ---
 
 ## Exercise 6: Translate from Arabic to German 🌍
 
 **Translate these sentences:**
+
+<div class="exercise" markdown="1" data-answers='["Der Kopf tut mir weh.","Ich habe Schnupfen.","Der Bauch tut mir weh.","Ich habe Kopfschmerzen und Fieber.","Die Hand tut mir weh.","Ich brauche einen Termin beim Arzt."]'>
 
 | # | Arabic | German |
 |---|--------|--------|
@@ -161,22 +119,15 @@
 | 5 | My hand hurts. | ______________ |
 | 6 | I need an appointment at the doctor. | ______________ |
 
-✅ **Solution:**
-
-| # | German | Notes |
-|---|--------|-------|
-| 1 | **Der Kopf tut mir weh.** / **Mein Kopf tut weh.** | Both sentences are correct |
-| 2 | **Ich habe Schnupfen.** | Schnupfen = runny nose |
-| 3 | **Der Bauch tut mir weh.** / **Mein Bauch tut weh.** | Bauch = stomach / belly |
-| 4 | **Ich habe Kopfschmerzen und Fieber.** | und = and |
-| 5 | **Die Hand tut mir weh.** / **Meine Hand tut weh.** | Hand = hand (feminine) |
-| 6 | **Ich brauche einen Termin beim Arzt.** | einen Termin = an appointment / brauchen = to need |
+</div>
 
 ---
 
 ## Exercise 7: True or False? (Richtig oder falsch?) ✅❌
 
 **Is the sentence correct (✅) or wrong (❌)?**
+
+<div class="exercise" markdown="1" data-type="choice" data-answers='["❌","✅","❌","✅","❌","✅","❌","❌"]'>
 
 | # | Sentence | ✅ / ❌ |
 |---|----------|:-------:|
@@ -189,24 +140,15 @@
 | 7 | **Das Bein** = the arm. | |
 | 8 | **Kopfschmerzen** = stomach ache. | |
 
-✅ **Solution:**
-
-| # | Answer | Correction |
-|---|--------|------------|
-| 1 | ❌ | Fieber = fever. Husten = cough. |
-| 2 | ✅ | der Mund = the mouth. Correct. |
-| 3 | ❌ | Mein Kopf (der → mein, no e) |
-| 4 | ✅ | Gute Besserung = Get well soon. Correct. |
-| 5 | ❌ | Die Zähne = plural (singular: der Zahn). |
-| 6 | ✅ | Schmerzen = pain. Correct. |
-| 7 | ❌ | Das Bein = the leg. Der Arm = the arm. |
-| 8 | ❌ | Kopfschmerzen = headache. Bauchschmerzen = stomach ache. |
+</div>
 
 ---
 
 ## Exercise 8: Conjugate haben 🧩
 
 **Complete the table — conjugate the verb haben:**
+
+<div class="exercise" markdown="1" data-answers='["habe","hast","hat","haben","habt","haben"]'>
 
 | Pronoun | haben |
 |---------|:-----:|
@@ -217,16 +159,7 @@
 | ihr | ________ |
 | sie / Sie | ________ |
 
-✅ **Solution:**
-
-| Pronoun | haben |
-|---------|:-----:|
-| ich | **habe** |
-| du | **hast** |
-| er / sie / es | **hat** |
-| wir | **haben** |
-| ihr | **habt** |
-| sie / Sie | **haben** |
+</div>
 
 **Example sentences:**
 - Ich **habe** Fieber. — I have a fever.
@@ -242,6 +175,8 @@
 
 **Put the words in the correct order to make a sentence:**
 
+<div class="exercise" markdown="1" data-answers='["Der Kopf tut mir weh.","Ich habe Fieber.","Mein Bein tut weh.","Ich brauche einen Termin.","Meine Zähne tun weh.","Haben Sie auch Fieber?"]'>
+
 | # | Words | Correct Sentence |
 |---|-------|------------------|
 | 1 | tut / Kopf / weh / der / mir | **________________** |
@@ -251,16 +186,7 @@
 | 5 | tun / Zähne / meine / weh | **________________** |
 | 6 | haben / Sie / auch / Fieber / ? | **________________** |
 
-✅ **Solution:**
-
-| # | Correct Sentence | Translation |
-|---|------------------|-------------|
-| 1 | **Der Kopf tut mir weh.** | My head hurts. |
-| 2 | **Ich habe Fieber.** | I have a fever. |
-| 3 | **Mein Bein tut weh.** | My leg hurts. |
-| 4 | **Ich brauche einen Termin.** | I need an appointment. |
-| 5 | **Meine Zähne tun weh.** | My teeth hurt. |
-| 6 | **Haben Sie auch Fieber?** | Do you also have a fever? |
+</div>
 
 **Remember:** In German, the verb is always in the second position!  
 Example: Ich **habe** Fieber. / Der Kopf **tut** mir weh.
@@ -270,6 +196,8 @@ Example: Ich **habe** Fieber. / Der Kopf **tut** mir weh.
 ## Exercise 10: Translate from German to English 🌍
 
 **Translate these sentences:**
+
+<div class="exercise" markdown="1" data-answers='["I am sick.","My back hurts.","I have a cold.","My shoulder hurts.","Where does it hurt?","Get well soon!","I need a prescription.","I feel cold."]'>
 
 | # | German | English |
 |---|--------|---------|
@@ -282,18 +210,7 @@ Example: Ich **habe** Fieber. / Der Kopf **tut** mir weh.
 | 7 | Ich brauche ein Rezept. | ______________ |
 | 8 | Mir ist kalt. | ______________ |
 
-✅ **Solution:**
-
-| # | English |
-|---|---------|
-| 1 | **I am sick.** |
-| 2 | **My back hurts.** |
-| 3 | **I have a cold.** |
-| 4 | **My shoulder hurts.** |
-| 5 | **Where does it hurt?** |
-| 6 | **Get well soon!** |
-| 7 | **I need a prescription.** |
-| 8 | **I feel cold.** |
+</div>
 
 ---
 

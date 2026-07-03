@@ -11,6 +11,8 @@
 
 **Words:** der Arzt — die Lehrerin — der Koch — der Polizist — der Programmierer — die Verkäuferin
 
+<div class="exercise" markdown="1" data-answers='["Arzt", "Lehrerin", "Koch", "Polizist", "Programmierer", "Verkäuferin"]'>
+
 | # | Sentence | Correct Word |
 |---|----------|--------------|
 | 1 | Ich arbeite im Krankenhaus. Ich bin ______________. (I work at the hospital. I am a doctor) | ______________ |
@@ -20,22 +22,13 @@
 | 5 | Ich arbeite am Computer. Ich mache Programme. Ich bin ______________. (I work on the computer. I make programs. I am a programmer) | ______________ |
 | 6 | Meine Schwester arbeitet im Supermarkt. Sie ist ______________. (My sister works in the supermarket. She is a salesperson) | ______________ |
 
-✅ **Answers:**
-
-| # | Answer |
-|---|--------|
-| 1 | **Arzt** |
-| 2 | **Lehrerin** |
-| 3 | **Koch** |
-| 4 | **Polizist** |
-| 5 | **Programmierer** |
-| 6 | **Verkäuferin** |
-
----
+</div>
 
 ## Exercise 2: Choose the correct answer 🎯
 
 **Choose the correct word:**
+
+<div class="exercise" data-type="choice" markdown="1" data-answers='["b", "a", "c", "a", "b", "a", "b", "b"]'>
 
 | # | Sentence | Choices |
 |---|----------|---------|
@@ -48,24 +41,13 @@
 | 7 | Ich ________ Programmierer. | a) bist / b) bin / c) seid |
 | 8 | ________ arbeitet im Krankenhaus. (She) | a) Er / b) Sie / c) Wir |
 
-✅ **Answers:**
-
-| # | Answer | Explanation |
-|---|--------|-------------|
-| 1 | **b) arbeitet** | Er = he → arbeitet |
-| 2 | **a) arbeite** | Ich = I → arbeite |
-| 3 | **c) arbeiten** | Wir = we → arbeiten |
-| 4 | **a) Arbeitest** | du → arbeitest |
-| 5 | **b) arbeitet** | Ihr = you all → arbeitet |
-| 6 | **a) bist** | du → bist (Was bist du von Beruf?) |
-| 7 | **b) bin** | Ich → bin (Ich bin Programmierer.) |
-| 8 | **b) Sie** | Sie arbeitet = She works |
-
----
+</div>
 
 ## Exercise 3: Match — Connect the job to the workplace 🔗
 
 **Connect the job with the correct workplace:**
+
+<div class="exercise" data-type="match" markdown="1" data-answers='["c", "d", "a", "b", "e"]'>
 
 | Job | Workplace |
 |-----|-----------|
@@ -75,21 +57,13 @@
 | 4. der Programmierer | d. im Restaurant |
 | 5. die Verkäuferin | e. im Supermarkt |
 
-✅ **Answers:**
-
-| # | Answer |
-|---|--------|
-| 1 | **c** — der Arzt → at the hospital |
-| 2 | **d** — der Koch → at the restaurant |
-| 3 | **a** — die Lehrerin → at the school |
-| 4 | **b** — der Programmierer → at the office |
-| 5 | **e** — die Verkäuferin → at the supermarket |
-
----
+</div>
 
 ## Exercise 4: Write the feminine form 👩
 
 **Write the feminine form of these jobs:**
+
+<div class="exercise" markdown="1" data-answers='["die Ärztin", "die Lehrerin", "die Studentin", "die Köchin", "die Verkäuferin", "die Polizistin", "die Programmiererin", "die Musikerin", "die Kellnerin", "die Fahrerin"]'>
 
 | # | Masculine (männlich) | Feminine (weiblich) |
 |---|----------------------|---------------------|
@@ -104,26 +78,13 @@
 | 9 | der Kellner | ______________ |
 | 10 | der Fahrer | ______________ |
 
-✅ **Answers:**
-
-| # | Masculine | Feminine |
-|---|-----------|----------|
-| 1 | der Arzt | **die Ärztin** |
-| 2 | der Lehrer | **die Lehrerin** |
-| 3 | der Student | **die Studentin** |
-| 4 | der Koch | **die Köchin** |
-| 5 | der Verkäufer | **die Verkäuferin** |
-| 6 | der Polizist | **die Polizistin** |
-| 7 | der Programmierer | **die Programmiererin** |
-| 8 | der Musiker | **die Musikerin** |
-| 9 | der Kellner | **die Kellnerin** |
-| 10 | der Fahrer | **die Fahrerin** |
-
----
+</div>
 
 ## Exercise 5: Translate 🌍
 
 **Translate these sentences from English to German:**
+
+<div class="exercise" markdown="1" data-answers='["Was bist du von Beruf?", "Ich bin Student.", "Wo arbeitest du?", "Ich arbeite im Krankenhaus.", "Er arbeitet als Koch.", "Ich verdiene gut.", "Sie ist Lehrerin.", "Wir arbeiten in einer Firma."]'>
 
 | # | English | German |
 |---|---------|--------|
@@ -136,24 +97,13 @@
 | 7 | She is a teacher. | ______________ |
 | 8 | We work in a company. | ______________ |
 
-✅ **Answers:**
-
-| # | English | German |
-|---|---------|--------|
-| 1 | What do you do for work? | **Was bist du von Beruf?** |
-| 2 | I am a student. | **Ich bin Student.** |
-| 3 | Where do you work? | **Wo arbeitest du?** |
-| 4 | I work at a hospital. | **Ich arbeite im Krankenhaus.** |
-| 5 | He works as a cook. | **Er arbeitet als Koch.** |
-| 6 | I earn well. | **Ich verdiene gut.** |
-| 7 | She is a teacher. | **Sie ist Lehrerin.** |
-| 8 | We work in a company. | **Wir arbeiten in einer Firma.** |
-
----
+</div>
 
 ## Exercise 6: Form a sentence — Order the words 🧩
 
 **Put the words in order to make a correct sentence:**
+
+<div class="exercise" markdown="1" data-answers='["Was bist du von Beruf?", "Er arbeitet im Büro.", "Ich arbeite als Koch.", "Sie arbeitet im Krankenhaus.", "Wo arbeitest du?", "Er ist Programmierer.", "Sie ist Lehrerin.", "Wir arbeiten in einer Firma."]'>
 
 | # | Words | Correct Sentence |
 |---|-------|------------------|
@@ -166,24 +116,13 @@
 | 7 | Lehrerin / Sie / ist | ______________ |
 | 8 | in / arbeiten / Firma / Wir / einer | ______________ |
 
-✅ **Answers:**
-
-| # | Correct Sentence | Translation |
-|---|------------------|-------------|
-| 1 | **Was bist du von Beruf?** | What do you do for work? |
-| 2 | **Er arbeitet im Büro.** | He works in the office. |
-| 3 | **Ich arbeite als Koch.** | I work as a cook. |
-| 4 | **Sie arbeitet im Krankenhaus.** | She works at the hospital. |
-| 5 | **Wo arbeitest du?** | Where do you work? |
-| 6 | **Er ist Programmierer.** | He is a programmer. |
-| 7 | **Sie ist Lehrerin.** | She is a teacher. |
-| 8 | **Wir arbeiten in einer Firma.** | We work in a company. |
-
----
+</div>
 
 ## Exercise 7: True or False? ❌✅
 
 **Is the sentence correct (✅) or wrong (❌)?**
+
+<div class="exercise" data-type="choice" markdown="1" data-answers='["✅", "arbeitet", "✅", "arbeiten", "✅", "✅", "✅", "✅", "✅", "✅"]'>
 
 | # | Sentence | Correct/Wrong |
 |---|----------|:-------------:|
@@ -198,22 +137,7 @@
 | 9 | Sie arbeitet als Polizistin. (She works as a police officer) | |
 | 10 | Wo arbeitest du? (Where do you work?) | |
 
-✅ **Answers:**
-
-| # | Sentence | Correct/Wrong | Correction (if wrong) |
-|---|----------|:-------------:|-----------------------|
-| 1 | Ich arbeite im Büro. | ✅ | Correct! |
-| 2 | Er arbeiten als Lehrer. | ❌ | **arbeitet** (Er = he → arbeitet) |
-| 3 | Sie ist Ärztin. | ✅ | Correct! |
-| 4 | Wir arbeitet in einer Firma. | ❌ | **arbeiten** (Wir = we → arbeiten) |
-| 5 | Was bist du von Beruf? | ✅ | Correct! |
-| 6 | Ich bin Studentin. | ✅ | Correct! (if the speaker is female) |
-| 7 | Du arbeitest im Krankenhaus. | ✅ | Correct! |
-| 8 | Ihr arbeitet viel. | ✅ | Correct! |
-| 9 | Sie arbeitet als Polizistin. | ✅ | Correct! |
-| 10 | Wo arbeitest du? | ✅ | Correct! |
-
----
+</div>
 
 ## Exercise 8: Dialogue — Talking about work 💬
 
@@ -240,27 +164,12 @@
 > **Ahmed:** Ja, ich arbeite sehr ______________. Die Arbeit ist interessant.
 > *(Yes, I like working very much. The work is interesting.)*
 
-✅ **Answers:**
-
-> **Ahmed:** Hallo Sarah! Wie geht es **dir**?
->
-> **Sarah:** Hallo Ahmed! Mir geht es **gut**, danke. Und **dir**?
->
-> **Ahmed:** Auch gut. Sag mal, **was** machst du beruflich?
->
-> **Sarah:** Ich **bin** Studentin. Ich studiere an der Universität. **Und** du?
->
-> **Ahmed:** Ich **bin** Verkäufer. Ich **arbeite** im Supermarkt.
->
-> **Sarah:** **Arbeitest** du gern?
->
-> **Ahmed:** Ja, ich arbeite sehr **gern**. Die Arbeit ist interessant.
-
----
 
 ## Exercise 9: Write the opposite 🔄
 
 **Write the opposite of each sentence (from positive to negative or vice versa):**
+
+<div class="exercise" markdown="1" data-answers='["nicht", "wenig", "langweilig", "schwer", "suche"]'>
 
 | # | Sentence | Opposite / Negative |
 |---|----------|--------------------|
@@ -270,23 +179,15 @@
 | 4 | Das ist leicht. → | Das ist ______________. |
 | 5 | Ich habe einen Job. → | Ich ______________ keinen Job. |
 
+</div>
+
 **Help words:** nicht — langweilig — schwer — suche — wenig
-
-✅ **Answers:**
-
-| # | Original Sentence | Opposite / Negative |
-|---|-------------------|--------------------|
-| 1 | Ich arbeite gern. | Ich arbeite **nicht** gern. |
-| 2 | Er arbeitet viel. | Er arbeitet **wenig**. |
-| 3 | Mein Beruf ist interessant. | Mein Beruf ist **langweilig**. |
-| 4 | Das ist leicht. | Das ist **schwer**. |
-| 5 | Ich habe einen Job. | Ich **suche** keinen Job. *(Or: Ich habe keinen Job.)* |
-
----
 
 ## Exercise 10: Write a sentence yourself ✏️
 
 **Use these words to make a correct German sentence:**
+
+<div class="exercise" markdown="1" data-answers='["Ich bin Student.", "Er arbeitet als Mechaniker.", "Sie arbeitet im Krankenhaus.", "Wir arbeiten im Büro.", "Was bist du von Beruf?", "Ich verdiene gut.", "Mein Bruder ist Koch.", "Ihr arbeitet bei einer Firma."]'>
 
 | # | Words | Make a sentence |
 |---|-------|-----------------|
@@ -299,20 +200,7 @@
 | 7 | mein Bruder / sein / Koch | **_____** |
 | 8 | ihr / arbeiten / bei / eine Firma | **_____** |
 
-✅ **Answers:**
-
-| # | Correct Sentence | Translation |
-|---|------------------|-------------|
-| 1 | **Ich bin Student.** | I am a student. |
-| 2 | **Er arbeitet als Mechaniker.** | He works as a mechanic. |
-| 3 | **Sie arbeitet im Krankenhaus.** | She works at the hospital. |
-| 4 | **Wir arbeiten im Büro.** | We work in the office. |
-| 5 | **Was bist du von Beruf?** | What do you do for work? |
-| 6 | **Ich verdiene gut.** | I earn well. |
-| 7 | **Mein Bruder ist Koch.** | My brother is a cook. |
-| 8 | **Ihr arbeitet bei einer Firma.** | You (all) work at a company. |
-
----
+</div>
 
 ## 📊 Your Progress Table
 

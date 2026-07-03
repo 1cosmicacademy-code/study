@@ -9,6 +9,8 @@
 
 **Complete the sentences with the correct form of "sein" (bin / bist / ist / sind / seid):**
 
+<div class="exercise" markdown="1" data-answers='["bin","bist","ist","sind","seid","sind","sind","bist","sind","bin"]'>
+
 | # | Sentence | Correct Form |
 |---|----------|--------------|
 | 1 | Ich ________ Arzt. | ______________ |
@@ -22,26 +24,15 @@
 | 9 | What ________ Sie von Beruf? | ______________ |
 | 10 | Ich ________ Köchin. | ______________ |
 
-✅ **Solution:**
-
-| # | Answer | Explanation |
-|---|--------|-------------|
-| 1 | **bin** — Ich bin Arzt | With ich: bin |
-| 2 | **bist** — Du bist Student | With du: bist |
-| 3 | **ist** — Er ist Lehrer | With er: ist |
-| 4 | **sind** — Wir sind Verkäufer | With wir: sind |
-| 5 | **seid** — Ihr seid Schüler | With ihr: seid |
-| 6 | **sind** — Sie sind Ingenieurin | With Sie (formal): sind |
-| 7 | **sind** — Sie sind Polizisten | With sie (plural): sind |
-| 8 | **bist** — Was bist du von Beruf? | du → bist |
-| 9 | **sind** — Was sind Sie von Beruf? | Sie → sind |
-| 10 | **bin** — Ich bin Köchin | Ich → bin |
+</div>
 
 ---
 
 ## Exercise 2: Choose — Masculine or Feminine? 🎯
 
 **Choose the correct form (masculine or feminine) based on the meaning:**
+
+<div class="exercise" markdown="1" data-type="choice" data-answers='["A","B","B","A","B","A","A","B"]'>
 
 | # | Sentence | A | B |
 |---|----------|---|---|
@@ -54,24 +45,15 @@
 | 7 | I am a ________. (boy) | **Student** | Studentin |
 | 8 | I am a ________. (girl) | Fahrer | **Fahrerin** |
 
-✅ **Solution:**
-
-| # | Answer | Explanation |
-|---|--------|-------------|
-| 1 | **A (Arzt)** — Father = masculine |
-| 2 | **B (Lehrerin)** — Mother = feminine |
-| 3 | **B (Studentin)** — Sister = feminine |
-| 4 | **A (Koch)** — Brother = masculine |
-| 5 | **B (Polizistin)** — Woman = feminine |
-| 6 | **A (Manager)** — Man = masculine |
-| 7 | **A (Student)** — Boy = masculine |
-| 8 | **B (Fahrerin)** — Girl = feminine |
+</div>
 
 ---
 
 ## Exercise 3: Match the Profession 🔗
 
 **Match the German profession with the English meaning:**
+
+<div class="exercise" markdown="1" data-answers='["B","A","E","G","C","D","H","F","J","I"]'>
 
 | German | English |
 |--------|---------|
@@ -86,26 +68,15 @@
 | 9. die Köchin | I. teacher (male) |
 | 10. der Lehrer | J. cook/chef (female) |
 
-✅ **Solution:**
-
-| # | Answer |
-|---|--------|
-| 1 | **B** — der Arzt = doctor |
-| 2 | **A** — die Lehrerin = teacher (female) |
-| 3 | **E** — der Student = university student |
-| 4 | **G** — der Koch = cook/chef |
-| 5 | **C** — die Polizistin = police officer (female) |
-| 6 | **D** — der Ingenieur = engineer |
-| 7 | **H** — die Fahrerin = driver (female) |
-| 8 | **F** — der Verkäufer = salesperson (male) |
-| 9 | **J** — die Köchin = cook/chef (female) |
-| 10 | **I** — der Lehrer = teacher (male) |
+</div>
 
 ---
 
 ## Exercise 4: Choose — du or Sie? 🎯
 
 **Should we use du (informal) or Sie (formal)?**
+
+<div class="exercise" markdown="1" data-type="choice" data-answers='["du","Sie","du","Sie","Sie","du","Sie","du"]'>
 
 | # | Situation | du | Sie |
 |---|-----------|:--:|:---:|
@@ -118,24 +89,15 @@
 | 7 | Asking a stranger about their job | ⬜ | **✅** |
 | 8 | Asking your classmate | **✅** | ⬜ |
 
-✅ **Solution:**
-
-| # | Answer | Explanation |
-|---|--------|-------------|
-| 1 | **du** ✅ — Friend = informal |
-| 2 | **Sie** ✅ — Teacher = formal |
-| 3 | **du** ✅ — Brother = family = informal |
-| 4 | **Sie** ✅ — Boss = formal |
-| 5 | **Sie** ✅ — Police officer = formal |
-| 6 | **du** ✅ — Grandfather = family = informal |
-| 7 | **Sie** ✅ — Stranger = formal |
-| 8 | **du** ✅ — Classmate = informal |
+</div>
 
 ---
 
 ## Exercise 5: Write the Correct Sentence ✍️
 
 **Write a full sentence describing each person's profession (use "sein"):**
+
+<div class="exercise" markdown="1" data-answers='["Ich bin Student.","Du bist Lehrer.","Er ist Arzt.","Sie ist Ärztin.","Wir sind Ingenieure.","Ihr seid Köche.","Sie sind Polizisten.","Sie ist Verkäuferin."]'>
 
 | # | Idea | Sentence |
 |---|------|----------|
@@ -148,22 +110,13 @@
 | 7 | They ← police officers | **______________** |
 | 8 | She ← saleswoman | **______________** |
 
-✅ **Solution:**
-
-| # | Sentence | Correct Conjugation |
-|---|----------|--------------------|
-| 1 | **Ich bin Student.** | ich → bin |
-| 2 | **Du bist Lehrer.** | du → bist |
-| 3 | **Er ist Arzt.** | er → ist |
-| 4 | **Sie ist Ärztin.** | sie (she) → ist |
-| 5 | **Wir sind Ingenieure.** | wir → sind |
-| 6 | **Ihr seid Köche.** | ihr → seid |
-| 7 | **Sie sind Polizisten.** | sie (they) → sind |
-| 8 | **Sie ist Verkäuferin.** | sie (she) → ist |
+</div>
 
 ---
 
 ## Exercise 6: Put the Words in Order 🧩
+
+<div class="exercise" markdown="1" data-answers='["Ich bin Arzt.","Was bist du von Beruf?","Sie ist Ärztin.","Wo arbeitest du?","Was sind Sie von Beruf?","Er arbeitet im Krankenhaus.","Sie arbeitet als Verkäuferin bei Lidl.","Ich bin Studentin."]'>
 
 | # | Words | Correct Sentence |
 |---|-------|-----------------|
@@ -176,22 +129,13 @@
 | 7 | bei / Verkäuferin / Sie / arbeitet / Lidl | **______________** |
 | 8 | bin / Studentin / Ich | **______________** |
 
-✅ **Solution:**
-
-| # | Correct Sentence | Translation |
-|---|------------------|-------------|
-| 1 | **Ich bin Arzt.** | I am a doctor. |
-| 2 | **Was bist du von Beruf?** | What is your job? (informal) |
-| 3 | **Sie ist Ärztin.** | She is a doctor (female). |
-| 4 | **Wo arbeitest du?** | Where do you work? |
-| 5 | **Was sind Sie von Beruf?** | What is your profession? (formal) |
-| 6 | **Er arbeitet im Krankenhaus.** | He works in the hospital. |
-| 7 | **Sie arbeitet als Verkäuferin bei Lidl.** | She works as a saleswoman at Lidl. |
-| 8 | **Ich bin Studentin.** | I am a female student. |
+</div>
 
 ---
 
 ## Exercise 7: Translate 🌍
+
+<div class="exercise" markdown="1" data-answers='["Was bist du von Beruf?","Ich bin Lehrer.","Sie ist Ärztin.","Wo arbeiten Sie?","Ich arbeite im Krankenhaus.","Er arbeitet bei BMW.","Wir sind Studenten.","Was sind Sie von Beruf?"]'>
 
 | # | English | German |
 |---|---------|--------|
@@ -204,24 +148,15 @@
 | 7 | We are students. | ______________ |
 | 8 | What is your profession? (formal) | ______________ |
 
-✅ **Solution:**
-
-| # | English | German | Notes |
-|---|---------|--------|-------|
-| 1 | What is your job? (informal) | **Was bist du von Beruf?** | du → informal |
-| 2 | I am a teacher. | **Ich bin Lehrer.** | ich → bin |
-| 3 | She is a doctor. | **Sie ist Ärztin.** | sie (she) = lowercase |
-| 4 | Where do you work? (formal) | **Wo arbeiten Sie?** | Sie (formal) → arbeiten |
-| 5 | I work in a hospital. | **Ich arbeite im Krankenhaus.** | im = in + dem |
-| 6 | He works at BMW. | **Er arbeitet bei BMW.** | bei = at (company) |
-| 7 | We are students. | **Wir sind Studenten.** | wir → sind |
-| 8 | What is your profession? (formal) | **Was sind Sie von Beruf?** | Sie (formal) → sind |
+</div>
 
 ---
 
 ## Exercise 8: Find and Fix the Mistake 🔍
 
 **Each sentence has one mistake. Correct it:**
+
+<div class="exercise" markdown="1" data-answers='["Ich bin Arzt.","Du bist Student.","Er ist Lehrer.","Wir sind Verkäufer.","Ihr seid Schüler.","Sie sind Ingenieur.","Was bist du von Beruf?","Was sind Sie von Beruf?"]'>
 
 | # | Wrong Sentence | Correct Sentence |
 |---|---------------|-----------------|
@@ -234,22 +169,13 @@
 | 7 | What **sind** du von Beruf? | **______________** |
 | 8 | What **bist** Sie von Beruf? | **______________** |
 
-✅ **Solution:**
-
-| # | Correct Sentence | Explanation |
-|---|------------------|-------------|
-| 1 | **Ich bin Arzt.** | With ich: **bin** (not ist) |
-| 2 | **Du bist Student.** | With du: **bist** (not sind) |
-| 3 | **Er ist Lehrer.** | With er: **ist** (not bin) |
-| 4 | **Wir sind Verkäufer.** | With wir: **sind** (not bist) |
-| 5 | **Ihr seid Schüler.** | With ihr: **seid** (not sind) |
-| 6 | **Sie sind Ingenieur.** | With Sie (formal): **sind** (not bist) |
-| 7 | **Was bist du von Beruf?** | With du: **bist** (not sind) |
-| 8 | **Was sind Sie von Beruf?** | With Sie: **sind** (not bist) |
+</div>
 
 ---
 
 ## Exercise 9: Choose the Correct Answer — Profession and Place 🎯
+
+<div class="exercise" markdown="1" data-type="choice" data-answers='["B","A","C","B","C","C"]'>
 
 | # | Question | A | B | C |
 |---|----------|---|---|---|
@@ -260,16 +186,7 @@
 | 5 | Where does a manager work? | in der Schule | im Krankenhaus | **im Büro** |
 | 6 | Where does a salesperson (Verkäufer) work? | in der Schule | im Krankenhaus | **im Supermarkt** |
 
-✅ **Solution:**
-
-| # | Answer | Explanation |
-|---|--------|-------------|
-| 1 | **B** — A doctor works in a hospital |
-| 2 | **A** — A teacher works in a school |
-| 3 | **C** — A cook works in a restaurant |
-| 4 | **B** — A police officer works at a police station |
-| 5 | **C** — A manager works in an office |
-| 6 | **C** — A salesperson works in a supermarket |
+</div>
 
 ---
 

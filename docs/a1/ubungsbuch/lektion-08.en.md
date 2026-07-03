@@ -107,6 +107,8 @@
 
 **Match each sentence with the correct past participle:**
 
+<div class="exercise" markdown="1" data-type="match" data-answers='["D","E","A","B","C","D","G","A"]' data-options='["A","B","C","D","E","F","G","H"]'>
+
 | Sentence | | Partizip II |
 |----------|:---:|:-----------:|
 | 1. Ich habe einen Kuchen ... | (A) | getrunken |
@@ -118,19 +120,7 @@
 | 7. Die Kinder haben gespielt und ... | (G) | getanzt |
 | 8. Ich habe Wasser ... | (H) | gebacken |
 
-<details>
-<summary>✅ Answers</summary>
-
-1. Ich habe einen Kuchen **gegessen** ← (D)
-2. Wir haben Musik **gehört** ← (E)
-3. Er hat Cola **getrunken** ← (A)
-4. Du bist um 9 Uhr **gekommen** ← (B)
-5. Ihr seid nach Hause **gegangen** ← (C)
-6. Sie hat Pizza **gegessen** ← (D) — or **mitgebracht** (F)
-7. Die Kinder haben gespielt und **getanzt** ← (G)
-8. Ich habe Wasser **getrunken** ← (A)
-
-</details>
+</div>
 
 ---
 
@@ -243,6 +233,8 @@
 
 **These sentences are in the present tense (Präsens). Rewrite them in Perfekt:**
 
+<div class="exercise" markdown="1" data-answers='["Ich habe Geburtstag gefeiert.","Tom ist um 8 Uhr gekommen.","Wir haben ein Lied gesungen.","Lisa hat viel getanzt.","Die G&#228;ste haben Saft getrunken.","Du hast Kuchen mitgebracht.","Ihr habt die Wohnung aufger&#228;umt.","Ich bin zu Hause geblieben."]'>
+
 | Präsens (Present) | Perfekt (Present Perfect) |
 |-------------------|---------------------------|
 | 1. Ich feiere Geburtstag. | → _______________________ |
@@ -254,21 +246,7 @@
 | 7. Ihr räumt die Wohnung auf. | → _______________________ |
 | 8. Ich bleibe zu Hause. | → _______________________ |
 
-<details>
-<summary>✅ Answers</summary>
-
-| Präsens | Perfekt |
-|---------|---------|
-| 1. Ich feiere Geburtstag. | 1. Ich **habe** Geburtstag **gefeiert**. |
-| 2. Tom kommt um 8 Uhr. | 2. Tom **ist** um 8 Uhr **gekommen**. |
-| 3. Wir singen ein Lied. | 3. Wir **haben** ein Lied **gesungen**. |
-| 4. Lisa tanzt viel. | 4. Lisa **hat** viel **getanzt**. |
-| 5. Die Gäste trinken Saft. | 5. Die Gäste **haben** Saft **getrunken**. |
-| 6. Du bringst Kuchen mit. | 6. Du **hast** Kuchen **mitgebracht**. |
-| 7. Ihr räumt die Wohnung auf. | 7. Ihr **habt** die Wohnung **aufgeräumt**. |
-| 8. Ich bleibe zu Hause. | 8. Ich **bin** zu Hause **geblieben**. |
-
-</details>
+</div>
 
 ---
 

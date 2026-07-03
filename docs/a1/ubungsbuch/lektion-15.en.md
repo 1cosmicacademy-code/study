@@ -9,6 +9,7 @@
 
 **Choose zum or zur:**
 
+<div class="exercise" markdown="1" data-answers='["zum", "zur", "zum", "zur", "zum", "zur", "zum", "zur", "zum", "zur"]'>
 | # | Sentence | zum / zur |
 |---|----------|-----------|
 | 1 | Wie komme ich ___ Bahnhof? | **______** |
@@ -22,27 +23,13 @@
 | 9 | Wie komme ich ___ Restaurant? | **______** |
 | 10 | Wie komme ich ___ Kirche? | **______** |
 
-✅ **Answers:**
-
-| # | Answer | Explanation |
-|---|--------|-------------|
-| 1 | **zum** | der Bahnhof (masculine) → zu + dem = zum |
-| 2 | **zur** | die Post (feminine) → zu + der = zur |
-| 3 | **zum** | das Krankenhaus (neuter) → zu + dem = zum |
-| 4 | **zur** | die Schule (feminine) → zu + der = zur |
-| 5 | **zum** | der Supermarkt (masculine) → zu + dem = zum |
-| 6 | **zur** | die Apotheke (feminine) → zu + der = zur |
-| 7 | **zum** | das Kino (neuter) → zu + dem = zum |
-| 8 | **zur** | die Bibliothek (feminine) → zu + der = zur |
-| 9 | **zum** | das Restaurant (neuter) → zu + dem = zum |
-| 10 | **zur** | die Kirche (feminine) → zu + der = zur |
-
+</div>
 ---
-
 ## Exercise 2: Choose the correct answer 🔘
 
 **Choose a, b or c:**
 
+<div class="exercise" markdown="1" data-type="choice" data-answers='["b", "c", "b", "b", "b", "a", "c", "c", "a", "b"]'>
 1. Entschuldigung! Wie komme ich ___ Bahnhof?
    - a) zur
    - b) zum
@@ -93,27 +80,13 @@
     - b) Bitte schön!
     - c) Hallo!
 
-✅ **Answers:**
-
-| # | Answer | Explanation |
-|---|--------|-------------|
-| 1 | **b** | der Bahnhof → zum Bahnhof |
-| 2 | **c** | geradeaus = straight ahead |
-| 3 | **b** | die Ampel = traffic light |
-| 4 | **b** | die Post → zur Post |
-| 5 | **b** | dann = then |
-| 6 | **a** | weit = far |
-| 7 | **c** | Bitte schön = You're welcome |
-| 8 | **c** | das Kino (neuter) |
-| 9 | **a** | die Kreuzung = intersection |
-| 10 | **b** | Bitte schön = You're welcome |
-
+</div>
 ---
-
 ## Exercise 3: Match 🔗
 
 **Match the German sentence with the correct English translation:**
 
+<div class="exercise" markdown="1" data-type="match" data-answers='["E", "A", "B", "C", "D", "G", "F", "J", "H", "I"]'>
 | # | Deutsch | # | English |
 |---|---------|---|---------|
 | 1 | Wie komme ich zum Bahnhof? | A | Go straight, then left. |
@@ -127,11 +100,8 @@
 | 9 | Ist das weit? | I | Thank you very much! |
 | 10 | Vielen Dank! | J | Excuse me! |
 
-✅ **Answers:**
-1 ← **E**, 2 ← **A**, 3 ← **B**, 4 ← **C**, 5 ← **D**, 6 ← **G**, 7 ← **F**, 8 ← **J**, 9 ← **H**, 10 ← **I**
-
+</div>
 ---
-
 ## Exercise 4: Put the words in order 🔄
 
 **Arrange the words to make a correct German sentence:**
@@ -176,6 +146,7 @@
 
 **Translate these sentences into German:**
 
+<div class="exercise" markdown="1" data-answers='["Wie komme ich zum Supermarkt?", "Wo ist das Krankenhaus?", "Gehen Sie geradeaus.", "Dann rechts.", "An der Ampel links.", "Es ist nicht weit.", "Das Café ist um die Ecke.", "Vielen Dank! — Bitte schön!", "Der Bahnhof ist rechts.", "Ist das weit?"]'>
 | # | English | German |
 |---|---------|--------|
 | 1 | How do I get to the supermarket? | **__________________** |
@@ -189,27 +160,13 @@
 | 9 | The station is on the right. | **__________________** |
 | 10 | Is that far? | **__________________** |
 
-✅ **Answers:**
-
-| # | German |
-|---|--------|
-| 1 | **Wie komme ich zum Supermarkt?** |
-| 2 | **Wo ist das Krankenhaus?** |
-| 3 | **Gehen Sie geradeaus.** |
-| 4 | **Dann rechts.** |
-| 5 | **An der Ampel links.** |
-| 6 | **Es ist nicht weit.** |
-| 7 | **Das Café ist um die Ecke.** |
-| 8 | **Vielen Dank! — Bitte schön!** |
-| 9 | **Der Bahnhof ist rechts.** |
-| 10 | **Ist das weit?** |
-
+</div>
 ---
-
 ## Exercise 6: Find and correct the mistake ❌🔧
 
 **Each sentence has one mistake. Find it and correct it:**
 
+<div class="exercise" markdown="1" data-answers='["zum", "geradeaus", "An der Ampel", "zur", "das", "um die", "die zweite", "Entschuldigung!"]'>
 | # | Wrong sentence | Correction |
 |---|----------------|------------|
 | 1 | Wie komme ich **zur** Bahnhof? | **__________________** |
@@ -221,21 +178,8 @@
 | 7 | Gehen Sie **die erste** Straße rechts. | **__________________** |
 | 8 | **Entschuldigung** (without punctuation mark). | **__________________** |
 
-✅ **Answers:**
-
-| # | Correction | Explanation |
-|---|------------|-------------|
-| 1 | **zum** Bahnhof | der Bahnhof → zu + dem = zum (masculine) |
-| 2 | Gehen Sie **geradeaus** | geradeaus = straight ahead |
-| 3 | **An der Ampel** | die Ampel = traffic light |
-| 4 | **zur** Apotheke | die Apotheke → zu + der = zur (feminine) |
-| 5 | Wo ist **das** Kino? | das Kino (neuter) |
-| 6 | Das Café ist **um die** Ecke. | **um die** Ecke = around the corner (not an) |
-| 7 | Gehen Sie **die zweite** Straße rechts | second street = die zweite |
-| 8 | **Entschuldigung!** | Needs an exclamation mark — it's an attention-getter |
-
+</div>
 ---
-
 ## Exercise 7: Read the dialogue and complete 📖
 
 **Read the dialogue and complete the sentences:**
@@ -277,6 +221,7 @@
 
 **Each sentence has one missing word. Complete it:**
 
+<div class="exercise" markdown="1" data-answers='["zum", "geradeaus", "Ampel", "Um", "weit", "Entschuldigung", "Vielen", "zweite", "in", "zur"]'>
 1. Wie komme ich ___ Bahnhof? (zu + dem)
    → **______**
 
@@ -307,23 +252,8 @@
 10. Wie komme ich ___ Post? (zu + der)
     → **______**
 
-✅ **Answers:**
-
-| # | Answer |
-|---|--------|
-| 1 | **zum** — Wie komme ich **zum** Bahnhof? |
-| 2 | **geradeaus** — Gehen Sie **geradeaus**. |
-| 3 | **Ampel** — An der **Ampel** links. |
-| 4 | **Um** — **Um** die Ecke. |
-| 5 | **weit** — Es ist nicht **weit**. |
-| 6 | **Entschuldigung** — **Entschuldigung!** |
-| 7 | **Vielen** — **Vielen** Dank! |
-| 8 | **zweite** — die **zweite** Straße rechts |
-| 9 | **in** — **in** der Bahnhofstraße |
-| 10 | **zur** — Wie komme ich **zur** Post? |
-
+</div>
 ---
-
 ## Exercise 9: Read the map and write directions 🗺️
 
 **Read the description: You are standing at "der Markt". Write the directions for each place:**
@@ -352,20 +282,14 @@
 
 **Complete the sentences:**
 
+<div class="exercise" markdown="1" data-answers='["geradeaus", "geradeaus", "geradeaus", "links"]'>
 1. From **der Markt** to **die Post**: "Gehen Sie _____, then at the _____ turn left."
 2. From **der Markt** to **der Bahnhof**: "Gehen Sie _____, then at the traffic light go _____, then at the intersection turn _____."
 3. From **der Markt** to **das Kino**: "Gehen Sie _____, then at the traffic light turn _____, the cinema is then on the _____."
 4. From **der Markt** to **die Kirche**: "Gehen Sie _____, the church is on the _____."
 
-✅ **Answers:**
-
-1. **geradeaus** — **Ampel** (go straight, then at the traffic light left)
-2. **geradeaus** — **geradeaus** — **links** (go straight, then straight at the traffic light, then at the intersection left)
-3. **geradeaus** — **rechts** — **links** (go straight, then at the traffic light right, the cinema is then on the left)
-4. **links** — **links** (go left, the church is on the left)
-
+</div>
 ---
-
 ## Exercise 10: Write a short dialogue 🎭
 
 **Write a short dialogue in German. One person asks for directions to a place, and another answers. Use these words:**

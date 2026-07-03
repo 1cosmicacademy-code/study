@@ -9,6 +9,8 @@
 
 **اكتب اسم الجزء المناسب من الجسم بالألمانية:**
 
+<div class="exercise" markdown="1" data-answers='["das Auge","der Mund","das Ohr","der Fuß","die Nase","der Finger","die Hand","der Kopf"]'>
+
 | # | الوصف | الجزء بالألمانية |
 |---|-------|------------------|
 | 1 | أنت تشوف به. (عين) | **________________** |
@@ -20,24 +22,15 @@
 | 7 | أنت تكتب به. (يد) | **________________** |
 | 8 | أنت تجلس عليه. (ظهر — خطأ؟ لا، المفروض ركبة! لكن خليها ظهر صح) ههه. نقصد: الكرة تضرب بها. (رأس) | **________________** |
 
-✅ **الحل:**
-
-| # | الجزء بالألمانية | النطق |
-|---|------------------|-------|
-| 1 | **das Auge** | داس آوغه |
-| 2 | **der Mund** | دير مونت |
-| 3 | **das Ohr** | داس أور |
-| 4 | **der Fuß** | دير فوس |
-| 5 | **die Nase** | دي نازه |
-| 6 | **der Finger** | دير فينغر |
-| 7 | **die Hand** | دي هانت |
-| 8 | **der Kopf** | دير كوبف |
+</div>
 
 ---
 
 ## التمرين 2: صِل (Match) 🔗
 
 **صِل الألماني بالعربي:**
+
+<div class="exercise" markdown="1" data-type="match" data-answers='["ج","أ","ه","ب","د","ز","و","ح"]'>
 
 | الألمانية | العربية |
 |-----------|---------|
@@ -50,24 +43,15 @@
 | 7. das Knie | ز. الظهر |
 | 8. die Zähne | ح. الأسنان |
 
-✅ **الحل:**
-
-| # | الإجابة |
-|---|---------|
-| 1 | **ج** — der Hals = الرقبة / الحلق |
-| 2 | **أ** — die Schulter = الكتف |
-| 3 | **ه** — der Arm = الذراع |
-| 4 | **ب** — der Bauch = البطن |
-| 5 | **د** — das Bein = الساق |
-| 6 | **ز** — der Rücken = الظهر |
-| 7 | **و** — das Knie = الركبة |
-| 8 | **ح** — die Zähne = الأسنان |
+</div>
 
 ---
 
 ## التمرين 3: اختر mein أو meine 🎯
 
 **اختر mein أو meine حسب أداة الكلمة:**
+
+<div class="exercise" markdown="1" data-type="choice" data-answers='["mein","meine","mein","meine","mein","meine","mein","meine"]'>
 
 | # | الجملة | mein | meine |
 |---|--------|:----:|:-----:|
@@ -80,18 +64,7 @@
 | 7 | **______** Auge tut weh. (das) | ⬜ | ⬜ |
 | 8 | **______** Zähne tun weh. (جمع) | ⬜ | ⬜ |
 
-✅ **الحل:**
-
-| # | الإجابة | الشرح |
-|---|---------|-------|
-| 1 | **mein** — Mein Kopf | der Kopf → mein |
-| 2 | **meine** — Meine Hand | die Hand → meine |
-| 3 | **mein** — Mein Bauch | der Bauch → mein |
-| 4 | **meine** — Meine Nase | die Nase → meine |
-| 5 | **mein** — Mein Bein | das Bein → mein |
-| 6 | **meine** — Meine Füße | جمع → meine |
-| 7 | **mein** — Mein Auge | das Auge → mein |
-| 8 | **meine** — Meine Zähne | جمع → meine |
+</div>
 
 ---
 
@@ -100,6 +73,8 @@
 **أكمل الجملة بكلمة من الصندوق:**
 
 > Fieber — Husten — Schnupfen — Kopfschmerzen — Halsschmerzen — Erkältung
+
+<div class="exercise" markdown="1" data-answers='["Fieber","Husten","Schnupfen","Kopfschmerzen","Halsschmerzen","Erkältung"]'>
 
 | # | الجملة |
 |---|--------|
@@ -110,16 +85,7 @@
 | 5 | Ich habe _____________. (ألم في الحلق) |
 | 6 | Ich habe eine _____________. (نزلة برد — كل الأعراض مع بعض) |
 
-✅ **الحل:**
-
-| # | الإجابة | الترجمة |
-|---|---------|---------|
-| 1 | Ich habe **Fieber**. | عندي حرارة. |
-| 2 | Ich habe **Husten**. | عندي كحة. |
-| 3 | Ich habe **Schnupfen**. | عندي رشح / زكام. |
-| 4 | Ich habe **Kopfschmerzen**. | عندي صداع. |
-| 5 | Ich habe **Halsschmerzen**. | حلقي يؤلمني. |
-| 6 | Ich habe eine **Erkältung**. | عندي نزلة برد. |
+</div>
 
 ---
 
@@ -136,21 +102,13 @@
 > **Patient:** Aaaaah.  
 > **Arzt:** Gute ______________! (الشفاء العاجل)
 
-✅ **الحل:**
-
-| # | الإجابة | الشرح |
-|---|---------|-------|
-| 1 | **Ihnen** | Was fehlt Ihnen? = ما بك؟ (رسمي) |
-| 2 | **habe** | Ich habe = أنا عندي |
-| 3 | **Fieber** | حرارة / حمى |
-| 4 | **Mund** | den Mund aufmachen = يفتح الفم |
-| 5 | **Besserung** | Gute Besserung! = بالشفاء العاجل! |
-
 ---
 
 ## التمرين 6: ترجم من العربية للألمانية 🌍
 
 **ترجم هذه الجمل:**
+
+<div class="exercise" markdown="1" data-answers='["Der Kopf tut mir weh.","Ich habe Schnupfen.","Der Bauch tut mir weh.","Ich habe Kopfschmerzen und Fieber.","Die Hand tut mir weh.","Ich brauche einen Termin beim Arzt."]'>
 
 | # | العربية | الألمانية |
 |---|---------|-----------|
@@ -161,22 +119,15 @@
 | 5 | يدي تؤلمني. | ______________ |
 | 6 | أحتاج موعداً عند الدكتور. | ______________ |
 
-✅ **الحل:**
-
-| # | الألمانية | ملاحظات |
-|---|-----------|---------|
-| 1 | **Der Kopf tut mir weh.** / **Mein Kopf tut weh.** | كلا الجملتين صحيحتين |
-| 2 | **Ich habe Schnupfen.** | Schnupfen = زكام / رشح |
-| 3 | **Der Bauch tut mir weh.** / **Mein Bauch tut weh.** | Bauch = بطن |
-| 4 | **Ich habe Kopfschmerzen und Fieber.** | und = و |
-| 5 | **Die Hand tut mir weh.** / **Meine Hand tut weh.** | Hand = يد (مؤنث) |
-| 6 | **Ich brauche einen Termin beim Arzt.** | einen Termin = موعد / brauchen = يحتاج |
+</div>
 
 ---
 
 ## التمرين 7: صح أم خطأ؟ (Richtig oder falsch?) ✅❌
 
 **هل الجملة صحيحة (✅) أم خاطئة (❌)؟**
+
+<div class="exercise" markdown="1" data-type="choice" data-answers='["❌","✅","❌","✅","❌","✅","❌","❌"]'>
 
 | # | الجملة | ✅ / ❌ |
 |---|--------|:-------:|
@@ -189,24 +140,15 @@
 | 7 | **Das Bein** = الذراع. | |
 | 8 | **Kopfschmerzen** = ألم في البطن. | |
 
-✅ **الحل:**
-
-| # | الإجابة | التصحيح |
-|---|---------|---------|
-| 1 | ❌ | Fieber = حرارة / حمى. Husten = كحة. |
-| 2 | ✅ | der Mund = الفم. صح. |
-| 3 | ❌ | Mein Kopf (der → mein, بدون e) |
-| 4 | ✅ | Gute Besserung = بالشفاء العاجل. صح. |
-| 5 | ❌ | Die Zähne = جمع (مفردها der Zahn). |
-| 6 | ✅ | Schmerzen = آلام. صح. |
-| 7 | ❌ | Das Bein = الساق / الرجل. Der Arm = الذراع. |
-| 8 | ❌ | Kopfschmerzen = صداع (ألم الرأس). Bauchschmerzen = ألم البطن. |
+</div>
 
 ---
 
 ## التمرين 8: تصريف haben 🧩
 
 **أكمل الجدول — صرّف الفعل haben:**
+
+<div class="exercise" markdown="1" data-answers='["habe","hast","hat","haben","habt","haben"]'>
 
 | الضمير | haben |
 |--------|:-----:|
@@ -217,16 +159,7 @@
 | ihr | ________ |
 | sie / Sie | ________ |
 
-✅ **الحل:**
-
-| الضمير | haben |
-|--------|:-----:|
-| ich | **habe** |
-| du | **hast** |
-| er / sie / es | **hat** |
-| wir | **haben** |
-| ihr | **habt** |
-| sie / Sie | **haben** |
+</div>
 
 **جمل للمساعدة:**
 - Ich **habe** Fieber. — أنا عندي حرارة.
@@ -242,6 +175,8 @@
 
 **رتب الكلمات لتكون جملة صحيحة:**
 
+<div class="exercise" markdown="1" data-answers='["Der Kopf tut mir weh.","Ich habe Fieber.","Mein Bein tut weh.","Ich brauche einen Termin.","Meine Zähne tun weh.","Haben Sie auch Fieber?"]'>
+
 | # | الكلمات | الجملة الصحيحة |
 |---|---------|----------------|
 | 1 | tut / Kopf / weh / der / mir | **________________** |
@@ -251,16 +186,7 @@
 | 5 | tun / Zähne / meine / weh | **________________** |
 | 6 | haben / Sie / auch / Fieber / ? | **________________** |
 
-✅ **الحل:**
-
-| # | الجملة الصحيحة | الترجمة |
-|---|-----------------|---------|
-| 1 | **Der Kopf tut mir weh.** | رأسي يؤلمني. |
-| 2 | **Ich habe Fieber.** | عندي حرارة. |
-| 3 | **Mein Bein tut weh.** | ساقي تؤلمني. |
-| 4 | **Ich brauche einen Termin.** | أحتاج موعداً. |
-| 5 | **Meine Zähne tun weh.** | أسناني تؤلمني. |
-| 6 | **Haben Sie auch Fieber?** | هل عندك حرارة أيضاً؟ |
+</div>
 
 **تذكير:** في الألمانية، الفعل دائماً في المكان الثاني!  
 مثلاً: Ich **habe** Fieber. / Der Kopf **tut** mir weh.
@@ -270,6 +196,8 @@
 ## التمرين 10: ترجم من الألماني للعربي 🌍
 
 **ترجم هذه الجمل:**
+
+<div class="exercise" markdown="1" data-answers='["أنا مريض.","ظهري يؤلمني.","عندي نزلة برد.","كتفي يؤلمني.","أين يؤلم؟","بالشفاء العاجل!","أحتاج روشتة / وصفة طبية.","أنا أشعر بالبرد."]'>
 
 | # | الألمانية | العربية |
 |---|-----------|---------|
@@ -282,18 +210,7 @@
 | 7 | Ich brauche ein Rezept. | ______________ |
 | 8 | Mir ist kalt. | ______________ |
 
-✅ **الحل:**
-
-| # | العربية |
-|---|---------|
-| 1 | **أنا مريض.** |
-| 2 | **ظهري يؤلمني.** |
-| 3 | **عندي نزلة برد.** |
-| 4 | **كتفي يؤلمني.** |
-| 5 | **أين يؤلم؟** |
-| 6 | **بالشفاء العاجل!** |
-| 7 | **أحتاج روشتة / وصفة طبية.** |
-| 8 | **أنا أشعر بالبرد.** |
+</div>
 
 ---
 

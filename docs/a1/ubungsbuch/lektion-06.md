@@ -4,6 +4,8 @@
 > 💡 **نصيحة:** حاول تحل التمارين بنفسك أولاً، بعدين شوف الحل!
 
 ---
+<div class="exercise" markdown="1" data-answers='["Sieben Uhr","Zehn Uhr fünfzehn","Vierzehn Uhr dreißig","Sechzehn Uhr fünfundvierzig","Achtzehn Uhr","Einundzwanzig Uhr zwanzig","Dreiundzwanzig Uhr fünfundfünfzig"]'>
+
 
 ## التمرين 1: كم الساعة؟ اكتب الوقت ⏰
 
@@ -19,19 +21,10 @@
 | 6. 21:20 | **______________** |
 | 7. 23:55 | **______________** |
 
-✅ **الحل:**
-
-| # | الإجابة |
-|---|---------|
-| 1 | **Sieben Uhr** (7:00) — أو 7 Uhr / 19 Uhr |
-| 2 | **Zehn Uhr fünfzehn** (10:15) |
-| 3 | **Vierzehn Uhr dreißig** (14:30) |
-| 4 | **Sechzehn Uhr fünfundvierzig** (16:45) |
-| 5 | **Achtzehn Uhr** (18:00) |
-| 6 | **Einundzwanzig Uhr zwanzig** (21:20) |
-| 7 | **Dreiundzwanzig Uhr fünfundfünfzig** (23:55) |
-
+</div>
 ---
+<div class="exercise" markdown="1" data-answers='["Viertel nach acht","halb zehn","Viertel vor elf","fünf nach sieben","zwanzig nach elf","zwanzig vor drei","zehn vor sieben"]'>
+
 
 ## التمرين 2: الطريقة غير الرسمية 🗣️
 
@@ -47,19 +40,10 @@
 | 6. 14:40 | zwanzig **______________** drei |
 | 7. 06:50 | zehn **______________** sieben |
 
-✅ **الحل:**
-
-| # | الإجابة | الشرح |
-|---|---------|-------|
-| 1 | **Viertel nach acht** | 8:15 — ربع بعد الثامنة |
-| 2 | **halb zehn** | 9:30 — نصف تاسعة (نصف الطريق إلى 10) |
-| 3 | **Viertel vor elf** | 10:45 — ربع إلا 11 |
-| 4 | **fünf nach sieben** | 7:05 — 5 دقائق بعد السابعة |
-| 5 | **zwanzig nach elf** | 11:20 — 20 دقيقة بعد 11 |
-| 6 | **zwanzig vor drei** | 14:40 — 20 دقيقة إلا الثالثة |
-| 7 | **zehn vor sieben** | 6:50 — 10 دقائق إلا السابعة |
-
+</div>
 ---
+<div class="exercise" markdown="1" data-answers='["ب","ب","ج","ب","أ","ب","ب"]' data-type="choice">
+
 
 ## التمرين 3: اختر الإجابة الصحيحة 🎯
 
@@ -75,24 +59,10 @@
 | 6 | Ich arbeite ________ 8 ________ 16 Uhr. | أ) um … bis — ب) von … bis — ج) am … um |
 | 7 | ________ Samstag habe ich kein Deutschkurs. | أ) Um — ب) Am — ج) Von |
 
-✅ **الحل:**
-
-| # | الإجابة | الشرح |
-|---|---------|-------|
-| 1 | **ب (um)** — um 9 Uhr = في الساعة 9 (وقت محدد) |
-| 2 | **ب (Am)** — Am Montag = يوم الاثنين (يوم في الأسبوع) |
-| 3 | **ج (von … bis)** — من 12 إلى 1 (مدة زمنية) |
-| 4 | **ب (um)** — um 17 Uhr = الساعة 5 مساءً (وقت محدد) |
-| 5 | **أ (Am)** — Am Wochenende = في عطلة نهاية الأسبوع |
-| 6 | **ب (von … bis)** — من 8 إلى 4 (مدة زمنية) |
-| 7 | **ب (Am)** — Am Samstag = يوم السبت (يوم في الأسبوع) |
-
-**القاعدة:**
-- **um** + ساعة (وقت محدد) ✅
-- **am** + يوم (اليوم) ✅
-- **von … bis** (من…إلى…، مدة) ✅
-
+</div>
 ---
+<div class="exercise" markdown="1" data-answers='["Montag","Dienstag","Mittwoch","Donnerstag","Freitag","Samstag","Sonntag"]'>
+
 
 ## التمرين 4: أيام الأسبوع — رتب 📅
 
@@ -108,21 +78,10 @@
 | 6 | **______________** |
 | 7 (الأحد) | **______________** |
 
-✅ **الحل:**
-
-| الترتيب | بالألمانية |
-|---------|-----------|
-| 1 | **Montag** |
-| 2 | **Dienstag** |
-| 3 | **Mittwoch** |
-| 4 | **Donnerstag** |
-| 5 | **Freitag** |
-| 6 | **Samstag** |
-| 7 | **Sonntag** |
-
-**نكتة للحفظ:** Mo Di Mi Do Fr Sa So — أول حرفين من كل يوم!
-
+</div>
 ---
+<div class="exercise" markdown="1" data-answers='["beginnt","endet","dauert","ist","stehe … auf","arbeiten","Kommst"]'>
+
 
 ## التمرين 5: املأ الفراغ — تصريف الأفعال 🖊️
 
@@ -138,19 +97,10 @@
 | 6 | Wir ________ von Montag bis Freitag. (arbeiten) | **______________** |
 | 7 | ________ du um 8 Uhr? (kommen) | **______________** |
 
-✅ **الحل:**
-
-| # | الإجابة | الشرح |
-|---|---------|-------|
-| 1 | **beginnt** | Die Arbeit (هي) → يبدأ = beginnt |
-| 2 | **endet** | Der Unterricht (هو) → ينتهي = endet |
-| 3 | **dauert** | Der Film (هو) → يستغرق = dauert |
-| 4 | **ist** | Die Pause (هي) → هو / تكون = ist |
-| 5 | **stehe … auf** | Ich → أستيقظ = stehe auf |
-| 6 | **arbeiten** | Wir → نعمل = arbeiten |
-| 7 | **Kommst** | du → تأتي = kommst |
-
+</div>
 ---
+<div class="exercise" markdown="1" data-answers='["Wie spät ist es?","Es ist Viertel nach drei.","Ich beginne die Arbeit um 8 Uhr.","Die Pause ist von 12 bis 13 Uhr.","Am Montag habe ich einen Termin.","Die Arbeit endet um 17 Uhr.","Ich bin immer pünktlich."]'>
+
 
 ## التمرين 6: ترجم من العربية إلى الألمانية 🌍
 
@@ -166,19 +116,10 @@
 | 6 | العمل ينتهي الساعة 5 مساءً. | **______________** |
 | 7 | أنا دقيق دائماً. | **______________** |
 
-✅ **الحل:**
-
-| # | الألمانية | تعليق |
-|---|-----------|-------|
-| 1 | **Wie spät ist es?** | السؤال الأساسي عن الوقت |
-| 2 | **Es ist Viertel nach drei.** | أو: Es ist 15 Uhr 15 (رسمي) |
-| 3 | **Ich beginne die Arbeit um 8 Uhr.** | Ich beginne = أبدأ / um = في (الساعة) |
-| 4 | **Die Pause ist von 12 bis 13 Uhr.** | von … bis = من … إلى |
-| 5 | **Am Montag habe ich einen Termin.** | Am Montag = يوم الاثنين |
-| 6 | **Die Arbeit endet um 17 Uhr.** | endet = تنتهي |
-| 7 | **Ich bin immer pünktlich.** | immer = دائماً / pünktlich = دقيق |
-
+</div>
 ---
+<div class="exercise" markdown="1" data-answers='["ه","ج","أ","ب","د","ز","و"]' data-type="match">
+
 
 ## التمرين 7: صِل (Match) 🔗
 
@@ -194,19 +135,10 @@
 | 6. Um wie viel Uhr ist die Besprechung? | و. هل أنت دقيق؟ |
 | 7. Bist du pünktlich? | ز. في أي ساعة الاجتماع؟ |
 
-✅ **الحل:**
-
-| # | الإجابة |
-|---|---------|
-| 1 | **ه** — Wie lange dauert der Kurs? = كم تستغرق الدورة؟ |
-| 2 | **ج** — Wann beginnt die Arbeit? = متى يبدأ العمل؟ |
-| 3 | **أ** — Die Arbeit beginnt um 8 Uhr. = العمل يبدأ الساعة 8. |
-| 4 | **ب** — Es ist halb zehn. = الساعة 9:30. |
-| 5 | **د** — Am Samstag bin ich frei. = أنا في عطلة يوم السبت. |
-| 6 | **ز** — Um wie viel Uhr ist die Besprechung? = في أي ساعة الاجتماع؟ |
-| 7 | **و** — Bist du pünktlich? = هل أنت دقيق؟ |
-
+</div>
 ---
+<div class="exercise" markdown="1" data-answers='["Ich arbeite von 8 bis 17 Uhr.","Um 9 Uhr beginnt die Arbeit.","Die Pause dauert eine halbe Stunde.","Es ist halb zwei = 13:30.","Am Wochenende arbeite ich nicht.","Am Montag habe ich frei."]'>
+
 
 ## التمرين 8: صحح الخطأ ❌
 
@@ -221,18 +153,10 @@
 | 5 | Am Wochenende arbeite ich um Montag. | **______________** |
 | 6 | Um Montag habe ich frei. | **______________** |
 
-✅ **الحل:**
-
-| # | الصحيح | الشرح |
-|---|--------|-------|
-| 1 | **Ich arbeite von 8 bis 17 Uhr.** | المدة الزمنية تحتاج **von…bis**، ليس **um…bis** |
-| 2 | **Um 9 Uhr beginnt die Arbeit.** | الساعة المحددة تحتاج **um**، ليس **am** |
-| 3 | **Die Pause dauert eine halbe Stunde.** | نصف ساعة = halbe Stunde، نصف دقيقة قصير جداً للاستراحة 😄 |
-| 4 | **Es ist halb zwei = 13:30.** | halb zwei = 1:30 (نصف الطريق إلى 2)، ليس 2:30 |
-| 5 | **Am Wochenende arbeite ich nicht.** | الجملة صحيحة نحوياً لكن المعنى خطأ — يوم العطلة ما نعمل |
-| 6 | **Am Montag habe ich frei.** | اليوم نستخدم معه **am**، ليس **um** |
-
+</div>
 ---
+<div class="exercise" markdown="1" data-answers='["Peter beginnt die Arbeit um 8 Uhr.","Peter arbeitet am Montag von 8 bis 16 Uhr. Das sind 8 Stunden.","Am Mittwoch endet die Arbeit um 12 Uhr.","Ja, am Samstag ist Peter frei.","Peter arbeitet 5 Tage in der Woche.","Die Pause ist um 12 Uhr."]'>
+
 
 ## التمرين 9: اقرأ جدول أوقات العمل 📋
 
@@ -259,18 +183,10 @@
 | 5 | Wie viele Tage arbeitet Peter in der Woche? | **______________** |
 | 6 | Wann hat Peter am Dienstag Pause (von 12 — 13 Uhr)? | **______________** |
 
-✅ **الحل:**
-
-| # | الإجابة | الترجمة |
-|---|---------|---------|
-| 1 | **Peter beginnt die Arbeit um 8 Uhr.** | بيتر يبدأ العمل الساعة 8. |
-| 2 | **Peter arbeitet am Montag von 8 bis 16 Uhr. Das sind 8 Stunden.** | بيتر يعمل يوم الاثنين من 8 إلى 4. 8 ساعات. |
-| 3 | **Am Mittwoch endet die Arbeit um 12 Uhr.** | يوم الأربعاء ينتهي العمل الساعة 12. |
-| 4 | **Ja, am Samstag ist Peter frei.** | نعم، يوم السبت بيتر في عطلة. |
-| 5 | **Peter arbeitet 5 Tage in der Woche.** | بيتر يعمل 5 أيام في الأسبوع. |
-| 6 | **Die Pause ist um 12 Uhr.** | الاستراحة الساعة 12. |
-
+</div>
 ---
+<div class="exercise" markdown="1" data-answers='["Die Arbeit beginnt um 8 Uhr.","Wie spät ist es?","Der Film dauert eine Stunde.","Die Pause ist von 12 bis 13 Uhr.","Am Wochenende habe ich frei.","Bist du pünktlich?","Am Montag habe ich einen Termin."]'>
+
 
 ## التمرين 10: كوّن جملة 🧩
 
@@ -286,21 +202,7 @@
 | 6 | du / pünktlich / Bist / ? | **______________** |
 | 7 | Montag / Am / ich / einen Termin / habe | **______________** |
 
-✅ **الحل:**
-
-| # | الجملة الصحيحة | الترجمة |
-|---|-----------------|---------|
-| 1 | **Die Arbeit beginnt um 8 Uhr.** | العمل يبدأ الساعة 8. |
-| 2 | **Wie spät ist es?** | كم الساعة؟ |
-| 3 | **Der Film dauert eine Stunde.** | الفيلم يستغرق ساعة. |
-| 4 | **Die Pause ist von 12 bis 13 Uhr.** | الاستراحة من 12 إلى 1. |
-| 5 | **Am Wochenende habe ich frei.** | في عطلة نهاية الأسبوع أنا حر. |
-| 6 | **Bist du pünktlich?** | هل أنت دقيق؟ |
-| 7 | **Am Montag habe ich einen Termin.** | يوم الاثنين عندي موعد. |
-
-**تذكير بترتيب الجملة الألمانية:** الفعل في المكان الثاني دائماً!  
-مثلاً: Die Arbeit **beginnt** um 8 Uhr. / Am Montag **habe** ich einen Termin.
-
+</div>
 ---
 
 ## 📊 جدول تقدمك

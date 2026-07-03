@@ -9,6 +9,8 @@
 
 **اختر وسيلة النقل المناسبة للجملة:**
 
+<div class="exercise" markdown="1">
+
 | # | وسيلة النقل |
 |---|-------------|
 | **أ** | **der Bus** — الباص |
@@ -17,6 +19,10 @@
 | **د** | **das Fahrrad** — الدراجة |
 | **هـ** | **das Flugzeug** — الطيارة |
 | **و** | **das Schiff** — السفينة |
+
+</div>
+
+<div class="exercise" markdown="1" data-type="choice" data-answers='["أ","ب","ج","هـ","و","د"]'>
 
 | # | الجملة | الإجابة |
 |---|--------|---------|
@@ -27,16 +33,7 @@
 | 5 | Ich fahre mit dem ___________ zum Strand. (على الماء) | **____** |
 | 6 | Kinder fahren mit dem ___________ zur Schule. (رياضة — دوستين) | **____** |
 
-✅ **الحل:**
-
-| # | الإجابة |
-|---|---------|
-| 1 | **أ (der Bus)** — Ich fahre mit dem Bus zur Schule. |
-| 2 | **ب (der Zug)** — Wir fahren mit dem Zug nach Berlin. |
-| 3 | **ج (die U-Bahn)** — Sie fährt mit der U-Bahn in die Stadt. |
-| 4 | **هـ (das Flugzeug)** — Er fährt mit dem Flugzeug nach Ägypten. |
-| 5 | **و (das Schiff)** — Ich fahre mit dem Schiff zum Strand. |
-| 6 | **د (das Fahrrad)** — Kinder fahren mit dem Fahrrad zur Schule. |
+</div>
 
 ---
 
@@ -55,18 +52,20 @@
 | 7 | ___________ du mit dem Fahrrad? (fahren) | **______________** |
 | 8 | Meine Mutter ___________ mit dem Bus zur Arbeit. (fahren) | **______________** |
 
-✅ **الحل:**
+<div class="exercise" markdown="1" data-answers='["fahre","fährst","fährt","fahren","fahrt","fahren","Fährst","fährt"]'>
 
-| # | الإجابة | الشرح |
-|---|---------|-------|
-| 1 | **fahre** | Ich → fahre |
-| 2 | **fährst** | Du → fährst (يتغير حرف العلة a → ä) |
-| 3 | **fährt** | Er → fährt (يتغير حرف العلة a → ä) |
-| 4 | **fahren** | Wir → fahren (المصدر) |
-| 5 | **fahrt** | Ihr → fahrt |
-| 6 | **fahren** | Sie (هم) → fahren (المصدر) |
-| 7 | **Fährst** | Fährst du? = هل تذهب؟ |
-| 8 | **fährt** | Meine Mutter (هي) → fährt |
+| # | الجملة | التصريف الصحيح |
+|---|--------|---------------|
+| 1 | Ich ___________ mit dem Bus. (fahren) | **______________** |
+| 2 | Du ___________ mit der Bahn. (fahren) | **______________** |
+| 3 | Er ___________ mit dem Auto. (fahren) | **______________** |
+| 4 | Wir ___________ mit dem Zug. (fahren) | **______________** |
+| 5 | Ihr ___________ mit dem Taxi. (fahren) | **______________** |
+| 6 | Sie (they) ___________ mit der U-Bahn. (fahren) | **______________** |
+| 7 | ___________ du mit dem Fahrrad? (fahren) | **______________** |
+| 8 | Meine Mutter ___________ mit dem Bus zur Arbeit. (fahren) | **______________** |
+
+</div>
 
 ---
 
@@ -74,33 +73,27 @@
 
 **صِل الجملة الألمانية بالترجمة العربية الصحيحة:**
 
-| الألمانية | العربية |
-|-----------|---------|
-| 1. Eine Fahrkarte bitte! | أ. تذكرة اليوم الكامل |
-| 2. Einfach oder hin und zurück? | ب. كم السعر؟ |
-| 3. Die Tageskarte | ج. تذكرة من فضلك! |
-| 4. Was kostet das? | د. اتجاه واحد ولا رايح جاي؟ |
-| 5. Der Automat | ه. كم تستغرق الرحلة؟ |
-| 6. Wie lange dauert die Fahrt? | و. آلة التذاكر |
-| 7. Gute Reise! | ز. رحلة سعيدة! |
+<div class="exercise" markdown="1" data-type="match" data-answers='["ج","د","أ","ب","و","ه","ز"]' data-options='["أ","ب","ج","د","ه","و","ز"]'>
 
-✅ **الحل:**
+| الألمانية | العربية | الحرف |
+|-----------|---------|:-----:|
+| 1. Eine Fahrkarte bitte! | أ. تذكرة اليوم الكامل | |
+| 2. Einfach oder hin und zurück? | ب. كم السعر؟ | |
+| 3. Die Tageskarte | ج. تذكرة من فضلك! | |
+| 4. Was kostet das? | د. اتجاه واحد ولا رايح جاي؟ | |
+| 5. Der Automat | ه. كم تستغرق الرحلة؟ | |
+| 6. Wie lange dauert die Fahrt? | و. آلة التذاكر | |
+| 7. Gute Reise! | ز. رحلة سعيدة! | |
 
-| # | الإجابة |
-|---|---------|
-| 1 | **ج** — Eine Fahrkarte bitte! = تذكرة من فضلك! |
-| 2 | **د** — Einfach oder hin und zurück? = اتجاه واحد ولا رايح جاي؟ |
-| 3 | **أ** — Die Tageskarte = تذكرة اليوم الكامل |
-| 4 | **ب** — Was kostet das? = كم السعر؟ |
-| 5 | **و** — Der Automat = آلة التذاكر |
-| 6 | **هـ** — Wie lange dauert die Fahrt? = كم تستغرق الرحلة؟ |
-| 7 | **ز** — Gute Reise! = رحلة سعيدة! |
+</div>
 
 ---
 
 ## التمرين 4: املأ الفراغ — **mit** + وسيلة النقل 🚍
 
 **اكمل الجملة بـ **mit** + وسيلة النقل الصحيحة (انتبه لـ Dativ!):**
+
+<div class="exercise" markdown="1" data-answers='["mit dem Bus","mit dem Zug","mit der U-Bahn","mit dem Auto","mit dem Fahrrad","mit dem Flugzeug","mit der S-Bahn","mit dem Taxi"]'>
 
 | # | الجملة | أكمل |
 |---|--------|------|
@@ -113,24 +106,15 @@
 | 7 | Fährst du ___________ (die S-Bahn)? | **______________** |
 | 8 | Sie fahren ___________ (das Taxi) zum Hotel. | **______________** |
 
-✅ **الحل:**
-
-| # | الإجابة | الشرح |
-|---|---------|-------|
-| 1 | **mit dem Bus** | der Bus → Dativ = dem Bus |
-| 2 | **mit dem Zug** | der Zug → Dativ = dem Zug |
-| 3 | **mit der U-Bahn** | die U-Bahn → Dativ = der U-Bahn |
-| 4 | **mit dem Auto** | das Auto → Dativ = dem Auto |
-| 5 | **mit dem Fahrrad** | das Fahrrad → Dativ = dem Fahrrad |
-| 6 | **mit dem Flugzeug** | das Flugzeug → Dativ = dem Flugzeug |
-| 7 | **mit der S-Bahn** | die S-Bahn → Dativ = der S-Bahn |
-| 8 | **mit dem Taxi** | das Taxi → Dativ = dem Taxi |
+</div>
 
 ---
 
 ## التمرين 5: ترجم من العربية إلى الألمانية 🌍
 
 **ترجم هذه الجمل:**
+
+<div class="exercise" markdown="1" data-answers='["Ich möchte eine Fahrkarte nach Berlin, bitte.","Wann fährt der Zug?","Wie lange dauert die Fahrt?","Ich fahre mit dem Bus zur Schule.","Von welchem Gleis?","Gute Reise!","Wo ist der Ausgang?","Was kostet das?"]'>
 
 | # | العربية | الألمانية |
 |---|---------|-----------|
@@ -143,24 +127,15 @@
 | 7 | وين المخرج؟ | **______________** |
 | 8 | كم السعر؟ | **______________** |
 
-✅ **الحل:**
-
-| # | الألمانية | تعليق |
-|---|-----------|-------|
-| 1 | **Ich möchte eine Fahrkarte nach Berlin, bitte.** | أو: Eine Fahrkarte nach Berlin bitte! |
-| 2 | **Wann fährt der Zug?** | fährt = يتحرك / يذهب (لوسيلة النقل) |
-| 3 | **Wie lange dauert die Fahrt?** | die Fahrt = الرحلة |
-| 4 | **Ich fahre mit dem Bus zur Schule.** | mit dem Bus = بالباص |
-| 5 | **Von welchem Gleis?** | Gleis = الرصيف |
-| 6 | **Gute Reise!** | تقال للمسافر |
-| 7 | **Wo ist der Ausgang?** | der Ausgang = المخرج |
-| 8 | **Was kostet das?** | kosten = يكلف |
+</div>
 
 ---
 
 ## التمرين 6: صحح الخطأ ❌
 
 **في كل جملة خطأ واحد. اكتب الجملة الصحيحة:**
+
+<div class="exercise" markdown="1" data-answers='["Ich fahre mit dem Bus.","Wann fährt der Zug?","Einfach oder hin und zurück?","Wir fahren mit dem Taxi.","Wo ist das Gleis?","Das kostet 5 Euro.","Fahrt ihr mit dem Bus?"]'>
 
 | # | الجملة (فيها خطأ) | الصحيح |
 |---|------------------|--------|
@@ -172,17 +147,7 @@
 | 6 | Das kosten 5 Euro. | **______________** |
 | 7 | Fährst ihr mit dem Bus? | **______________** |
 
-✅ **الحل:**
-
-| # | الصحيح | الشرح |
-|---|--------|-------|
-| 1 | **Ich fahre mit dem Bus.** | der Bus → Dativ = **dem** Bus (ليس der) |
-| 2 | **Wann fährt der Zug?** | der Zug (هو) → **fährt** (ليس fahrt — fahrt حق ihr) |
-| 3 | **Einfach oder hin und zurück?** | السؤال الصحيح: **oder** (أو) ليس und (و) |
-| 4 | **Wir fahren mit dem Taxi.** | Wir → **fahren** (ليس fährt — fährt حق er/sie/es) |
-| 5 | **Wo ist das Gleis?** | das Gleis (محايد) → **das** (ليس der) |
-| 6 | **Das kostet 5 Euro.** | Das (هو) → **kostet** (ليس kosten — kosten حق wir/sie) |
-| 7 | **Fahrt ihr mit dem Bus?** | ihr → **fahrt** (ليس fährst — fährst حق du) |
+</div>
 
 ---
 
@@ -197,6 +162,8 @@
 | RE 7 | 12:15 | Gleis 1 | 4 Stunden | 40 € |
 | ICE 309 | 14:45 | Gleis 2 | 3 Stunden | 90 € |
 
+<div class="exercise" markdown="1" data-answers='["ICE 101 fährt um 8 Uhr.","ICE 205 fährt von Gleis 5.","Die Fahrt dauert 4 Stunden.","ICE 309 kostet 90 Euro.","RE 7 ist am billigsten. Er kostet 40 Euro.","ICE 205 fährt um 10:30."]'>
+
 **الأسئلة:**
 
 | # | السؤال | الإجابة بالألمانية |
@@ -208,22 +175,15 @@
 | 5 | Welcher Zug ist am billigsten (أرخص واحد) ? | **______________** |
 | 6 | Welcher Zug fährt um 10:30? | **______________** |
 
-✅ **الحل:**
-
-| # | الإجابة | الترجمة |
-|---|---------|---------|
-| 1 | **ICE 101 fährt um 8 Uhr.** | ICE 101 يتحرك الساعة 8. |
-| 2 | **ICE 205 fährt von Gleis 5.** | ICE 205 من الرصيف 5. |
-| 3 | **Die Fahrt dauert 4 Stunden.** | الرحلة تستغرق 4 ساعات. |
-| 4 | **ICE 309 kostet 90 Euro.** | ICE 309 سعره 90 يورو. |
-| 5 | **RE 7 ist am billigsten. Er kostet 40 Euro.** | RE 7 هو الأرخص. سعره 40 يورو. |
-| 6 | **ICE 205 fährt um 10:30.** | ICE 205 يتحرك الساعة 10:30. |
+</div>
 
 ---
 
 ## التمرين 8: رتب الكلمات لتكون جملة 🧩
 
 **رتب الكلمات لتكون جملة صحيحة:**
+
+<div class="exercise" markdown="1" data-answers='["Ich möchte eine Fahrkarte.","Wann fährt der Zug?","Ich fahre mit dem Bus.","Das kostet 60 Euro.","Wie lange dauert die Fahrt?","Wo ist Gleis 5?","Gute Reise!","Fahren Sie mit dem Taxi?"]'>
 
 | # | الكلمات | الجملة الصحيحة |
 |---|---------|----------------|
@@ -236,24 +196,13 @@
 | 7 | Reise / Gute / ! | **______________** |
 | 8 | dem / Taxi / mit / Sie / Fahren / ? | **______________** |
 
-✅ **الحل:**
-
-| # | الجملة الصحيحة | الترجمة |
-|---|-----------------|---------|
-| 1 | **Ich möchte eine Fahrkarte.** | أريد تذكرة. |
-| 2 | **Wann fährt der Zug?** | متى يتحرك القطار؟ |
-| 3 | **Ich fahre mit dem Bus.** | أنا أذهب بالباص. |
-| 4 | **Das kostet 60 Euro.** | السعر 60 يورو. |
-| 5 | **Wie lange dauert die Fahrt?** | كم تستغرق الرحلة؟ |
-| 6 | **Wo ist Gleis 5?** | وين الرصيف 5؟ |
-| 7 | **Gute Reise!** | رحلة سعيدة! |
-| 8 | **Fahren Sie mit dem Taxi?** | هل تذهبون بالتاكسي؟ |
+</div>
 
 ---
 
 ## التمرين 9: حوار في المحطة — رتب المحادثة 💬
 
-**رتب الجمل بالترتيب الصحيح ليكون حواراً منطقياً (من 1 إلى 6):**
+**رتب الجمل بالترتيب الصحيح ليكون حواراً منطقياً (من 1 إلى 7):**
 
 | الترتيب | الجملة |
 |:-------:|--------|

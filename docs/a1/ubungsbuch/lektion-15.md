@@ -9,6 +9,7 @@
 
 **اختر zum أو zur:**
 
+<div class="exercise" markdown="1" data-answers='["zum", "zur", "zum", "zur", "zum", "zur", "zum", "zur", "zum", "zur"]'>
 | # | الجملة | zum / zur |
 |---|--------|-----------|
 | 1 | Wie komme ich ___ Bahnhof? | **______** |
@@ -22,27 +23,13 @@
 | 9 | Wie komme ich ___ Restaurant? | **______** |
 | 10 | Wie komme ich ___ Kirche? | **______** |
 
-✅ **الحل:**
-
-| # | الإجابة | الشرح |
-|---|---------|-------|
-| 1 | **zum** | der Bahnhof (مذكر) → zu + dem = zum |
-| 2 | **zur** | die Post (مؤنث) → zu + der = zur |
-| 3 | **zum** | das Krankenhaus (محايد) → zu + dem = zum |
-| 4 | **zur** | die Schule (مؤنث) → zu + der = zur |
-| 5 | **zum** | der Supermarkt (مذكر) → zu + dem = zum |
-| 6 | **zur** | die Apotheke (مؤنث) → zu + der = zur |
-| 7 | **zum** | das Kino (محايد) → zu + dem = zum |
-| 8 | **zur** | die Bibliothek (مؤنث) → zu + der = zur |
-| 9 | **zum** | das Restaurant (محايد) → zu + dem = zum |
-| 10 | **zur** | die Kirche (مؤنث) → zu + der = zur |
-
+</div>
 ---
-
 ## التمرين 2: اختر الإجابة الصحيحة 🔘
 
 **اختر a, b أو c:**
 
+<div class="exercise" markdown="1" data-type="choice" data-answers='["b", "c", "b", "b", "b", "a", "c", "c", "a", "b"]'>
 1. Entschuldigung! Wie komme ich ___ Bahnhof?
    - a) zur
    - b) zum
@@ -93,27 +80,13 @@
     - b) Bitte schön!
     - c) Hallo!
 
-✅ **الحل:**
-
-| # | الإجابة | الشرح |
-|---|---------|-------|
-| 1 | **b** | der Bahnhof → zum Bahnhof |
-| 2 | **c** | geradeaus = straight |
-| 3 | **b** | die Ampel = إشارة مرور |
-| 4 | **b** | die Post → zur Post |
-| 5 | **b** | dann = بعدين / then |
-| 6 | **a** | weit = بعيد / far |
-| 7 | **c** | Bitte schön = عفواً (الرد على شكراً) |
-| 8 | **c** | das Kino (محايد) |
-| 9 | **a** | die Kreuzung = تقاطع |
-| 10 | **b** | Bitte schön = على الرحب |
-
+</div>
 ---
-
 ## التمرين 3: صِل (Match) 🔗
 
 **صِل الجملة الألمانية بالترجمة العربية الصحيحة:**
 
+<div class="exercise" markdown="1" data-type="match" data-answers='["ه", "أ", "ب", "ج", "د", "ز", "و", "ي", "ح", "ط"]'>
 | # | Deutsch | # | Arabisch |
 |---|---------|---|----------|
 | 1 | Wie komme ich zum Bahnhof? | أ | اذهب straight، بعدين يسار. |
@@ -127,11 +100,8 @@
 | 9 | Ist das weit? | ط | شكراً جزيلاً! |
 | 10 | Vielen Dank! | ي | عفواً! |
 
-✅ **الحل:**
-1 ← **ه**, 2 ← **أ**, 3 ← **ب**, 4 ← **ج**, 5 ← **د**, 6 ← **ز**, 7 ← **و**, 8 ← **ي**, 9 ← **ح**, 10 ← **ط**
-
+</div>
 ---
-
 ## التمرين 4: رتّب الكلمات لتكوين جملة صحيحة 🔄
 
 **رتب الكلمات في كل سطر لتكون جملة ألمانية صحيحة:**
@@ -176,6 +146,7 @@
 
 **ترجم الجمل التالية إلى الألمانية:**
 
+<div class="exercise" markdown="1" data-answers='["Wie komme ich zum Supermarkt?", "Wo ist das Krankenhaus?", "Gehen Sie geradeaus.", "Dann rechts.", "An der Ampel links.", "Es ist nicht weit.", "Das Café ist um die Ecke.", "Vielen Dank! — Bitte schön!", "Der Bahnhof ist rechts.", "Ist das weit?"]'>
 | # | العربية | الألمانية |
 |---|---------|----------|
 | 1 | كيف أوصل للسوبرماركت؟ | **__________________** |
@@ -189,27 +160,13 @@
 | 9 | المحطة على اليمين. | **__________________** |
 | 10 | هل هذا بعيد؟ | **__________________** |
 
-✅ **الحل:**
-
-| # | الألمانية |
-|---|----------|
-| 1 | **Wie komme ich zum Supermarkt?** |
-| 2 | **Wo ist das Krankenhaus?** |
-| 3 | **Gehen Sie geradeaus.** |
-| 4 | **Dann rechts.** |
-| 5 | **An der Ampel links.** |
-| 6 | **Es ist nicht weit.** |
-| 7 | **Das Café ist um die Ecke.** |
-| 8 | **Vielen Dank! — Bitte schön!** |
-| 9 | **Der Bahnhof ist rechts.** |
-| 10 | **Ist das weit?** |
-
+</div>
 ---
-
 ## التمرين 6: صحح الخطأ ❌🔧
 
 **في كل جملة خطأ واحد. ابحث عنه وصححه:**
 
+<div class="exercise" markdown="1" data-answers='["zum", "geradeaus", "An der Ampel", "zur", "das", "um die", "die zweite", "Entschuldigung!"]'>
 | # | الجملة الخطأ | التصحيح |
 |---|-------------|---------|
 | 1 | Wie komme ich **zur** Bahnhof? | **__________________** |
@@ -221,21 +178,8 @@
 | 7 | Gehen Sie **die erste** Straße rechts. | **__________________** |
 | 8 | **Entschuldigung** (بدون علامة). | **__________________** |
 
-✅ **الحل:**
-
-| # | التصحيح | الشرح |
-|---|---------|-------|
-| 1 | **zum** Bahnhof | der Bahnhof → zu + dem = zum (مذكر) |
-| 2 | Gehen Sie **geradeaus** | geradeaus = straight ahead |
-| 3 | **An der Ampel** | die Ampel = إشارة مرور |
-| 4 | **zur** Apotheke | die Apotheke → zu + der = zur (مؤنث) |
-| 5 | Wo ist **das** Kino? | das Kino (محايد) |
-| 6 | Das Café ist **um die** Ecke. | **um die** Ecke = around the corner (وليس an) |
-| 7 | Gehen Sie **die zweite** Straße rechts | second street = die zweite (الثانية) |
-| 8 | **Entschuldigung!** | لازم علامة تعجب لأنها أداة استئذان |
-
+</div>
 ---
-
 ## التمرين 7: اقرأ الحوار وأكمل 📖
 
 **اقرأ الحوار ثم أكمل الجمل:**
@@ -277,6 +221,7 @@
 
 **في كل جملة كلمة ناقصة. أكملها:**
 
+<div class="exercise" markdown="1" data-answers='["zum", "geradeaus", "Ampel", "Um", "weit", "Entschuldigung", "Vielen", "zweite", "in", "zur"]'>
 1. Wie komme ich ___ Bahnhof? (zu + dem)
    → **______**
 
@@ -307,23 +252,8 @@
 10. Wie komme ich ___ Post? (zu + der)
     → **______**
 
-✅ **الحل:**
-
-| # | الإجابة |
-|---|---------|
-| 1 | **zum** — Wie komme ich **zum** Bahnhof? |
-| 2 | **geradeaus** — Gehen Sie **geradeaus**. |
-| 3 | **Ampel** — An der **Ampel** links. |
-| 4 | **Um** — **Um** die Ecke. |
-| 5 | **weit** — Es ist nicht **weit**. |
-| 6 | **Entschuldigung** — **Entschuldigung!** |
-| 7 | **Vielen** — **Vielen** Dank! |
-| 8 | **zweite** — die **zweite** Straße rechts |
-| 9 | **in** — **in** der Bahnhofstraße |
-| 10 | **zur** — Wie komme ich **zur** Post? |
-
+</div>
 ---
-
 ## التمرين 9: اقرأ الخريطة واكتب الاتجاهات 🗺️
 
 **اقرأ الوصف: أنت واقف عند "der Markt". اكتب الاتجاهات لكل مكان:**
@@ -352,20 +282,14 @@
 
 **أكمل الجمل:**
 
+<div class="exercise" markdown="1" data-answers='["geradeaus", "geradeaus", "geradeaus", "links"]'>
 1. Von (من) **dem Markt** zur **Post**: "Gehen Sie _____, dann an der _____ links."
 2. Von **dem Markt** zum **Bahnhof**: "Gehen Sie _____, dann an der Ampel _____, dann an der Kreuzung _____."
 3. Von **dem Markt** zum **Kino**: "Gehen Sie _____, dann an der Ampel _____, das Kino ist dann _____."
 4. Von **dem Markt** zur **Kirche**: "Gehen Sie _____, die Kirche ist _____."
 
-✅ **الحل:**
-
-1. **geradeaus** — **Ampel** (اذهب straight، بعدين عند الإشارة يسار)
-2. **geradeaus** — **geradeaus** — **links** (اذهب straight، بعدين straight عند الإشارة، بعدين عند التقاطع يسار)
-3. **geradeaus** — **rechts** — **links** (اذهب straight، بعدين عند الإشارة يمين، السينما بتكون بعدين يسار)
-4. **links** — **links** (اذهب يسار، الكنيسة بتكون على اليسار)
-
+</div>
 ---
-
 ## التمرين 10: اكتب حواراً قصيراً 🎭
 
 **اكتب حواراً قصيراً باللغة الألمانية. شخص يسأل عن الطريق إلى مكان، وشخص آخر يرد عليه. استخدم الكلمات:**

@@ -9,6 +9,8 @@
 
 **Look at the picture (in your head): This is Mohammed's family. Fill in the correct family member:**
 
+<div class="exercise" markdown="1" data-answers='["der Vater","die Mutter","der Sohn","die Tochter","der Opa","die Oma"]'>
+
 | Sentence | German word |
 |----------|-------------|
 | 1. Mohammed is the **_________** (father). | |
@@ -18,22 +20,15 @@
 | 5. Abbas is the **_________** (grandpa) of Ahmed and Mariam. | |
 | 6. Zainab is the **_________** (grandma) of Ahmed and Mariam. | |
 
-✅ **Solution:**
-
-| # | Answer |
-|---|--------|
-| 1 | **der Vater** |
-| 2 | **die Mutter** |
-| 3 | **der Sohn** |
-| 4 | **die Tochter** |
-| 5 | **der Opa / der Großvater** |
-| 6 | **die Oma / die Großmutter** |
+</div>
 
 ---
 
 ## Exercise 2: Choose mein or meine 🎯
 
 **Choose: mein or meine?**
+
+<div class="exercise" markdown="1" data-type="choice" data-answers='["mein","meine","mein","meine","mein","meine","mein","meine"]'>
 
 | # | Sentence | mein | meine |
 |---|----------|:----:|:-----:|
@@ -46,24 +41,15 @@
 | 7 | Das ist _____ Haus. | ⬜ | ⬜ |
 | 8 | Das ist _____ Oma. | ⬜ | ⬜ |
 
-✅ **Solution:**
-
-| # | Answer | Explanation |
-|---|--------|-------------|
-| 1 | **mein** | Vater is masculine (der) → mein |
-| 2 | **meine** | Mutter is feminine (die) → meine |
-| 3 | **mein** | Bruder is masculine (der) → mein |
-| 4 | **meine** | Schwester is feminine (die) → meine |
-| 5 | **mein** | Kind is neuter (das) → mein |
-| 6 | **meine** | Kinder is plural (die) → meine |
-| 7 | **mein** | Haus is neuter (das) → mein |
-| 8 | **meine** | Oma is feminine (die) → meine |
+</div>
 
 ---
 
 ## Exercise 3: Match — Possessive Articles 🔗
 
 **Match the owner with the correct possessive word:**
+
+<div class="exercise" markdown="1" data-answers='["C","E","A","F","D","B"]'>
 
 | Owner | Possessive Word |
 |:-----:|:---------------:|
@@ -74,22 +60,15 @@
 | 5. wir (we) | E. dein |
 | 6. ihr (you guys) | F. ihr |
 
-✅ **Solution:**
-
-| # | Answer |
-|---|--------|
-| 1 | **C** — ich → mein |
-| 2 | **E** — du → dein |
-| 3 | **A** — er → sein |
-| 4 | **F** — sie (she) → ihr |
-| 5 | **D** — wir → unser |
-| 6 | **B** — ihr (you guys) → euer |
+</div>
 
 ---
 
 ## Exercise 4: Fill in the Blank — Possessive Articles ✍️
 
 **Write the correct possessive article (mein / meine / dein / deine / sein / seine / ihr / ihre / unser / unsere / euer / eure):**
+
+<div class="exercise" markdown="1" data-answers='["Mein","Deine","Sein","Ihre","Unser","Euer","Meine","Dein","Ihre","Unsere"]'>
 
 | # | Sentence | Answer |
 |---|----------|--------|
@@ -104,26 +83,15 @@
 | 9 | Sie (they) haben Kinder. _____ Kinder spielen. | ________ |
 | 10 | Wir haben eine Tante. _____ Tante heißt Anna. | ________ |
 
-✅ **Solution:**
-
-| # | Answer | Explanation |
-|---|--------|-------------|
-| 1 | **Mein** | ich → mein + Bruder (masculine) → mein |
-| 2 | **Deine** | du → dein + Schwester (feminine) → deine |
-| 3 | **Sein** | er → sein + Hund (masculine) → sein |
-| 4 | **Ihre** | sie (she) → ihr + Katze (feminine) → ihre |
-| 5 | **Unser** | wir → unser + Haus (neuter) → unser |
-| 6 | **Euer** | ihr (you guys) → euer + Buch (neuter) → euer |
-| 7 | **Meine** | ich → mein + Mutter (feminine) → meine |
-| 8 | **Dein** | du → dein + Opa (masculine) → dein |
-| 9 | **Ihre** | sie (they) → ihr + Kinder (plural) → ihre |
-| 10 | **Unsere** | wir → unser + Tante (feminine) → unsere |
+</div>
 
 ---
 
 ## Exercise 5: Correct the Mistake ❌
 
 **Each sentence has ONE mistake. Correct it:**
+
+<div class="exercise" markdown="1" data-answers='["meine Mutter","dein Vater","sein Bruder","unsere Oma","euer Kind","meine Kinder","ihr Onkel","dein Haus"]'>
 
 | # | Sentence (wrong) | Correction |
 |---|------------------|------------|
@@ -136,24 +104,15 @@
 | 7 | Das ist **ihre** Onkel. | ______________ |
 | 8 | Das ist **deine** Haus. | ______________ |
 
-✅ **Solution:**
-
-| # | Correction | Explanation |
-|---|------------|-------------|
-| 1 | **meine** Mutter | Mutter is feminine → meine (not mein) |
-| 2 | **dein** Vater | Vater is masculine → dein (not deine) |
-| 3 | **sein** Bruder | Bruder is masculine → sein (not seine) |
-| 4 | **unsere** Oma | Oma is feminine → unsere (not unser) |
-| 5 | **euer** Kind | Kind is neuter → euer (not eure) |
-| 6 | **meine** Kinder | Kinder is plural → meine (not mein) |
-| 7 | **ihr** Onkel | Onkel is masculine → ihr (not ihre) |
-| 8 | **dein** Haus | Haus is neuter → dein (not deine) |
+</div>
 
 ---
 
 ## Exercise 6: Translate 🌍
 
 **Translate these sentences from English to German:**
+
+<div class="exercise" markdown="1" data-answers='["Das ist mein Vater.","Das ist meine Schwester.","Ist das dein Bruder?","Ja, das ist mein Hund.","Deine Schwester ist klein.","Das ist unser Haus.","Meine Oma ist nett.","Ihre Kinder spielen."]'>
 
 | # | English | German |
 |---|---------|--------|
@@ -166,24 +125,15 @@
 | 7 | My grandma is nice. | ______________ |
 | 8 | Their children are playing. | ______________ |
 
-✅ **Solution:**
-
-| # | German | Notes |
-|---|--------|-------|
-| 1 | **Das ist mein Vater.** | Vater is masculine → mein |
-| 2 | **Das ist meine Schwester.** | Schwester is feminine → meine |
-| 3 | **Ist das dein Bruder?** | Bruder is masculine → dein |
-| 4 | **Ja, das ist mein Hund.** | Hund is masculine → mein |
-| 5 | **Deine Schwester ist klein.** | Schwester is feminine → deine |
-| 6 | **Das ist unser Haus.** | Haus is neuter → unser |
-| 7 | **Meine Oma ist nett / süß.** | Oma is feminine → meine |
-| 8 | **Ihre Kinder spielen.** | sie (they) → ihr + Kinder (plural) → ihre |
+</div>
 
 ---
 
 ## Exercise 7: Multiple Choice 🎯
 
 **Choose the correct possessive article:**
+
+<div class="exercise" markdown="1" data-type="choice" data-answers='["B","B","C","B","A","B","A","B"]'>
 
 | # | Sentence | A | B | C |
 |---|----------|---|---|---|
@@ -196,24 +146,15 @@
 | 7 | _____ Vater ist groß. (ich) | **Mein** | Meine | Meinen |
 | 8 | _____ Kinder sind klein. (wir) | Unser | **Unsere** | Unseren |
 
-✅ **Solution:**
-
-| # | Answer | Explanation |
-|---|--------|-------------|
-| 1 | **B (meine)** | Schwester is feminine → meine |
-| 2 | **B (dein)** | Bruder is masculine → dein |
-| 3 | **C (sein)** | Hund is masculine → sein |
-| 4 | **B (ihre)** | Katze is feminine → ihre |
-| 5 | **A (unser)** | Haus is neuter → unser |
-| 6 | **B (eure)** | Oma is feminine → eure |
-| 7 | **A (Mein)** | Vater is masculine → mein |
-| 8 | **B (Unsere)** | Kinder is plural → unsere |
+</div>
 
 ---
 
 ## Exercise 8: Put in Order 🧩
 
 **Put the words in the correct order to make a proper sentence:**
+
+<div class="exercise" markdown="1" data-answers='["Das ist mein Vater.","Meine Schwester heißt Lina.","Ist das dein Bruder?","Unsere Katze ist süß.","Ihre Kinder spielen.","Euer Haus ist groß."]'>
 
 | # | Words | Correct Sentence |
 |---|-------|-----------------|
@@ -224,16 +165,7 @@
 | 5 | spielen / Kinder / ihre | ______________ |
 | 6 | euer / ist / Haus / groß | ______________ |
 
-✅ **Solution:**
-
-| # | Correct Sentence | Translation |
-|---|------------------|-------------|
-| 1 | **Das ist mein Vater.** | This is my father. |
-| 2 | **Meine Schwester heißt Lina.** | My sister is called Lina. |
-| 3 | **Ist das dein Bruder?** | Is this your brother? |
-| 4 | **Unsere Katze ist süß.** | Our cat is cute. |
-| 5 | **Ihre Kinder spielen.** | Their children are playing. |
-| 6 | **Euer Haus ist groß.** | Your (pl.) house is big. |
+</div>
 
 ---
 
@@ -275,6 +207,8 @@
 
 **Find and correct the mistakes. Some sentences have NO mistakes (write "correct"):**
 
+<div class="exercise" markdown="1" data-answers='["Das ist mein Vater.","correct","correct","Unsere Oma ist nett.","Dein Bruder heißt Max.","correct","correct","Das sind meine Bücher.","correct","Ihr Onkel ist jung."]'>
+
 | # | Sentence | Correct version |
 |---|----------|-----------------|
 | 1 | Das ist meine Vater. | ______________ |
@@ -288,20 +222,7 @@
 | 9 | Seine Schwester ist süß. | ______________ |
 | 10 | Ihr (she) Onkel ist jung. | ______________ |
 
-✅ **Solution:**
-
-| # | Correct version | Explanation |
-|---|-----------------|-------------|
-| 1 | **Das ist mein Vater.** | Vater is masculine → mein (not meine) |
-| 2 | **correct** | Schwester is feminine → meine ✓ |
-| 3 | **correct** | Hund is masculine → sein ✓ |
-| 4 | **Unsere Oma ist nett.** | Oma is feminine → unsere (not unser) |
-| 5 | **Dein Bruder heißt Max.** | Bruder is masculine → dein (not deine) |
-| 6 | **correct** | Kinder is plural → ihre ✓ |
-| 7 | **correct** | Haus is neuter → euer ✓ |
-| 8 | **Das sind meine Bücher.** | Bücher (books) is plural → meine (not mein) |
-| 9 | **correct** | Schwester is feminine → seine ✓ |
-| 10 | **Ihr Onkel ist jung.** | Onkel is masculine → ihr (not ihre). She = sie → ihr |
+</div>
 
 ---
 

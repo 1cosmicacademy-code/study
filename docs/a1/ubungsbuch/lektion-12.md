@@ -9,6 +9,8 @@
 
 **اختر الكلمة المناسبة من القائمة:** (Schule — Lehrer — Schüler — Beruf — Prüfung — Note)
 
+<div class="exercise" markdown="1" data-answers='["Schule","Lehrer","Schüler","Beruf","Prüfung","Note"]'>
+
 | # | الجملة | الكلمة |
 |---|--------|--------|
 | 1 | Ich gehe in die ___ . (مدرسة) | **______** |
@@ -18,16 +20,7 @@
 | 5 | Morgen habe ich eine ___ . (امتحان) | **______** |
 | 6 | Ich habe eine gute ___ bekommen. (درجة) | **______** |
 
-✅ **الحل:**
-
-| # | الإجابة |
-|---|---------|
-| 1 | **Schule** — Ich gehe in die Schule. |
-| 2 | **Lehrer** — Der Lehrer unterrichtet die Kinder. |
-| 3 | **Schüler** — Der Schüler lernt in der Klasse. |
-| 4 | **Beruf** — Was ist dein Beruf? |
-| 5 | **Prüfung** — Morgen habe ich eine Prüfung. |
-| 6 | **Note** — Ich habe eine gute Note bekommen. |
+</div>
 
 ---
 
@@ -75,24 +68,13 @@
    - b) seid
    - c) ist
 
-✅ **الحل:**
-
-| # | الإجابة | الشرح |
-|---|---------|-------|
-| 1 | **a** | ich → **bin** |
-| 2 | **b** | du → **bist** |
-| 3 | **c** | er → **ist** |
-| 4 | **a** | wir → **sind** |
-| 5 | **b** | ihr → **seid** |
-| 6 | **a** | du → **bist** |
-| 7 | **c** | sie (هي) → **ist** |
-| 8 | **a** | sie (هم) → **sind** |
-
 ---
 
 ## التمرين 3: صِل بين المهنة والصورة / الوصف 🔗
 
 **صِل المهنة الألمانية بالوصف العربي:**
+
+<div class="exercise" markdown="1" data-type="match" data-answers='["ج","ه","أ","و","ب","د","ح","ز"]'>
 
 | # | Deutsch | # | Arabisch |
 |---|---------|---|----------|
@@ -105,8 +87,7 @@
 | 7 | der Ingenieur | ز | يخدم الزبائن في المقهى |
 | 8 | der Kellner | ح | يبني ويصمم |
 
-✅ **الحل:**
-1 ← **ج**, 2 ← **ه**, 3 ← **أ**, 4 ← **و**, 5 ← **ب**, 6 ← **د**, 7 ← **ح**, 8 ← **ز**
+</div>
 
 ---
 
@@ -138,21 +119,13 @@
 8. Deutsch / mag / Ich
    **→** _______________________________
 
-✅ **الحل:**
-1. **Ich bin Schüler.**
-2. **Was bist du von Beruf?**
-3. **Meine Mutter ist Lehrerin.**
-4. **Wir möchten Polizisten werden.**
-5. **Was möchtest du werden?**
-6. **Mein Bruder möchte Arzt werden.**
-7. **Ich gehe in die Schule.**
-8. **Ich mag Deutsch.**
-
 ---
 
 ## التمرين 5: ترجم إلى الألمانية 🌐
 
 **ترجم الجمل التالية إلى الألمانية:**
+
+<div class="exercise" markdown="1" data-answers='["Ich bin Schüler.","Was bist du von Beruf?","Er ist Lehrer.","Ich möchte Arzt werden.","Was möchtest du werden?","Meine Schwester möchte Lehrerin werden.","Wir sind in der Schule.","Sie ist Ärztin."]'>
 
 | # | العربية | الألمانية |
 |---|---------|----------|
@@ -165,24 +138,15 @@
 | 7 | نحن في المدرسة. | **__________________** |
 | 8 | هي طبيبة. | **__________________** |
 
-✅ **الحل:**
-
-| # | الألمانية |
-|---|----------|
-| 1 | **Ich bin Schüler.** |
-| 2 | **Was bist du von Beruf?** |
-| 3 | **Er ist Lehrer.** |
-| 4 | **Ich möchte Arzt werden.** |
-| 5 | **Was möchtest du werden?** |
-| 6 | **Meine Schwester möchte Lehrerin werden.** |
-| 7 | **Wir sind in der Schule.** |
-| 8 | **Sie ist Ärztin.** |
+</div>
 
 ---
 
 ## التمرين 6: صحح الخطأ ❌🔧
 
 **في كل جملة خطأ واحد. ابحث عنه وصححه:**
+
+<div class="exercise" markdown="1" data-answers='["Ich bin Schüler","Du bist Student","Er ist Lehrer","Wir sind in der Schule","Ich möchte Arzt werden","Was bist du von Beruf?","Sie sind Studenten","صحيح"]'>
 
 | # | الجملة الخطأ | التصحيح |
 |---|-------------|---------|
@@ -195,24 +159,15 @@
 | 7 | Sie (هم) **ist** Studenten. | **__________________** |
 | 8 | Ich **möchte** Lehrer **werden**. (الجملة خطأ؟ لا — إذا كانت صحيحة اكتب "صحيح") | **__________________** |
 
-✅ **الحل:**
-
-| # | التصحيح | الشرح |
-|---|---------|-------|
-| 1 | **Ich bin** Schüler | ich → **bin** (مو bist) |
-| 2 | **Du bist** Student | du → **bist** (مو bin) |
-| 3 | **Er ist** Lehrer | er → **ist** (مو bin) |
-| 4 | **Wir sind** in der Schule | wir → **sind** (مو bist) |
-| 5 | **Ich möchte Arzt werden** | nach möchte → **werden** (مو sein) |
-| 6 | **Was bist du von Beruf?** | du → **bist** (مو ist) |
-| 7 | **Sie sind Studenten** | sie (هم/جمع) → **sind** (مو ist) |
-| 8 | **صحيح** ✓ | الجملة صحيحة! Ich möchte Lehrer werden. |
+</div>
 
 ---
 
 ## التمرين 7: املأ الفراغ بـ möchten 🔤
 
 **أكمل الجمل باستخدام التصريف الصحيح لـ "möchten":**
+
+<div class="exercise" markdown="1" data-answers='["möchte","möchtest","möchte","möchten","möchtet","möchten","möchtest","möchte"]'>
 
 | # | الجملة | الفعل الناقص |
 |---|--------|-------------|
@@ -225,18 +180,7 @@
 | 7 | Was ___ du werden? (تريد) | **______** |
 | 8 | Meine Schwester ___ Ärztin werden. (تريد) | **______** |
 
-✅ **الحل:**
-
-| # | الإجابة |
-|---|---------|
-| 1 | **möchte** — Ich möchte Arzt werden. |
-| 2 | **möchtest** — Du möchtest Lehrer werden. |
-| 3 | **möchte** — Er möchte Ingenieur werden. |
-| 4 | **möchten** — Wir möchten Polizisten werden. |
-| 5 | **möchtet** — Ihr möchtet Studenten sein. |
-| 6 | **möchten** — Sie möchten Kellner werden. |
-| 7 | **möchtest** — Was möchtest du werden? |
-| 8 | **möchte** — Meine Schwester möchte Ärztin werden. |
+</div>
 
 ---
 
@@ -284,19 +228,6 @@
    - b) Buch
    - c) Bleistift
 
-✅ **الحل:**
-
-| # | الإجابة | الشرح |
-|---|---------|-------|
-| 1 | **b** | Hausaufgabe = واجب منزلي |
-| 2 | **b** | Lehrer = مدرّس (يدرّس) |
-| 3 | **a** | Klasse = صف / فصل |
-| 4 | **b** | Note = درجة |
-| 5 | **b** | Lieblingsfach = المادة المفضلة |
-| 6 | **b** | eine Prüfung schreiben = يكتب امتحان |
-| 7 | **b** | Bleistift = قلم رصاص |
-| 8 | **b** | Buch = كتاب |
-
 ---
 
 ## التمرين 9: اقرأ النص وأجب (صح / خطأ) 📖
@@ -310,6 +241,8 @@
 >
 > Was möchte ich werden? Ich möchte Polizist werden. Polizist ist ein cooler Beruf!
 
+<div class="exercise" markdown="1" data-type="choice" data-answers='["صح","خطأ","خطأ","صح","خطأ","صح","صح","صح"]'>
+
 | # | الجملة | صح | خطأ |
 |---|--------|:--:|:---:|
 | 1 | Tom ist Schüler. | ○ | ○ |
@@ -321,18 +254,7 @@
 | 7 | Tom möchte Polizist werden. | ○ | ○ |
 | 8 | Tom findet Polizist cool. | ○ | ○ |
 
-✅ **الحل:**
-
-| # | الإجابة | الشرح |
-|---|---------|-------|
-| 1 | **صح (Richtig)** — النص: "Ich bin Schüler." |
-| 2 | **خطأ (Falsch)** — النص: "Ich gehe in die **9.** Klasse" (مو 10) |
-| 3 | **خطأ (Falsch)** — النص: "Meine Lieblingsfächer sind Mathe und **Sport**" (مو Deutsch) |
-| 4 | **صح (Richtig)** — النص: "Ich mag Deutsch nicht — Deutsch ist schwer!" |
-| 5 | **خطأ (Falsch)** — النص: "Mein Vater ist von Beruf **Ingenieur**" (مو Lehrer) |
-| 6 | **صح (Richtig)** — النص: "Meine Mutter ist Ärztin. Sie arbeitet im Krankenhaus." |
-| 7 | **صح (Richtig)** — النص: "Ich möchte Polizist werden." |
-| 8 | **صح (Richtig)** — النص: "Polizist ist ein cooler Beruf!" |
+</div>
 
 ---
 
@@ -347,16 +269,6 @@
 5. Mein Vater ist **__________________** von Beruf. (مهنة أبوك)
 6. Meine Mutter ist **__________________** von Beruf. (مهنة أمك)
 7. Ich möchte **__________________** werden. (حلمك المستقبلي)
-
-✅ **مثال للحل (إجابتك الشخصية قد تكون مختلفة):**
-
-1. Ich heiße **Ahmed**.
-2. Ich bin **15** Jahre alt.
-3. Ich bin **Schüler**.
-4. Mein Lieblingsfach ist **Mathe**.
-5. Mein Vater ist **Ingenieur** von Beruf.
-6. Meine Mutter ist **Lehrerin** von Beruf.
-7. Ich möchte **Arzt** werden.
 
 ---
 

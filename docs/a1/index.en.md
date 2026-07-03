@@ -25,7 +25,7 @@
 | 15 | [Lektion 15: Wege in der Stadt](kursbuch/lektion-15.md) | Ways in the city — directions |
 | 16 | [Lektion 16: Im Laden](kursbuch/lektion-16.md) | In the shop — shopping |
 | 17 | [Lektion 17: Arbeit](kursbuch/lektion-17.md) | Work — jobs and duties |
-| 18 | [Lektion 18: Im Büro](kursbuch/lektion-18.md) | In the office — communication |
+| 18 | [Lektion 18: Beim Amt](kursbuch/lektion-18.md) | At the government office — official procedures |
 | 19 | [Lektion 19: Reisen in Deutschland](kursbuch/lektion-19.md) | Traveling in Germany |
 | 20 | [Lektion 20: Feste und Feiern](kursbuch/lektion-20.md) | Celebrations and parties |
 

@@ -9,6 +9,8 @@
 
 **Choose the correct preposition from the list:** (in — auf — unter — neben — zwischen — hinter — vor — an)
 
+<div class="exercise" markdown="1" data-answers='["auf","unter","neben","an","vor","hinter","an","zwischen","in","auf"]'>
+
 | # | Sentence | Preposition |
 |---|----------|-------------|
 | 1 | Das Buch ist ___ dem Tisch. (on) | **______** |
@@ -22,20 +24,7 @@
 | 9 | Die Kinder sind ___ der Schule. (in) | **______** |
 | 10 | Die Tasse ist ___ dem Tisch. (on) | **______** |
 
-✅ **Answers:**
-
-| # | Answer |
-|---|--------|
-| 1 | **auf** — Das Buch ist **auf** dem Tisch. |
-| 2 | **unter** — Die Katze schläft **unter** dem Bett. |
-| 3 | **neben** — Der Stuhl steht **neben** dem Tisch. |
-| 4 | **an** — Die Lampe hängt **an** der Decke. |
-| 5 | **vor** — Das Auto ist **vor** dem Haus. |
-| 6 | **hinter** — Der Garten ist **hinter** dem Haus. |
-| 7 | **an** — Das Bild hängt **an** der Wand. |
-| 8 | **zwischen** — Der Tisch steht **zwischen** dem Sofa und **dem** Sessel. |
-| 9 | **in** — Die Kinder sind **in** der Schule. |
-| 10 | **auf** — Die Tasse ist **auf** dem Tisch. |
+</div>
 
 ---
 
@@ -83,24 +72,13 @@
    - b) zwischen der / der
    - c) zwischen das / das
 
-✅ **Answers:**
-
-| # | Answer | Explanation |
-|---|--------|-------------|
-| 1 | **b** | die Tasche (feminine) → in **der** Tasche (Dativ) |
-| 2 | **a** | das Schlafzimmer (neuter) → in + dem = **im** |
-| 3 | **b** | der Stuhl (masculine) → auf **dem** Stuhl (Dativ) |
-| 4 | **b** | das Sofa (neuter) → auf **dem** Sofa (Dativ) |
-| 5 | **b** | die Tür (feminine) → neben **der** Tür (Dativ) |
-| 6 | **a** | die Wand (feminine) → an **der** Wand (Dativ) |
-| 7 | **a** | die Vase (feminine) → in **der** Vase (Dativ) |
-| 8 | **a** | der Tisch (masculine) → **dem** + das Sofa (neuter) → **dem** |
-
 ---
 
 ## Exercise 3: Match 🔗
 
 **Match the German sentence with the correct English translation:**
+
+<div class="exercise" markdown="1" data-type="match" data-answers='["D","A","G","B","C","F","E"]'>
 
 | # | Deutsch | # | English |
 |---|---------|---|---------|
@@ -112,8 +90,7 @@
 | 6 | Der Schrank ist hinter der Tür. | F | The wardrobe is behind the door. |
 | 7 | Das Bild ist an der Wand. | G | The chair is next to the table. |
 
-✅ **Answers:**
-1 ← **D**, 2 ← **A**, 3 ← **G**, 4 ← **B**, 5 ← **C**, 6 ← **F**, 7 ← **E**
+</div>
 
 ---
 
@@ -139,19 +116,13 @@
 6. und / Die Lampe / dem / zwischen / dem / ist / Sofa / Sessel
    **→** _______________________________
 
-✅ **Answers:**
-1. **Das Buch ist auf dem Tisch.**
-2. **Die Katze ist unter dem Bett.**
-3. **Der Stuhl steht neben dem Tisch.**
-4. **Das Bett ist im Schlafzimmer.**
-5. **Das Bild hängt an der Wand.**
-6. **Die Lampe ist zwischen dem Sofa und dem Sessel.**
-
 ---
 
 ## Exercise 5: Translate into German 🌐
 
 **Translate these sentences into German:**
+
+<div class="exercise" markdown="1" data-answers='["Der Schlüssel ist in der Tasche.","Die Katze ist unter dem Tisch.","Der Stuhl ist neben der Tür.","Die Lampe ist auf dem Tisch.","Das Auto ist vor dem Haus.","Die Kinder sind im Garten.","Das Bild ist an der Wand.","Das Bett ist zwischen dem Schrank und dem Fenster."]'>
 
 | # | English | German |
 |---|---------|--------|
@@ -164,24 +135,15 @@
 | 7 | The picture is on the wall. | **__________________** |
 | 8 | The bed is between the wardrobe and the window. | **__________________** |
 
-✅ **Answers:**
-
-| # | German |
-|---|--------|
-| 1 | **Der Schlüssel ist in der Tasche.** |
-| 2 | **Die Katze ist unter dem Tisch.** |
-| 3 | **Der Stuhl ist neben der Tür.** |
-| 4 | **Die Lampe ist auf dem Tisch.** |
-| 5 | **Das Auto ist vor dem Haus.** |
-| 6 | **Die Kinder sind im Garten.** |
-| 7 | **Das Bild ist an der Wand.** |
-| 8 | **Das Bett ist zwischen dem Schrank und dem Fenster.** |
+</div>
 
 ---
 
 ## Exercise 6: Find and correct the mistake ❌🔧
 
 **Each sentence has one mistake. Find it and correct it:**
+
+<div class="exercise" markdown="1" data-answers='["auf dem Tisch","unter dem Bett","neben der Tür","im Schlafzimmer","zwischen dem Sofa und dem Sessel","an der Wand","hinter der Tür","in der Küche"]'>
 
 | # | Wrong sentence | Correction |
 |---|----------------|------------|
@@ -194,18 +156,7 @@
 | 7 | Der Schrank ist **hinter das** Tür. | **__________________** |
 | 8 | Die Kinder sind **im** Küche. | **__________________** |
 
-✅ **Answers:**
-
-| # | Correction | Explanation |
-|---|------------|-------------|
-| 1 | **auf dem** Tisch | der Tisch (masculine) → Dativ = **dem** |
-| 2 | **unter dem** Bett | das Bett (neuter) → Dativ = **dem** |
-| 3 | **neben der** Tür | die Tür (feminine) → Dativ = **der** |
-| 4 | **im** Schlafzimmer | das Schlafzimmer → in + dem = **im** |
-| 5 | **zwischen dem** Sofa und **dem** Sessel | das Sofa (neuter) → **dem** / der Sessel (masculine) → **dem** |
-| 6 | **an der** Wand | For pictures we say **an der** Wand (hanging), not auf |
-| 7 | **hinter der** Tür | die Tür (feminine) → Dativ = **der** |
-| 8 | **in der** Küche | die Küche (feminine) → in **der** Küche (not im because im = in + dem) |
+</div>
 
 ---
 
@@ -223,6 +174,8 @@
 
 **Choose Richtig (True) or Falsch (False):**
 
+<div class="exercise" markdown="1" data-type="choice" data-answers='["False","True","True","True","False","True","False","True"]'>
+
 | # | Statement | True | False |
 |---|-----------|:----:|:-----:|
 | 1 | Lisa wohnt in einem Haus. | ○ | ○ |
@@ -234,18 +187,7 @@
 | 7 | Der Tisch in der Küche ist hinter dem Fenster. | ○ | ○ |
 | 8 | An der Wand im Wohnzimmer hängt ein Bild. | ○ | ○ |
 
-✅ **Answers:**
-
-| # | Answer | Explanation |
-|---|--------|-------------|
-| 1 | **False (Falsch)** — Lisa wohnt in **einer Wohnung**, not in a house. |
-| 2 | **True (Richtig)** — The apartment has 4 rooms: living room, kitchen, bathroom, bedroom. |
-| 3 | **True (Richtig)** — Text: "Das Sofa ist vor dem Tisch." |
-| 4 | **True (Richtig)** — Text: "Neben dem Sofa ist ein Sessel." |
-| 5 | **False (Falsch)** — Text: "Die Lampe ist auf **dem Nachttisch**" (bedside table), not on the wardrobe. |
-| 6 | **True (Richtig)** — Text: "Auf dem Tisch sind Teller und Tassen." |
-| 7 | **False (Falsch)** — Text: "Der Tisch ist **vor** dem Fenster" (in front of), not behind. |
-| 8 | **True (Richtig)** — Text: "An der Wand hängt ein Bild." |
+</div>
 
 ---
 
@@ -260,16 +202,6 @@
 5. Der Stuhl ist __________ Tisch.
 6. An der Wand __________ ein Bild.
 7. Das Bett ist __________ Schrank und __________ Fenster.
-
-✅ **Answers (example — your answer may vary):**
-
-1. In meinem Zimmer ist **ein Bett**.
-2. **Der Nachttisch** ist neben dem Bett.
-3. Der Tisch ist **vor dem** Fenster.
-4. Die Lampe ist **auf dem** Tisch.
-5. Der Stuhl ist **neben dem** Tisch.
-6. An der Wand **hängt** ein Bild.
-7. Das Bett ist **zwischen dem** Schrank und **dem** Fenster.
 
 ---
 
@@ -301,19 +233,6 @@
 8. Der Schrank ist _____ der Tür. (behind + Dativ)
    → **______**
 
-✅ **Answers:**
-
-| # | Answer |
-|---|--------|
-| 1 | **unter** — Die Katze ist **unter** dem Tisch. |
-| 2 | **auf** — Das Buch ist **auf** dem Sofa. |
-| 3 | **neben** — Der Stuhl steht **neben** dem Tisch. |
-| 4 | **an** — Das Bild hängt **an** der Wand. |
-| 5 | **vor** — Das Auto ist **vor** dem Haus. |
-| 6 | **zwischen** — Die Lampe ist **zwischen** dem Sofa und **dem** Sessel. |
-| 7 | **im** — Die Kinder sind **im** Garten. (in + dem = im) |
-| 8 | **hinter** — Der Schrank ist **hinter** der Tür. |
-
 ---
 
 ## Exercise 10: Imagine and write 🎨✍️
@@ -331,14 +250,6 @@ Example:
 3. **__________________________________**
 4. **__________________________________**
 5. **__________________________________**
-
-✅ **Example answer (your answer may be different):**
-
-1. **Das Sofa ist neben dem Tisch.**
-2. **Der Sessel ist zwischen dem Sofa und der Lampe.**
-3. **Das Buch ist auf dem Tisch.**
-4. **Der Schrank ist hinter der Tür.**
-5. **Das Bild hängt an der Wand.**
 
 ---
 

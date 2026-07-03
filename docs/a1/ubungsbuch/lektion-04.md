@@ -9,6 +9,8 @@
 
 **شوف الصورة (في خيالك): هذي عائلة محمد. أكمل اسم الشخص المناسب:**
 
+<div class="exercise" markdown="1" data-answers='["der Vater","die Mutter","der Sohn","die Tochter","der Opa","die Oma"]'>
+
 | الجملة | اسم الشخص بالألماني |
 |--------|-------------------|
 | 1. محمد هو **_________** (الأب). | |
@@ -18,22 +20,15 @@
 | 5. عباس هو **_________** (جد) أحمد ومريم. | |
 | 6. زينب هي **_________** (جدة) أحمد ومريم. | |
 
-✅ **الحل:**
-
-| # | الإجابة |
-|---|---------|
-| 1 | **der Vater** |
-| 2 | **die Mutter** |
-| 3 | **der Sohn** |
-| 4 | **die Tochter** |
-| 5 | **der Opa / der Großvater** |
-| 6 | **die Oma / die Großmutter** |
+</div>
 
 ---
 
 ## التمرين 2: اختر mein أو meine 🎯
 
 **اختار: mein ولا meine؟**
+
+<div class="exercise" markdown="1" data-type="choice" data-answers='["mein","meine","mein","meine","mein","meine","mein","meine"]'>
 
 | # | الجملة | mein | meine |
 |---|--------|:----:|:-----:|
@@ -46,24 +41,15 @@
 | 7 | Das ist _____ Haus. | ⬜ | ⬜ |
 | 8 | Das ist _____ Oma. | ⬜ | ⬜ |
 
-✅ **الحل:**
-
-| # | الإجابة | الشرح |
-|---|---------|-------|
-| 1 | **mein** | Vater مذكر (der) → mein |
-| 2 | **meine** | Mutter مؤنث (die) → meine |
-| 3 | **mein** | Bruder مذكر (der) → mein |
-| 4 | **meine** | Schwester مؤنث (die) → meine |
-| 5 | **mein** | Kind محايد (das) → mein |
-| 6 | **meine** | Kinder جمع (die) → meine |
-| 7 | **mein** | Haus محايد (das) → mein |
-| 8 | **meine** | Oma مؤنث (die) → meine |
+</div>
 
 ---
 
 ## التمرين 3: صِل (Match) — صفات الملكية 🔗
 
 **صِل صاحب الملكية بكلمة الملكية الصحيحة:**
+
+<div class="exercise" markdown="1" data-answers='["ج","ه","أ","و","د","ب"]'>
 
 | صاحب الملكية | كلمة الملكية |
 |:------------:|:------------:|
@@ -74,22 +60,15 @@
 | 5. wir (نحن) | ه. dein |
 | 6. ihr (أنتم) | و. ihr |
 
-✅ **الحل:**
-
-| # | الإجابة |
-|---|---------|
-| 1 | **ج** — ich → mein |
-| 2 | **ه** — du → dein |
-| 3 | **أ** — er → sein |
-| 4 | **و** — sie (هي) → ihr |
-| 5 | **د** — wir → unser |
-| 6 | **ب** — ihr (أنتم) → euer |
+</div>
 
 ---
 
 ## التمرين 4: املأ الفراغ — صفات الملكية ✍️
 
 **اكتب كلمة الملكية الصحيحة (mein / meine / dein / deine / sein / seine / ihr / ihre / unser / unsere / euer / eure):**
+
+<div class="exercise" markdown="1" data-answers='["Mein","Deine","Sein","Ihre","Unser","Euer","Meine","Dein","Ihre","Unsere"]'>
 
 | # | الجملة | الإجابة |
 |---|--------|---------|
@@ -104,26 +83,15 @@
 | 9 | Sie (هم) haben Kinder. _____ Kinder spielen. | ________ |
 | 10 | Wir haben eine Tante. _____ Tante heißt Anna. | ________ |
 
-✅ **الحل:**
-
-| # | الإجابة | الشرح |
-|---|---------|-------|
-| 1 | **Mein** | ich → mein + Bruder (مذكر) → mein |
-| 2 | **Deine** | du → dein + Schwester (مؤنث) → deine |
-| 3 | **Sein** | er → sein + Hund (مذكر) → sein |
-| 4 | **Ihre** | sie (هي) → ihr + Katze (مؤنث) → ihre |
-| 5 | **Unser** | wir → unser + Haus (محايد) → unser |
-| 6 | **Euer** | ihr (أنتم) → euer + Buch (محايد) → euer |
-| 7 | **Meine** | ich → mein + Mutter (مؤنث) → meine |
-| 8 | **Dein** | du → dein + Opa (مذكر) → dein |
-| 9 | **Ihre** | sie (هم) → ihr + Kinder (جمع) → ihre |
-| 10 | **Unsere** | wir → unser + Tante (مؤنث) → unsere |
+</div>
 
 ---
 
 ## التمرين 5: صحح الخطأ ❌
 
 **في كل جملة خطأ. صححه:**
+
+<div class="exercise" markdown="1" data-answers='["meine Mutter","dein Vater","sein Bruder","unsere Oma","euer Kind","meine Kinder","ihr Onkel","dein Haus"]'>
 
 | # | الجملة (غلط) | التصحيح |
 |---|--------------|---------|
@@ -136,24 +104,15 @@
 | 7 | Das ist **ihre** Onkel. | ______________ |
 | 8 | Das ist **deine** Haus. | ______________ |
 
-✅ **الحل:**
-
-| # | التصحيح | الشرح |
-|---|---------|-------|
-| 1 | **meine** Mutter | Mutter مؤنث ← meine (مو mein) |
-| 2 | **dein** Vater | Vater مذكر ← dein (مو deine) |
-| 3 | **seinen** ← **sein** Bruder | Bruder مذكر ← sein (مو seine) |
-| 4 | **unsere** Oma | Oma مؤنث ← unsere (مو unser) |
-| 5 | **euer** Kind | Kind محايد ← euer (مو eure) |
-| 6 | **meine** Kinder | Kinder جمع ← meine (مو mein) |
-| 7 | **ihr** Onkel | Onkel مذكر ← ihr (مو ihre) |
-| 8 | **dein** Haus | Haus محايد ← dein (مو deine) |
+</div>
 
 ---
 
 ## التمرين 6: ترجم (Translate) 🌍
 
 **ترجم هذه الجمل من العربية إلى الألمانية:**
+
+<div class="exercise" markdown="1" data-answers='["Das ist mein Vater.","Das ist meine Schwester.","Ist das dein Bruder?","Ja, das ist mein Hund.","Deine Schwester ist klein.","Das ist unser Haus.","Meine Oma ist nett.","Ihre Kinder spielen."]'>
 
 | # | العربية | الألمانية |
 |---|---------|-----------|
@@ -166,24 +125,15 @@
 | 7 | جدتي لطيفة. | ______________ |
 | 8 | أطفالهم يلعبون. | ______________ |
 
-✅ **الحل:**
-
-| # | الألمانية | ملاحظات |
-|---|-----------|---------|
-| 1 | **Das ist mein Vater.** | Vater مذكر → mein |
-| 2 | **Das ist meine Schwester.** | Schwester مؤنث → meine |
-| 3 | **Ist das dein Bruder?** | Bruder مذكر → dein |
-| 4 | **Ja, das ist mein Hund.** | Hund مذكر → mein |
-| 5 | **Deine Schwester ist klein.** | Schwester مؤنث → deine |
-| 6 | **Das ist unser Haus.** | Haus محايد → unser |
-| 7 | **Meine Oma ist nett / süß.** | Oma مؤنث → meine |
-| 8 | **Ihre Kinder spielen.** | sie (هم) → ihr + Kinder جمع → ihre |
+</div>
 
 ---
 
 ## التمرين 7: اختر الإجابة الصحيحة 🎯
 
 **اختر كلمة الملكية الصحيحة:**
+
+<div class="exercise" markdown="1" data-type="choice" data-answers='["ب","ب","ج","ب","أ","ب","أ","ب"]'>
 
 | # | الجملة | أ | ب | ج |
 |---|--------|---|---|---|
@@ -196,24 +146,15 @@
 | 7 | _____ Vater ist groß. (ich) | **Mein** | Meine | Meinen |
 | 8 | _____ Kinder sind klein. (wir) | Unser | **Unsere** | Unseren |
 
-✅ **الحل:**
-
-| # | الإجابة | الشرح |
-|---|---------|-------|
-| 1 | **ب (meine)** | Schwester مؤنث → meine |
-| 2 | **ب (dein)** | Bruder مذكر → dein |
-| 3 | **ج (sein)** | Hund مذكر → sein |
-| 4 | **ب (ihre)** | Katze مؤنث → ihre |
-| 5 | **أ (unser)** | Haus محايد → unser |
-| 6 | **ب (eure)** | Oma مؤنث → eure |
-| 7 | **أ (Mein)** | Vater مذكر → mein |
-| 8 | **ب (Unsere)** | Kinder جمع → unsere |
+</div>
 
 ---
 
 ## التمرين 8: رتب الكلمات 🧩
 
 **رتب الكلمات لتكون جملة صحيحة:**
+
+<div class="exercise" markdown="1" data-answers='["Das ist mein Vater.","Meine Schwester heißt Lina.","Ist das dein Bruder?","Unsere Katze ist süß.","Ihre Kinder spielen.","Euer Haus ist groß."]'>
 
 | # | الكلمات | الجملة الصحيحة |
 |---|---------|----------------|
@@ -224,16 +165,7 @@
 | 5 | spielen / Kinder / ihre | ______________ |
 | 6 | euer / ist / Haus / groß | ______________ |
 
-✅ **الحل:**
-
-| # | الجملة الصحيحة | الترجمة |
-|---|-----------------|---------|
-| 1 | **Das ist mein Vater.** | هذا والدي. |
-| 2 | **Meine Schwester heißt Lina.** | أختي اسمها لينا. |
-| 3 | **Ist das dein Bruder?** | هل هذا أخوك؟ |
-| 4 | **Unsere Katze ist süß.** | قطتنا لطيفة. |
-| 5 | **Ihre Kinder spielen.** | أطفالهم يلعبون. |
-| 6 | **Euer Haus ist groß.** | بيتكم كبير. |
+</div>
 
 ---
 
