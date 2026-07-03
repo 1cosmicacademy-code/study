@@ -67,8 +67,8 @@ plugins:
             Exercise Book Overview: فهرس التمارين
             Level A2: المستوى A2
             A2 Overview: نظرة عامة على A2
-            Grammar: القواعد (Grammatik)
-            Grammar Overview: نظرة عامة
+            📘 Grammar: 📘 القواعد
+            📖 Grammar Overview: 📖 كل القواعد
             Study Plan: الخطة التعليمية
             ## A1 Kursbuch + Übungsbuch
             Lektion 1 - Hallo!: الدرس 1 - Hallo!
@@ -125,8 +125,9 @@ plugins:
             Exercise Book Overview: Exercise Book Overview
             Level A2: Level A2
             A2 Overview: A2 Overview
-            Grammar: Grammar
-            Grammar Overview: Grammar Overview
+            📘 Grammar: 📘 Grammar
+            📖 Grammar Overview: 📖 Grammar Overview
+            All Grammar: All Grammar
             Study Plan: Study Plan
             Lektion 18 - Beim Amt: Lesson 18 - Beim Amt
             '🟢 A1 — أساسيات': '🟢 A1 — Basics'
@@ -198,6 +199,25 @@ nav:
       - 'Lektion 18 - Beim Amt': a1/ubungsbuch/lektion-18.md
       - 'Lektion 19 - Reisen in Deutschland': a1/ubungsbuch/lektion-19.md
       - 'Lektion 20 - Feste und Feiern': a1/ubungsbuch/lektion-20.md
+    - 📘 Grammar:
+      - '🟢 A1 — أساسيات':
+        - Akkusativ: grammatik/akkusativ.md
+        - Artikel: grammatik/artikel.md
+        - Imperativ: grammatik/imperativ.md
+        - Negation: grammatik/negation.md
+        - Nominativ: grammatik/nominativ.md
+        - Personalpronomen: grammatik/personalpronomen.md
+        - Plural: grammatik/plural.md
+        - Possessivartikel: grammatik/possessivartikel.md
+        - Satzbau: grammatik/satzbau.md
+        - Trennbare Verben: grammatik/trennbare-verben.md
+        - 'Verbkonjugation (Präsens)': grammatik/verbkonjugation.md
+      - '🟡 A1-A2 — انتقالي':
+        - Adjektivdeklination: grammatik/adjektivdeklination.md
+        - Dativ: grammatik/dativ.md
+        - Modalverben: grammatik/modalverben.md
+        - Perfekt: grammatik/perfekt.md
+        - Wechselpräpositionen: grammatik/wechselprapositionen.md
   - Level A2:
     - A2 Overview: a2/index.md
     - Coursebook:
@@ -244,41 +264,23 @@ nav:
       - 'Lektion 18 - Alles über Geld': a2/ubungsbuch/lektion-18.md
       - 'Lektion 19 - Unterwegs': a2/ubungsbuch/lektion-19.md
       - 'Lektion 20 - Erinnerungen und Wünsche': a2/ubungsbuch/lektion-20.md
-  - Grammar:
-    - Grammar Overview: grammatik/index.md
-    - '🟢 A1 — أساسيات':
-      - Akkusativ: grammatik/akkusativ.md
-      - Artikel: grammatik/artikel.md
-      - Imperativ: grammatik/imperativ.md
-      - Negation: grammatik/negation.md
-      - Nominativ: grammatik/nominativ.md
-      - Personalpronomen: grammatik/personalpronomen.md
-      - Plural: grammatik/plural.md
-      - Possessivartikel: grammatik/possessivartikel.md
-      - Satzbau: grammatik/satzbau.md
-      - Trennbare Verben: grammatik/trennbare-verben.md
-      - 'Verbkonjugation (Präsens)': grammatik/verbkonjugation.md
-    - '🟡 A1-A2 — انتقالي':
-      - Adjektivdeklination: grammatik/adjektivdeklination.md
-      - Dativ: grammatik/dativ.md
-      - Modalverben: grammatik/modalverben.md
-      - Perfekt: grammatik/perfekt.md
-      - Wechselpräpositionen: grammatik/wechselprapositionen.md
-    - '🔵 A2 — وسيط':
-      - Adverbien: grammatik/adverbien.md
-      - Futur I: grammatik/futur-i.md
-      - Indirekte Fragen: grammatik/indirekte-fragen.md
-      - Kausal- und Konzessivsätze: grammatik/kausal-konzessivsatze.md
-      - Nebensätze: grammatik/nebensatze.md
-      - Präpositionen: grammatik/prapositionen.md
-      - Reflexive Verben: grammatik/reflexive-verben.md
-      - Temporal- und Lokalangaben: grammatik/temporal-lokal-angaben.md
-      - Vergleiche: grammatik/vergleiche.md
-      - Wortstellung (erweitert): grammatik/wortstellung-erweitert.md
-    - '🟣 A2-B1 — متقدم':
-      - Genitiv: grammatik/genitiv.md
-      - Konjunktiv 2: grammatik/konjunktiv-2.md
-      - Passiv: grammatik/passiv.md
-      - Präteritum: grammatik/prateritum.md
-      - Relativsätze: grammatik/relativsatze.md
+    - 📘 Grammar:
+      - '🔵 A2 — وسيط':
+        - Adverbien: grammatik/adverbien.md
+        - Futur I: grammatik/futur-i.md
+        - Indirekte Fragen: grammatik/indirekte-fragen.md
+        - Kausal- und Konzessivsätze: grammatik/kausal-konzessivsatze.md
+        - Nebensätze: grammatik/nebensatze.md
+        - Präpositionen: grammatik/prapositionen.md
+        - Reflexive Verben: grammatik/reflexive-verben.md
+        - Temporal- und Lokalangaben: grammatik/temporal-lokal-angaben.md
+        - Vergleiche: grammatik/vergleiche.md
+        - Wortstellung (erweitert): grammatik/wortstellung-erweitert.md
+      - '🟣 A2-B1 — متقدم':
+        - Genitiv: grammatik/genitiv.md
+        - Konjunktiv 2: grammatik/konjunktiv-2.md
+        - Passiv: grammatik/passiv.md
+        - Präteritum: grammatik/prateritum.md
+        - Relativsätze: grammatik/relativsatze.md
+  - 📖 Grammar Overview: grammatik/index.md
   - Study Plan: plan/index.md

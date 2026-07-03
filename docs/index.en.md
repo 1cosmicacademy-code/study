@@ -19,10 +19,12 @@ This website is your **free guide** for learning German at **A1-A2 level** — o
 -   **🟢 A1 — Absolute Beginner**
     - ✅ [Lesson Explanations (Kursbuch)](a1/kursbuch/lektion-01.md)
     - ✅ [Interactive Exercises (Übungsbuch)](a1/ubungsbuch/index.md)
+    - ✅ [Grammar (Grammatik)](grammatik/index.md#a1)
 
 -   **🟡 A2 — Advanced Beginner**
     - ✅ [Lesson Explanations (Kursbuch)](a2/kursbuch/index.md)
     - ✅ [Interactive Exercises (Übungsbuch)](a2/ubungsbuch/index.md)
+    - ✅ [Grammar (Grammatik)](grammatik/index.md#a2)
 
 </div>
 

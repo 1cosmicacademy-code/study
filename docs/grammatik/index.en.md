@@ -4,7 +4,7 @@
 
 ---
 
-## 🟢 Level A1 — Basics
+## 🟢 Level A1 — Basics {#a1}
 
 | Topic | Level | Explanation |
 |-------|-------|-------------|
@@ -30,7 +30,7 @@
 | [Perfekt](perfekt.md) | A1-A2 | Perfect tense |
 | [Wechselpräpositionen](wechselprapositionen.md) | A1-A2 | Two-way prepositions |
 
-## 🔵 Level A2 — Lower Intermediate
+## 🔵 Level A2 — Lower Intermediate {#a2}
 
 | Topic | Level | Explanation |
 |-------|-------|-------------|
