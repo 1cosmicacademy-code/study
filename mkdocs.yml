@@ -30,6 +30,7 @@ theme:
         name: التبديل إلى الوضع الفاتح
 
 extra:
+  generator: false
   alternate:
     - name: العربية
       link: /
