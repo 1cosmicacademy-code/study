@@ -185,31 +185,23 @@
 
 ---
 
+<div class="exercise" markdown="1" data-answers='["7", "1", "6", "3", "2", "4", "5"]'>
+
 ## Exercise 9: Dialogue at the station — Put in order 💬
 
 **Arrange the sentences in the correct order (1 to 7) to make a logical conversation:**
 
-| Order | Sentence |
-|:-----:|----------|
-| **___** | Ja, wir fahren mit dem Zug nach Stuttgart. |
-| **___** | Guten Morgen! Eine Fahrkarte nach Stuttgart, bitte. |
-| **___** | Die Fahrt dauert 2 Stunden. |
-| **___** | Einfach, bitte. Was kostet das? |
-| **___** | Guten Morgen! Einfach oder hin und zurück? |
-| **___** | Das kostet 35 Euro. |
-| **___** | Und wie lange dauert die Fahrt? |
+| # | Sentence | Correct Order |
+|---|----------|:-------------:|
+| 1 | Ja, wir fahren mit dem Zug nach Stuttgart. | |
+| 2 | Guten Morgen! Eine Fahrkarte nach Stuttgart, bitte. | |
+| 3 | Die Fahrt dauert 2 Stunden. | |
+| 4 | Einfach, bitte. Was kostet das? | |
+| 5 | Guten Morgen! Einfach oder hin und zurück? | |
+| 6 | Das kostet 35 Euro. | |
+| 7 | Und wie lange dauert die Fahrt? | |
 
-✅ **Solution:**
-
-| Order | Sentence |
-|:-----:|----------|
-| **1** | Guten Morgen! Eine Fahrkarte nach Stuttgart, bitte. |
-| **2** | Guten Morgen! Einfach oder hin und zurück? |
-| **3** | Einfach, bitte. Was kostet das? |
-| **4** | Das kostet 35 Euro. |
-| **5** | Und wie lange dauert die Fahrt? |
-| **6** | Die Fahrt dauert 2 Stunden. |
-| **7** | Ja, wir fahren mit dem Zug nach Stuttgart. (Context: speaker is answering a friend) |
+</div> |
 
 ---
 

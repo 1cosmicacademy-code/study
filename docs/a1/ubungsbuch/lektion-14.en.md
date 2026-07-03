@@ -85,33 +85,24 @@
 
 </div>
 ---
+<div class="exercise" markdown="1" data-answers='["Ich bin krank.", "Ich habe Fieber.", "Mir tut der Kopf weh.", "Ich muss zum Arzt gehen.", "Ich kann heute nicht kommen.", "Hier ist die Krankschreibung.", "Mir tun die Augen weh.", "Ich muss zu Hause bleiben."]'>
+
 ## Exercise 4: Put the words in order 🔄
 
 **Arrange the words to make a correct German sentence:**
 
-1. bin / Ich / krank
-   **→** _______________________________
+| # | Words | Correct sentence |
+|---|-------|-----------------|
+| 1 | bin / Ich / krank | |
+| 2 | Fieber / Ich / habe | |
+| 3 | Kopf / tut / der / Mir / weh | |
+| 4 | Arzt / Ich / zum / muss / gehen | |
+| 5 | heute / Ich / kommen / kann / nicht | |
+| 6 | ist / die / Hier / Krankschreibung | |
+| 7 | Augen / tun / Mir / die / weh | |
+| 8 | Hause / Ich / zu / muss / bleiben | |
 
-2. Fieber / Ich / habe
-   **→** _______________________________
-
-3. Kopf / tut / der / Mir / weh
-   **→** _______________________________
-
-4. Arzt / Ich / zum / muss / gehen
-   **→** _______________________________
-
-5. heute / Ich / kommen / kann / nicht
-   **→** _______________________________
-
-6. ist / die / Hier / Krankschreibung
-   **→** _______________________________
-
-7. Augen / tun / Mir / die / weh
-   **→** _______________________________
-
-8. Hause / Ich / zu / muss / bleiben
-   **→** _______________________________
+</div>
 
 ## Exercise 5: Translate into German 🌐
 
@@ -193,18 +184,24 @@
 
 </div>
 ---
+<div class="exercise" markdown="1" data-answers='["fehlt", "geht", "Fieber", "Kopfschmerzen", "weh", "schreibe", "Krankschreibung", "schön"]'>
+
 ## Exercise 9: Complete the dialogue 🗣️
 
 **Complete the dialogue between the doctor (Arzt) and the patient (Patient) with the correct words:**
 
-**Arzt:** Guten Tag! Was ___ (1) Ihnen?
-**Patient:** Guten Tag, Herr Doktor. Mir ___ (2) es nicht gut.
-**Arzt:** Haben Sie ___ (3)? (fever)
-**Patient:** Ja, ich habe Fieber und ___ (4). (headache)
-**Arzt:** Tut Ihnen der Hals ___ (5)?
-**Patient:** Ja, mir tut der Hals weh.
-**Arzt:** Okay. Ich ___ (6) Sie krank für drei Tage. Hier ist die ___ (7).
-**Patient:** Danke ___ (8)!
+| # | Speaker | Text | Answer |
+|---|---------|------|--------|
+| 1 | Arzt | Guten Tag! Was ___ Ihnen? | |
+| 2 | Patient | Guten Tag, Herr Doktor. Mir ___ es nicht gut. | |
+| 3 | Arzt | Haben Sie ___? (fever) | |
+| 4 | Patient | Ja, ich habe Fieber und ___. (headache) | |
+| 5 | Arzt | Tut Ihnen der Hals ___? | |
+| 6 | Arzt | Okay. Ich ___ Sie krank für drei Tage. | |
+| 7 | Arzt | Hier ist die ___. | |
+| 8 | Patient | Danke ___! | |
+
+</div>
 
 ## Exercise 10: What do you say in these situations? 🎭
 

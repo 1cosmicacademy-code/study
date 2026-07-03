@@ -30,47 +30,22 @@
 
 ## التمرين 2: اختر الإجابة الصحيحة 🔘
 
-**اختر a, b أو c:**
+**اختر الإجابة الصحيحة:**
 
-1. Wo ist der Schlüssel? — Der Schlüssel ist ___ Tasche.
-   - a) im
-   - b) in der
-   - c) in den
+<div class="exercise" markdown="1" data-type="choice" data-answers='["B","A","B","B","B","A","A","A"]'>
 
-2. Wo ist das Bett? — Das Bett ist ___ Schlafzimmer.
-   - a) im
-   - b) in der
-   - c) in dem
+| # | الجملة | أ | ب | ج |
+|---|--------|---|---|---|
+| 1 | Wo ist der Schlüssel? — Der Schlüssel ist ___ Tasche. | im | in der | in den |
+| 2 | Wo ist das Bett? — Das Bett ist ___ Schlafzimmer. | im | in der | in dem |
+| 3 | Die Katze sitzt ___ Stuhl. | auf der | auf dem | auf den |
+| 4 | Das Buch liegt ___ Sofa. | auf der | auf dem | auf das |
+| 5 | Der Schrank steht ___ Tür. | neben die | neben der | neben das |
+| 6 | Das Foto hängt ___ Wand. | an der | an dem | an die |
+| 7 | Die Blumen sind ___ Vase. | in der | in dem | im |
+| 8 | Der Hund ist ___ Tisch und ___ Sofa. | zwischen dem / dem | zwischen der / der | zwischen das / das |
 
-3. Die Katze sitzt ___ Stuhl.
-   - a) auf der
-   - b) auf dem
-   - c) auf den
-
-4. Das Buch liegt ___ Sofa.
-   - a) auf der
-   - b) auf dem
-   - c) auf das
-
-5. Der Schrank steht ___ Tür.
-   - a) neben die
-   - b) neben der
-   - c) neben das
-
-6. Das Foto hängt ___ Wand.
-   - a) an der
-   - b) an dem
-   - c) an die
-
-7. Die Blumen sind ___ Vase.
-   - a) in der
-   - b) in dem
-   - c) im
-
-8. Der Hund ist ___ Tisch und ___ Sofa.
-   - a) zwischen dem / dem
-   - b) zwischen der / der
-   - c) zwischen das / das
+</div>
 
 ---
 
@@ -96,25 +71,20 @@
 
 ## التمرين 4: رتّب الكلمات لتكوين جملة صحيحة 🔄
 
-**رتب الكلمات في كل سطر لتكون جملة ألمانية صحيحة:**
+**رتب الكلمات لتكون جملة ألمانية صحيحة:**
 
-1. ist / Das Buch / dem / auf / Tisch
-   **→** _______________________________
+<div class="exercise" markdown="1" data-answers='["Das Buch ist auf dem Tisch.","Die Katze ist unter dem Bett.","Der Stuhl steht neben dem Tisch.","Das Bett ist im Schlafzimmer.","Das Bild hängt an der Wand.","Die Lampe ist zwischen dem Sofa und dem Sessel."]'>
 
-2. dem / unter / Die Katze / ist / Bett
-   **→** _______________________________
+| # | الكلمات | الجملة الصحيحة |
+|---|---------|---------------|
+| 1 | ist / Das Buch / dem / auf / Tisch | |
+| 2 | dem / unter / Die Katze / ist / Bett | |
+| 3 | dem / Der Stuhl / neben / steht / Tisch | |
+| 4 | im / Das Bett / Schlafzimmer / ist | |
+| 5 | der / an / Das Bild / hängt / Wand | |
+| 6 | und / Die Lampe / dem / zwischen / dem / ist / Sofa / Sessel | |
 
-3. dem / Der Stuhl / neben / steht / Tisch
-   **→** _______________________________
-
-4. im / Das Bett / Schlafzimmer / ist
-   **→** _______________________________
-
-5. der / an / Das Bild / hängt / Wand
-   **→** _______________________________
-
-6. und / Die Lampe / dem / zwischen / dem / ist / Sofa / Sessel
-   **→** _______________________________
+</div>
 
 ---
 
@@ -207,31 +177,22 @@
 
 ## التمرين 9: كلمة واحدة ناقصة 🧩
 
-**في كل جملة كلمة ناقصة. أكملها:**
+**في كل جملة كلمة ناقصة. أكمل حرف الجر المناسب:**
 
-1. Die Katze ist _____ dem Tisch. (unter + Dativ)
-   → **______**
+<div class="exercise" markdown="1" data-answers='["unter","auf","neben","an","vor","zwischen","im","hinter"]'>
 
-2. Das Buch ist _____ dem Sofa. (auf + Dativ)
-   → **______**
+| # | الجملة | حرف الجر |
+|---|--------|---------|
+| 1 | Die Katze ist _____ dem Tisch. (unter + Dativ) | |
+| 2 | Das Buch ist _____ dem Sofa. (auf + Dativ) | |
+| 3 | Der Stuhl steht _____ dem Tisch. (neben + Dativ) | |
+| 4 | Das Bild hängt _____ der Wand. (an + Dativ) | |
+| 5 | Das Auto ist _____ dem Haus. (vor + Dativ) | |
+| 6 | Die Lampe ist _____ dem Sofa und _____ dem Sessel. (zwischen) | |
+| 7 | Die Kinder sind _____ dem Garten. (in + Dativ → im) | |
+| 8 | Der Schrank ist _____ der Tür. (hinter + Dativ) | |
 
-3. Der Stuhl steht _____ dem Tisch. (neben + Dativ)
-   → **______**
-
-4. Das Bild hängt _____ der Wand. (an + Dativ)
-   → **______**
-
-5. Das Auto ist _____ dem Haus. (vor + Dativ)
-   → **______**
-
-6. Die Lampe ist _____ dem Sofa und _____ dem Sessel. (zwischen)
-   → **______**
-
-7. Die Kinder sind _____ dem Garten. (in + Dativ → im)
-   → **______**
-
-8. Der Schrank ist _____ der Tür. (hinter + Dativ)
-   → **______**
+</div>
 
 ---
 

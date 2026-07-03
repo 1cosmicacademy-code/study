@@ -14,32 +14,22 @@
 
 **Choose the correct helping verb (haben / sein):**
 
-1. Ich _______ gestern Geburtstag _______________. (feiern)
-2. Meine Freunde _______ zur Party _______________. (kommen)
-3. Wir _______ Cola und Saft _______________. (trinken)
-4. Du _______ ein Geschenk _______________. (mitbringen)
-5. Die Kinder _______ im Garten _______________. (spielen)
-6. Meine Mutter _______ den Kuchen _______________. (backen → gebacken)
-7. Ich _______ um 10 Uhr nach Hause _______________. (gehen)
-8. Der Gast _______ eine Flasche Wein _______________. (mitbringen)
-9. Lisa und Tom _______ viel _______________. (tanzen)
-10. Das Wetter _______ schön _______________. (sein)
+<div class="exercise" markdown="1" data-answers='["habe","sind","haben","hast","haben","hat","bin","hat","haben","ist"]'>
 
-<details>
-<summary>✅ Answers</summary>
+| # | Sentence | haben/sein |
+|---|----------|------------|
+| 1. | Ich _______ gestern Geburtstag _______________. (feiern) | |
+| 2. | Meine Freunde _______ zur Party _______________. (kommen) | |
+| 3. | Wir _______ Cola und Saft _______________. (trinken) | |
+| 4. | Du _______ ein Geschenk _______________. (mitbringen) | |
+| 5. | Die Kinder _______ im Garten _______________. (spielen) | |
+| 6. | Meine Mutter _______ den Kuchen _______________. (backen → gebacken) | |
+| 7. | Ich _______ um 10 Uhr nach Hause _______________. (gehen) | |
+| 8. | Der Gast _______ eine Flasche Wein _______________. (mitbringen) | |
+| 9. | Lisa und Tom _______ viel _______________. (tanzen) | |
+| 10. | Das Wetter _______ schön _______________. (sein) | |
 
-1. Ich **habe** gestern Geburtstag **gefeiert**.
-2. Meine Freunde **sind** zur Party **gekommen**.
-3. Wir **haben** Cola und Saft **getrunken**.
-4. Du **hast** ein Geschenk **mitgebracht**.
-5. Die Kinder **haben** im Garten **gespielt**.
-6. Meine Mutter **hat** den Kuchen **gebacken**.
-7. Ich **bin** um 10 Uhr nach Hause **gegangen**.
-8. Der Gast **hat** eine Flasche Wein **mitgebracht**.
-9. Lisa und Tom **haben** viel **getanzt**.
-10. Das Wetter **ist** schön **gewesen**.
-
-</details>
+</div>
 
 ---
 
@@ -47,59 +37,20 @@
 
 **Choose the correct answer from the options:**
 
-1. Ich _____ gestern.
-   - a) hat gefeiert
-   - b) habe gefeiert
-   - c) bin gefeiert
+<div class="exercise" markdown="1" data-type="choice" data-answers='["B","B","A","A","C","B","B","B"]'>
 
-2. Er _____ um 8 Uhr gekommen.
-   - a) hat
-   - b) ist
-   - c) hast
+| # | Question | A | B | C |
+|---|----------|---|---|---|
+| 1. | Ich _____ gestern. | hat gefeiert | habe gefeiert | bin gefeiert |
+| 2. | Er _____ um 8 Uhr gekommen. | hat | ist | hast |
+| 3. | Wir _____ zusammen getanzt. | haben | seid | sind |
+| 4. | Was _____ du getrunken? | hast | bist | habt |
+| 5. | Die Gäste _____ viel gesungen. | hat | seid | haben |
+| 6. | Sarah _____ ein Lied gesungen. | ist | hat | bist |
+| 7. | Ihr _____ nach Hause gefahren. | habt | seid | sind |
+| 8. | Die Party _____ toll gewesen. | hat | ist | hast |
 
-3. Wir _____ zusammen getanzt.
-   - a) haben
-   - b) seid
-   - c) sind
-
-4. Was _____ du getrunken?
-   - a) hast
-   - b) bist
-   - c) habt
-
-5. Die Gäste _____ viel gesungen.
-   - a) hat
-   - b) seid
-   - c) haben
-
-6. Sarah _____ ein Lied gesungen.
-   - a) ist
-   - b) hat
-   - c) bist
-
-7. Ihr _____ nach Hause gefahren.
-   - a) habt
-   - b) seid
-   - c) sind
-
-8. Die Party _____ toll gewesen.
-   - a) hat
-   - b) ist
-   - c) hast
-
-<details>
-<summary>✅ Answers</summary>
-
-1. ✅ b) Ich **habe** gefeiert.
-2. ✅ b) Er **ist** um 8 Uhr gekommen.
-3. ✅ a) Wir **haben** zusammen getanzt.
-4. ✅ a) Was **hast** du getrunken?
-5. ✅ c) Die Gäste **haben** viel gesungen.
-6. ✅ b) Sarah **hat** ein Lied gesungen.
-7. ✅ b) Ihr **seid** nach Hause gefahren.
-8. ✅ b) Die Party **ist** toll gewesen.
-
-</details>
+</div>
 
 ---
 
@@ -128,51 +79,20 @@
 
 **Translate the following sentences into German using Perfekt:**
 
-1. I celebrated my birthday yesterday.
+<div class="exercise" markdown="1" data-answers='["Ich habe gestern meinen Geburtstag gefeiert.","Hast du ein Geschenk mitgebracht?","Wir haben zusammen getanzt und gesungen.","Sie ist nicht zur Party gekommen.","Was habt ihr gegessen?","Die Kinder haben im Garten gespielt.","Ich bin zu Hause geblieben.","Wer hat beim Aufr&#228;umen geholfen?"]'>
 
-   → ___________________________________
+| # | English | German |
+|---|---------|-------|
+| 1. | I celebrated my birthday yesterday. | |
+| 2. | Did you bring a gift? | |
+| 3. | We danced and sang together. | |
+| 4. | She did not come to the party. | |
+| 5. | What did you (plural) eat? | |
+| 6. | The children played in the garden. | |
+| 7. | I stayed at home. | |
+| 8. | Who helped with the cleaning? | |
 
-2. Did you bring a gift?
-
-   → ___________________________________
-
-3. We danced and sang together.
-
-   → ___________________________________
-
-4. She did not come to the party.
-
-   → ___________________________________
-
-5. What did you (plural) eat?
-
-   → ___________________________________
-
-6. The children played in the garden.
-
-   → ___________________________________
-
-7. I stayed at home.
-
-   → ___________________________________
-
-8. Who helped with the cleaning?
-
-   → ___________________________________
-
-<details>
-<summary>✅ Answers</summary>
-
-1. Ich **habe** gestern meinen Geburtstag **gefeiert**.
-2. **Hast** du ein Geschenk **mitgebracht**?
-3. Wir **haben** zusammen **getanzt** und **gesungen**.
-4. Sie **ist** nicht zur Party **gekommen**.
-5. Was **habt** ihr **gegessen**?
-6. Die Kinder **haben** im Garten **gespielt**.
-7. Ich **bin** zu Hause **geblieben**.
-8. Wer **hat** beim Aufräumen **geholfen**?
-
-</details>
+</div>
 
 ---
 
@@ -180,52 +100,18 @@
 
 **Each sentence has ONE mistake. Find it and correct it:**
 
-1. Ich hat gestern gefeiert.
-   → ___________________________________
+<div class="exercise" markdown="1" data-answers='["Ich habe gestern gefeiert.","Wir haben Pizza gegessen.","Er ist nach Hause gegangen.","Du hast Kuchen gebacken.","Ihr seid zur Party gekommen.","Sie haben viel getanzt."]'>
 
-2. Wir sind Pizza gegessen.
-   → ___________________________________
+| # | Wrong sentence | Correction |
+|---|----------------|------------|
+| 1. | Ich hat gestern gefeiert. | |
+| 2. | Wir sind Pizza gegessen. | |
+| 3. | Er hat nach Hause gegangen. | |
+| 4. | Du bist Kuchen gebacken. | |
+| 5. | Ihr habt zur Party gekommen. | |
+| 6. | Sie haben viel getanzen. | |
 
-3. Er hat nach Hause gegangen.
-   → ___________________________________
-
-4. Du bist Kuchen gebacken.
-   → ___________________________________
-
-5. Ihr habt zur Party gekommen.
-   → ___________________________________
-
-6. Sie haben viel getanzen.
-   → ___________________________________
-
-<details>
-<summary>✅ Answers</summary>
-
-1. ❌ Ich **hat** gestern gefeiert.
-   ✅ Ich **habe** gestern gefeiert.
-   *(Error: hat is for he/she/it; with ich we need habe)*
-
-2. ❌ Wir **sind** Pizza gegessen.
-   ✅ Wir **haben** Pizza gegessen.
-   *(Error: essen takes haben, not sein)*
-
-3. ❌ Er **hat** nach Hause gegangen.
-   ✅ Er **ist** nach Hause gegangen.
-   *(Error: gehen (to go) is movement → takes sein)*
-
-4. ❌ Du **bist** Kuchen gebacken.
-   ✅ Du **hast** Kuchen gebacken.
-   *(Error: backen (to bake) is a regular verb → haben)*
-
-5. ❌ Ihr **habt** zur Party gekommen.
-   ✅ Ihr **seid** zur Party gekommen.
-   *(Error: kommen (to come) is movement → sein)*
-
-6. ❌ Sie haben viel **getanzen**.
-   ✅ Sie haben viel **getanzt**.
-   *(Error: getanzen is not correct — the right form is getanzt)*
-
-</details>
+</div>
 
 ---
 
@@ -254,41 +140,18 @@
 
 **Answer the following questions. Use the words in brackets:**
 
-1. **Hast du gestern gefeiert?** (yes, feiern)
+<div class="exercise" markdown="1" data-answers='["Ja, ich habe gestern gefeiert.","Nein, ich bin nicht zur Party gekommen.","Ich habe Saft getrunken.","Ja, Maria hat zwei Lieder gesungen.","Ja, wir haben viel getanzt.","Meine Mutter hat den Kuchen gebacken (und mitgebracht)."]'>
 
-   → ___________________________________
+| # | Question | Answer |
+|---|----------|--------|
+| 1. | Hast du gestern gefeiert? (yes, feiern) | |
+| 2. | Bist du zur Party gekommen? (no, not kommen) | |
+| 3. | Was hast du getrunken? (Saft) | |
+| 4. | Hat Maria gesungen? (yes, two songs) | |
+| 5. | Habt ihr getanzt? (yes, a lot) | |
+| 6. | Wer hat den Kuchen mitgebracht? (my mom, backen) | |
 
-2. **Bist du zur Party gekommen?** (no, not kommen)
-
-   → ___________________________________
-
-3. **Was hast du getrunken?** (Saft)
-
-   → ___________________________________
-
-4. **Hat Maria gesungen?** (yes, two songs)
-
-   → ___________________________________
-
-5. **Habt ihr getanzt?** (yes, a lot)
-
-   → ___________________________________
-
-6. **Wer hat den Kuchen mitgebracht?** (my mom, backen)
-
-   → ___________________________________
-
-<details>
-<summary>✅ Answers</summary>
-
-1. Ja, ich **habe** gestern **gefeiert**.
-2. Nein, ich **bin** nicht zur Party **gekommen**.
-3. Ich **habe** Saft **getrunken**.
-4. Ja, Maria **hat** zwei Lieder **gesungen**.
-5. Ja, wir **haben** viel **getanzt**.
-6. Meine Mutter **hat** den Kuchen **gebacken** (und **mitgebracht**).
-
-</details>
+</div>
 
 ---
 
@@ -296,41 +159,18 @@
 
 **Arrange the words to form a correct sentence in Perfekt:**
 
-1. gefeiert / Ich / gestern / habe / .
+<div class="exercise" markdown="1" data-answers='["Ich habe gestern gefeiert.","Er ist sp&#228;t zur Party gekommen.","Was habt ihr getrunken?","Du hast ein Geschenk mitgebracht.","Wir haben getanzt und gesungen.","Sie ist nicht gekommen."]'>
 
-   → ___________________________________
+| # | Words | Correct sentence |
+|---|-------|------------------|
+| 1. | gefeiert / Ich / gestern / habe / . | |
+| 2. | zur Party / gekommen / spät / ist / Er / . | |
+| 3. | getrunken / habt / Was / ihr / ? | |
+| 4. | Geschenk / Du / hast / ein / mitgebracht / . | |
+| 5. | und / gesungen / Wir / getanzt / haben / . | |
+| 6. | nicht / Sie / gekommen / ist / . | |
 
-2. zur Party / gekommen / spät / ist / Er / .
-
-   → ___________________________________
-
-3. getrunken / habt / Was / ihr / ?
-
-   → ___________________________________
-
-4. Geschenk / Du / hast / ein / mitgebracht / .
-
-   → ___________________________________
-
-5. und / gesungen / Wir / getanzt / haben / .
-
-   → ___________________________________
-
-6. nicht / Sie / gekommen / ist / .
-
-   → ___________________________________
-
-<details>
-<summary>✅ Answers</summary>
-
-1. Ich **habe** gestern **gefeiert**.
-2. Er **ist** spät zur Party **gekommen**.
-3. Was **habt** ihr **getrunken**?
-4. Du **hast** ein Geschenk **mitgebracht**.
-5. Wir **haben** **getanzt** und **gesungen**.
-6. Sie **ist** nicht **gekommen**.
-
-</details>
+</div>
 
 ---
 
@@ -338,42 +178,23 @@
 
 **Complete the dialogue by putting the verbs into Perfekt:**
 
-**Tom:** Hallo Lisa! Wie war die Party gestern? (sein)
+<div class="exercise" markdown="1" data-answers='["ist gewesen","habe getanzt","Hast gesungen","habe gesungen","bin gekommen","bin gewesen","haben gegessen","getrunken","hat","hat gemacht","hat mitgebracht"]'>
 
-**Lisa:** Die Party _________ toll! (sein) Ich _________ viel _________. (tanzen)
+| Speaker | Sentence | Answer |
+|---------|----------|--------|
+| Lisa | Die Party _________ toll! (sein) | |
+| Lisa | Ich _________ viel _________. (tanzen) | |
+| Tom | _________ du auch _________? (singen) | |
+| Lisa | Ja, ich _________ zwei Lieder _________. Und du? | |
+| Tom | Ich _________ leider nicht _________. (kommen) | |
+| Tom | Ich _________ krank _________. (sein) | |
+| Lisa | Oh, schade! Wir _________ Kuchen _________. (essen) | |
+| Lisa | ... und Saft _________. (trinken) | |
+| Tom | Nächstes Mal! Wer _________ die Musik gemacht? | |
+| Lisa | Peter _________ die Musik _________. (machen) | |
+| Lisa | Er _________ gute Lieder _________. (mitbringen) | |
 
-**Tom:** _________ du auch _________? (singen)
-
-**Lisa:** Ja, ich _________ zwei Lieder _________. (singen) Und du?
-
-**Tom:** Ich _________ leider nicht _________. (kommen) Ich _________ krank _________. (sein)
-
-**Lisa:** Oh, schade! Wir _________ Kuchen _________ (essen) und Saft _________ (trinken).
-
-**Tom:** Nächstes Mal! Wer _________ die Musik gemacht? (machen)
-
-**Lisa:** Peter _________ die Musik _________. (machen) Er _________ gute Lieder _________. (mitbringen)
-
-<details>
-<summary>✅ Answers</summary>
-
-**Tom:** Hallo Lisa! Wie war die Party gestern?
-
-**Lisa:** Die Party **ist** toll **gewesen**! Ich **habe** viel **getanzt**.
-
-**Tom:** **Hast** du auch **gesungen**?
-
-**Lisa:** Ja, ich **habe** zwei Lieder **gesungen**. Und du?
-
-**Tom:** Ich **bin** leider nicht **gekommen**. Ich **bin** krank **gewesen**.
-
-**Lisa:** Oh, schade! Wir **haben** Kuchen **gegessen** und Saft **getrunken**.
-
-**Tom:** Nächstes Mal! Wer hat die Musik gemacht?
-
-**Lisa:** Peter **hat** die Musik **gemacht**. Er **hat** gute Lieder **mitgebracht**.
-
-</details>
+</div>
 
 ---
 

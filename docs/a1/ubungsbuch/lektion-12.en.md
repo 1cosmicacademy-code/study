@@ -26,47 +26,22 @@
 
 ## Exercise 2: Choose the correct answer 🔘
 
-**Choose a, b or c:**
+**Choose A, B or C:**
 
-1. Ich ___ Schüler.
-   - a) bin
-   - b) bist
-   - c) ist
+<div class="exercise" markdown="1" data-type="choice" data-answers='["A","B","C","A","B","A","C","A"]'>
 
-2. Du ___ Student.
-   - a) bin
-   - b) bist
-   - c) ist
+| # | Sentence | A | B | C |
+|---|----------|---|---|---|
+| 1 | Ich ___ Schüler. | bin | bist | ist |
+| 2 | Du ___ Student. | bin | bist | ist |
+| 3 | Er ___ Lehrer von Beruf. | bin | bist | ist |
+| 4 | Wir ___ in der Klasse. | sind | seid | bin |
+| 5 | Ihr ___ Schülerinnen. | sind | seid | ist |
+| 6 | Was ___ du von Beruf? | bist | ist | bin |
+| 7 | Sie (she) ___ Ärztin. | bin | bist | ist |
+| 8 | Sie (they) ___ Studenten. | sind | seid | ist |
 
-3. Er ___ Lehrer von Beruf.
-   - a) bin
-   - b) bist
-   - c) ist
-
-4. Wir ___ in der Klasse.
-   - a) sind
-   - b) seid
-   - c) bin
-
-5. Ihr ___ Schülerinnen.
-   - a) sind
-   - b) seid
-   - c) ist
-
-6. Was ___ du von Beruf?
-   - a) bist
-   - b) ist
-   - c) bin
-
-7. Sie (she) ___ Ärztin.
-   - a) bin
-   - b) bist
-   - c) ist
-
-8. Sie (they) ___ Studenten.
-   - a) sind
-   - b) seid
-   - c) ist
+</div>
 
 ---
 
@@ -95,29 +70,20 @@
 
 **Arrange the words to make a correct German sentence:**
 
-1. bin / Ich / Schüler
-   **→** _______________________________
+<div class="exercise" markdown="1" data-answers='["Ich bin Schüler.","Was bist du von Beruf?","Meine Mutter ist Lehrerin.","Wir möchten Polizisten werden.","Was möchtest du werden?","Mein Bruder möchte Arzt werden.","Ich gehe in die Schule.","Ich mag Deutsch."]'>
 
-2. du / Was / von Beruf / bist
-   **→** _______________________________
+| # | Words | Correct Sentence |
+|---|-------|-----------------|
+| 1 | bin / Ich / Schüler | **__________________** |
+| 2 | du / Was / von Beruf / bist | **__________________** |
+| 3 | Lehrerin / ist / Meine Mutter | **__________________** |
+| 4 | möchten / Wir / Polizisten / werden | **__________________** |
+| 5 | du / Was / möchtest / werden | **__________________** |
+| 6 | Arzt / möchte / werden / Mein Bruder | **__________________** |
+| 7 | in / gehe / die / Ich / Schule | **__________________** |
+| 8 | Deutsch / mag / Ich | **__________________** |
 
-3. Lehrerin / ist / Meine Mutter
-   **→** _______________________________
-
-4. möchten / Wir / Polizisten / werden
-   **→** _______________________________
-
-5. du / Was / möchtest / werden
-   **→** _______________________________
-
-6. Arzt / möchte / werden / Mein Bruder
-   **→** _______________________________
-
-7. in / gehe / die / Ich / Schule
-   **→** _______________________________
-
-8. Deutsch / mag / Ich
-   **→** _______________________________
+</div>
 
 ---
 
@@ -186,47 +152,22 @@
 
 ## Exercise 8: Choose the correct answer (school vocabulary) 🔘
 
-**Choose a, b or c:**
+**Choose A, B or C:**
 
-1. Ich habe heute ___ . (homework)
-   - a) eine Prüfung
-   - b) eine Hausaufgabe
-   - c) eine Note
+<div class="exercise" markdown="1" data-type="choice" data-answers='["B","B","A","B","B","B","B","B"]'>
 
-2. Der ___ unterrichtet Deutsch.
-   - a) Schüler
-   - b) Lehrer
-   - c) Fahrer
+| # | Sentence | A | B | C |
+|---|----------|---|---|---|
+| 1 | Ich habe heute ___ . (homework) | eine Prüfung | eine Hausaufgabe | eine Note |
+| 2 | Der ___ unterrichtet Deutsch. | Schüler | Lehrer | Fahrer |
+| 3 | In der ___ sind 20 Schüler. | Klasse | Küche | Prüfung |
+| 4 | Ich habe eine gute ___ in Mathe. | Prüfung | Note | Schule |
+| 5 | Mathe ist mein Lieblings- ___ . (my favourite subject) | Beruf | Fach | Buch |
+| 6 | Morgen schreiben wir eine ___ . | Note | Prüfung | Klasse |
+| 7 | Ich brauche einen ___ für die Schule. (pencil) | Kugelschreiber | Bleistift | Heft |
+| 8 | Das ___ ist auf dem Tisch. (the book) | Heft | Buch | Bleistift |
 
-3. In der ___ sind 20 Schüler.
-   - a) Klasse
-   - b) Küche
-   - c) Prüfung
-
-4. Ich habe eine gute ___ in Mathe.
-   - a) Prüfung
-   - b) Note
-   - c) Schule
-
-5. Mathe ist mein Lieblings- ___ . (my favourite subject)
-   - a) Beruf
-   - b) Fach
-   - c) Buch
-
-6. Morgen schreiben wir eine ___ .
-   - a) Note
-   - b) Prüfung
-   - c) Klasse
-
-7. Ich brauche einen ___ für die Schule. (pencil)
-   - a) Kugelschreiber
-   - b) Bleistift
-   - c) Heft
-
-8. Das ___ ist auf dem Tisch. (the book)
-   - a) Heft
-   - b) Buch
-   - c) Bleistift
+</div>
 
 ---
 
