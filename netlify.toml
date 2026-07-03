@@ -4,3 +4,8 @@
 
 [build.environment]
   PYTHON_VERSION = "3.14"
+
+[[redirects]]
+  from = "/*"
+  to = "https://study-german.pages.dev/:splat"
+  status = 301
