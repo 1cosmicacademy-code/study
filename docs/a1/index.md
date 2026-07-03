@@ -4,7 +4,7 @@
 
 ---
 
-## 📕 Treffpunkt Kursbuch A1
+## 📕 شروحات الدروس A1 (Kursbuch)
 
 | # | الدرس | الموضوع |
 |---|-------|---------|
@@ -31,7 +31,7 @@
 
 ---
 
-## 📗 Treffpunkt Übungsbuch A1
+## 📗 تمارين A1 (Übungsbuch)
 
 [📝 تمارين المستوى A1](ubungsbuch/index.md)
 

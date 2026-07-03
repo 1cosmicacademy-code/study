@@ -1,19 +1,19 @@
 # 🗓️ Study Plan — Learning Schedule
 
-> This plan takes you from **zero** to **A1.2 level** step by step. Each week we study one lesson from **Treffpunkt Kursbuch A1**.
+> This plan takes you from **zero** to **A1.2 level** step by step. Each week we study one lesson in order.
 
 ---
 
 ## 📅 How to Use This Plan
 
-1. **Every week** — we study one Lektion (lesson) from Treffpunkt Kursbuch
+1. **Every week** — we study one Lektion (lesson)
 2. **After the lesson** — we solve the exercises in Übungsbuch
 3. **Every two weeks** — we review grammar topics from the previous lessons
 4. **Every lesson has** a YouTube video — Arabic and English
 
 ---
 
-## 📅 Weekly Plan — Treffpunkt A1
+## 📅 Weekly Plan — Level A1
 
 | Week | Lesson | Topic | Grammar |
 |------|--------|-------|---------|
@@ -42,7 +42,7 @@
 | Week 23 | Lektion 16 | **Im Laden** — In the Shop | Adjectives, dieser/jeder/welcher |
 | Week 24 | Grammar | 📘 Grammar Review | Adjective declension + demonstratives |
 | Week 25 | Lektion 17 | **Arbeit** — Work | Temporal adverbs, professions, werden |
-| Week 26 | Lektion 18 | **Im Büro** — In the Office | Communication, writing emails, prepositions |
+| Week 26 | Lektion 18 | **Beim Amt** — At the Government Office | Modal verbs, official procedures, forms |
 | Week 27 | Grammar | 📘 Grammar Review | Full A1 grammar review |
 | Week 28 | Lektion 19 | **Reisen in Deutschland** — Traveling in Germany | Railways, hotel booking, tickets |
 | Week 29 | Lektion 20 | **Feste und Feiern** — Celebrations & Parties | Congratulations, invitations, writing cards |

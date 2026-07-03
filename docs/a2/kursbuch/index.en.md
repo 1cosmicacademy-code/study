@@ -1,6 +1,6 @@
-# 📕 Course Book — Treffpunkt Kursbuch A2
+# 📕 Course Book — Level A2
 
-> All lessons from **Treffpunkt Kursbuch A2** in order. Each lesson contains simple explanations, new vocabulary, grammar, and dialogues.
+> All lessons from **Level A2** in order. Each lesson contains simple explanations, new vocabulary, grammar, and dialogues.
 
 ---
 
@@ -33,7 +33,7 @@
 
 ## 🎯 What Each Lesson Contains
 
-Each lesson in **Treffpunkt Kursbuch A2** contains:
+Each lesson in **Level A2** contains:
 
 - 🗣️ **Dialogue (Dialog)** — a conversation between two people
 - 📝 **New Vocabulary (Wortschatz)** — words with translation and pronunciation

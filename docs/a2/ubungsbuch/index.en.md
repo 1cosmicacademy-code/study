@@ -1,6 +1,6 @@
-# 📗 Exercise Book — Treffpunkt Übungsbuch A2
+# 📗 Exercise Book — Level A2
 
-> All exercises from **Treffpunkt Übungsbuch A2** in order. Each lesson contains varied exercises with complete solutions.
+> All exercises from **Level A2** in order. Each lesson contains varied exercises with complete solutions.
 
 ---
 

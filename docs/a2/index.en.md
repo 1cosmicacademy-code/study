@@ -4,11 +4,11 @@
 
 ---
 
-## 📕 Treffpunkt Coursebook A2
+## 📕 A2 Course Lessons (Kursbuch)
 
 [📚 **A2 Coursebook Index**](kursbuch/index.md) — 20 lessons on: work, housing, health, travel, money, and more
 
-## 📗 Treffpunkt Exercise Book A2
+## 📗 A2 Exercises (Übungsbuch)
 
 [📝 **A2 Exercises**](ubungsbuch/index.md) — Exercises and practice for each lesson with complete solutions
 

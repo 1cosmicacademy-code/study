@@ -1,6 +1,6 @@
-# 📕 Course Book — Treffpunkt Kursbuch A1
+# 📕 Course Book — Level A1
 
-> All lessons from **Treffpunkt Kursbuch A1** in order. Each lesson contains simple explanations, new vocabulary, grammar, and dialogues.
+> All lessons from **Level A1** in order. Each lesson contains simple explanations, new vocabulary, grammar, and dialogues.
 
 ---
 
@@ -33,7 +33,7 @@
 
 ## 🎯 What Each Lesson Contains
 
-Every lesson in **Treffpunkt Kursbuch A1** includes:
+Every lesson in **Level A1** includes:
 
 - 🗣️ **Dialogue (Dialog)** — A conversation between two people about the lesson topic
 - 📝 **Vocabulary (Wortschatz)** — New words with translations

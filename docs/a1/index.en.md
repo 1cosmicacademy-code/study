@@ -4,7 +4,7 @@
 
 ---
 
-## 📕 Treffpunkt Kursbuch A1
+## 📕 A1 Course Lessons (Kursbuch)
 
 | # | Lesson | Topic |
 |---|--------|-------|
@@ -31,7 +31,7 @@
 
 ---
 
-## 📗 Treffpunkt Übungsbuch A1
+## 📗 A1 Exercises (Übungsbuch)
 
 [📝 Exercises A1](ubungsbuch/index.md)
 

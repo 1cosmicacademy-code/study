@@ -1,6 +1,6 @@
 # 📝 A1 Exercises — Übungsbuch
 
-> All exercises from **Treffpunkt Übungsbuch A1**. Each lesson has exercises on vocabulary and grammar.
+> All exercises from **Level A1**. Each lesson has exercises on vocabulary and grammar.
 
 ---
 

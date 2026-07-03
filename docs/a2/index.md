@@ -4,11 +4,11 @@
 
 ---
 
-## 📕 Treffpunkt Kursbuch A2
+## 📕 دروس A2 (Kursbuch)
 
 [📚 **فهرس دروس A2**](kursbuch/index.md) — 20 درساً في مواضيع: العمل، السكن، الصحة، السفر، المال، وغيرها
 
-## 📗 Treffpunkt Übungsbuch A2
+## 📗 تمارين A2 (Übungsbuch)
 
 [📝 **تمارين A2**](ubungsbuch/index.md) — تمارين وتدريبات لكل درس مع الحلول الكاملة
 

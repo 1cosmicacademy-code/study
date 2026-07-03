@@ -10,29 +10,29 @@ description: Welcome to Learn German — from zero to hero!
 
 ## 📚 What Will You Learn Here?
 
-This website is your **complete guide** for the **Integrationskurs German A1.1** with all Treffpunkt and Grammatik aktiv books.
+This website is your **free guide** for learning German at **A1-A2 level** — original explanations in Arabic, interactive exercises, and educational videos.
 
 ### 📖 Levels
 
 <div class="grid cards" markdown>
 
 -   **🟢 A1 — Absolute Beginner**
-    - ✅ [Course Book (Kursbuch)](a1/kursbuch/lektion-01.md)
-    - ✅ [Exercise Book (Übungsbuch)](a1/ubungsbuch/index.md)
+    - ✅ [Lesson Explanations (Kursbuch)](a1/kursbuch/lektion-01.md)
+    - ✅ [Interactive Exercises (Übungsbuch)](a1/ubungsbuch/index.md)
 
 -   **🟡 A2 — Advanced Beginner**
-    - ✅ [Course Book (Kursbuch)](a2/kursbuch/index.md)
-    - ✅ [Exercise Book (Übungsbuch)](a2/ubungsbuch/index.md)
+    - ✅ [Lesson Explanations (Kursbuch)](a2/kursbuch/index.md)
+    - ✅ [Interactive Exercises (Übungsbuch)](a2/ubungsbuch/index.md)
 
 </div>
 
-### 📘 Our Books
+### 📘 What This Site Offers
 
-| Book | Level | Description |
-|------|-------|-------------|
-| 📕 **Treffpunkt Kursbuch** | A1, A2 | Main book — all conversations and lessons |
-| 📗 **Treffpunkt Übungsbuch** | A1, A2 | Exercises — practice what you learn |
-| 📘 **Grammatik aktiv** | A1-B1 | Grammar — simple explanations for every topic |
+| Section | Level | Description |
+|---------|-------|-------------|
+| 📕 **Lesson Explanations** | A1, A2 | Original simplified lessons in Arabic — all conversations and grammar |
+| 📗 **Interactive Exercises** | A1, A2 | Written exercises with auto-correction |
+| 📘 **Comprehensive Grammar** | A1-B1 | Simple grammar explanations for every topic with examples and exercises |
 
 ---
 
