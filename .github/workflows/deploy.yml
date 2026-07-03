@@ -22,8 +22,8 @@ jobs:
       - name: Build site
         run: mkdocs build --clean
 
-      - name: Copy netlify.toml to publish dir
-        run: cp netlify.toml ./site/netlify.toml
+      - name: Create _redirects file for 301 redirect
+        run: echo '/*  https://study-german.pages.dev/:splat  301!' > ./site/_redirects
 
       - name: Deploy to Netlify
         uses: nwtgck/actions-netlify@v3
