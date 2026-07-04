@@ -47,6 +47,7 @@ extra_css:
 extra_javascript:
   - assets/js/video-switcher.js
   - assets/js/exercise-checker.js
+  - assets/js/level-test.js
 
 plugins:
   - search
@@ -74,6 +75,7 @@ plugins:
             🚀 Smart Track: 🚀 مسار Smart
             ⚡ Intensive Track: ⚡ مسار Intensive
             🔥 Turbo Track: 🔥 مسار Turbo
+            📝 Level Assessment: 📝 فحص المستوى
             ## A1 Kursbuch + Übungsbuch
             Lektion 1 - Hallo!: الدرس 1 - Hallo!
             Lektion 2 - Berufe: الدرس 2 - Berufe
@@ -137,6 +139,7 @@ plugins:
             🚀 Smart Track: 🚀 Smart Track
             ⚡ Intensive Track: ⚡ Intensive Track
             🔥 Turbo Track: 🔥 Turbo Track
+            📝 Level Assessment: 📝 Level Assessment
             Lektion 18 - Beim Amt: Lesson 18 - Beim Amt
             '1. Verben 1 — الأفعال 1': '1. Verben 1 — Verbs 1'
             '2. Sätze und Fragen — الجمل والأسئلة': '2. Sätze und Fragen — Sentences and Questions'
@@ -352,3 +355,4 @@ nav:
     - 🚀 Smart Track: plan/smart.md
     - ⚡ Intensive Track: plan/intensive.md
     - 🔥 Turbo Track: plan/turbo.md
+  - 📝 Level Assessment: einstufungstest/index.md
