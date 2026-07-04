@@ -709,10 +709,22 @@
 
     var stem = en ? qd.stemEn : qd.stemAr;
     var escapedStem = escapeHtml(stem);
-    // عزل ___ والنص اللاتيني الذي يليه عن تأثير اتجاه النص المحيط (RTL/LTR)
-    // نلفّ ___ والنص اللاتيني/الألماني الذي يليه داخل <bdi dir="ltr"> واحد
-    // لضمان عدم إعادة ترتيبهما بواسطة Unicode Bidirectional Algorithm
-    escapedStem = escapedStem.replace(/___[\w\s().,;:\/'\"!?À-ÿ-]*/g, '<bdi dir="ltr">$&</bdi>');
+    // ── معالجة الاتجاه (Bidirectional / Bidi) ──
+    // في الصفحة العربية (RTL)، تتعرض ___ والنصوص اللاتينية/الألمانية
+    // لإعادة ترتيب بواسطة Unicode Bidirectional Algorithm.
+    // الحل: نعزل النص اللاتيني عن سياق RTL باستخدام <bdi dir="ltr">
+    //
+    // حالتان:
+    // 1. النص خالص لاتيني (بدون حروف عربية) → نلفّ كامل النص في <bdi dir="ltr">
+    // 2. النص مختلط (عربي + لاتيني) → نلفّ كل ___ مع النص اللاتيني الذي يليها
+    var stemHasArabic = /[؀-ۿ]/.test(stem);
+    if (stemHasArabic && stem.indexOf('___') >= 0) {
+      // مختلط (عربي + لاتيني): عزل ___ والنص اللاتيني الذي يليها فقط
+      escapedStem = escapedStem.replace(/___[\w\s().,;:\/'\"!?À-ÿ-]*/g, '<bdi dir="ltr">$&</bdi>');
+    } else if (!stemHasArabic && stem.indexOf('___') >= 0) {
+      // خالص لاتيني: لفّ كامل الجملة لمنع bidi من عكس ترتيبها في سياق RTL
+      escapedStem = '<bdi dir="ltr">' + escapedStem + '</bdi>';
+    }
     var questionHtml = '<h3 class="level-question-stem">' + escapedStem + '</h3>';
 
     // زر الصوت للأسئلة الصوتية
