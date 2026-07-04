@@ -34,10 +34,10 @@
     var en = isEnglishPage();
     return {
       introTitle:    en ? '📝 Level Assessment (Einstufungstest)' : '📝 فحص المستوى (Einstufungstest)',
-      introDesc:     en ? 'Answer <strong>30 questions</strong> to discover your German level. After completing the test, you will receive a detailed report with your estimated level, strengths, weaknesses, and personalised recommendations linked to lessons and grammar topics.'
-                        : 'أجب عن <strong>30 سؤالاً</strong> لتعرف مستواك في اللغة الألمانية. بعد إكمال الاختبار، ستحصل على تقرير مفصل بمستواك التقديري، نقاط قوتك وضعفك، وتوصيات مخصصة مع روابط للدروس والقواعد.',
+      introDesc:     en ? 'Answer <strong>42 questions</strong> to discover your German level. After completing the test, you will receive a detailed report with your estimated level, strengths, weaknesses, and personalised recommendations linked to lessons and grammar topics.'
+                        : 'أجب عن <strong>42 سؤالاً</strong> لتعرف مستواك في اللغة الألمانية. بعد إكمال الاختبار، ستحصل على تقرير مفصل بمستواك التقديري، نقاط قوتك وضعفك، وتوصيات مخصصة مع روابط للدروس والقواعد.',
       introDuration: en ? '⏱ Duration: about 15 minutes' : '⏱ المدة: حوالي 15 دقيقة',
-      introQCount:   en ? '📊 30 questions · 4 sections' : '📊 30 سؤالاً · 4 أقسام',
+      introQCount:   en ? '📊 42 questions · 6 sections' : '📊 42 سؤالاً · 6 أقسام',
       startBtn:      en ? '▶️ Start Assessment' : '▶️ بدء الاختبار',
       nextBtn:       en ? '▶️ Next' : '▶️ التالي',
       finishBtn:     en ? '🏁 Finish & See Results' : '🏁 إنهاء وعرض النتائج',
@@ -110,7 +110,7 @@
     }
   }
 
-  // ── بيانات الأسئلة (30 سؤالاً) ──
+  // ── بيانات الأسئلة (42 سؤالاً) ──
   //
   // كل سؤال له:
   //   sceneEmoji 🎬 — إيموجي يمثل السياق
@@ -593,7 +593,220 @@
       grammar: 'Nebensätze', grammarLink: '../grammatik/nebensatze/',
       lesson: 'A2 Lektion 3', lessonLink: '../a2/kursbuch/lektion-03/',
       exerciseLink: '../a2/ubungsbuch/lektion-03/'
-    }
+    },
+    // ═══════════════════════════════════════════════
+    // القسم 5: Hörverstehen — الفهم السمعي (6 أسئلة)
+    // ═══════════════════════════════════════════════
+
+    {
+    section: 5, q: 1, type: 'choice', level: 'A2',
+    sceneEmoji: '🚄',
+    sceneAr: 'في محطة القطار الرئيسية في برلين. تسمع إعلاناً عن تغيير رصيف القطار.',
+    sceneEn: 'At Berlin\'s main train station. You hear an announcement about a platform change.',
+    audio: true,
+    audioText: 'Achtung, der Zug nach München fährt heute ab Gleis 7 statt Gleis 3.',
+    stemAr: 'استمع ثم أجب: من أي رصيف يغادر القطار المتجه إلى ميونخ؟',
+    stemEn: 'Listen and answer: From which platform does the train to Munich depart?',
+    options: ['Gleis 3', 'Gleis 5', 'Gleis 7'],
+    answer: 'C',
+    feedbackAr: 'الإعلان قال "ab Gleis 7 statt Gleis 3" — القطار يغادر من الرصيف 7 بدلاً من 3.',
+    feedbackEn: 'The announcement said "ab Gleis 7 statt Gleis 3" — the train departs from platform 7 instead of 3.',
+    grammar: null, grammarLink: null,
+    lesson: 'A2 Lektion 11', lessonLink: '../a2/kursbuch/lektion-11/',
+    exerciseLink: '../a2/ubungsbuch/lektion-11/'
+  },
+  {
+    section: 5, q: 2, type: 'choice', level: 'A2',
+    sceneEmoji: '✈️',
+    sceneAr: 'في مطار فرانكفورت. تسمع إعلاناً عن تأخر رحلة.',
+    sceneEn: 'At Frankfurt airport. You hear an announcement about a flight delay.',
+    audio: true,
+    audioText: 'Flug LH 432 nach Frankfurt hat 45 Minuten Verspätung. Neue Abflugzeit ist 15:30.',
+    stemAr: 'استمع ثم أجب: متى موعد الإقلاع الجديد؟',
+    stemEn: 'Listen and answer: What is the new departure time?',
+    options: ['14:45', '15:30', '16:15'],
+    answer: 'B',
+    feedbackAr: 'الإعلان قال "Neue Abflugzeit ist 15:30" — موعد الإقلاع الجديد هو 15:30.',
+    feedbackEn: 'The announcement said "Neue Abflugzeit ist 15:30" — the new departure time is 15:30.',
+    grammar: null, grammarLink: null,
+    lesson: 'A2 Lektion 5', lessonLink: '../a2/kursbuch/lektion-05/',
+    exerciseLink: '../a2/ubungsbuch/lektion-05/'
+  },
+  {
+    section: 5, q: 3, type: 'choice', level: 'A2',
+    sceneEmoji: '🌤️',
+    sceneAr: 'تستمع إلى نشرة الطقس على الراديو.',
+    sceneEn: 'Listening to the weather forecast on the radio.',
+    audio: true,
+    audioText: 'Morgen wird es in Berlin bis zu 25 Grad warm. Es bleibt meist sonnig.',
+    stemAr: 'استمع ثم أجب: كيف سيكون الطقس غداً في برلين؟',
+    stemEn: 'Listen and answer: What will the weather be like tomorrow in Berlin?',
+    options: ['Regen und kühl', 'Sonnig und 25°C', 'Bewölkt und 10°C'],
+    answer: 'B',
+    feedbackAr: 'النشرة قالت "bis zu 25 Grad warm" و "meist sonnig" — مشمس وحتى 25 درجة.',
+    feedbackEn: 'The forecast said "bis zu 25 Grad warm" and "meist sonnig" — sunny and up to 25°C.',
+    grammar: null, grammarLink: null,
+    lesson: 'A1 Lektion 2', lessonLink: '../a1/kursbuch/lektion-02/',
+    exerciseLink: '../a1/ubungsbuch/lektion-02/'
+  },
+  {
+    section: 5, q: 4, type: 'choice', level: 'A2',
+    sceneEmoji: '🛍️',
+    sceneAr: 'في متجر للملابس. تسمع البائعة تخبرك بالأسعار.',
+    sceneEn: 'At a clothing store. You hear the salesperson telling you the prices.',
+    audio: true,
+    audioText: 'Das T-Shirt kostet 19,99 Euro. Die Jeans kostet 49,90 Euro.',
+    stemAr: 'استمع ثم أجب: كم سعر التيشيرت؟',
+    stemEn: 'Listen and answer: How much does the T-shirt cost?',
+    options: ['19,99 €', '49,90 €', '39,99 €'],
+    answer: 'A',
+    feedbackAr: 'الجملة قالت "Das T-Shirt kostet 19,99 Euro" — التيشيرت ثمنه 19,99 يورو.',
+    feedbackEn: 'The sentence said "Das T-Shirt kostet 19,99 Euro" — the T-shirt costs 19,99 €.',
+    grammar: null, grammarLink: null,
+    lesson: 'A1 Lektion 16', lessonLink: '../a1/kursbuch/lektion-16/',
+    exerciseLink: '../a1/ubungsbuch/lektion-16/'
+  },
+  {
+    section: 5, q: 5, type: 'choice', level: 'A2',
+    sceneEmoji: '🏫',
+    sceneAr: 'في صف اللغة الألمانية. المدرس يعطي تعليمات.',
+    sceneEn: 'In German class. The teacher gives instructions.',
+    audio: true,
+    audioText: 'Öffnen Sie das Buch auf Seite 45. Lesen Sie den Text und beantworten Sie die Fragen.',
+    stemAr: 'استمع ثم أجب: ماذا يطلب المدرس أولاً؟',
+    stemEn: 'Listen and answer: What does the teacher ask first?',
+    options: ['Das Buch schließen', 'Das Buch auf Seite 45 öffnen', 'Nach Hause gehen'],
+    answer: 'B',
+    feedbackAr: 'المدرس قال "Öffnen Sie das Buch auf Seite 45" — افتحوا الكتاب على الصفحة 45.',
+    feedbackEn: 'The teacher said "Öffnen Sie das Buch auf Seite 45" — open the book to page 45.',
+    grammar: null, grammarLink: null,
+    lesson: 'A1 Lektion 1', lessonLink: '../a1/kursbuch/lektion-01/',
+    exerciseLink: '../a1/ubungsbuch/lektion-01/'
+  },
+  {
+    section: 5, q: 6, type: 'choice', level: 'A2',
+    sceneEmoji: '🏛️',
+    sceneAr: 'تتصل بالمتحف لتعرف أوقات العمل.',
+    sceneEn: 'Calling the museum to find out opening hours.',
+    audio: true,
+    audioText: 'Das Museum ist von Dienstag bis Sonntag von 10 bis 18 Uhr geöffnet. Montag ist Ruhetag.',
+    stemAr: 'استمع ثم أجب: في أي يوم يكون المتحف مغلقاً؟',
+    stemEn: 'Listen and answer: On which day is the museum closed?',
+    options: ['Dienstag', 'Montag', 'Sonntag'],
+    answer: 'B',
+    feedbackAr: 'المتحف مغلق يوم الاثنين — "Montag ist Ruhetag". Dienstag=الثلاثاء، Sonntag=الأحد.',
+    feedbackEn: 'The museum is closed on Monday — "Montag ist Ruhetag".',
+    grammar: null, grammarLink: null,
+    lesson: 'A2 Lektion 5', lessonLink: '../a2/kursbuch/lektion-05/',
+    exerciseLink: '../a2/ubungsbuch/lektion-05/'
+  },
+
+  // ═══════════════════════════════════════════════
+  // القسم 6: Leseverstehen — الفهم القرائي (6 أسئلة)
+  // ═══════════════════════════════════════════════
+
+  {
+    section: 6, q: 1, type: 'choice', level: 'A2',
+    sceneEmoji: '👩‍🎓',
+    sceneAr: 'تقرأ تعريفاً عن شخص ألماني.',
+    sceneEn: 'Reading a self-introduction by a German person.',
+    passageTitle: 'Lena aus Berlin',
+    passageText: 'Hallo! Ich heiße Lena und wohne in Berlin. Ich bin 25 Jahre alt und studiere Medizin an der Freien Universität. Ich wohne mit zwei Freundinnen in einer WG in Kreuzberg. Meine Hobbys sind Schwimmen, Lesen und Kochen. Am Wochenende fahre ich oft mit dem Fahrrad in den Park.',
+    stemAr: 'اقرأ النص ثم أجب: كم عمر Lena؟',
+    stemEn: 'Read the text and answer: How old is Lena?',
+    options: ['22', '23', '25'],
+    answer: 'C',
+    feedbackAr: 'في النص: "Ich bin 25 Jahre alt" — عمر Lena هو 25 سنة.',
+    feedbackEn: 'In the text: "Ich bin 25 Jahre alt" — Lena is 25 years old.',
+    grammar: null, grammarLink: null,
+    lesson: 'A1 Lektion 1', lessonLink: '../a1/kursbuch/lektion-01/',
+    exerciseLink: '../a1/ubungsbuch/lektion-01/'
+  },
+  {
+    section: 6, q: 2, type: 'choice', level: 'A2',
+    sceneEmoji: '👩‍🎓',
+    sceneAr: 'تقرأ المزيد عن Lena.',
+    sceneEn: 'Reading more about Lena.',
+    passageTitle: 'Lena aus Berlin',
+    passageText: 'Hallo! Ich heiße Lena und wohne in Berlin. Ich bin 25 Jahre alt und studiere Medizin an der Freien Universität. Ich wohne mit zwei Freundinnen in einer WG in Kreuzberg. Meine Hobbys sind Schwimmen, Lesen und Kochen. Am Wochenende fahre ich oft mit dem Fahrrad in den Park.',
+    stemAr: 'اقرأ النص ثم أجب: مع من تسكن Lena؟',
+    stemEn: 'Read the text and answer: Who does Lena live with?',
+    options: ['Allein', 'Mit Freundinnen', 'Mit der Familie'],
+    answer: 'B',
+    feedbackAr: 'في النص: "Ich wohne mit zwei Freundinnen in einer WG" — تسكن مع صديقاتها.',
+    feedbackEn: 'In the text: "Ich wohne mit zwei Freundinnen in einer WG" — she lives with friends.',
+    grammar: null, grammarLink: null,
+    lesson: 'A1 Lektion 1', lessonLink: '../a1/kursbuch/lektion-01/',
+    exerciseLink: '../a1/ubungsbuch/lektion-01/'
+  },
+  {
+    section: 6, q: 3, type: 'choice', level: 'A2',
+    sceneEmoji: '👩‍🎓',
+    sceneAr: 'تقرأ عن هوايات Lena.',
+    sceneEn: 'Reading about Lena\'s hobbies.',
+    passageTitle: 'Lena aus Berlin',
+    passageText: 'Hallo! Ich heiße Lena und wohne in Berlin. Ich bin 25 Jahre alt und studiere Medizin an der Freien Universität. Ich wohne mit zwei Freundinnen in einer WG in Kreuzberg. Meine Hobbys sind Schwimmen, Lesen und Kochen. Am Wochenende fahre ich oft mit dem Fahrrad in den Park.',
+    stemAr: 'اقرأ النص ثم أجب: ماذا تفعل Lena في عطلة نهاية الأسبوع؟',
+    stemEn: 'Read the text and answer: What does Lena do on weekends?',
+    options: ['Ins Kino gehen', 'Mit dem Fahrrad in den Park fahren', 'Zu Hause lernen'],
+    answer: 'B',
+    feedbackAr: 'في النص: "Am Wochenende fahre ich oft mit dem Fahrrad in den Park" — تذهب بالدراجة إلى الحديقة.',
+    feedbackEn: 'In the text: "Am Wochenende fahre ich oft mit dem Fahrrad in den Park" — she rides her bike to the park.',
+    grammar: null, grammarLink: null,
+    lesson: 'A1 Lektion 5', lessonLink: '../a1/kursbuch/lektion-05/',
+    exerciseLink: '../a1/ubungsbuch/lektion-05/'
+  },
+  {
+    section: 6, q: 4, type: 'choice', level: 'A2',
+    sceneEmoji: '🏛️',
+    sceneAr: 'تقرأ عن مدينة ميونخ.',
+    sceneEn: 'Reading about the city of Munich.',
+    passageTitle: 'Ein Tag in München',
+    passageText: 'München ist eine schöne Stadt in Süddeutschland. Der Marienplatz ist der zentrale Platz. Hier steht das Neue Rathaus mit dem berühmten Glockenspiel. Jeden Tag um 12 und um 17 Uhr spielt das Glockenspiel und viele Touristen schauen zu. Vom Marienplatz aus kannst du in die umliegenden Geschäfte und Cafés gehen.',
+    stemAr: 'اقرأ النص ثم أجب: أين يقع مبنى البلدية الجديد (Neue Rathaus)؟',
+    stemEn: 'Read the text and answer: Where is the Neue Rathaus located?',
+    options: ['Am Flughafen', 'Am Marienplatz', 'Am Hauptbahnhof'],
+    answer: 'B',
+    feedbackAr: 'في النص: "Der Marienplatz ist der zentrale Platz. Hier steht das Neue Rathaus" — في Marienplatz.',
+    feedbackEn: 'In the text: "Der Marienplatz ist der zentrale Platz. Hier steht das Neue Rathaus" — at Marienplatz.',
+    grammar: null, grammarLink: null,
+    lesson: 'A2 Lektion 10', lessonLink: '../a2/kursbuch/lektion-10/',
+    exerciseLink: '../a2/ubungsbuch/lektion-10/'
+  },
+  {
+    section: 6, q: 5, type: 'choice', level: 'A2',
+    sceneEmoji: '🏛️',
+    sceneAr: 'تقرأ عن Glockenspiel في ميونخ.',
+    sceneEn: 'Reading about the Glockenspiel in Munich.',
+    passageTitle: 'Ein Tag in München',
+    passageText: 'München ist eine schöne Stadt in Süddeutschland. Der Marienplatz ist der zentrale Platz. Hier steht das Neue Rathaus mit dem berühmten Glockenspiel. Jeden Tag um 12 und um 17 Uhr spielt das Glockenspiel und viele Touristen schauen zu. Vom Marienplatz aus kannst du in die umliegenden Geschäfte und Cafés gehen.',
+    stemAr: 'اقرأ النص ثم أجب: في أي وقت يعزف Glockenspiel؟',
+    stemEn: 'Read the text and answer: At what times does the Glockenspiel play?',
+    options: ['Um 10 und 15 Uhr', 'Um 12 und 17 Uhr', 'Um 9 und 18 Uhr'],
+    answer: 'B',
+    feedbackAr: 'في النص: "Jeden Tag um 12 und um 17 Uhr spielt das Glockenspiel" — الساعة 12 و 17.',
+    feedbackEn: 'In the text: "Jeden Tag um 12 und um 17 Uhr spielt das Glockenspiel" — at 12 and 17 o\'clock.',
+    grammar: null, grammarLink: null,
+    lesson: 'A2 Lektion 10', lessonLink: '../a2/kursbuch/lektion-10/',
+    exerciseLink: '../a2/ubungsbuch/lektion-10/'
+  },
+  {
+    section: 6, q: 6, type: 'choice', level: 'A2',
+    sceneEmoji: '🏛️',
+    sceneAr: 'تقرأ عن محلات ومقاهي Marienplatz.',
+    sceneEn: 'Reading about shops and cafés around Marienplatz.',
+    passageTitle: 'Ein Tag in München',
+    passageText: 'München ist eine schöne Stadt in Süddeutschland. Der Marienplatz ist der zentrale Platz. Hier steht das Neue Rathaus mit dem berühmten Glockenspiel. Jeden Tag um 12 und um 17 Uhr spielt das Glockenspiel und viele Touristen schauen zu. Vom Marienplatz aus kannst du in die umliegenden Geschäfte und Cafés gehen.',
+    stemAr: 'اقرأ النص ثم أجب: ماذا يوجد حول Marienplatz؟',
+    stemEn: 'Read the text and answer: What is around Marienplatz?',
+    options: ['Geschäfte und Cafés', 'Einen großen Park', 'Ein Schwimmbad'],
+    answer: 'A',
+    feedbackAr: 'في النص: "Vom Marienplatz aus kannst du in die umliegenden Geschäfte und Cafés gehen" — محلات ومقاهي.',
+    feedbackEn: 'In the text: "Vom Marienplatz aus kannst du in die umliegenden Geschäfte und Cafés gehen" — shops and cafés.',
+    grammar: null, grammarLink: null,
+    lesson: 'A2 Lektion 10', lessonLink: '../a2/kursbuch/lektion-10/',
+    exerciseLink: '../a2/ubungsbuch/lektion-10/'
+  }
   ];
 
   // ── بيانات الأقسام ──
@@ -602,7 +815,9 @@
     { id: 1, slug: 'wortschatz', icon: '🆕', titleAr: 'المفردات', titleEn: 'Vocabulary' },
     { id: 2, slug: 'grammatik', icon: '📘', titleAr: 'القواعد', titleEn: 'Grammar' },
     { id: 3, slug: 'satzbau', icon: '🏗️', titleAr: 'تركيب الجمل', titleEn: 'Sentence Structure' },
-    { id: 4, slug: 'kommunikation', icon: '💬', titleAr: 'التواصل', titleEn: 'Communication' }
+    { id: 4, slug: 'kommunikation', icon: '💬', titleAr: 'التواصل', titleEn: 'Communication' },
+    { id: 5, slug: 'horverstehen', icon: '🗣️', titleAr: 'الفهم السمعي', titleEn: 'Listening' },
+    { id: 6, slug: 'leseverstehen', icon: '📖', titleAr: 'الفهم القرائي', titleEn: 'Reading' }
   ];
 
   // ── دوال العرض الأساسية ──
@@ -702,6 +917,19 @@
       '</div>';
 
     container.insertAdjacentHTML('beforeend', contextHtml);
+
+    // ── بطاقة النص القرائي (passage) للأسئلة القرائية ──
+    if (qd.passageText) {
+      var passageTitle = qd.passageTitle || '';
+      var passageSource = qd.passageSource ? '<p class="level-passage-source">' + escapeHtml(qd.passageSource) + '</p>' : '';
+      var passageHtml =
+        '<div class="level-passage-card">' +
+          (passageTitle ? '<h4 class="level-passage-title">' + escapeHtml(passageTitle) + '</h4>' : '') +
+          '<div class="level-passage-text" dir="ltr">' + escapeHtml(qd.passageText) + '</div>' +
+          passageSource +
+        '</div>';
+      container.insertAdjacentHTML('beforeend', passageHtml);
+    }
 
     // ── بطاقة السؤال ──
     var questionCard = document.createElement('div');

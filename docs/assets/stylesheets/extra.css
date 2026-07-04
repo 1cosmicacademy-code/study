@@ -774,6 +774,62 @@
   font-style: italic;
 }
 
+/* ── بطاقة النص القرائي (Passage) ── */
+
+.level-passage-card {
+  padding: 20px 24px;
+  margin-bottom: 20px;
+  background: linear-gradient(135deg, #F1F5F9 0%, #F8FAFC 100%);
+  border: 1px solid #E2E8F0;
+  border-radius: 16px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.03);
+  animation: slideUp 0.35s ease-out;
+  direction: ltr;
+  text-align: left;
+}
+
+.level-passage-title {
+  margin: 0 0 12px !important;
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: #1E293B;
+  padding-bottom: 8px;
+  border-bottom: 1px solid #E2E8F0;
+}
+
+.level-passage-text {
+  font-size: 1rem;
+  line-height: 1.8;
+  color: #334155;
+}
+
+.level-passage-source {
+  margin: 8px 0 0 !important;
+  font-size: 0.8rem;
+  color: #94A3B8;
+  font-style: italic;
+  text-align: right;
+}
+
+/* Dark mode */
+[data-md-color-scheme="slate"] .level-passage-card {
+  background: linear-gradient(135deg, #1E293B 0%, #0F172A 100%);
+  border-color: #334155;
+}
+
+[data-md-color-scheme="slate"] .level-passage-title {
+  color: #E2E8F0;
+  border-bottom-color: #334155;
+}
+
+[data-md-color-scheme="slate"] .level-passage-text {
+  color: #CBD5E1;
+}
+
+[data-md-color-scheme="slate"] .level-passage-source {
+  color: #64748B;
+}
+
 /* ── بطاقة السؤال ── */
 
 .level-question-card {
