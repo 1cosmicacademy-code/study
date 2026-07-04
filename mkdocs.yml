@@ -201,23 +201,35 @@ nav:
       - 'Lektion 20 - Feste und Feiern': a1/ubungsbuch/lektion-20.md
     - 📘 Grammar:
       - '🟢 A1 — أساسيات':
-        - Akkusativ: grammatik/akkusativ.md
-        - Artikel: grammatik/artikel.md
+        - Personalpronomen: grammatik/personalpronomen.md
+        - 'Verbkonjugation (Präsens)': grammatik/verbkonjugation.md
+        - 'Sein, haben & besondere Verben': grammatik/sein-haben-besondere-verben.md
+        - 'Verben mit Vokalwechsel': grammatik/verben-mit-vokalwechsel.md
+        - Trennbare Verben: grammatik/trennbare-verben.md
         - Imperativ: grammatik/imperativ.md
+        - 'Fragen bilden': grammatik/fragen-bilden.md
+        - Satzbau: grammatik/satzbau.md
         - Negation: grammatik/negation.md
         - Nominativ: grammatik/nominativ.md
-        - Personalpronomen: grammatik/personalpronomen.md
+        - Akkusativ: grammatik/akkusativ.md
+        - Artikel: grammatik/artikel.md
         - Plural: grammatik/plural.md
+        - 'Frage nach Personen & Sachen': grammatik/frage-nach-personen-sachen.md
         - Possessivartikel: grammatik/possessivartikel.md
-        - Satzbau: grammatik/satzbau.md
-        - Trennbare Verben: grammatik/trennbare-verben.md
-        - 'Verbkonjugation (Präsens)': grammatik/verbkonjugation.md
+        - Genusregeln: grammatik/genusregeln.md
       - '🟡 A1-A2 — انتقالي':
-        - Adjektivdeklination: grammatik/adjektivdeklination.md
         - Dativ: grammatik/dativ.md
+        - 'Verben mit Akk. & Dat.': grammatik/verben-mit-akkusativ-dativ.md
         - Modalverben: grammatik/modalverben.md
-        - Perfekt: grammatik/perfekt.md
         - Wechselpräpositionen: grammatik/wechselprapositionen.md
+        - 'Lokale Präpositionen': grammatik/lokale-praepositionen.md
+        - Präpositionen: grammatik/prapositionen.md
+        - Adjektivdeklination: grammatik/adjektivdeklination.md
+        - Vergleiche: grammatik/vergleiche.md
+        - Superlativ: grammatik/superlativ.md
+        - Perfekt: grammatik/perfekt.md
+        - Präteritum: grammatik/prateritum.md
+        - Zeitengebrauch: grammatik/zeitengebrauch.md
   - Level A2:
     - A2 Overview: a2/index.md
     - Coursebook:
@@ -266,21 +278,40 @@ nav:
       - 'Lektion 20 - Erinnerungen und Wünsche': a2/ubungsbuch/lektion-20.md
     - 📘 Grammar:
       - '🔵 A2 — وسيط':
-        - Adverbien: grammatik/adverbien.md
-        - Futur I: grammatik/futur-i.md
-        - Indirekte Fragen: grammatik/indirekte-fragen.md
-        - Kausal- und Konzessivsätze: grammatik/kausal-konzessivsatze.md
+        - 'Hauptsätze verbinden': grammatik/hauptsaetze-verbinden.md
         - Nebensätze: grammatik/nebensatze.md
-        - Präpositionen: grammatik/prapositionen.md
-        - Reflexive Verben: grammatik/reflexive-verben.md
-        - Temporal- und Lokalangaben: grammatik/temporal-lokal-angaben.md
-        - Vergleiche: grammatik/vergleiche.md
-        - Wortstellung (erweitert): grammatik/wortstellung-erweitert.md
-      - '🟣 A2-B1 — متقدم':
-        - Genitiv: grammatik/genitiv.md
-        - Konjunktiv 2: grammatik/konjunktiv-2.md
-        - Passiv: grammatik/passiv.md
-        - Präteritum: grammatik/prateritum.md
+        - 'Temporale Nebensätze': grammatik/temporale-nebensaatze.md
+        - 'Kausal- und Konzessivsätze': grammatik/kausal-konzessivsatze.md
+        - 'Indirekte Fragen': grammatik/indirekte-fragen.md
         - Relativsätze: grammatik/relativsatze.md
+        - Finalsätze: grammatik/finalsaetze.md
+        - Doppelkonnektoren: grammatik/doppelkonnektoren.md
+        - 'Reflexive Verben': grammatik/reflexive-verben.md
+        - 'Verben mit Präpositionen': grammatik/verben-mit-praepositionen.md
+        - 'Trennbar und untrennbar': grammatik/trennbar-untrennbar.md
+        - 'Zusammengesetzte Verben': grammatik/zusammengesetzte-verben.md
+        - Komposita: grammatik/komposita.md
+        - Wortbildung: grammatik/wortbildung.md
+        - Negationswörter: grammatik/negationswoerter.md
+        - Partikeln: grammatik/partikeln.md
+        - Adverbien: grammatik/adverbien.md
+        - 'Temporal- und Lokalangaben': grammatik/temporal-lokal-angaben.md
+        - 'Futur I': grammatik/futur-i.md
+        - 'Wortstellung (erweitert)': grammatik/wortstellung-erweitert.md
+        - 'Adjektive als Nomen': grammatik/adjektive-als-nomen.md
+      - '🟣 A2-B1 — متقدم':
+        - Plusquamperfekt: grammatik/plusquamperfekt.md
+        - Passiv: grammatik/passiv.md
+        - 'Passiv in der Vergangenheit': grammatik/passiv-vergangenheit.md
+        - Genitiv: grammatik/genitiv.md
+        - 'Funktionen von werden': grammatik/funktionen-von-werden.md
+        - 'Das Verb lassen': grammatik/das-verb-lassen.md
+        - 'Positions- & Direktionsverben': grammatik/positions-direktionsverben.md
+        - Präpositionaladverbien: grammatik/praepositionaladverbien.md
+        - n-Deklination: grammatik/n-deklination.md
+        - 'Infinitiv mit zu': grammatik/infinitiv-mit-zu.md
+        - 'Infinitiv ohne zu': grammatik/infinitiv-ohne-zu.md
+        - 'Konjunktiv 2': grammatik/konjunktiv-2.md
+        - 'Partizip 1 als Adjektiv': grammatik/partizip-1-als-adjektiv.md
   - 📖 Grammar Overview: grammatik/index.md
   - Study Plan: plan/index.md
