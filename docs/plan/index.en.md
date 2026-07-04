@@ -47,7 +47,7 @@ Total per complete lesson:           ~1.5 - 2 hours
 ═══════════════════════════════════════════════════════
 ```
 
-> 🔑 **The key:** In the old plan I split the lesson from its exercises across two weeks — doubling the timeline unnecessarily. Solution: **lesson + exercises + grammar = same week.**
+> 📐 **Integrated methodology:** This program combines the lesson, exercises, and related grammar into one integrated weekly unit. This approach ensures better reinforcement and time efficiency, rather than spreading components across separate weeks which disrupts learning continuity.
 
 ---
 
@@ -201,6 +201,6 @@ Total per complete lesson:           ~1.5 - 2 hours
 
 ---
 
-> 💡 **The bottom line:** The old plan made A1 take 30 weeks because I split lessons from exercises across two weeks. Reality: each lesson takes ~2 hours of actual work. At 2 lessons/week (8 hours/week), you finish A1 in 12 weeks. In 8 months you reach B1. This is real time.
+> 🎯 **Program summary:** With consistent commitment to the Smart track (8 hours/week), you progress from A1 to B1 in ~8 months — a pace equivalent to Goethe-Institut intensive courses, with the full flexibility of self-study. The timelines in this plan are based on precise analysis of the actual site content, not on floating estimates.
 
 [🔙 Back to Home](../index.en.md)
