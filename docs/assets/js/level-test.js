@@ -709,8 +709,10 @@
 
     var stem = en ? qd.stemEn : qd.stemAr;
     var escapedStem = escapeHtml(stem);
-    // عزل ___ عن تأثير اتجاه النص المحيط (RTL/LTR) لمنع إعادة الترتيب
-    escapedStem = escapedStem.replace(/___/g, '<bdi dir="ltr">___</bdi>');
+    // عزل ___ والنص اللاتيني الذي يليه عن تأثير اتجاه النص المحيط (RTL/LTR)
+    // نلفّ ___ والنص اللاتيني/الألماني الذي يليه داخل <bdi dir="ltr"> واحد
+    // لضمان عدم إعادة ترتيبهما بواسطة Unicode Bidirectional Algorithm
+    escapedStem = escapedStem.replace(/___[\w\s().,;:\/'\"!?À-ÿ-]*/g, '<bdi dir="ltr">$&</bdi>');
     var questionHtml = '<h3 class="level-question-stem">' + escapedStem + '</h3>';
 
     // زر الصوت للأسئلة الصوتية
