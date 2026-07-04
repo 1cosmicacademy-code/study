@@ -70,6 +70,10 @@ plugins:
             📘 Grammar: 📘 القواعد
             📖 Grammar Overview: 📖 كل القواعد
             Study Plan: الخطة التعليمية
+            Overview: نظرة عامة
+            🚀 Smart Track: 🚀 مسار Smart
+            ⚡ Intensive Track: ⚡ مسار Intensive
+            🔥 Turbo Track: 🔥 مسار Turbo
             ## A1 Kursbuch + Übungsbuch
             Lektion 1 - Hallo!: الدرس 1 - Hallo!
             Lektion 2 - Berufe: الدرس 2 - Berufe
@@ -129,6 +133,10 @@ plugins:
             📖 Grammar Overview: 📖 Grammar Overview
             All Grammar: All Grammar
             Study Plan: Study Plan
+            Overview: Overview
+            🚀 Smart Track: 🚀 Smart Track
+            ⚡ Intensive Track: ⚡ Intensive Track
+            🔥 Turbo Track: 🔥 Turbo Track
             Lektion 18 - Beim Amt: Lesson 18 - Beim Amt
             '1. Verben 1 — الأفعال 1': '1. Verben 1 — Verbs 1'
             '2. Sätze und Fragen — الجمل والأسئلة': '2. Sätze und Fragen — Sentences and Questions'
@@ -339,4 +347,8 @@ nav:
       - 'Temporale Präpositionen (2)': grammatik/temporale-praepositionen-2.md
     - '13. Adjektive 2 — الصفات 2':
       - 'Partizip 1 als Adjektiv': grammatik/partizip-1-als-adjektiv.md
-  - Study Plan: plan/index.md
+  - Study Plan:
+    - Overview: plan/index.md
+    - 🚀 Smart Track: plan/smart.md
+    - ⚡ Intensive Track: plan/intensive.md
+    - 🔥 Turbo Track: plan/turbo.md

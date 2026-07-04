@@ -1,19 +1,85 @@
-# 🗓️ الخطة التعليمية الذكية — من A1 إلى B1
+# 🗓️ الخطة التعليمية — اختر مسارك
 
-> خطة مبنية على المحتوى الفعلي بالموقع: 40 درساً + 70 قاعدة نحوية + فيديوهات تفاعلية.
+> خطة مبنية على المحتوى الفعلي للموقع: 40 درساً + 70 قاعدة نحوية + فيديوهات تفاعلية.
 > كل الأرقام هنا محسوبة بدقة — وليست تقديرات عائمة.
+
+اختر المسار الذي يناسب وقتك والتزاماتك. كل مسار يصل بك من A1 إلى B1، لكن بوتيرة مختلفة:
 
 ---
 
-## 📋 نظرة عامة — 3 مسارات للاختيار
+## 🚀 مسار Smart — متوازن ومستدام
 
-| المسار | المعدل | الساعات/أسبوع | A1 | A2 | B1 | **المجموع** |
-|:------:|:------:|:-------------:|:--:|:--:|:--:|:----------:|
-| 🚀 **Smart** | درسان/أسبوع | 8 س (4 أيام × 2 س) | 12 أسبوع | 12 أسبوع | 8 أسابيع | **~8 أشهر** |
-| ⚡ **Intensive** | 3 دروس/أسبوع | 12 س (6 أيام × 2 س) | 8 أسابيع | 8 أسابيع | 6 أسابيع | **~5.5 أشهر** |
-| 🔥 **Turbo** | 5 دروس/أسبوع | 18 س (6 أيام × 3 س) | 5 أسابيع | 5 أسابيع | 4 أسابيع | **~3.5 أشهر** |
+> **الوتيرة:** درسان/أسبوع | **4 أيام/أسبوع** | **8 ساعات/أسبوع** | **~8 أشهر**
 
-> 💡 Go**ethe-Institut Intensivkurs** يغطي A1→B1 في **~6-8 أشهر** — مسار Smart يعادل تقريباً هذا المعدل مع الدراسة الذاتية.
+مسار **موصى به** لغالبية الدارسين. يجمع بين الانتظام والمرونة، مناسب لمن لديه عمل أو دراسة، مع الحفاظ على زخم تعلم ثابت.
+
+| ✅ الإيجابيات | ❌ السلبيات |
+|:-------------|:------------|
+| مرونة عالية — 4 أيام فقط + 3 أيام راحة | أبطأ مسار — ~8 أشهر لـ B1 |
+| ترسيخ أفضل — يوم بين كل درس وجوله | يتطلب انضباطاً ذاتياً |
+| نسبة إكمال عالية — لا احتراق نفسي | خطر التوقف الطويل يؤثر على الزخم |
+| مكافئ لدورات Goethe-Institut بنفس المدة | |
+
+**🎯 مناسب لـ:** موظف بدوام كامل، طالب جامعي، مبتدئ في الألمانية، من لديه عائلة والتزامات
+
+[→ **اعرف أكثر عن مسار Smart**](smart.md)
+
+---
+
+## ⚡ مسار Intensive — مكثف ومنتظم
+
+> **الوتيرة:** 3 دروس/أسبوع | **6 أيام/أسبوع** | **12 ساعة/أسبوع** | **~5.5 أشهر**
+
+مسار **أسرع بنسبة 30%** من Smart. يتطلب 6 أيام أسبوعياً لكنه يختصر الوقت بشكل ملحوظ. مناسب لمن لديه جدول يومي مستقر.
+
+| ✅ الإيجابيات | ❌ السلبيات |
+|:-------------|:------------|
+| أسرع بنسبة 30% — يختصر ~2.5 شهراً | خطر الاحتراق النفسي — 6 أيام أسبوعياً |
+| روتين يومي ثابت — الدراسة تصبح عادة | التزام يومي عالٍ — صعب مع الظروف الطارئة |
+| ترسيخ أسرع — التكرار اليومي يقوي الذاكرة | هامش خطأ ضئيل — التغيب عن أسبوع = خسارة 3 دروس |
+| توزيع متوازن — 3 دروس + قواعد + مراجعة | يتطلب انضباطاً عالياً |
+
+**🎯 مناسب لـ:** طالب في عطلة صيفية، من لديه موعد نهائي (سفر/عمل/دراسة)، متعلم سريع الاستيعاب
+
+[→ **اعرف أكثر عن مسار Intensive**](intensive.md)
+
+---
+
+## 🔥 مسار Turbo — سرعة قصوى
+
+> **الوتيرة:** 5 دروس/أسبوع | **6 أيام/أسبوع** | **18 ساعة/أسبوع** | **~3.5 أشهر**
+
+مسار **مكثف جداً** لمن يريد إتقان الألمانية في أقصر وقت ممكن. يتطلب تفرغاً شبه كامل وانضباطاً حديدياً.
+
+| ✅ الإيجابيات | ❌ السلبيات |
+|:-------------|:------------|
+| أسرع مسار — A1→B1 في ~3.5 أشهر فقط | خطر احتراق نفسي مرتفع جداً |
+| انغماس كامل — الألمانية تصبح جزءاً من حياتك | تفرغ شبه كامل مطلوب — يصعب دمجه مع عمل |
+| زخم لا يتوقف — تقدّم ملموس كل أسبوع | لا هامش للخطأ — التغيب عن 3 أيام = خسارة درسَين |
+| إنجاز سريع — تحفيز نفسي عالٍ | قلة وقت الترسيخ — المعلومات تتراكم أسرع من الاستيعاب |
+
+> ⚠️ هذا المسار **ليس للمبتدئين بالكامل** في التعلم الذاتي.
+
+**🎯 مناسب لـ:** مسافر إلى ألمانيا خلال 3-4 أشهر، طالب متفرغ، منتقل للعمل في ألمانيا
+
+[→ **اعرف أكثر عن مسار Turbo**](turbo.md)
+
+---
+
+## 📊 جدول المقارنة
+
+| الخصائص | 🚀 Smart | ⚡ Intensive | 🔥 Turbo |
+|:--------:|:--------:|:-----------:|:--------:|
+| دروس/أسبوع | 2 | 3 | 5 |
+| أيام/أسبوع | 4 | 6 | 6 |
+| ساعات/أسبوع | 8 | 12 | 18 |
+| ساعات/اليوم | 2 | 2 | 3 |
+| **A1** | 12 أسبوعاً | 8 أسابيع | 5 أسابيع |
+| **A2** | 12 أسبوعاً | 8 أسابيع | 5 أسابيع |
+| **B1** | 8 أسابيع | 6 أسابيع | 4 أسابيع |
+| **المجموع** | **~8 أشهر** | **~5.5 أشهر** | **~3.5 أشهر** |
+| المرونة | عالية | متوسطة | منخفضة |
+| خطر الاحتراق | 🟢 منخفض | 🟡 متوسط | 🔴 مرتفع |
 
 ---
 
@@ -51,112 +117,7 @@
 
 ---
 
-## جدول الدراسة اليومي — حسب المسار
-
-### 🚀 مسار Smart (مُوصى به)
-> **4 أيام/أسبوع** — مثالي لمن لديه عمل أو دراسة
-
-| اليوم | المدة | المهمة |
-|:-----:|:-----:|--------|
-| الاثنين | 2 ساعة | 📕 درس Kursbuch جديد + حفظ الكلمات |
-| الثلاثاء | 2 ساعة | 📝 تمارين Übungsbuch + 📘 القواعد المرتبطة |
-| الأربعاء | 2 ساعة | 📕 درس Kursbuch جديد + حفظ الكلمات |
-| الخميس | 2 ساعة | 📝 تمارين Übungsbuch + 📘 القواعد المرتبطة |
-| الجمعة–أحد | — | 🎯 راحة أو تكرار خفيف |
-
-### ⚡ مسار Intensive
-> **6 أيام/أسبوع** — مناسب للدراسة المكثفة
-
-| اليوم | المدة | المهمة |
-|:-----:|:-----:|--------|
-| الاثنين | 2 ساعة | 📕 درس جديد + تمارينه |
-| الثلاثاء | 2 ساعة | 📕 درس جديد + تمارينه |
-| الأربعاء | 2 ساعة | 📘 قواعد الدرسين + مراجعة |
-| الخميس | 2 ساعة | 📕 درس جديد + تمارينه |
-| الجمعة | 2 ساعة | 📕 درس جديد + تمارينه |
-| السبت | 2 ساعة | 📘 قواعد الدرسين + مراجعة أسبوعية |
-| الأحد | — | 🎯 راحة |
-
-### 🔥 مسار Turbo
-> **6 أيام/أسبوع** — دراسة شبه يومية، 3 ساعات/day
-
-| اليوم | المدة | المهمة |
-|:-----:|:-----:|--------|
-| الاثنين–الجمعة | 3 ساعات | 📕 درس + 📝 تمارينه + 📘 قواعده |
-| السبت | 3 ساعات | مراجعة + تمارين إضافية + تكرار |
-| الأحد | — | 🎯 راحة |
-
----
-
-# 🚀 مسار Smart — الخطة التفصيلية (الموصى به)
-
-> درسان في الأسبوع، 4 أيام دراسة، ~8 ساعات أسبوعياً
-> **A1: 12 أسبوعاً ← A2: 12 أسبوعاً ← B1: 8 أسابيع ← المجموع: ~8 أشهر**
-
-## 🟢 المرحلة الأولى: A1 — 12 أسبوعاً
-
-> 20 درساً في [كتاب الدروس A1](../a1/kursbuch/index.md) + [التمارين A1](../a1/ubungsbuch/index.md)
-
-<div class="plan-table" markdown="1">
-
-| الأسبوع | الاثنين (📕 درس) | الثلاثاء (📝📘 تمارين+قواعد) | الأربعاء (📕 درس) | الخميس (📝📘 تمارين+قواعد) |
-|:-------:|:----------------:|:--------------------------:|:-----------------:|:--------------------------:|
-| 1 | [L1 Hallo!](../a1/kursbuch/lektion-01.md) | تمارين L1 + [Verbkonjugation](../grammatik/verbkonjugation.md) | [L2 Berufe](../a1/kursbuch/lektion-02.md) | تمارين L2 + [Artikel](../grammatik/artikel.md) |
-| 2 | [L3 Orte/Dinge](../a1/kursbuch/lektion-03.md) | تمارين L3 + [Nominativ](../grammatik/nominativ.md) | [L4 Familie](../a1/kursbuch/lektion-04.md) | تمارين L4 + [Possessivartikel](../grammatik/possessivartikel.md) |
-| 3 | [L5 Alltag/Freizeit](../a1/kursbuch/lektion-05.md) | تمارين L5 + [Trennbare Verben](../grammatik/trennbare-verben.md) | **🔄 مراجعة L1–L5** | + [Personalpronomen](../grammatik/personalpronomen.md) |
-| 4 | [L6 Arbeitszeiten](../a1/kursbuch/lektion-06.md) | تمارين L6 + [Modalverben](../grammatik/modalverben.md) | [L7 Essen](../a1/kursbuch/lektion-07.md) | تمارين L7 + [Akkusativ](../grammatik/akkusativ.md) |
-| 5 | [L8 Party](../a1/kursbuch/lektion-08.md) | تمارين L8 + [Perfekt](../grammatik/perfekt.md) | [L9 Termine](../a1/kursbuch/lektion-09.md) | تمارين L9 + [Satzbau](../grammatik/satzbau.md) |
-| 6 | [L10 Bus/Bahn](../a1/kursbuch/lektion-10.md) | تمارين L10 + [Dativ](../grammatik/dativ.md) | **🔄 مراجعة L6–L10** | + [Wechselpräpositionen](../grammatik/wechselprapositionen.md) |
-| 7 | [L11 Wohnen](../a1/kursbuch/lektion-11.md) | تمارين L11 + [Imperativ](../grammatik/imperativ.md) | [L12 Ausbildung](../a1/kursbuch/lektion-12.md) | تمارين L12 + [Verben mit Vokalwechsel](../grammatik/verben-mit-vokalwechsel.md) |
-| 8 | [L13 Beim Arzt](../a1/kursbuch/lektion-13.md) | تمارين L13 + [Personalpron. Akk/Dat](../grammatik/personalpronomen-akk-dat.md) | [L14 Krankschreibung](../a1/kursbuch/lektion-14.md) | تمارين L14 + [Temporalangaben](../grammatik/temporal-lokal-angaben.md) |
-| 9 | [L15 Wege/Stadt](../a1/kursbuch/lektion-15.md) | تمارين L15 + [Lokale Präpositionen](../grammatik/lokale-praepositionen.md) | **🔄 مراجعة L11–L15** | + [Adjektivdeklination](../grammatik/adjektivdeklination.md) |
-| 10 | [L16 Im Laden](../a1/kursbuch/lektion-16.md) | تمارين L16 + [Artikel interrogativ/demonstrativ](../grammatik/artikel-interrogativ-demonstrativ.md) | [L17 Arbeit](../a1/kursbuch/lektion-17.md) | تمارين L17 + [Negation](../grammatik/negation.md) |
-| 11 | [L18 Beim Amt](../a1/kursbuch/lektion-18.md) | تمارين L18 + [Trennbare Verben (تكرار)](../grammatik/trennbare-verben.md) | [L19 Reisen](../a1/kursbuch/lektion-19.md) | تمارين L19 + [Dativ (تكرار)](../grammatik/dativ.md) |
-| 12 | [L20 Feste/Feiern](../a1/kursbuch/lektion-20.md) | تمارين L20 + [Präteritum](../grammatik/prateritum.md) | **🏁 مراجعة A1 شاملة** | [📖 كل قواعد A1](../grammatik/index.md#a1) |
-
-</div>
-
-## 🔵 المرحلة الثانية: A2 — 12 أسبوعاً
-
-> 20 درساً في [كتاب الدروس A2](../a2/kursbuch/index.md) + [التمارين A2](../a2/ubungsbuch/index.md)
-
-| الأسبوع | الاثنين (📕 درس) | الثلاثاء (📝📘 تمارين+قواعد) | الأربعاء (📕 درس) | الخميس (📝📘 تمارين+قواعد) |
-|:-------:|:----------------:|:--------------------------:|:-----------------:|:--------------------------:|
-| 1 | [A2 L1 Unser neuer Weg](../a2/kursbuch/lektion-01.md) | تمارين L1 + [Nebensätze (dass/weil)](../grammatik/nebensatze.md) | [A2 L2 Arbeiten/Lernen](../a2/kursbuch/lektion-02.md) | تمارين L2 + [Hauptsätze verbinden](../grammatik/hauptsaetze-verbinden.md) |
-| 2 | [A2 L3 In unserer Freizeit](../a2/kursbuch/lektion-03.md) | تمارين L3 + [Reflexive Verben](../grammatik/reflexive-verben.md) | [A2 L4 Wohnen/Nachbarn](../a2/kursbuch/lektion-04.md) | تمارين L4 + [Komposita](../grammatik/komposita.md) |
-| 3 | [A2 L5 Mein neuer Job](../a2/kursbuch/lektion-05.md) | تمارين L5 + [Verben mit Präpositionen](../grammatik/verben-mit-praepositionen.md) | **🔄 مراجعة A2 L1–L5** | [Satzbau (تكرار)](../grammatik/satzbau.md) |
-| 4 | [A2 L6 Auf dem Weg](../a2/kursbuch/lektion-06.md) | تمارين L6 + [Präpositionen](../grammatik/prapositionen.md) | [A2 L7 Gesundheit](../a2/kursbuch/lektion-07.md) | تمارين L7 + [Imperativ (تكرار)](../grammatik/imperativ.md) |
-| 5 | [A2 L8 Sicherheit](../a2/kursbuch/lektion-08.md) | تمارين L8 + [Kausal-/Konzessivsätze](../grammatik/kausal-konzessivsatze.md) | [A2 L9 Große/kleine Dinge](../a2/kursbuch/lektion-09.md) | تمارين L9 + [Vergleiche (als/wie)](../grammatik/vergleiche.md) |
-| 6 | [A2 L10 Durch die Stadt](../a2/kursbuch/lektion-10.md) | تمارين L10 + [Lokale Adverbien](../grammatik/lokale-adverbien.md) | **🔄 مراجعة A2 L6–L10** | [Adjektivdeklination (تكرار)](../grammatik/adjektivdeklination.md) |
-| 7 | [A2 L11 Information](../a2/kursbuch/lektion-11.md) | تمارين L11 + [Indirekte Fragen](../grammatik/indirekte-fragen.md) | [A2 L12 In der Schule](../a2/kursbuch/lektion-12.md) | تمارين L12 + [Wortstellung erweitert](../grammatik/wortstellung-erweitert.md) |
-| 8 | [A2 L13 Selbstständig](../a2/kursbuch/lektion-13.md) | تمارين L13 + [Infinitiv mit/ohne zu](../grammatik/infinitiv-mit-zu.md) | [A2 L14 Zusammenleben](../a2/kursbuch/lektion-14.md) | تمارين L14 + [Doppelkonnektoren](../grammatik/doppelkonnektoren.md) |
-| 9 | [A2 L15 Mit dem Auto](../a2/kursbuch/lektion-15.md) | تمارين L15 + [Positions-/Direktionsverben](../grammatik/positions-direktionsverben.md) | **🔄 مراجعة A2 L11–L15** | [Relativsätze](../grammatik/relativsatze.md) |
-| 10 | [A2 L16 Sport/Ernährung](../a2/kursbuch/lektion-16.md) | تمارين L16 + [Futur I](../grammatik/futur-i.md) | [A2 L17 Geschäfte](../a2/kursbuch/lektion-17.md) | تمارين L17 + [Ordinalzahlen](../grammatik/ordinalzahlen.md) |
-| 11 | [A2 L18 Alles über Geld](../a2/kursbuch/lektion-18.md) | تمارين L18 + [n-Deklination](../grammatik/n-deklination.md) | [A2 L19 Unterwegs](../a2/kursbuch/lektion-19.md) | تمارين L19 + [Genitiv](../grammatik/genitiv.md) |
-| 12 | [A2 L20 Erinnerungen](../a2/kursbuch/lektion-20.md) | تمارين L20 + [Konjunktiv 2](../grammatik/konjunktiv-2.md) | **🏁 مراجعة A2 شاملة** | [📖 كل قواعد A2](../grammatik/index.md#a2) |
-
-## 🟣 المرحلة الثالثة: B1 — 8 أسابيع
-
-> قواعد متقدمة فقط (لأن B1 يعتمد على الـ 40 درس السابقة + مهارات تواصل)
-> من [فهرس القواعد الكامل](../grammatik/index.md)
-
-| الأسبوع | الاثنين | الثلاثاء | الأربعاء | الخميس |
-|:-------:|:-------:|:--------:|:--------:|:------:|
-| 1 | [Passiv](../grammatik/passiv.md) + تمارين | [Passiv Vergangenheit](../grammatik/passiv-vergangenheit.md) | [Funktionen von werden](../grammatik/funktionen-von-werden.md) | [Das Verb lassen](../grammatik/das-verb-lassen.md) |
-| 2 | [Finalsätze](../grammatik/finalsaetze.md) | [Plusquamperfekt](../grammatik/plusquamperfekt.md) | **🔄 مراجعة القسم 9** | تمارين شاملة |
-| 3 | [Adjektive als Nomen](../grammatik/adjektive-als-nomen.md) | [n-Deklination (تكرار)](../grammatik/n-deklination.md) | [Genitiv (تكرار)](../grammatik/genitiv.md) | [Präpositionaladverbien](../grammatik/praepositionaladverbien.md) |
-| 4 | [Wortbildung](../grammatik/wortbildung.md) | [Konjunktiv 2 (متقدم)](../grammatik/konjunktiv-2.md) | **🔄 مراجعة القسم 10** | تمارين شاملة |
-| 5 | [Infinitiv mit/ohne zu (متقدم)](../grammatik/infinitiv-mit-zu.md) | [Relativsätze (متقدم)](../grammatik/relativsatze.md) | [Kausal-/Konzessivsätze (متقدم)](../grammatik/kausal-konzessivsatze.md) | تمارين |
-| 6 | [Präpositionen mit Genitiv](../grammatik/praepositionen-genitiv.md) | [Temporale Präpositionen 2](../grammatik/temporale-praepositionen-2.md) | [Partizip 1 als Adjektiv](../grammatik/partizip-1-als-adjektiv.md) | تمارين |
-| 7 | [Doppelkonnektoren (متقدم)](../grammatik/doppelkonnektoren.md) | [Temporale Nebensätze (متقدم)](../grammatik/temporale-nebensaatze.md) | **🏁 مراجعة B1** | [📖 كل قواعد B1](../grammatik/index.md) |
-| 8 | **🎯 امتحان B1 تجريبي** | تحليل الأخطاء | مراجعة نهائية | **✅ إنجاز!** |
-
----
-
-## جدول تحويل المسارات
-
-| لو بدأت بـ... وتريد التبديل إلى... |
-|:---------------------------------:|
+## 🔄 جدول تحويل المسارات {#جدول-تحويل-المسارات}
 
 | من | إلى | الطريقة |
 |:--:|:---:|---------|
@@ -204,6 +165,6 @@
 
 ---
 
-> 🎯 **خلاصة البرنامج:** مع التزام منتظم بمسار Smart (8 ساعات أسبوعياً)، تنتقل من المستوى A1 إلى B1 في ~8 أشهر — وهو معدل مكافئ لدورات Goethe-Institut المكثفة، مع مرونة الدراسة الذاتية الكاملة. الوقت المحدد في هذه الخطة مبني على تحليل دقيق لحجم المحتوى الفعلي للموقع، وليس على تقديرات عائمة.
+> 🎯 **خلاصة البرنامج:** مع التزام منتظم بأي من المسارات الثلاثة، تنتقل من A1 إلى B1 في مدة تتراوح بين 3.5 إلى 8 أشهر حسب المسار الذي تختاره. كل الأرقام في هذه الخطة مبنية على تحليل دقيق لحجم المحتوى الفعلي للموقع، وليس على تقديرات عائمة.
 
 [🔙 العودة إلى الرئيسية](../index.md)
