@@ -1,244 +1,190 @@
-# 🗓️ Comprehensive Study Plan — From A1 to B1
+# 🗓️ Smart Study Plan — From A1 to B1
 
-> An integrated study plan based on the **Grammatik aktiv A1–B1 (Cornelsen)** curriculum and the **Treffpunkt Kursbuch A1/A2** structure.
-> Each stage builds on the previous one — study in order and do not skip ahead.
-
----
-
-## 📋 Plan Overview
-
-| Stage | Level | Duration | Lessons | Grammar Topics |
-|:-----:|:-----:|:--------:|:-------:|:--------------:|
-| 🟢 **Foundation** | A1 | 30 weeks | 20 lessons | 25 topics |
-| 🔵 **Intermediate** | A2 | 30 weeks | 20 lessons | 25 topics |
-| 🟣 **Advanced** | B1 | 16 weeks | — | 20 topics |
-| 🏁 **Final Review** | A1–B1 | 4 weeks | — | 70 topics |
-
-> **Total:** **80 weeks** (approximately 18 months) — 40 lessons + 70 grammar topics.
+> A plan based on the actual site content: 40 lessons + 70 grammar topics + interactive videos.
+> All numbers here are calculated precisely — no floating estimates.
 
 ---
 
-## 🎯 General Guidelines
+## 📋 Overview — 3 Tracks to Choose From
 
-| Icon | Task | Suggested Time |
-|:----:|------|:--------------:|
-| 📕 **Lesson** | Watch the video + read the explanation | 60–90 min |
-| 📝 **Exercises** | Solve the Übungsbuch exercises | 30–45 min |
-| 📘 **Grammar** | Read the grammar explanation + solve interactive exercises | 30–45 min |
-| 🔄 **Review** | Review previous lessons + accumulated grammar | 45–60 min |
-| 🗣️ **Practice** | Speak to yourself, write sentences, repeat out loud | 30 min daily |
+| Track | Pace | Hours/Week | A1 | A2 | B1 | **Total** |
+|:-----:|:----:|:----------:|:--:|:--:|:--:|:---------:|
+| 🚀 **Smart** | 2 lessons/week | 8 h (4 days × 2 h) | 12 weeks | 12 weeks | 8 weeks | **~8 months** |
+| ⚡ **Intensive** | 3 lessons/week | 12 h (6 days × 2 h) | 8 weeks | 8 weeks | 6 weeks | **~5.5 months** |
+| 🔥 **Turbo** | 5 lessons/week | 18 h (6 days × 3 h) | 5 weeks | 5 weeks | 4 weeks | **~3.5 months** |
 
-**Tip:** Dedicate **2 hours daily** (6 days per week) for consistent study.
+> 💡 Go**ethe-Institut Intensivkurs** covers A1→B1 in **~6–8 months** — the Smart track matches this pace for self-study.
 
 ---
 
-# 🟢 Phase 1: Foundation — Level A1
+## 🧮 How We Calculated Actual Time
 
-> ⏱ **30 weeks** — 20 lessons in the [Coursebook](../a1/kursbuch/index.md) and 25 topics in the [Grammar Index](../grammatik/index.md)
+Accurate breakdown of every site component:
 
-## 📅 Weeks 1–10: Introductions and Basics
+```
+📕 One A1 Lesson (Kursbuch):
+   ├── 🎬 Watch lesson video (YouTube, 5-10 min)
+   ├── 📖 Read explanation + tables (~7 word tables)  →  30-40 min
+   ├── 💬 Read dialogue + understand                   →  10-15 min
+   └── 📝 Helper sentences and phrases                 →   5-10 min
+   ─────────────────────────────────────────────────
+   Total: 45-60 minutes
+
+📝 Übungsbuch Exercises (per lesson):
+   ├── Interactive exercises (4-6 with instant grading) →  25-35 min
+   └── Review solutions and mistakes                   →  10-15 min
+   ─────────────────────────────────────────────────
+   Total: 40-50 minutes
+
+📘 Related Grammar (per lesson):
+   ├── Read grammar page (tables + explanation)        →  15-20 min
+   └── Solve interactive exercises (3-5)               →  15-20 min
+   ─────────────────────────────────────────────────
+   Total: 35-45 minutes
+
+═══════════════════════════════════════════════════════
+Total per complete lesson:           ~1.5 - 2 hours
+═══════════════════════════════════════════════════════
+```
+
+> 🔑 **The key:** In the old plan I split the lesson from its exercises across two weeks — doubling the timeline unnecessarily. Solution: **lesson + exercises + grammar = same week.**
+
+---
+
+## Daily Study Schedule — By Track
+
+### 🚀 Smart Track (Recommended)
+> **4 days/week** — Ideal for working professionals or students
+
+| Day | Duration | Task |
+|:---:|:--------:|------|
+| Monday | 2 hours | 📕 New Kursbuch lesson + vocabulary |
+| Tuesday | 2 hours | 📝 Übungsbuch exercises + 📘 related grammar |
+| Wednesday | 2 hours | 📕 New Kursbuch lesson + vocabulary |
+| Thursday | 2 hours | 📝 Übungsbuch exercises + 📘 related grammar |
+| Fri–Sun | — | 🎯 Rest or light review |
+
+### ⚡ Intensive Track
+> **6 days/week** — For focused intensive study
+
+| Day | Duration | Task |
+|:---:|:--------:|------|
+| Monday | 2 hours | 📕 New lesson + exercises |
+| Tuesday | 2 hours | 📕 New lesson + exercises |
+| Wednesday | 2 hours | 📘 Grammar for both lessons + review |
+| Thursday | 2 hours | 📕 New lesson + exercises |
+| Friday | 2 hours | 📕 New lesson + exercises |
+| Saturday | 2 hours | 📘 Grammar for lessons + weekly review |
+| Sunday | — | 🎯 Rest |
+
+### 🔥 Turbo Track
+> **6 days/week** — Near-daily learning, 3 hours/day
+
+| Day | Duration | Task |
+|:---:|:--------:|------|
+| Mon–Fri | 3 hours | 📕 Lesson + 📝 exercises + 📘 grammar |
+| Saturday | 3 hours | Review + extra exercises + repetition |
+| Sunday | — | 🎯 Rest |
+
+---
+
+# 🚀 Smart Track — Detailed Plan (Recommended)
+
+> 2 lessons per week, 4 study days, ~8 hours/week
+> **A1: 12 weeks ← A2: 12 weeks ← B1: 8 weeks ← Total: ~8 months**
+
+## 🟢 Phase 1: A1 — 12 weeks
+
+> 20 lessons in the [A1 Coursebook](../a1/kursbuch/index.en.md) + [A1 Workbook](../a1/ubungsbuch/index.en.md)
 
 <div class="plan-table" markdown="1">
 
-| Week | Type | Content | Related Grammar |
-|:----:|:----:|---------|-----------------|
-| 1 | 📕 Lesson | [Lektion 1 — Hallo!](../a1/kursbuch/lektion-01.en.md) | [Verb Conjugation (heißen)](../grammatik/verbkonjugation.en.md), [Personal Pronouns](../grammatik/personalpronomen.en.md), [Nominative](../grammatik/nominativ.en.md) |
-| 2 | 📝 Exercises | [Exercises Lektion 1](../a1/ubungsbuch/lektion-01.en.md) | — |
-| 3 | 📕 Lesson | [Lektion 2 — Berufe](../a1/kursbuch/lektion-02.en.md) | [Sein & haben](../grammatik/sein-haben-besondere-verben.en.md), [Articles (der/die/das)](../grammatik/artikel.en.md), [Negation](../grammatik/negation.en.md) |
-| 4 | 📝 Exercises | [Exercises Lektion 2](../a1/ubungsbuch/lektion-02.en.md) | — |
-| 5 | 📕 Lesson | [Lektion 3 — Orte und Dinge](../a1/kursbuch/lektion-03.en.md) | [Articles (ein/eine)](../grammatik/artikel.en.md), [Plural](../grammatik/plural.en.md), [Nominative](../grammatik/nominativ.en.md) |
-| 6 | 📝 Exercises | [Exercises Lektion 3](../a1/ubungsbuch/lektion-03.en.md) | — |
-| 7 | 📘 Grammar | **Grammar Week** | [Verb Conjugation](../grammatik/verbkonjugation.en.md) ← [Nominative](../grammatik/nominativ.en.md) ← [Articles](../grammatik/artikel.en.md) ← [Personal Pronouns](../grammatik/personalpronomen.en.md) |
-| 8 | 📕 Lesson | [Lektion 4 — Familie](../a1/kursbuch/lektion-04.en.md) | [Possessive Articles](../grammatik/possessivartikel.en.md), [Personal Pronouns](../grammatik/personalpronomen.en.md) |
-| 9 | 📝 Exercises | [Exercises Lektion 4](../a1/ubungsbuch/lektion-04.en.md) | — |
-| 10 | 📕 Lesson | [Lektion 5 — Alltag und Freizeit](../a1/kursbuch/lektion-05.en.md) | [Separable Verbs](../grammatik/trennbare-verben.en.md), [Verb Conjugation](../grammatik/verbkonjugation.en.md) |
+| Week | Monday (📕 Lesson) | Tuesday (📝📘 Exercises+Grammar) | Wednesday (📕 Lesson) | Thursday (📝📘 Exercises+Grammar) |
+|:----:|:-----------------:|:-------------------------------:|:--------------------:|:--------------------------------:|
+| 1 | [L1 Hallo!](../a1/kursbuch/lektion-01.en.md) | Exercises L1 + [Verb Conjugation](../grammatik/verbkonjugation.en.md) | [L2 Berufe](../a1/kursbuch/lektion-02.en.md) | Exercises L2 + [Articles](../grammatik/artikel.en.md) |
+| 2 | [L3 Orte/Dinge](../a1/kursbuch/lektion-03.en.md) | Exercises L3 + [Nominative](../grammatik/nominativ.en.md) | [L4 Familie](../a1/kursbuch/lektion-04.en.md) | Exercises L4 + [Possessive Articles](../grammatik/possessivartikel.en.md) |
+| 3 | [L5 Alltag/Freizeit](../a1/kursbuch/lektion-05.en.md) | Exercises L5 + [Separable Verbs](../grammatik/trennbare-verben.en.md) | **🔄 Review L1–L5** | + [Personal Pronouns](../grammatik/personalpronomen.en.md) |
+| 4 | [L6 Arbeitszeiten](../a1/kursbuch/lektion-06.en.md) | Exercises L6 + [Modal Verbs](../grammatik/modalverben.en.md) | [L7 Essen](../a1/kursbuch/lektion-07.en.md) | Exercises L7 + [Accusative](../grammatik/akkusativ.en.md) |
+| 5 | [L8 Party](../a1/kursbuch/lektion-08.en.md) | Exercises L8 + [Perfect Tense](../grammatik/perfekt.en.md) | [L9 Termine](../a1/kursbuch/lektion-09.en.md) | Exercises L9 + [Sentence Structure](../grammatik/satzbau.en.md) |
+| 6 | [L10 Bus/Bahn](../a1/kursbuch/lektion-10.en.md) | Exercises L10 + [Dative](../grammatik/dativ.en.md) | **🔄 Review L6–L10** | + [Two-way Prepositions](../grammatik/wechselprapositionen.en.md) |
+| 7 | [L11 Wohnen](../a1/kursbuch/lektion-11.en.md) | Exercises L11 + [Imperative](../grammatik/imperativ.en.md) | [L12 Ausbildung](../a1/kursbuch/lektion-12.en.md) | Exercises L12 + [Vowel Change Verbs](../grammatik/verben-mit-vokalwechsel.en.md) |
+| 8 | [L13 Beim Arzt](../a1/kursbuch/lektion-13.en.md) | Exercises L13 + [Personal Pronouns Acc/Dat](../grammatik/personalpronomen-akk-dat.en.md) | [L14 Krankschreibung](../a1/kursbuch/lektion-14.en.md) | Exercises L14 + [Temporal References](../grammatik/temporal-lokal-angaben.en.md) |
+| 9 | [L15 Wege/Stadt](../a1/kursbuch/lektion-15.en.md) | Exercises L15 + [Local Prepositions](../grammatik/lokale-praepositionen.en.md) | **🔄 Review L11–L15** | + [Adjective Declension](../grammatik/adjektivdeklination.en.md) |
+| 10 | [L16 Im Laden](../a1/kursbuch/lektion-16.en.md) | Exercises L16 + [Interrogative/Demonstrative Articles](../grammatik/artikel-interrogativ-demonstrativ.en.md) | [L17 Arbeit](../a1/kursbuch/lektion-17.en.md) | Exercises L17 + [Negation](../grammatik/negation.en.md) |
+| 11 | [L18 Beim Amt](../a1/kursbuch/lektion-18.en.md) | Exercises L18 + [Separable Verbs (review)](../grammatik/trennbare-verben.en.md) | [L19 Reisen](../a1/kursbuch/lektion-19.en.md) | Exercises L19 + [Dative (review)](../grammatik/dativ.en.md) |
+| 12 | [L20 Feste/Feiern](../a1/kursbuch/lektion-20.en.md) | Exercises L20 + [Preterite](../grammatik/prateritum.en.md) | **🏁 A1 Comprehensive Review** | [📖 All A1 Grammar](../grammatik/index.en.md) |
 
 </div>
 
-## 📅 Weeks 11–20: Daily Life
+## 🔵 Phase 2: A2 — 12 weeks
 
-| Week | Type | Content | Related Grammar |
-|:----:|:----:|---------|-----------------|
-| 11 | 📝 Exercises | [Exercises Lektion 5](../a1/ubungsbuch/lektion-05.en.md) | — |
-| 12 | 📕 Lesson | [Lektion 6 — Arbeitszeiten](../a1/kursbuch/lektion-06.en.md) | [Modal Verbs (können/müssen)](../grammatik/modalverben.en.md), [Sentence Structure](../grammatik/satzbau.en.md) |
-| 13 | 📝 Exercises | [Exercises Lektion 6](../a1/ubungsbuch/lektion-06.en.md) | — |
-| 14 | 📘 Grammar | **Grammar Week** | [Separable Verbs](../grammatik/trennbare-verben.en.md) ← [Sentence Structure](../grammatik/satzbau.en.md) ← [Modal Verbs](../grammatik/modalverben.en.md) |
-| 15 | 📕 Lesson | [Lektion 7 — Essen](../a1/kursbuch/lektion-07.en.md) | [Accusative](../grammatik/akkusativ.en.md), [Negation (nicht/kein)](../grammatik/negation.en.md), [Plural](../grammatik/plural.en.md) |
-| 16 | 📝 Exercises | [Exercises Lektion 7](../a1/ubungsbuch/lektion-07.en.md) | — |
-| 17 | 📕 Lesson | [Lektion 8 — Party](../a1/kursbuch/lektion-08.en.md) | [Perfect (haben/sein)](../grammatik/perfekt.en.md), [Past Participle](../grammatik/partizip-perfekt.en.md) |
-| 18 | 📝 Exercises | [Exercises Lektion 8](../a1/ubungsbuch/lektion-08.en.md) | — |
-| 19 | 📕 Lesson | [Lektion 9 — Termine](../a1/kursbuch/lektion-09.en.md) | [Temporal & Local References](../grammatik/temporal-lokal-angaben.en.md), [Modal Verbs](../grammatik/modalverben.en.md) |
-| 20 | 📝 Exercises | [Exercises Lektion 9](../a1/ubungsbuch/lektion-09.en.md) | — |
+> 20 lessons in the [A2 Coursebook](../a2/kursbuch/index.en.md) + [A2 Workbook](../a2/ubungsbuch/index.en.md)
 
-## 📅 Weeks 21–30: Travel and Services
+| Week | Monday (📕 Lesson) | Tuesday (📝📘 Exercises+Grammar) | Wednesday (📕 Lesson) | Thursday (📝📘 Exercises+Grammar) |
+|:----:|:-----------------:|:-------------------------------:|:--------------------:|:--------------------------------:|
+| 1 | [A2 L1 Unser neuer Weg](../a2/kursbuch/lektion-01.en.md) | Exercises L1 + [Subordinate Clauses (dass/weil)](../grammatik/nebensatze.en.md) | [A2 L2 Arbeiten/Lernen](../a2/kursbuch/lektion-02.en.md) | Exercises L2 + [Connecting Main Clauses](../grammatik/hauptsaetze-verbinden.en.md) |
+| 2 | [A2 L3 In unserer Freizeit](../a2/kursbuch/lektion-03.en.md) | Exercises L3 + [Reflexive Verbs](../grammatik/reflexive-verben.en.md) | [A2 L4 Wohnen/Nachbarn](../a2/kursbuch/lektion-04.en.md) | Exercises L4 + [Compound Nouns](../grammatik/komposita.en.md) |
+| 3 | [A2 L5 Mein neuer Job](../a2/kursbuch/lektion-05.en.md) | Exercises L5 + [Verbs with Prepositions](../grammatik/verben-mit-praepositionen.en.md) | **🔄 Review A2 L1–L5** | [Sentence Structure (review)](../grammatik/satzbau.en.md) |
+| 4 | [A2 L6 Auf dem Weg](../a2/kursbuch/lektion-06.en.md) | Exercises L6 + [Prepositions](../grammatik/prapositionen.en.md) | [A2 L7 Gesundheit](../a2/kursbuch/lektion-07.en.md) | Exercises L7 + [Imperative (review)](../grammatik/imperativ.en.md) |
+| 5 | [A2 L8 Sicherheit](../a2/kursbuch/lektion-08.en.md) | Exercises L8 + [Causal/Concessive Clauses](../grammatik/kausal-konzessivsatze.en.md) | [A2 L9 Große/kleine Dinge](../a2/kursbuch/lektion-09.en.md) | Exercises L9 + [Comparisons (als/wie)](../grammatik/vergleiche.en.md) |
+| 6 | [A2 L10 Durch die Stadt](../a2/kursbuch/lektion-10.en.md) | Exercises L10 + [Local Adverbs](../grammatik/lokale-adverbien.en.md) | **🔄 Review A2 L6–L10** | [Adjective Declension (review)](../grammatik/adjektivdeklination.en.md) |
+| 7 | [A2 L11 Information](../a2/kursbuch/lektion-11.en.md) | Exercises L11 + [Indirect Questions](../grammatik/indirekte-fragen.en.md) | [A2 L12 In der Schule](../a2/kursbuch/lektion-12.en.md) | Exercises L12 + [Extended Word Order](../grammatik/wortstellung-erweitert.en.md) |
+| 8 | [A2 L13 Selbstständig](../a2/kursbuch/lektion-13.en.md) | Exercises L13 + [Infinitive with/without zu](../grammatik/infinitiv-mit-zu.en.md) | [A2 L14 Zusammenleben](../a2/kursbuch/lektion-14.en.md) | Exercises L14 + [Double Conjunctions](../grammatik/doppelkonnektoren.en.md) |
+| 9 | [A2 L15 Mit dem Auto](../a2/kursbuch/lektion-15.en.md) | Exercises L15 + [Position/Direction Verbs](../grammatik/positions-direktionsverben.en.md) | **🔄 Review A2 L11–L15** | [Relative Clauses](../grammatik/relativsatze.en.md) |
+| 10 | [A2 L16 Sport/Ernährung](../a2/kursbuch/lektion-16.en.md) | Exercises L16 + [Futur I](../grammatik/futur-i.en.md) | [A2 L17 Geschäfte](../a2/kursbuch/lektion-17.en.md) | Exercises L17 + [Ordinal Numbers](../grammatik/ordinalzahlen.en.md) |
+| 11 | [A2 L18 Alles über Geld](../a2/kursbuch/lektion-18.en.md) | Exercises L18 + [n-Declension](../grammatik/n-deklination.en.md) | [A2 L19 Unterwegs](../a2/kursbuch/lektion-19.en.md) | Exercises L19 + [Genitive](../grammatik/genitiv.en.md) |
+| 12 | [A2 L20 Erinnerungen](../a2/kursbuch/lektion-20.en.md) | Exercises L20 + [Konjunktiv 2](../grammatik/konjunktiv-2.en.md) | **🏁 A2 Comprehensive Review** | [📖 All A2 Grammar](../grammatik/index.en.md) |
 
-| Week | Type | Content | Related Grammar |
-|:----:|:----:|---------|-----------------|
-| 21 | 📘 Grammar | **Grammar Week** | [Accusative](../grammatik/akkusativ.en.md) ← [Perfect](../grammatik/perfekt.en.md) ← [Past Participle](../grammatik/partizip-perfekt.en.md) ← [Modal Verbs](../grammatik/modalverben.en.md) |
-| 22 | 📕 Lesson | [Lektion 10 — Bus und Bahn](../a1/kursbuch/lektion-10.en.md) | [Dative](../grammatik/dativ.en.md), [Two-way Prepositions](../grammatik/wechselprapositionen.en.md), [Imperative](../grammatik/imperativ.en.md) |
-| 23 | 📝 Exercises | [Exercises Lektion 10](../a1/ubungsbuch/lektion-10.en.md) | — |
-| 24 | 📕 Lesson | [Lektion 11 — Wohnen](../a1/kursbuch/lektion-11.en.md) | [Two-way Prepositions](../grammatik/wechselprapositionen.en.md), [Dative](../grammatik/dativ.en.md) |
-| 25 | 📝 Exercises | [Exercises Lektion 11](../a1/ubungsbuch/lektion-11.en.md) | — |
-| 26 | 📕 Lesson | [Lektion 12 — Ausbildung](../a1/kursbuch/lektion-12.en.md) | [Modal Verbs (müssen/sollen)](../grammatik/modalverben.en.md), [Vowel Change Verbs](../grammatik/verben-mit-vokalwechsel.en.md) |
-| 27 | 📝 Exercises | [Exercises Lektion 12](../a1/ubungsbuch/lektion-12.en.md) | — |
-| 28 | 📘 Grammar | **Grammar Week** | [Dative](../grammatik/dativ.en.md) ← [Two-way Prepositions](../grammatik/wechselprapositionen.en.md) ← [Imperative](../grammatik/imperativ.en.md) |
-| 29 | 📕 Lesson | [Lektion 13 — Beim Arzt](../a1/kursbuch/lektion-13.en.md) | [Imperative](../grammatik/imperativ.en.md), [Personal Pronouns (Acc./Dat.)](../grammatik/personalpronomen-akk-dat.en.md) |
-| 30 | 📝 Exercises | [Exercises Lektion 13](../a1/ubungsbuch/lektion-13.en.md) | — |
+## 🟣 Phase 3: B1 — 8 weeks
 
-## 📅 Weeks 31–40: Communication and Transactions
+> Advanced grammar only (B1 relies on the previous 40 lessons + communication skills)
+> From the [Complete Grammar Index](../grammatik/index.en.md)
 
-| Week | Type | Content | Related Grammar |
-|:----:|:----:|---------|-----------------|
-| 31 | 📕 Lesson | [Lektion 14 — Krankschreibung](../a1/kursbuch/lektion-14.en.md) | [Perfect with sein](../grammatik/perfekt.en.md), [Temporal References](../grammatik/temporal-lokal-angaben.en.md) |
-| 32 | 📝 Exercises | [Exercises Lektion 14](../a1/ubungsbuch/lektion-14.en.md) | — |
-| 33 | 📘 Grammar | **Grammar Week** | [Personal Pronouns (Acc./Dat.)](../grammatik/personalpronomen-akk-dat.en.md) ← [Verbs with Acc. & Dat.](../grammatik/verben-mit-akkusativ-dativ.en.md) |
-| 34 | 📕 Lesson | [Lektion 15 — Wege in der Stadt](../a1/kursbuch/lektion-15.en.md) | [Local Prepositions](../grammatik/lokale-praepositionen.en.md), [Imperative](../grammatik/imperativ.en.md) |
-| 35 | 📝 Exercises | [Exercises Lektion 15](../a1/ubungsbuch/lektion-15.en.md) | — |
-| 36 | 📕 Lesson | [Lektion 16 — Im Laden](../a1/kursbuch/lektion-16.en.md) | [Adjective Declension](../grammatik/adjektivdeklination.en.md), [Interrogative/Demonstrative Articles](../grammatik/artikel-interrogativ-demonstrativ.en.md) |
-| 37 | 📝 Exercises | [Exercises Lektion 16](../a1/ubungsbuch/lektion-16.en.md) | — |
-| 38 | 📕 Lesson | [Lektion 17 — Arbeit](../a1/kursbuch/lektion-17.en.md) | [Modal Verbs](../grammatik/modalverben.en.md), [Separable Verbs](../grammatik/trennbare-verben.en.md) |
-| 39 | 📝 Exercises | [Exercises Lektion 17](../a1/ubungsbuch/lektion-17.en.md) | — |
-| 40 | 📘 Grammar | **Grammar Week** | [Adjective Declension](../grammatik/adjektivdeklination.en.md) ← [Gender Rules](../grammatik/genusregeln.en.md) ← [Interrogative/Demonstrative Articles](../grammatik/artikel-interrogativ-demonstrativ.en.md) |
-
-## 📅 Weeks 41–50: Official Transactions and Travel
-
-| Week | Type | Content | Related Grammar |
-|:----:|:----:|---------|-----------------|
-| 41 | 📕 Lesson | [Lektion 18 — Beim Amt](../a1/kursbuch/lektion-18.en.md) | [Modal Verbs (dürfen/müssen)](../grammatik/modalverben.en.md), [Imperative](../grammatik/imperativ.en.md) |
-| 42 | 📝 Exercises | [Exercises Lektion 18](../a1/ubungsbuch/lektion-18.en.md) | — |
-| 43 | 📕 Lesson | [Lektion 19 — Reisen in Deutschland](../a1/kursbuch/lektion-19.en.md) | [Two-way Prepositions](../grammatik/wechselprapositionen.en.md), [Dative](../grammatik/dativ.en.md) |
-| 44 | 📝 Exercises | [Exercises Lektion 19](../a1/ubungsbuch/lektion-19.en.md) | — |
-| 45 | 📕 Lesson | [Lektion 20 — Feste und Feiern](../a1/kursbuch/lektion-20.en.md) | [Perfect](../grammatik/perfekt.en.md), [Preterite (war/hatte)](../grammatik/prateritum.en.md) |
-| 46 | 📝 Exercises | [Exercises Lektion 20](../a1/ubungsbuch/lektion-20.en.md) | — |
-| 47 | 📘 Grammar | **Grammar Week** | [Preterite](../grammatik/prateritum.en.md) ← [Tense Usage](../grammatik/zeitengebrauch.en.md) ← [Preterite of Modal Verbs](../grammatik/prateritum-modalverben.en.md) |
-| 48–50 | 🔄 **A1 Review** | [📖 Complete Grammar Index](../grammatik/index.en.md) | Comprehensive review of all A1 grammar — solve interactive exercises — prepare for the A1 exam |
+| Week | Monday | Tuesday | Wednesday | Thursday |
+|:----:|:------:|:-------:|:---------:|:--------:|
+| 1 | [Passive](../grammatik/passiv.en.md) + exercises | [Passive Past](../grammatik/passiv-vergangenheit.en.md) | [Functions of werden](../grammatik/funktionen-von-werden.en.md) | [The Verb lassen](../grammatik/das-verb-lassen.en.md) |
+| 2 | [Final Clauses](../grammatik/finalsaetze.en.md) | [Plusquamperfekt](../grammatik/plusquamperfekt.en.md) | **🔄 Section 9 Review** | Comprehensive exercises |
+| 3 | [Adjectives as Nouns](../grammatik/adjektive-als-nomen.en.md) | [n-Declension (review)](../grammatik/n-deklination.en.md) | [Genitive (review)](../grammatik/genitiv.en.md) | [Prepositional Adverbs](../grammatik/praepositionaladverbien.en.md) |
+| 4 | [Word Formation](../grammatik/wortbildung.en.md) | [Konjunktiv 2 (advanced)](../grammatik/konjunktiv-2.en.md) | **🔄 Section 10 Review** | Comprehensive exercises |
+| 5 | [Infinitive with/out zu (advanced)](../grammatik/infinitiv-mit-zu.en.md) | [Relative Clauses (advanced)](../grammatik/relativsatze.en.md) | [Causal/Concessive (advanced)](../grammatik/kausal-konzessivsatze.en.md) | Exercises |
+| 6 | [Genitive Prepositions](../grammatik/praepositionen-genitiv.en.md) | [Temporal Prepositions 2](../grammatik/temporale-praepositionen-2.en.md) | [Participle 1 as Adj.](../grammatik/partizip-1-als-adjektiv.en.md) | Exercises |
+| 7 | [Double Conjunctions (advanced)](../grammatik/doppelkonnektoren.en.md) | [Temporal Sub. Clauses (advanced)](../grammatik/temporale-nebensaatze.en.md) | **🏁 B1 Review** | [📖 All B1 Grammar](../grammatik/index.en.md) |
+| 8 | **🎯 Practice B1 Exam** | Analyze mistakes | Final review | **✅ Done!** |
 
 ---
 
-# 🔵 Phase 2: Intermediate — Level A2
+## Track Switching Guide
 
-> ⏱ **30 weeks** — 20 lessons in the [A2 Coursebook](../a2/kursbuch/index.en.md) and 25 new grammar topics
-
-## 📅 Weeks 51–60: A2 Lessons — Part 1
-
-| Week | Type | Content | Related Grammar |
-|:----:|:----:|---------|-----------------|
-| 51 | 📕 Lesson | [A2 Lektion 1 — Unser neuer Weg](../a2/kursbuch/lektion-01.en.md) | [Subordinate Clauses (dass/weil)](../grammatik/nebensatze.en.md), [Sentence Structure](../grammatik/satzbau.en.md) |
-| 52 | 📝 Exercises | [Exercises A2 Lektion 1](../a2/ubungsbuch/lektion-01.en.md) | — |
-| 53 | 📕 Lesson | [A2 Lektion 2 — Arbeiten und Lernen](../a2/kursbuch/lektion-02.en.md) | [Modal Verbs (sollen/müssen)](../grammatik/modalverben.en.md), [Connecting Main Clauses](../grammatik/hauptsaetze-verbinden.en.md) |
-| 54 | 📝 Exercises | [Exercises A2 Lektion 2](../a2/ubungsbuch/lektion-02.en.md) | — |
-| 55 | 📕 Lesson | [A2 Lektion 3 — In unserer Freizeit](../a2/kursbuch/lektion-03.en.md) | [Reflexive Verbs](../grammatik/reflexive-verben.en.md), [Adverbs](../grammatik/adverbien.en.md) |
-| 56 | 📝 Exercises | [Exercises A2 Lektion 3](../a2/ubungsbuch/lektion-03.en.md) | — |
-| 57 | 📖 Grammar | **Grammar Week** | [Subordinate Clauses (dass/weil/wenn)](../grammatik/nebensatze.en.md) ← [Connecting Main Clauses](../grammatik/hauptsaetze-verbinden.en.md) |
-| 58 | 📕 Lesson | [A2 Lektion 4 — Wohnen und Nachbarn](../a2/kursbuch/lektion-04.en.md) | [Two-way Prepositions (review)](../grammatik/wechselprapositionen.en.md), [Compound Nouns](../grammatik/komposita.en.md) |
-| 59 | 📝 Exercises | [Exercises A2 Lektion 4](../a2/ubungsbuch/lektion-04.en.md) | — |
-| 60 | 📕 Lesson | [A2 Lektion 5 — Mein neuer Job](../a2/kursbuch/lektion-05.en.md) | [Verbs with Prepositions](../grammatik/verben-mit-praepositionen.en.md), [Separable & Inseparable](../grammatik/trennbar-untrennbar.en.md) |
-
-## 📅 Weeks 61–70: A2 Lessons — Part 2
-
-| Week | Type | Content | Related Grammar |
-|:----:|:----:|---------|-----------------|
-| 61 | 📝 Exercises | [Exercises A2 Lektion 5](../a2/ubungsbuch/lektion-05.en.md) | — |
-| 62 | 📘 Grammar | **Grammar Week** | [Reflexive Verbs](../grammatik/reflexive-verben.en.md) ← [Verbs with Prepositions](../grammatik/verben-mit-praepositionen.en.md) |
-| 63 | 📕 Lesson | [A2 Lektion 6 — Auf dem Weg zur Arbeit](../a2/kursbuch/lektion-06.en.md) | [Prepositions (temporal/local)](../grammatik/prapositionen.en.md), [Temporal & Local References](../grammatik/temporal-lokal-angaben.en.md) |
-| 64 | 📝 Exercises | [Exercises A2 Lektion 6](../a2/ubungsbuch/lektion-06.en.md) | — |
-| 65 | 📕 Lesson | [A2 Lektion 7 — Gesundheit erhalten](../a2/kursbuch/lektion-07.en.md) | [Imperative (review)](../grammatik/imperativ.en.md), [Modal Verbs (review)](../grammatik/modalverben.en.md) |
-| 66 | 📝 Exercises | [Exercises A2 Lektion 7](../a2/ubungsbuch/lektion-07.en.md) | — |
-| 67 | 📕 Lesson | [A2 Lektion 8 — Sicherheit am Arbeitsplatz](../a2/kursbuch/lektion-08.en.md) | [Modal Verbs (dürfen)](../grammatik/modalverben.en.md), [Causal & Concessive Clauses](../grammatik/kausal-konzessivsatze.en.md) |
-| 68 | 📝 Exercises | [Exercises A2 Lektion 8](../a2/ubungsbuch/lektion-08.en.md) | — |
-| 69 | 📕 Lesson | [A2 Lektion 9 — Große und kleine Dinge](../a2/kursbuch/lektion-09.en.md) | [Adjective Declension (review)](../grammatik/adjektivdeklination.en.md), [Comparisons (als/wie)](../grammatik/vergleiche.en.md) |
-| 70 | 📝 Exercises | [Exercises A2 Lektion 9](../a2/ubungsbuch/lektion-09.en.md) | — |
-
-## 📅 Weeks 71–80: A2 Lessons — Part 3
-
-| Week | Type | Content | Related Grammar |
-|:----:|:----:|---------|-----------------|
-| 71 | 📘 Grammar | **Grammar Week** | [Causal & Concessive Clauses](../grammatik/kausal-konzessivsatze.en.md) ← [Comparisons](../grammatik/vergleiche.en.md) ← [Superlative](../grammatik/superlativ.en.md) |
-| 72 | 📕 Lesson | [A2 Lektion 10 — Durch die Stadt](../a2/kursbuch/lektion-10.en.md) | [Local Adverbs](../grammatik/lokale-adverbien.en.md), [Two-way Prepositions (review)](../grammatik/wechselprapositionen.en.md) |
-| 73 | 📝 Exercises | [Exercises A2 Lektion 10](../a2/ubungsbuch/lektion-10.en.md) | — |
-| 74 | 📕 Lesson | [A2 Lektion 11 — Information und Unterhaltung](../a2/kursbuch/lektion-11.en.md) | [Indirect Questions](../grammatik/indirekte-fragen.en.md), [Relative Clauses](../grammatik/relativsatze.en.md) |
-| 75 | 📝 Exercises | [Exercises A2 Lektion 11](../a2/ubungsbuch/lektion-11.en.md) | — |
-| 76 | 📕 Lesson | [A2 Lektion 12 — In der Schule](../a2/kursbuch/lektion-12.en.md) | [Subordinate Clauses (obwohl/weil)](../grammatik/nebensatze.en.md), [Extended Word Order](../grammatik/wortstellung-erweitert.en.md) |
-| 77 | 📝 Exercises | [Exercises A2 Lektion 12](../a2/ubungsbuch/lektion-12.en.md) | — |
-| 78 | 📘 Grammar | **Grammar Week** | [Indirect Questions](../grammatik/indirekte-fragen.en.md) ← [Relative Clauses](../grammatik/relativsatze.en.md) ← [Extended Word Order](../grammatik/wortstellung-erweitert.en.md) |
-| 79 | 📕 Lesson | [A2 Lektion 13 — Selbstständig arbeiten](../a2/kursbuch/lektion-13.en.md) | [Infinitive with/without zu](../grammatik/infinitiv-mit-zu.en.md), [Compound Verbs](../grammatik/zusammengesetzte-verben.en.md) |
-| 80 | 📝 Exercises | [Exercises A2 Lektion 13](../a2/ubungsbuch/lektion-13.en.md) | — |
-
-## 📅 Weeks 81–90: A2 Lessons — Part 4
-
-| Week | Type | Content | Related Grammar |
-|:----:|:----:|---------|-----------------|
-| 81 | 📕 Lesson | [A2 Lektion 14 — Zusammenleben](../a2/kursbuch/lektion-14.en.md) | [Double Conjunctions](../grammatik/doppelkonnektoren.en.md), [Temporal Subordinate Clauses](../grammatik/temporale-nebensaatze.en.md) |
-| 82 | 📝 Exercises | [Exercises A2 Lektion 14](../a2/ubungsbuch/lektion-14.en.md) | — |
-| 83 | 📕 Lesson | [A2 Lektion 15 — Mit dem Auto reisen](../a2/kursbuch/lektion-15.en.md) | [Position & Direction Verbs](../grammatik/positions-direktionsverben.en.md), [Local Prepositions (review)](../grammatik/lokale-praepositionen.en.md) |
-| 84 | 📝 Exercises | [Exercises A2 Lektion 15](../a2/ubungsbuch/lektion-15.en.md) | — |
-| 85 | 📘 Grammar | **Grammar Week** | [Double Conjunctions](../grammatik/doppelkonnektoren.en.md) ← [Temporal Subordinate Clauses](../grammatik/temporale-nebensaatze.en.md) ← [Infinitive with/without zu](../grammatik/infinitiv-mit-zu.en.md) |
-| 86 | 📕 Lesson | [A2 Lektion 16 — Sport und Ernährung](../a2/kursbuch/lektion-16.en.md) | [Futur I](../grammatik/futur-i.en.md), [Particles](../grammatik/partikeln.en.md) |
-| 87 | 📝 Exercises | [Exercises A2 Lektion 16](../a2/ubungsbuch/lektion-16.en.md) | — |
-| 88 | 📕 Lesson | [A2 Lektion 17 — Geschäfte](../a2/kursbuch/lektion-17.en.md) | [Adjectives as Nouns](../grammatik/adjektive-als-nomen.en.md), [Ordinal Numbers & Date](../grammatik/ordinalzahlen.en.md) |
-| 89 | 📝 Exercises | [Exercises A2 Lektion 17](../a2/ubungsbuch/lektion-17.en.md) | — |
-| 90 | 📘 Grammar | **Grammar Week** | [Futur I](../grammatik/futur-i.en.md) ← [Adjectives as Nouns](../grammatik/adjektive-als-nomen.en.md) ← [Ordinal Numbers](../grammatik/ordinalzahlen.en.md) |
-
-## 📅 Weeks 91–100: A2 Lessons — Part 5 and Finale
-
-| Week | Type | Content | Related Grammar |
-|:----:|:----:|---------|-----------------|
-| 91 | 📕 Lesson | [A2 Lektion 18 — Alles über Geld](../a2/kursbuch/lektion-18.en.md) | [n-Declension](../grammatik/n-deklination.en.md), [Genitive](../grammatik/genitiv.en.md) |
-| 92 | 📝 Exercises | [Exercises A2 Lektion 18](../a2/ubungsbuch/lektion-18.en.md) | — |
-| 93 | 📕 Lesson | [A2 Lektion 19 — Unterwegs](../a2/kursbuch/lektion-19.en.md) | [Prepositional Adverbs](../grammatik/praepositionaladverbien.en.md), [Local Adverbs (review)](../grammatik/lokale-adverbien.en.md) |
-| 94 | 📝 Exercises | [Exercises A2 Lektion 19](../a2/ubungsbuch/lektion-19.en.md) | — |
-| 95 | 📕 Lesson | [A2 Lektion 20 — Erinnerungen und Wünsche](../a2/kursbuch/lektion-20.en.md) | [Konjunktiv 2 (würde/hätte/wäre)](../grammatik/konjunktiv-2.en.md), [Plusquamperfekt](../grammatik/plusquamperfekt.en.md) |
-| 96 | 📝 Exercises | [Exercises A2 Lektion 20](../a2/ubungsbuch/lektion-20.en.md) | — |
-| 97–98 | 📘 **A2 Review** | [📖 Complete Grammar Index](../grammatik/index.en.md) | [n-Declension](../grammatik/n-deklination.en.md) ← [Genitive](../grammatik/genitiv.en.md) ← [Prepositional Adverbs](../grammatik/praepositionaladverbien.en.md) ← [Konjunktiv 2](../grammatik/konjunktiv-2.en.md) |
-| 99–100 | 🔄 **A1–A2 Comprehensive Review** | [📖 A1 Workbook](../a1/ubungsbuch/index.en.md) + [A2](../a2/ubungsbuch/index.en.md) | Solve all remaining exercises + prepare for the A2 exam |
+| From | To | How |
+|:----:|:--:|-----|
+| 🚀 Smart | ⚡ Intensive | Add 2 study days (4→6), complete each lesson in 1 day instead of 2 |
+| 🚀 Smart | 🔥 Turbo | Add 2 days + 2 extra hours/week |
+| ⚡ Intensive | 🚀 Smart | Take 2 rest days, spread each lesson over 2 days |
+| 🔥 Turbo | ⚡ Intensive | Reduce 1 hour/day (3h → 2h) |
 
 ---
 
-# 🟣 Phase 3: Advanced — Level B1
+## 🏁 Goals — What You'll Achieve at Each Stage
 
-> ⏱ **16 weeks** — Advanced B1 grammar from [Grammatik aktiv](../grammatik/index.en.md) + integrated skills
-
-## 📅 Weeks 101–116: B1 Grammar
-
-| Week | Type | Content | Related Grammar |
-|:----:|:----:|---------|-----------------|
-| 101 | 📘 Grammar | Section 9: Verben 3 | [Passive](../grammatik/passiv.en.md) ← [Passive in Past Tense](../grammatik/passiv-vergangenheit.en.md) |
-| 102 | 📘 Grammar | Section 9: Verben 3 | [The Verb lassen](../grammatik/das-verb-lassen.en.md) ← [Functions of werden](../grammatik/funktionen-von-werden.en.md) |
-| 103 | 📘 Grammar | Section 9: Verben 3 | [Final Clauses](../grammatik/finalsaetze.en.md) ← [Double Conjunctions](../grammatik/doppelkonnektoren.en.md) ← [Plusquamperfekt](../grammatik/plusquamperfekt.en.md) |
-| 104 | 🔄 Review | **Section 9 Review** | Solve interactive exercises — [Grammar Index](../grammatik/index.en.md) |
-| 105 | 📘 Grammar | Section 10: Nomen 2 | [Adjectives as Nouns (review)](../grammatik/adjektive-als-nomen.en.md) ← [n-Declension (review)](../grammatik/n-deklination.en.md) ← [Genitive (review)](../grammatik/genitiv.en.md) |
-| 106 | 📘 Grammar | Section 10: Nomen 2 | [Prepositional Adverbs](../grammatik/praepositionaladverbien.en.md) ← [Word Formation](../grammatik/wortbildung.en.md) |
-| 107 | 📘 Grammar | Section 11: Sätze & Satzverbindungen 2 | [Konjunktiv 2 (advanced review)](../grammatik/konjunktiv-2.en.md) ← [Infinitive with/without zu (review)](../grammatik/infinitiv-mit-zu.en.md) |
-| 108 | 🔄 Review | **Sections 10–11 Review** | Comprehensive exercises — [Grammar Index](../grammatik/index.en.md) |
-| 109 | 📘 Grammar | Section 11: Sätze & Satzverbindungen 2 | [Relative Clauses (advanced review)](../grammatik/relativsatze.en.md) ← [Passive](../grammatik/passiv.en.md) |
-| 110 | 📘 Grammar | Section 12: Präpositionen 2 | [Genitive Prepositions](../grammatik/praepositionen-genitiv.en.md) ← [Temporal Prepositions (2)](../grammatik/temporale-praepositionen-2.en.md) |
-| 111 | 📘 Grammar | Section 13: Adjektive 2 | [Participle 1 as Adjective](../grammatik/partizip-1-als-adjektiv.en.md) ← [Past Participle (review)](../grammatik/partizip-perfekt.en.md) |
-| 112 | 🔄 Review | **Sections 12–13 Review** | Interactive exercises — [Grammar Index](../grammatik/index.en.md) |
-| 113–116 | 🏁 **Final Review** | **All Grammar from A1 to B1** | [📖 Complete Grammar Index](../grammatik/index.en.md) — 70 topics — comprehensive exercises — B1 exam preparation |
+| By the end of | You'll master | ✅ |
+|:------------:|:------------:|:--:|
+| 🟢 **A1** | 600+ words — 25 grammar topics — 20 videos — greetings, shopping, transport, doctor | 🎯 |
+| 🔵 **A2** | 1500+ words — 50 grammar topics — 40 videos — describing experiences, talking about past & goals | 🎯 |
+| 🟣 **B1** | 3000+ words — 70 grammar topics — fluent speaking, opinions, long texts | 🏆 |
+| ✅ **A1→B1** | **40 interactive lessons + 70 grammar topics + 40 instructional videos** | **🚀** |
 
 ---
 
-## 🏁 Goals — What You Will Be Able to Do
+## 💡 Golden Tips for Time Optimization
 
-| By the end of | You will be able to |
-|:-------------:|---------------------|
-| 🟢 **A1** | Introduce yourself, ask for directions, order food, buy tickets, write a simple email |
-| 🔵 **A2** | Describe past experiences, talk about your goals, understand longer texts, participate in daily conversations |
-| 🟣 **B1** | Speak fluently in various situations, express opinions, write coherent texts, understand discussions |
-| ✅ **A1–B1** | Use **70 grammar topics**, **4000+ words**, and **40 interactive lessons** |
-
----
-
-## 💡 Tips for Success
-
-1. **📅 Be consistent** — Dedicate 2 hours daily to study, 6 days a week
-2. **🔄 Review regularly** — Don't wait for lessons to pile up; review every week
-3. **🗣️ Speak out loud** — German requires mouth and tongue practice
-4. **📝 Write by hand** — Handwriting helps with memorization
-5. **🎧 Listen a lot** — Listen to German songs, podcasts, and news
-6. **🧠 Use flashcards** — Review vocabulary daily
-7. **✅ Solve interactive exercises** — Every grammar page has exercises with instant correction
-8. **🎯 Don't skip ahead** — Each lesson builds on the previous one
+1. **🎬 Video first** — Watch the lesson video before reading (5-10 min gives you the context)
+2. **📝 Exercises right away** — Solve Übungsbuch right after the lesson (information is fresh)
+3. **⏱️ Time yourself** — Use a timer: 45 min for lesson, 30 min for exercises, 20 min for grammar
+4. **🔁 Don't master Day 1** — Return to difficult words the next day (spaced repetition)
+5. **📱 Flashcards** — New words need 5-7 repetitions to stick
+6. **🗣️ Speak out loud** — Even if alone — German needs muscle practice
+7. **✅ Interactive exercises** — Take advantage of instant correction
+8. **🎯 Review every 5 lessons** — Don't wait until the end of the level
 
 ---
 
@@ -247,16 +193,14 @@
 | Page | Link |
 |------|------|
 | 🏠 Home | [Home](../index.en.md) |
-| 📖 Level A1 | [A1 Overview](../a1/index.en.md) |
 | 📕 A1 Lessons | [A1 Coursebook](../a1/kursbuch/index.en.md) |
 | 📝 A1 Exercises | [A1 Workbook](../a1/ubungsbuch/index.en.md) |
-| 📖 Level A2 | [A2 Overview](../a2/index.en.md) |
 | 📕 A2 Lessons | [A2 Coursebook](../a2/kursbuch/index.en.md) |
 | 📝 A2 Exercises | [A2 Workbook](../a2/ubungsbuch/index.en.md) |
 | 📘 All Grammar | [Complete Grammar Index](../grammatik/index.en.md) |
 
 ---
 
-> 💡 **Success in learning German requires three things: consistency, daily practice, and patience. Study every day, even if only for 30 minutes.**
+> 💡 **The bottom line:** The old plan made A1 take 30 weeks because I split lessons from exercises across two weeks. Reality: each lesson takes ~2 hours of actual work. At 2 lessons/week (8 hours/week), you finish A1 in 12 weeks. In 8 months you reach B1. This is real time.
 
 [🔙 Back to Home](../index.en.md)
