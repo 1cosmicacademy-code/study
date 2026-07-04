@@ -1,0 +1,219 @@
+- generic [active] [ref=e1]:
+  - link "انتقل إلى المحتوى" [ref=e2] [cursor=pointer]:
+    - /url: "#_1"
+  - banner [ref=e3]:
+    - navigation "عنوان العارضة" [ref=e4]:
+      - link "تعلم الألمانية | Learn German" [ref=e5] [cursor=pointer]:
+        - /url: .
+        - img [ref=e6]
+      - generic [ref=e9]:
+        - generic [ref=e11]: تعلم الألمانية | Learn German
+        - generic:
+          - generic: الرئيسية
+      - generic [ref=e12]:
+        - radio "التبديل إلى الوضع المظلم"
+        - generic "التبديل إلى الوضع المظلم" [ref=e13] [cursor=pointer]:
+          - img [ref=e14]
+        - radio "التبديل إلى الوضع الفاتح"
+      - generic [ref=e17]:
+        - button "إختر اللغة" [ref=e18] [cursor=pointer]:
+          - img [ref=e19]
+        - generic:
+          - list:
+            - listitem [ref=e21]:
+              - link "العربية" [ref=e22] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=e23]:
+              - link "English" [ref=e24] [cursor=pointer]:
+                - /url: /en/
+      - dialog [ref=e25]:
+        - search [ref=e26]:
+          - generic [ref=e27]:
+            - textbox "بحث" [ref=e28]
+            - generic:
+              - img
+            - navigation "إبحث":
+              - button "مسح كلي":
+                - img
+          - generic [ref=e31]: اكتب لبدء البحث
+  - generic [ref=e32]:
+    - navigation "نوافذ" [ref=e33]:
+      - list [ref=e35]:
+        - listitem [ref=e36]:
+          - link "الرئيسية" [ref=e37] [cursor=pointer]:
+            - /url: .
+        - listitem [ref=e38]:
+          - link "المستوى A1" [ref=e39] [cursor=pointer]:
+            - /url: a1/
+        - listitem [ref=e40]:
+          - link "المستوى A2" [ref=e41] [cursor=pointer]:
+            - /url: a2/
+        - listitem [ref=e42]:
+          - link "📖 كل القواعد" [ref=e43] [cursor=pointer]:
+            - /url: grammatik/
+        - listitem [ref=e44]:
+          - link "الخطة التعليمية" [ref=e45] [cursor=pointer]:
+            - /url: plan/
+    - main [ref=e46]:
+      - generic [ref=e47]:
+        - navigation "تصفح" [ref=e51]:
+          - list [ref=e52]:
+            - listitem [ref=e53]:
+              - link "الرئيسية":
+                - /url: .
+                - generic: الرئيسية
+        - navigation "جدول المحتويات" [ref=e57]:
+          - generic [ref=e58]: جدول المحتويات
+          - list [ref=e59]:
+            - listitem [ref=e60]:
+              - link "📚 ماذا ستتعلم هنا؟" [ref=e61] [cursor=pointer]:
+                - /url: "#_2"
+                - generic [ref=e62]: 📚 ماذا ستتعلم هنا؟
+              - navigation "📚 ماذا ستتعلم هنا؟" [ref=e63]:
+                - list [ref=e64]:
+                  - listitem [ref=e65]:
+                    - link "📖 المستويات" [ref=e66] [cursor=pointer]:
+                      - /url: "#_3"
+                      - generic [ref=e67]: 📖 المستويات
+                  - listitem [ref=e68]:
+                    - link "📘 ما يقدمه الموقع" [ref=e69] [cursor=pointer]:
+                      - /url: "#_4"
+                      - generic [ref=e70]: 📘 ما يقدمه الموقع
+            - listitem [ref=e71]:
+              - link "🎬 فيديوهات تعليمية" [ref=e72] [cursor=pointer]:
+                - /url: "#_5"
+                - generic [ref=e73]: 🎬 فيديوهات تعليمية
+            - listitem [ref=e74]:
+              - link "🗓️ الخطة التعليمية" [ref=e75] [cursor=pointer]:
+                - /url: "#_6"
+                - generic [ref=e76]: 🗓️ الخطة التعليمية
+            - listitem [ref=e77]:
+              - link "🤔 كيف تدرس معنا؟" [ref=e78] [cursor=pointer]:
+                - /url: "#_7"
+                - generic [ref=e79]: 🤔 كيف تدرس معنا؟
+        - article [ref=e81]:
+          - heading "🇩🇪 مرحباً بك في رحلة تعلم الألمانية!" [level=1] [ref=e82]
+          - blockquote [ref=e83]:
+            - paragraph [ref=e84]:
+              - text: 🎯
+              - strong [ref=e85]: "هدفنا:"
+              - text: نشرح لك اللغة الألمانية من الصفر كأنك طفل عمره 5 سنوات —
+              - strong [ref=e86]: بأبسط طريقة، بدون تعقيد!
+          - separator [ref=e87]
+          - heading "📚 ماذا ستتعلم هنا؟" [level=2] [ref=e88]
+          - paragraph [ref=e89]:
+            - text: هذا الموقع هو
+            - strong [ref=e90]: دليلك المجاني
+            - text: لتعلم اللغة الألمانية للمستوى
+            - strong [ref=e91]: A1-A2
+            - text: — شروحات أصلية بالعربية، تمارين تفاعلية، وفيديوهات تعليمية.
+          - heading "📖 المستويات" [level=3] [ref=e92]
+          - list [ref=e94]:
+            - listitem [ref=e95]:
+              - paragraph [ref=e96]:
+                - strong [ref=e97]: 🟢 المستوى A1 — للمبتدئين جداً
+              - list [ref=e98]:
+                - listitem [ref=e99]:
+                  - text: ✅
+                  - link "شروحات الدروس (Kursbuch)" [ref=e100] [cursor=pointer]:
+                    - /url: a1/kursbuch/lektion-01/
+                - listitem [ref=e101]:
+                  - text: ✅
+                  - link "تمارين تفاعلية (Übungsbuch)" [ref=e102] [cursor=pointer]:
+                    - /url: a1/ubungsbuch/
+                - listitem [ref=e103]:
+                  - text: ✅
+                  - link "القواعد (Grammatik)" [ref=e104] [cursor=pointer]:
+                    - /url: grammatik/#a1
+            - listitem [ref=e105]:
+              - paragraph [ref=e106]:
+                - strong [ref=e107]: 🟡 المستوى A2 — للمبتدئين المتقدمين
+              - list [ref=e108]:
+                - listitem [ref=e109]:
+                  - text: ✅
+                  - link "شروحات الدروس (Kursbuch)" [ref=e110] [cursor=pointer]:
+                    - /url: a2/kursbuch/
+                - listitem [ref=e111]:
+                  - text: ✅
+                  - link "تمارين تفاعلية (Übungsbuch)" [ref=e112] [cursor=pointer]:
+                    - /url: a2/ubungsbuch/
+                - listitem [ref=e113]:
+                  - text: ✅
+                  - link "القواعد (Grammatik)" [ref=e114] [cursor=pointer]:
+                    - /url: grammatik/#a2
+          - heading "📘 ما يقدمه الموقع" [level=3] [ref=e115]
+          - table [ref=e118]:
+            - rowgroup [ref=e119]:
+              - row "القسم المستوى الوصف" [ref=e120]:
+                - columnheader "القسم" [ref=e121]
+                - columnheader "المستوى" [ref=e122]
+                - columnheader "الوصف" [ref=e123]
+            - rowgroup [ref=e124]:
+              - row "📕 شروحات الدروس A1, A2 دروس أصلية مبسطة بالعربية — كل المحادثات والقواعد" [ref=e125]:
+                - cell "📕 شروحات الدروس" [ref=e126]:
+                  - text: 📕
+                  - strong [ref=e127]: شروحات الدروس
+                - cell "A1, A2" [ref=e128]
+                - cell "دروس أصلية مبسطة بالعربية — كل المحادثات والقواعد" [ref=e129]
+              - row "📗 تمارين تفاعلية A1, A2 تمارين كتابية مع تصحيح تلقائي" [ref=e130]:
+                - cell "📗 تمارين تفاعلية" [ref=e131]:
+                  - text: 📗
+                  - strong [ref=e132]: تمارين تفاعلية
+                - cell "A1, A2" [ref=e133]
+                - cell "تمارين كتابية مع تصحيح تلقائي" [ref=e134]
+              - row "📘 قواعد شاملة A1-B1 شرح مبسط لكل موضوع نحوي مع أمثلة وتمارين" [ref=e135]:
+                - cell "📘 قواعد شاملة" [ref=e136]:
+                  - text: 📘
+                  - strong [ref=e137]: قواعد شاملة
+                - cell "A1-B1" [ref=e138]
+                - cell "شرح مبسط لكل موضوع نحوي مع أمثلة وتمارين" [ref=e139]
+          - separator [ref=e140]
+          - heading "🎬 فيديوهات تعليمية" [level=2] [ref=e141]
+          - paragraph [ref=e142]:
+            - text: "كل درس فيه فيديو يوتيوب: - 🌍"
+            - strong [ref=e143]: عربي
+            - text: — شرح بالعربية - 🌐
+            - strong [ref=e144]: English
+            - text: — شرح بالإنجليزية
+          - blockquote [ref=e145]:
+            - paragraph [ref=e146]:
+              - text: 💡
+              - strong [ref=e147]: غيّر اللغة من فوق
+              - text: 🌐 وشوف الفيديو يتغير معاك!
+          - separator [ref=e148]
+          - heading "🗓️ الخطة التعليمية" [level=2] [ref=e149]
+          - paragraph [ref=e150]:
+            - text: عندنا
+            - link "خطة أسبوعية كاملة" [ref=e151] [cursor=pointer]:
+              - /url: plan/
+              - strong [ref=e152]: خطة أسبوعية كاملة
+            - text: — كل أسبوع نغطي درس معين بالترتيب.
+          - separator [ref=e153]
+          - heading "🤔 كيف تدرس معنا؟" [level=2] [ref=e154]
+          - list [ref=e155]:
+            - listitem [ref=e156]:
+              - strong [ref=e157]: افتح الخطة
+              - text: — شوف وش عندنا هذا الأسبوع
+            - listitem [ref=e158]:
+              - strong [ref=e159]: اقرأ الشرح
+              - text: — بسيط ومبسط
+            - listitem [ref=e160]:
+              - strong [ref=e161]: حل التمارين
+              - text: — مع الإجابات
+            - listitem [ref=e162]:
+              - strong [ref=e163]: شاهد الفيديو
+              - text: — عربي أو إنجليزي
+            - listitem [ref=e164]:
+              - strong [ref=e165]: راجع القواعد
+              - text: — في قسم Grammatik
+          - separator [ref=e166]
+          - blockquote [ref=e167]:
+            - paragraph [ref=e168]:
+              - text: ❤️
+              - strong [ref=e169]: "تذكر:"
+              - text: تعلّم لغة جديدة مثل بناء بيت — كل كلمة جديدة هي لبنة. خذ وقتك واستمتع بالرحلة!
+      - button "عد إلى الأعلى":
+        - img
+        - text: عد إلى الأعلى
+    - contentinfo [ref=e170]:
+      - generic [ref=e174]: Copyright © 2026 Ahmad Sharf

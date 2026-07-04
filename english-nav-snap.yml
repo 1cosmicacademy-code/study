@@ -1,0 +1,219 @@
+- generic [active] [ref=f2e1]:
+  - link "Skip to content" [ref=f2e2] [cursor=pointer]:
+    - /url: "#welcome-to-your-german-learning-journey"
+  - banner [ref=f2e3]:
+    - navigation "Header" [ref=f2e4]:
+      - link "تعلم الألمانية | Learn German" [ref=f2e5] [cursor=pointer]:
+        - /url: ./
+        - img [ref=f2e6]
+      - generic [ref=f2e9]:
+        - generic [ref=f2e11]: تعلم الألمانية | Learn German
+        - generic:
+          - generic: Home
+      - generic [ref=f2e12]:
+        - radio "التبديل إلى الوضع المظلم"
+        - generic "التبديل إلى الوضع المظلم" [ref=f2e13] [cursor=pointer]:
+          - img [ref=f2e14]
+        - radio "التبديل إلى الوضع الفاتح"
+      - generic [ref=f2e17]:
+        - button "Select language" [ref=f2e18] [cursor=pointer]:
+          - img [ref=f2e19]
+        - generic:
+          - list:
+            - listitem [ref=f2e21]:
+              - link "العربية" [ref=f2e22] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=f2e23]:
+              - link "English" [ref=f2e24] [cursor=pointer]:
+                - /url: /en/
+      - dialog [ref=f2e25]:
+        - search [ref=f2e26]:
+          - generic [ref=f2e27]:
+            - textbox "Search" [ref=f2e28]
+            - generic:
+              - img
+            - navigation "Search":
+              - button "Clear":
+                - img
+          - generic [ref=f2e31]: Type to start searching
+  - generic [ref=f2e32]:
+    - navigation "Tabs" [ref=f2e33]:
+      - list [ref=f2e35]:
+        - listitem [ref=f2e36]:
+          - link "Home" [ref=f2e37] [cursor=pointer]:
+            - /url: ./
+        - listitem [ref=f2e38]:
+          - link "Level A1" [ref=f2e39] [cursor=pointer]:
+            - /url: a1/
+        - listitem [ref=f2e40]:
+          - link "Level A2" [ref=f2e41] [cursor=pointer]:
+            - /url: a2/
+        - listitem [ref=f2e42]:
+          - link "📖 Grammar Overview" [ref=f2e43] [cursor=pointer]:
+            - /url: grammatik/
+        - listitem [ref=f2e44]:
+          - link "Study Plan" [ref=f2e45] [cursor=pointer]:
+            - /url: plan/
+    - main [ref=f2e46]:
+      - generic [ref=f2e47]:
+        - navigation "Navigation" [ref=f2e51]:
+          - list [ref=f2e52]:
+            - listitem [ref=f2e53]:
+              - link "Home":
+                - /url: ./
+                - generic: Home
+        - navigation "Table of contents" [ref=f2e57]:
+          - generic [ref=f2e58]: Table of contents
+          - list [ref=f2e59]:
+            - listitem [ref=f2e60]:
+              - link "📚 What Will You Learn Here?" [ref=f2e61] [cursor=pointer]:
+                - /url: "#what-will-you-learn-here"
+                - generic [ref=f2e62]: 📚 What Will You Learn Here?
+              - navigation "📚 What Will You Learn Here?" [ref=f2e63]:
+                - list [ref=f2e64]:
+                  - listitem [ref=f2e65]:
+                    - link "📖 Levels" [ref=f2e66] [cursor=pointer]:
+                      - /url: "#levels"
+                      - generic [ref=f2e67]: 📖 Levels
+                  - listitem [ref=f2e68]:
+                    - link "📘 What This Site Offers" [ref=f2e69] [cursor=pointer]:
+                      - /url: "#what-this-site-offers"
+                      - generic [ref=f2e70]: 📘 What This Site Offers
+            - listitem [ref=f2e71]:
+              - link "🎬 Educational Videos" [ref=f2e72] [cursor=pointer]:
+                - /url: "#educational-videos"
+                - generic [ref=f2e73]: 🎬 Educational Videos
+            - listitem [ref=f2e74]:
+              - link "🗓️ Study Plan" [ref=f2e75] [cursor=pointer]:
+                - /url: "#study-plan"
+                - generic [ref=f2e76]: 🗓️ Study Plan
+            - listitem [ref=f2e77]:
+              - link "🤔 How to Study With Us?" [ref=f2e78] [cursor=pointer]:
+                - /url: "#how-to-study-with-us"
+                - generic [ref=f2e79]: 🤔 How to Study With Us?
+        - article [ref=f2e81]:
+          - heading "🇩🇪 Welcome to Your German Learning Journey!" [level=1] [ref=f2e82]
+          - blockquote [ref=f2e83]:
+            - paragraph [ref=f2e84]:
+              - text: 🎯
+              - strong [ref=f2e85]: "Our Goal:"
+              - text: We explain German from scratch like you're 5 years old —
+              - strong [ref=f2e86]: super simple, no complicated stuff!
+          - separator [ref=f2e87]
+          - heading "📚 What Will You Learn Here?" [level=2] [ref=f2e88]
+          - paragraph [ref=f2e89]:
+            - text: This website is your
+            - strong [ref=f2e90]: free guide
+            - text: for learning German at
+            - strong [ref=f2e91]: A1-A2 level
+            - text: — original explanations in Arabic, interactive exercises, and educational videos.
+          - heading "📖 Levels" [level=3] [ref=f2e92]
+          - list [ref=f2e94]:
+            - listitem [ref=f2e95]:
+              - paragraph [ref=f2e96]:
+                - strong [ref=f2e97]: 🟢 A1 — Absolute Beginner
+              - list [ref=f2e98]:
+                - listitem [ref=f2e99]:
+                  - text: ✅
+                  - link "Lesson Explanations (Kursbuch)" [ref=f2e100] [cursor=pointer]:
+                    - /url: a1/kursbuch/lektion-01/
+                - listitem [ref=f2e101]:
+                  - text: ✅
+                  - link "Interactive Exercises (Übungsbuch)" [ref=f2e102] [cursor=pointer]:
+                    - /url: a1/ubungsbuch/
+                - listitem [ref=f2e103]:
+                  - text: ✅
+                  - link "Grammar (Grammatik)" [ref=f2e104] [cursor=pointer]:
+                    - /url: grammatik/#a1
+            - listitem [ref=f2e105]:
+              - paragraph [ref=f2e106]:
+                - strong [ref=f2e107]: 🟡 A2 — Advanced Beginner
+              - list [ref=f2e108]:
+                - listitem [ref=f2e109]:
+                  - text: ✅
+                  - link "Lesson Explanations (Kursbuch)" [ref=f2e110] [cursor=pointer]:
+                    - /url: a2/kursbuch/
+                - listitem [ref=f2e111]:
+                  - text: ✅
+                  - link "Interactive Exercises (Übungsbuch)" [ref=f2e112] [cursor=pointer]:
+                    - /url: a2/ubungsbuch/
+                - listitem [ref=f2e113]:
+                  - text: ✅
+                  - link "Grammar (Grammatik)" [ref=f2e114] [cursor=pointer]:
+                    - /url: grammatik/#a2
+          - heading "📘 What This Site Offers" [level=3] [ref=f2e115]
+          - table [ref=f2e118]:
+            - rowgroup [ref=f2e119]:
+              - row "Section Level Description" [ref=f2e120]:
+                - columnheader "Section" [ref=f2e121]
+                - columnheader "Level" [ref=f2e122]
+                - columnheader "Description" [ref=f2e123]
+            - rowgroup [ref=f2e124]:
+              - row "📕 Lesson Explanations A1, A2 Original simplified lessons in Arabic — all conversations and grammar" [ref=f2e125]:
+                - cell "📕 Lesson Explanations" [ref=f2e126]:
+                  - text: 📕
+                  - strong [ref=f2e127]: Lesson Explanations
+                - cell "A1, A2" [ref=f2e128]
+                - cell "Original simplified lessons in Arabic — all conversations and grammar" [ref=f2e129]
+              - row "📗 Interactive Exercises A1, A2 Written exercises with auto-correction" [ref=f2e130]:
+                - cell "📗 Interactive Exercises" [ref=f2e131]:
+                  - text: 📗
+                  - strong [ref=f2e132]: Interactive Exercises
+                - cell "A1, A2" [ref=f2e133]
+                - cell "Written exercises with auto-correction" [ref=f2e134]
+              - row "📘 Comprehensive Grammar A1-B1 Simple grammar explanations for every topic with examples and exercises" [ref=f2e135]:
+                - cell "📘 Comprehensive Grammar" [ref=f2e136]:
+                  - text: 📘
+                  - strong [ref=f2e137]: Comprehensive Grammar
+                - cell "A1-B1" [ref=f2e138]
+                - cell "Simple grammar explanations for every topic with examples and exercises" [ref=f2e139]
+          - separator [ref=f2e140]
+          - heading "🎬 Educational Videos" [level=2] [ref=f2e141]
+          - paragraph [ref=f2e142]:
+            - text: "Every lesson has a YouTube video: - 🌍"
+            - strong [ref=f2e143]: Arabic
+            - text: — explanation in Arabic - 🌐
+            - strong [ref=f2e144]: English
+            - text: — explanation in English
+          - blockquote [ref=f2e145]:
+            - paragraph [ref=f2e146]:
+              - text: 💡
+              - strong [ref=f2e147]: Switch language
+              - text: from the top 🌐 and watch the video change!
+          - separator [ref=f2e148]
+          - heading "🗓️ Study Plan" [level=2] [ref=f2e149]
+          - paragraph [ref=f2e150]:
+            - text: We have a
+            - link "complete weekly plan" [ref=f2e151] [cursor=pointer]:
+              - /url: plan/
+              - strong [ref=f2e152]: complete weekly plan
+            - text: — every week covers a specific lesson in order.
+          - separator [ref=f2e153]
+          - heading "🤔 How to Study With Us?" [level=2] [ref=f2e154]
+          - list [ref=f2e155]:
+            - listitem [ref=f2e156]:
+              - strong [ref=f2e157]: Open the plan
+              - text: — see what's this week
+            - listitem [ref=f2e158]:
+              - strong [ref=f2e159]: Read the explanation
+              - text: — simple and easy
+            - listitem [ref=f2e160]:
+              - strong [ref=f2e161]: Solve exercises
+              - text: — with answers
+            - listitem [ref=f2e162]:
+              - strong [ref=f2e163]: Watch the video
+              - text: — Arabic or English
+            - listitem [ref=f2e164]:
+              - strong [ref=f2e165]: Review grammar
+              - text: — in the Grammatik section
+          - separator [ref=f2e166]
+          - blockquote [ref=f2e167]:
+            - paragraph [ref=f2e168]:
+              - text: ❤️
+              - strong [ref=f2e169]: "Remember:"
+              - text: Learning a new language is like building a house — every new word is a brick. Take your time and enjoy the journey!
+      - button "Back to top":
+        - img
+        - text: Back to top
+    - contentinfo [ref=f2e170]:
+      - generic [ref=f2e174]: Copyright © 2026 Ahmad Sharf
