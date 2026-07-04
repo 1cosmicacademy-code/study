@@ -59,6 +59,8 @@ But: euer → eure (the e drops)
 
 ## 📝 Exercises
 
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
+
 <div class="exercise" markdown="1" data-answers='["mein","meine","dein","deine","meine"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
@@ -68,6 +70,8 @@ But: euer → eure (the e drops)
 | 4 | Ist das ___ (dein) cat? | |
 | 5 | Das sind ___ (mein) books. | |
 </div>
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
+
 <div class="exercise" markdown="1" data-answers='["Mein","Deine","Sein","Unser","Ihre"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
@@ -77,6 +81,8 @@ But: euer → eure (the e drops)
 | 4 | Wir haben ein Haus. ___ Haus ist groß. | |
 | 5 | Sie (plural) haben Kinder. ___ Kinder sind jung. | |
 </div>
+✏️ **Choose the correct option:**
+
 <div class="exercise" markdown="1" data-answers='["Mein","Deine","Seine","Ihr","Unsere"]'>
 | # | Sentence | Answer |
 |---|----------|--------|

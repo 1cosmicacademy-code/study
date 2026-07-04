@@ -40,6 +40,8 @@
 
 ## 📝 تمارين تفاعلية
 
+✏️ **أكمل الفراغ بالكلمة الصحيحة:** اكتب كلمة واحدة فقط في كل خانة.
+
 <div class="exercise" data-answers='["um zu", "damit"]'>
 1. أكمِل الجملة باستخدام "um...zu": "Ich spare Geld, ______ ein neues Fahrrad kaufen."
 2. أكمِل الجملة باستخدام "damit": "Er schenkt ihr ein Buch, ______ sie besser Deutsch lernen kann."

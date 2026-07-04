@@ -88,6 +88,8 @@ Subordinate:     Verb at the end
 
 ## 📝 Exercises
 
+✏️ **Rearrange the words to form a correct sentence:**
+
 <div class="exercise" markdown="1" data-answers='["... weil ich Deutsch lerne."]'>
 | # | Sentence | Answer |
 |---|----------|--------|
@@ -97,6 +99,8 @@ Subordinate:     Verb at the end
 | 4 | (heute / Ich / kaufe / ein Brot) → ___ | |
 | 5 | (... weil / lerne / ich / Deutsch) → ___ | |
 </div>
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
+
 <div class="exercise" markdown="1" data-answers='["wohne","arbeitest","Hast","bin","habe"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
@@ -106,6 +110,8 @@ Subordinate:     Verb at the end
 | 4 | Today I ___ (sein) at home. | |
 | 5 | ... weil ich kein Auto ___ (haben). | |
 </div>
+✏️ **Rearrange the words to form a correct sentence:**
+
 <div class="exercise" markdown="1" data-answers='["Yes/No question","Statement","W-Question","Imperative","Subordinate clause"]'>
 | # | Sentence | Answer |
 |---|----------|--------|

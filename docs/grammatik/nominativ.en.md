@@ -76,6 +76,8 @@ Masculine article = der, Feminine = die, Neuter = das
 
 ## 📝 Exercises
 
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
+
 <div class="exercise" markdown="1" data-answers='["der","die","das","die","das"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
@@ -85,6 +87,8 @@ Masculine article = der, Feminine = die, Neuter = das
 | 4 | ___ Stühle (chairs) | |
 | 5 | ___ Fenster (window) | |
 </div>
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
+
 <div class="exercise" markdown="1" data-answers='["ein","eine","kein","keine","ein"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
@@ -94,6 +98,8 @@ Masculine article = der, Feminine = die, Neuter = das
 | 4 | Das sind ___ Blumen. (not — keine) | |
 | 5 | Das ist ___ Auto. (a) | |
 </div>
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
+
 <div class="exercise" markdown="1" data-answers='["Die","Der","Die","Der","Das"]'>
 | # | Sentence | Answer |
 |---|----------|--------|

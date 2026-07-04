@@ -79,6 +79,8 @@ Komm! Geht! Kommen Sie!
 
 ## 📝 Exercises
 
+✏️ **Rearrange the words to form a correct sentence:**
+
 <div class="exercise" markdown="1" data-answers='["Komm!","Geh!","Spiel!","Iss!","Lies!"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
@@ -88,6 +90,8 @@ Komm! Geht! Kommen Sie!
 | 4 | du isst → ___! | |
 | 5 | du liest → ___! | |
 </div>
+✏️ **Rearrange the words to form a correct sentence:**
+
 <div class="exercise" markdown="1" data-answers='["Kommt!","Geht!","Spielt!","Seid!","Habt!"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
@@ -97,6 +101,8 @@ Komm! Geht! Kommen Sie!
 | 4 | ihr seid → ___! | |
 | 5 | ihr habt → ___! | |
 </div>
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
+
 <div class="exercise" markdown="1" data-answers='["Hilf","Seid","Nehmen Sie","Lies","Kommen Sie"]'>
 | # | Sentence | Answer |
 |---|----------|--------|

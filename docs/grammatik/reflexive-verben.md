@@ -115,6 +115,8 @@ Sie zieht das Kind an. (غير انعكاسي — هي تلبس الطفل)
 
 ## 📝 تمارين
 
+✏️ **أكمل الفراغ بالكلمة الصحيحة:** اكتب كلمة واحدة فقط في كل خانة.
+
 <div class="exercise" markdown="1" data-answers='["mich","dich","sich","uns","euch","sich"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
@@ -125,6 +127,8 @@ Sie zieht das Kind an. (غير انعكاسي — هي تلبس الطفل)
 | 5 | Ihr müsst _______ ausziehen, es ist heiß hier. | |
 | 6 | Die Kinder waschen _______ vor dem Essen. | |
 </div>
+✏️ **اختر الإجابة الصحيحة من الخيارات:**
+
 <div class="exercise" markdown="1" data-answers='["mir","sich","sich","uns","euch"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
@@ -134,6 +138,8 @@ Sie zieht das Kind an. (غير انعكاسي — هي تلبس الطفل)
 | 4 | Wir kämmen (uns / uns) vor dem Spiegel. | |
 | 5 | Ihr trocknet (euch / euch) die Hände ab. | |
 </div>
+✏️ **أكمل الفراغ:** اكتب الإجابة كاملة في الخانة.
+
 <div class="exercise" markdown="1" data-answers='["freue mich","zieht sich an / zieht das Baby an","beeilen uns","ruht sich ... aus","setzen Sie sich"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
@@ -143,6 +149,8 @@ Sie zieht das Kind an. (غير انعكاسي — هي تلبس الطفل)
 | 4 | Nach der Arbeit _______ er _______ auf dem Sofa. | |
 | 5 | Bitte _______ Sie _______! | |
 </div>
+✏️ **ترجم الجملة إلى الألمانية:**
+
 <div class="exercise" markdown="1" data-answers='["wasche mir die Hände","Erinnern Sie sich an mich","beeilen uns","befindet sich das Museum","interessiert sich für Sport"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|

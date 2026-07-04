@@ -125,6 +125,8 @@ von den Frau-en-n → from the women
 
 ## 📝 Exercises
 
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
+
 <div class="exercise" markdown="1" data-answers='["dem","der","dem","der","dem"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
@@ -134,6 +136,8 @@ von den Frau-en-n → from the women
 | 4 | Er antwortet ___ Lehrerin. (die) | |
 | 5 | Ich fahre mit ___ Auto. (das) | |
 </div>
+✏️ **Choose the correct option:**
+
 <div class="exercise" markdown="1" data-answers='["aus","bei","zu","bei (or in einer)","seit"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
@@ -143,6 +147,8 @@ von den Frau-en-n → from the women
 | 4 | Sie arbeitet ___ einer Firma. (at) | |
 | 5 | Ich lerne Deutsch ___ einem Jahr. (since/for) | |
 </div>
+✏️ **Complete the blank:** Write the full answer in the field.
+
 <div class="exercise" markdown="1" data-answers='["D ** der","A ** die","D ** dem","A ** den","D ** dem"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
@@ -152,6 +158,8 @@ von den Frau-en-n → from the women
 | 4 | Ich lege das Buch auf ___ Tisch. (der) | |
 | 5 | Sie sitzt neben ___ Freund. (der) | |
 </div>
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
+
 <div class="exercise" markdown="1" data-answers='["Der Vater bringt dem Kind ein Spielzeug."]'>
 | # | Sentence | Answer |
 |---|----------|--------|
@@ -161,6 +169,8 @@ von den Frau-en-n → from the women
 | 4 | Wir / schicken / der Freund / eine Karte | |
 | 5 | Der Vater / bringen / das Kind / ein Spielzeug | |
 </div>
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
+
 <div class="exercise" markdown="1" data-answers='["dem Mann (der ** dem)","dem Kind (den ** dem)","der Lehrerin (dem ** der)","dem Auto (der ** dem)","einem Jahr (einen ** einem)"]'>
 | # | Sentence | Answer |
 |---|----------|--------|

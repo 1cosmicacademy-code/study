@@ -93,6 +93,10 @@ When a preposition comes with **der / das**, they often merge:
 
 ## 📝 Exercises
 
+✏️ **Choose the correct option:**
+
+✏️ **Choose the correct option:**
+
 <div class="exercise" markdown="1" data-answers='["**auf**","**auf**","**unter**","**in**","**an**"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
@@ -102,6 +106,10 @@ When a preposition comes with **der / das**, they often merge:
 | 4 | Ich gehe ___ (in / auf) die Schule. | |
 | 5 | Das Bild hängt ___ (an / auf) der Wand. | |
 </div>
+✏️ **Complete the blank:** Write the full answer in the field.
+
+✏️ **Complete the blank:** Write the full answer in the field.
+
 <div class="exercise" markdown="1" data-answers='["Der Stuhl steht **neben der** Tür."]'>
 | # | Sentence | Answer |
 |---|----------|--------|
@@ -111,6 +119,10 @@ When a preposition comes with **der / das**, they often merge:
 | 4 | Der Vogel fliegt ___ (über) ___ Haus. (Akkusativ) | |
 | 5 | Der Stuhl steht ___ (neben) ___ Tür. (Dativ) | |
 </div>
+✏️ **Rearrange the words to form a correct sentence:**
+
+✏️ **Rearrange the words to form a correct sentence:**
+
 <div class="exercise" markdown="1" data-answers='["Der Ball rollt **unter das Sofa**."]'>
 | # | Sentence | Answer |
 |---|----------|--------|
@@ -120,6 +132,10 @@ When a preposition comes with **der / das**, they often merge:
 | 4 | Das Kind sitzt neben der Mutter. → Das Kind setzt sich ___ ___ ___. (neben) | |
 | 5 | Der Ball ist unter dem Sofa. → Der Ball rollt ___ ___ ___. (unter) | |
 </div>
+✏️ **Rearrange the words to form a correct sentence:**
+
+✏️ **Rearrange the words to form a correct sentence:**
+
 <div class="exercise" markdown="1" data-answers='["**im**","**ans**","**ins**","**beim**","**am**"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
@@ -129,6 +145,10 @@ When a preposition comes with **der / das**, they often merge:
 | 4 | bei + dem → ___ | |
 | 5 | an + dem → ___ | |
 </div>
+✏️ **Rearrange the words to form a correct sentence:**
+
+✏️ **Rearrange the words to form a correct sentence:**
+
 <div class="exercise" markdown="1" data-answers='["**Wo** — Dativ (fixed location)"]'>
 | # | Sentence | Answer |
 |---|----------|--------|

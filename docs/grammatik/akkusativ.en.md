@@ -102,6 +102,8 @@ Only the masculine changes: der → den, ein → einen
 
 ---
 
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
+
 <div class="exercise" markdown="1" data-answers='["einen","die","den","das","die"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
@@ -111,6 +113,8 @@ Only the masculine changes: der → den, ein → einen
 | 4 | Er trinkt ___ Wasser. (das) | |
 | 5 | Ich brauche ___ Hilfe. (die) | |
 </div>
+
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
 
 <div class="exercise" markdown="1" data-answers='["für","durch","Ohne","um","gegen"]'>
 | # | Sentence | Answer |
@@ -122,6 +126,8 @@ Only the masculine changes: der → den, ein → einen
 | 5 | Das Medikament ist ___ Kopfschmerzen. (against) | |
 </div>
 
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
+
 <div class="exercise" markdown="1" data-answers='["ein Buch","einen Ball","die Musik","Milch","diesen Mann"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
@@ -132,6 +138,8 @@ Only the masculine changes: der → den, ein → einen
 | 5 | Ich kenne diesen Mann nicht. | |
 </div>
 
+✏️ **Rearrange the words to form a correct sentence:**
+
 <div class="exercise" markdown="1" data-answers='["den","einen","die","das","keinen"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
@@ -141,6 +149,8 @@ Only the masculine changes: der → den, ein → einen
 | 4 | Das Kind spielt. → Ich sehe ___ Kind. | |
 | 5 | Kein Student ist da. → Ich kenne ___ Studenten. | |
 </div>
+
+✏️ **Choose the correct option:**
 
 <div class="exercise" markdown="1" data-answers='["einen","den","die","ein","einen"]'>
 | # | Sentence | Answer |

@@ -95,6 +95,8 @@ When combining Modalverb with Passiv:
 
 ## 📝 Exercises
 
+✏️ **Rearrange the words to form a correct sentence:**
+
 <div class="exercise" markdown="1" data-answers='["**Aktiv**","**Passiv**","**Aktiv**","**Passiv**","**Passiv**"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
@@ -104,6 +106,8 @@ When combining Modalverb with Passiv:
 | 4 | Das Fenster wird geöffnet. → ___ | |
 | 5 | Der Brief wird geschrieben. → ___ | |
 </div>
+✏️ **Rearrange the words to form a correct sentence:**
+
 <div class="exercise" markdown="1" data-answers='["Das Bild **wird gemalt**."]'>
 | # | Sentence | Answer |
 |---|----------|--------|
@@ -113,6 +117,8 @@ When combining Modalverb with Passiv:
 | 4 | Der Schüler liest das Buch. → Das Buch ___ ___. | |
 | 5 | Der Künstler malt das Bild. → Das Bild ___ ___. | |
 </div>
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
+
 <div class="exercise" markdown="1" data-answers='["**wird**","**werden**","**wird**","**werden**","**werde**"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
@@ -122,6 +128,8 @@ When combining Modalverb with Passiv:
 | 4 | Die Blumen ___ gegossen. | |
 | 5 | Ich ___ gefragt. | |
 </div>
+✏️ **Rearrange the words to form a correct sentence:**
+
 <div class="exercise" markdown="1" data-answers='["Die Tür **muss geschlossen werden**."]'>
 | # | Sentence | Answer |
 |---|----------|--------|
@@ -131,6 +139,8 @@ When combining Modalverb with Passiv:
 | 4 | Man darf hier nicht rauchen. → Hier ___ nicht ___ ___. | |
 | 5 | Man muss die Tür schließen. → Die Tür ___ ___ ___. | |
 </div>
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
+
 <div class="exercise" markdown="1" data-answers='["Die Kinder **werden von der Mutter gefragt**. (von der Mutter before gefragt)"]'>
 | # | Sentence | Answer |
 |---|----------|--------|

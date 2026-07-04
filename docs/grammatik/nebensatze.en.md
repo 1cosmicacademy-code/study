@@ -104,6 +104,8 @@ In a subordinate clause (Nebensatz) ← the verb goes to the END of the sentence
 
 ## 📝 Exercises
 
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
+
 <div class="exercise" markdown="1" data-answers='["dass","weil","Obwohl","Wenn","dass"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
@@ -113,6 +115,8 @@ In a subordinate clause (Nebensatz) ← the verb goes to the END of the sentence
 | 4 | _______ ich Zeit habe, lese ich ein Buch. | |
 | 5 | Er sagt, _______ er kein Geld hat. | |
 </div>
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
+
 <div class="exercise" markdown="1" data-answers='["kommst","stirbt","Wenn","hat","regnet"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
@@ -122,6 +126,8 @@ In a subordinate clause (Nebensatz) ← the verb goes to the END of the sentence
 | 4 | Sie geht zur Arbeit, obwohl sie Fieber ____________. (haben) | |
 | 5 | Wir bleiben zu Hause, weil es ____________. (regnen) | |
 </div>
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
+
 <div class="exercise" markdown="1" data-answers='["Sie lernt Deutsch","weil sie in Berlin studieren will."]'>
 | # | Sentence | Answer |
 |---|----------|--------|
@@ -129,6 +135,8 @@ In a subordinate clause (Nebensatz) ← the verb goes to the END of the sentence
 | 2 | Er kommt nicht. Er ist krank. | |
 | 3 | Sie lernt Deutsch. Sie will in Berlin studieren. | |
 </div>
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
+
 <div class="exercise" markdown="1" data-answers='["Er geht ins Kino","obwohl er krank ist."]'>
 | # | Sentence | Answer |
 |---|----------|--------|
@@ -137,6 +145,8 @@ In a subordinate clause (Nebensatz) ← the verb goes to the END of the sentence
 | 3 | wenn / rufe / du / an / ich / mich / brauchst | |
 | 4 | obwohl / geht / ins / er / er / Kino / krank / ist | |
 </div>
+✏️ **Complete the blank:** Write the full answer in the field.
+
 <div class="exercise" markdown="1" data-answers='["Ich mache weiter..."]'>
 | # | Sentence | Answer |
 |---|----------|--------|

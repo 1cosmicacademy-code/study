@@ -69,6 +69,8 @@ nicht = not → ينفي الأفعال والصفات
 
 ## 📝 تمارين
 
+✏️ **أكمل الفراغ بالكلمة الصحيحة:** اكتب كلمة واحدة فقط في كل خانة.
+
 <div class="exercise" markdown="1" data-answers='["kein","nicht","nicht","kein","keine"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
@@ -78,6 +80,8 @@ nicht = not → ينفي الأفعال والصفات
 | 4 | Das ist ___ Problem. | |
 | 5 | Wir haben ___ Kinder. | |
 </div>
+✏️ **أكمل الفراغ بالكلمة الصحيحة:** اكتب كلمة واحدة فقط في كل خانة.
+
 <div class="exercise" markdown="1" data-answers='["keine","nicht","keinen","nicht","kein"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|

@@ -39,6 +39,8 @@
 
 ## 📝 تمارين تفاعلية
 
+✏️ **أكمل الفراغ بالكلمة الصحيحة:** اكتب كلمة واحدة فقط في كل خانة.
+
 <div class="exercise" data-answers='["stellen","liegen","stehen","legen"]'>
 1. اختر الفعل المناسب: "Er ___ das Glas **auf** den Tisch." (حركة وضع)
 2. أكمل الجملة: "Das Buch ___ **auf** dem Regal." (حالة مستوية)

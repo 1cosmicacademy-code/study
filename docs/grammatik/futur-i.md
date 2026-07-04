@@ -119,6 +119,8 @@ Ich    werde    morgen    nach Berlin    fahren.
 
 ## 📝 تمارين
 
+✏️ **أكمل الفراغ بالكلمة الصحيحة:** اكتب كلمة واحدة فقط في كل خانة.
+
 <div class="exercise" markdown="1" data-answers='["werde","wirst","wird","werden","werdet","werden"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
@@ -130,6 +132,8 @@ Ich    werde    morgen    nach Berlin    fahren.
 | 6 | Die Kinder ______________ (werden) sich freuen. | |
 </div>
 
+✏️ **أكمل الفراغ:** اكتب الإجابة كاملة في الخانة.
+
 <div class="exercise" markdown="1" data-answers='["Ich werde ein Haus kaufen.","Sie wird nach Italien reisen.","Wir werden Deutsch lernen.","Der Zug wird um 10 Uhr kommen.","Wirst du das Fenster zummachen?"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
@@ -140,6 +144,8 @@ Ich    werde    morgen    nach Berlin    fahren.
 | 5 | ______________ du das Fenster ______________ ______________? | |
 </div>
 
+✏️ **رتّب الكلمات لتكوين جملة صحيحة:**
+
 <div class="exercise" markdown="1" data-answers='["Morgen werde ich mein Zimmer aufräumen.","Nächstes Jahr werden wir ein Haus bauen.","Wirst du mich am Wochenende besuchen?","Es wird heute nicht schneien.","Wir werden die Prüfung bestimmt bestehen."]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
@@ -149,6 +155,8 @@ Ich    werde    morgen    nach Berlin    fahren.
 | 4 | nicht / es / heute / schneien → ___________________________________ | |
 | 5 | bestimmt / die Prüfung / wir / bestehen → ___________________________________ | |
 </div>
+
+✏️ **اختر الإجابة الصحيحة من الخيارات:**
 
 <div class="exercise" markdown="1" data-answers='["kaufe","wird kommen","werde ich beginnen","wird regnen","werden besuchen"]'>
 | # | الجملة | الإجابة |

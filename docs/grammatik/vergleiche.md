@@ -119,6 +119,8 @@ Deutsch ist schwerer als Englisch.
 
 ## 📝 تمارين
 
+✏️ **أكمل الفراغ بالكلمة الصحيحة:** اكتب كلمة واحدة فقط في كل خانة.
+
 <div class="exercise" markdown="1" data-answers='["als","wie","als","wie","als","wie"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
@@ -129,6 +131,8 @@ Deutsch ist schwerer als Englisch.
 | 5 | Deutsch ist schwerer _______ Englisch. | |
 | 6 | Er rennt so schnell _______ ein Pferd. | |
 </div>
+✏️ **رتّب الكلمات لتكوين جملة صحيحة:**
+
 <div class="exercise" markdown="1" data-answers='["größer","kleiner","jünger","älter","teurer","besser","mehr","schneller"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
@@ -141,6 +145,8 @@ Deutsch ist schwerer als Englisch.
 | 7 | viel → _______________ | |
 | 8 | schnell → _______________ | |
 </div>
+✏️ **رتّب الكلمات لتكوين جملة صحيحة:**
+
 <div class="exercise" markdown="1" data-answers='["am größten","am schönsten","am schnellsten","am besten","am jüngsten","am liebsten"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
@@ -151,6 +157,8 @@ Deutsch ist schwerer als Englisch.
 | 5 | jung → _______________ | |
 | 6 | gern → _______________ | |
 </div>
+✏️ **أكمل الفراغ بالكلمة الصحيحة:** اكتب كلمة واحدة فقط في كل خانة.
+
 <div class="exercise" markdown="1" data-answers='["schneller","kälter","beste","lieber","billiger"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|

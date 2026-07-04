@@ -135,6 +135,8 @@ The adverb can be:
 
 ## 📝 Exercises
 
+🔤 **Classify by type:** Enter the appropriate code.
+
 <div class="exercise" markdown="1" data-answers='["T","L","M","T","M","L","T","L"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
@@ -147,6 +149,8 @@ The adverb can be:
 | 7 | oft → _______ | |
 | 8 | rechts → _______ | |
 </div>
+✏️ **Choose the correct option:**
+
 <div class="exercise" markdown="1" data-answers='["morgen","Leider","draußen","oft","Gestern"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
@@ -156,6 +160,8 @@ The adverb can be:
 | 4 | Ich lese (oft / gern) Bücher, jeden Tag. (often) | |
 | 5 | (Vielleicht / Gestern) war ich krank. (Yesterday) | |
 </div>
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
+
 <div class="exercise" markdown="1" data-answers='["Ich habe heute leider keine Zeit."]'>
 | # | Sentence | Answer |
 |---|----------|--------|
@@ -165,6 +171,8 @@ The adverb can be:
 | 4 | immer / pünktlich / Er / kommt | |
 | 5 | leider / keine Zeit / Ich / habe / heute | |
 </div>
+✏️ **Complete the blank:** Write the full answer in the field.
+
 <div class="exercise" markdown="1" data-answers='["selten","Leider","hier","sehr / viel","Vielleicht"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
@@ -174,6 +182,8 @@ The adverb can be:
 | 4 | Ich habe dich _______, mein Schatz. (very much) | |
 | 5 | _______ komme ich morgen. (Maybe) | |
 </div>
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
+
 <div class="exercise" markdown="1" data-answers='["Wir gehen oft am Freitag ins Kino."]'>
 | # | Sentence | Answer |
 |---|----------|--------|

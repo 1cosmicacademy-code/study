@@ -33,6 +33,8 @@
 
 ## 📝 تمارين تفاعلية
 
+✏️ **أكمل الفراغ:** اكتب الإجابة كاملة في الخانة.
+
 <div class="exercise" data-answers='["sowohl ... als auch","nicht nur ... sondern auch","entweder ... oder","weder ... noch"]'>
 1. أكمل الجملة بالربط المناسب: "___ die Prüfung bestanden, ___ er sehr glücklich war."
 2. أكمل الجملة: "___ das Wetter gut ist, ___ wir spazieren gehen können."

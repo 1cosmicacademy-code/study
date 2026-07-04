@@ -43,6 +43,8 @@
 
 ## 📝 Interactive Exercises
 
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
+
 <div class="exercise" markdown="1" data-answers='["dem Mann","die Blume","dem Kind","dem Freund","das Heft","dem Chef"]'>
 | # | Fill in the correct indirect object (Dativ) |
 |---|-------------------------------------------|
@@ -53,6 +55,8 @@
 | 5 | Sie bringt ___ das Heft. |
 | 6 | Ich schreibe ___ eine E‑Mail. |
 </div>
+
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
 
 <div class="exercise" markdown="1" data-answers='["dem Mann","dem Kind","der Frau"]'>
 | # | Choose the correct Dativ‑only object |

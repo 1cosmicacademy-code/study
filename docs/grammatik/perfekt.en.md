@@ -165,6 +165,8 @@ prefix + ge + verb stem + t/en
 
 ## 📝 Exercises
 
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
+
 <div class="exercise" markdown="1" data-answers='["habe","ist","haben","hat","ist","seid","hast"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
@@ -176,6 +178,8 @@ prefix + ge + verb stem + t/en
 | 6 | Ihr ___ spat gekommen. | |
 | 7 | Was ___ du gemacht? | |
 </div>
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
+
 <div class="exercise" markdown="1" data-answers='["gekauft","getrunken","gearbeitet","geschrieben","studiert","aufgestanden","gefahren"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
@@ -187,6 +191,8 @@ prefix + ge + verb stem + t/en
 | 6 | aufstehen ** ___ | |
 | 7 | fahren ** ___ | |
 </div>
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
+
 <div class="exercise" markdown="1" data-answers='["habe...gekauft","ist...gefahren","haben...gegessen","hat...gelesen","ist...eingeschlafen"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
@@ -196,6 +202,8 @@ prefix + ge + verb stem + t/en
 | 4 | Er liest die Zeitung. ** Er ___ die Zeitung ___. | |
 | 5 | Das Kind schlaft ein. ** Das Kind ___ ___. | |
 </div>
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
+
 <div class="exercise" markdown="1" data-answers='["OK — correct (ist aufgestanden)"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
@@ -205,6 +213,8 @@ prefix + ge + verb stem + t/en
 | 4 | Er ist das Buch gelesen. | |
 | 5 | Ich bin fruh aufgestanden. | |
 </div>
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
+
 <div class="exercise" markdown="1" data-answers='["Sie ist um 7 Uhr aufgestanden."]'>
 | # | Sentence | Answer |
 |---|----------|--------|

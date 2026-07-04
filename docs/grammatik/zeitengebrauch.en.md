@@ -43,6 +43,10 @@
 
 ## 🎯 Interactive exercises
 
+✏️ **Choose the correct option:**
+
+✏️ **Choose the correct option:**
+
 <div class="exercise" data-answers='["Präsens", "Perfekt", "Präteritum", "Futur I", "Futur II"]'>
 1. ___ (Ich / jetzt / ein Buch lesen) — I am reading a book now.  
 2. ___ (Er / gestern / nach Berlin fahren) — He drove to Berlin yesterday.  
@@ -50,6 +54,10 @@
 4. ___ (Sie / morgen / das Projekt beenden) — She will finish the project tomorrow.  
 5. ___ (Ich / in einem Jahr / die Prüfung bestanden haben) — I will have passed the exam in a year.
 </div>
+
+✏️ **Choose the correct option:**
+
+✏️ **Choose the correct option:**
 
 <div class="exercise" data-answers='["Präsens", "Perfekt", "Futur I"]'>
 1. ___ (Du / jedes Jahr / nach Spanien reisen) — You travel to Spain every year.  

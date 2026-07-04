@@ -71,6 +71,8 @@
 
 ## 📝 تمارين
 
+✏️ **اختر الإجابة الصحيحة من الخيارات:**
+
 <div class="exercise" markdown="1" data-answers='["**kann**","**sollst**","**darf**","**will**","**müssen**"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
@@ -80,6 +82,8 @@
 | 4 | Er ___ (will / kann / mag) Ingenieur werden. | |
 | 5 | Wir ___ (müssen / wollen / möchten) heute lernen, wir haben eine Prüfung. | |
 </div>
+✏️ **أكمل الفراغ بالكلمة الصحيحة:** اكتب كلمة واحدة فقط في كل خانة.
+
 <div class="exercise" markdown="1" data-answers='["**kann**","**sollst**","**darf**","**müssen**","**wollt**"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
@@ -89,6 +93,8 @@
 | 4 | Wir (müssen) ___ früh aufstehen. | |
 | 5 | Ihr (wollen) ___ doch Deutsch lernen! | |
 </div>
+✏️ **اختر الإجابة الصحيحة من الخيارات:**
+
 <div class="exercise" markdown="1" data-answers='["Er möchte ein Auto kaufen."]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
@@ -98,6 +104,8 @@
 | 4 | (darfst / hier / nicht / du / rauchen) | |
 | 5 | (möchte / ein Auto / er / kaufen) | |
 </div>
+✏️ **رتّب الكلمات لتكوين جملة صحيحة:**
+
 <div class="exercise" markdown="1" data-answers='["Man **darf** hier nicht fotografieren."]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
@@ -107,6 +115,8 @@
 | 4 | Der Arzt empfiehlt, dass du dich ausruhst. → Du ___ dich ausruhen. (sollen) | |
 | 5 | Es ist verboten, hier zu fotografieren. → Man ___ hier nicht fotografieren. (dürfen) | |
 </div>
+✏️ **رتّب الكلمات لتكوين جملة صحيحة:**
+
 <div class="exercise" markdown="1" data-answers='["**Soll** ich mehr **trinken**?"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|

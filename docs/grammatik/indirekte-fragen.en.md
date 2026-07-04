@@ -92,6 +92,8 @@ Indirect question: Er fragt, ob ich Zeit habe.
 
 ## 📝 Exercises
 
+✏️ **Rearrange the words to form a correct sentence:**
+
 <div class="exercise" markdown="1" data-answers='["Er will wissen","warum du Deutsch lernst."]'>
 | # | Sentence | Answer |
 |---|----------|--------|
@@ -101,6 +103,8 @@ Indirect question: Er fragt, ob ich Zeit habe.
 | 4 | Wie viel kostet das? → Ich möchte wissen, ______________. | |
 | 5 | Warum lernst du Deutsch? → Er will wissen, ______________. | |
 </div>
+✏️ **Rearrange the words to form a correct sentence:**
+
 <div class="exercise" markdown="1" data-answers='["Ich frage mich","ob sie gut kochen kann."]'>
 | # | Sentence | Answer |
 |---|----------|--------|
@@ -110,6 +114,8 @@ Indirect question: Er fragt, ob ich Zeit habe.
 | 4 | Magst du Kaffee? → Er möchte wissen, ______________. | |
 | 5 | Kann sie gut kochen? → Ich frage mich, ______________. | |
 </div>
+✏️ **Choose the correct option:**
+
 <div class="exercise" markdown="1" data-answers='["wo","wann","was","warum","wie","ob"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
@@ -120,6 +126,8 @@ Indirect question: Er fragt, ob ich Zeit habe.
 | 5 | Ich möchte wissen, _______ das funktioniert. (how) | |
 | 6 | Sie fragt, _______ ich heute Abend Zeit habe. (if/whether) | |
 </div>
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
+
 <div class="exercise" markdown="1" data-answers='["Er will wissen","warum du Deutsch lernst."]'>
 | # | Sentence | Answer |
 |---|----------|--------|

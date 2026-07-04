@@ -41,6 +41,8 @@ If the sentence is in pluperfect, use **war** + **Partizip II** + **worden**.
 
 ## 📝 Exercises
 
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
+
 <div class="exercise" markdown="1" data-answers='["ist","wurde","gebacken","gelöst"]'>
 | # | Sentence (fill the blank) |
 |---|--------------------------|

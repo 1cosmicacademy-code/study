@@ -212,6 +212,8 @@ TE — KA — MO — LO
 
 ## 6. 📝 Exercises
 
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
+
 <div class="exercise" markdown="1" data-answers='["Ich [muss] heute einkaufen [gehen].","Er [hat] gestern einen Film [gesehen].","Wir [rufen] dich morgen [an].","[Kannst] du mir bitte [helfen]?","Sie [ist] nach Berlin [gefahren]."]'>
 | # | Sentence | Answer |
 |---|----------|--------|
@@ -220,7 +222,10 @@ TE — KA — MO — LO
 | 3 | Wir rufen dich morgen an. | |
 | 4 | Kannst du mir bitte helfen? | |
 | 5 | Sie ist nach Berlin gefahren. | |
-</div><div class="exercise" markdown="1" data-answers='["der Mutter das Buch","dem Kind den Ball","es dem Mann","der Freundin ein Geschenk","ihnen das Haus"]'>
+</div>
+✏️ **Choose the correct option:**
+
+<div class="exercise" markdown="1" data-answers='["der Mutter das Buch","dem Kind den Ball","es dem Mann","der Freundin ein Geschenk","ihnen das Haus"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
 | 1 | Ich schenke (das Buch / der Mutter). | |
@@ -228,7 +233,10 @@ TE — KA — MO — LO
 | 3 | Ich gebe (es / dem Mann). | |
 | 4 | Sie kauft (der Freundin / ein Geschenk). | |
 | 5 | Er zeigt (ihnen / das Haus). | |
-</div><div class="exercise" markdown="1" data-answers='["Ich komme nicht.","Er fährt nicht mit dem Auto.","Sie arbeitet nicht heute.","Wir gehen nicht ins Kino.","Ich habe nicht den Mann gesehen."]'>
+</div>
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
+
+<div class="exercise" markdown="1" data-answers='["Ich komme nicht.","Er fährt nicht mit dem Auto.","Sie arbeitet nicht heute.","Wir gehen nicht ins Kino.","Ich habe nicht den Mann gesehen."]'>
 | # | Sentence | Answer |
 |---|----------|--------|
 | 1 | Ich komme. (negate the verb) | |
@@ -236,7 +244,10 @@ TE — KA — MO — LO
 | 3 | Sie arbeitet heute. (negate "heute") | |
 | 4 | Wir gehen ins Kino. (negate completely) | |
 | 5 | Ich habe den Mann gesehen. (negate "den Mann") | |
-</div><div class="exercise" markdown="1" data-answers='["Ich fahre heute mit dem Zug nach Berlin.","Er hat gestern einen Film gesehen.","Kannst du mich morgen anrufen?","Ich komme nicht heute","sondern morgen.","Er steht jeden Tag um 7 Uhr auf."]'>
+</div>
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
+
+<div class="exercise" markdown="1" data-answers='["Ich fahre heute mit dem Zug nach Berlin.","Er hat gestern einen Film gesehen.","Kannst du mich morgen anrufen?","Ich komme nicht heute","sondern morgen.","Er steht jeden Tag um 7 Uhr auf."]'>
 | # | Sentence | Answer |
 |---|----------|--------|
 | 1 | heute / fahre / Ich / nach Berlin / mit dem Zug | |
@@ -244,7 +255,10 @@ TE — KA — MO — LO
 | 3 | morgen / mich / anrufen / Kannst / du / ? | |
 | 4 | nicht / ich / heute / komme / , / sondern morgen | |
 | 5 | jeden Tag / um 7 Uhr / steht / Er / auf | |
-</div><div class="exercise" markdown="1" data-answers='["✅","❌","✅","❌","✅"]'>
+</div>
+✅ **Mark: ✅ Correct / ❌ Incorrect:**
+
+<div class="exercise" markdown="1" data-answers='["✅","❌","✅","❌","✅"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
 | 1 |  | |

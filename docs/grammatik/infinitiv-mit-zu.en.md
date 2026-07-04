@@ -37,6 +37,8 @@ The infinitive with **zu** is used after certain verbs (e.g., *versuchen*, *verg
 
 ### Interactive exercise
 
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
+
 <div class="exercise" data-answers='["zu lernen","zu kaufen","zu planen","zu verdienen","zu lösen"]'>
 1. It is important, German ___ .\
 2. I forgot ___ the book.\

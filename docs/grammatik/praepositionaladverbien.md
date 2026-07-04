@@ -40,6 +40,8 @@
 
 ### تمارين تفاعلية
 
+✏️ **أكمل الفراغ بالكلمة الصحيحة:** اكتب كلمة واحدة فقط في كل خانة.
+
 <div class="exercise" data-answers='["darauf","womit","darüber","daran","darauf"]'>
 1. Ich freue mich ___ (über das Geschenk).\
 2. ___ (mit welchem Zug) fährst du nach Berlin?\

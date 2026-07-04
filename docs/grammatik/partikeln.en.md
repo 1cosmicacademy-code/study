@@ -42,6 +42,8 @@ The particles **doch**, **mal**, **ja**, **eben** are *modal particles* (Modalpa
 
 ## 📝 Interactive Exercises
 
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
+
 <div class="exercise" data-answers='["doch", "mal", "ja", "eben"]'>
 1. Choose the correct particle: "You must ____ read the book!" (hint: a strong recommendation)
 2. Fill in the particle: "He has ____ won the game." (hint: emphasizes the outcome)

@@ -39,6 +39,8 @@
 
 ## 📝 تمارين تفاعلية
 
+✏️ **أكمل الفراغ بالكلمة الصحيحة:** اكتب كلمة واحدة فقط في كل خانة.
+
 <div class="exercise" data-answers='["geworden","wird","wird","wird"]'>
 1. الموسمة: "Er ___ müde ___." (Zustand)
 2. الجملة بالمبين: "Das Haus ___ gebaut ___." (Passiv)

@@ -39,6 +39,8 @@ Compound verbs consist of a **prefix** + **verb stem**.
 
 ## 📝 Exercises
 
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
+
 <div class="exercise" markdown="1" data-answers='["auf","ein","verstehen","bekommen"]'>
 | # | Sentence (missing prefix) | Answer |
 |---|---------------------------|--------|
@@ -47,6 +49,8 @@ Compound verbs consist of a **prefix** + **verb stem**.
 | 3 | He **____** das Wort. (verstehen) | |
 | 4 | She **____** ein neues Auto. (bekommen) | |
 </div>
+
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
 
 <div class="exercise" markdown="1" data-answers='["aufstehen","einladen","verstehen","bekommen"]'>
 | # | Rewrite the sentence with the correct verb form |

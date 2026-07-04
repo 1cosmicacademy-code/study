@@ -79,6 +79,8 @@
 
 ## 📝 تمارين
 
+✏️ **اختر الإجابة الصحيحة من الخيارات:**
+
 <div class="exercise" markdown="1" data-answers='["**wäre**","**hätte**","**Könntest**","**wäre**","**hätten**"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
@@ -88,6 +90,8 @@
 | 4 | Das ___ (wäre / hätte / würde) eine gute Idee! | |
 | 5 | Wir ___ (hätten / wären / würden) gern mehr Zeit. | |
 </div>
+✏️ **أكمل الفراغ بالكلمة الصحيحة:** اكتب كلمة واحدة فقط في كل خانة.
+
 <div class="exercise" markdown="1" data-answers='["**hätte**","**wärst**","**wäre**","**würden**","**Hättet**"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
@@ -97,6 +101,8 @@
 | 4 | Wir ___ gern ins Kino gehen. | |
 | 5 | ___ ihr Zeit für mich? | |
 </div>
+✏️ **رتّب الكلمات لتكوين جملة صحيحة:**
+
 <div class="exercise" markdown="1" data-answers='["Ihr **würdet** gern Kaffee **trinken**."]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
@@ -106,6 +112,8 @@
 | 4 | Er reist nach Ägypten. (würde) → Er ___ gern nach Ägypten ___. | |
 | 5 | Ihr trinkt Kaffee. (würdet) → Ihr ___ gern Kaffee ___. | |
 </div>
+✏️ **اختر الإجابة الصحيحة من الخيارات:**
+
 <div class="exercise" markdown="1" data-answers='["Wenn ihr früher **kämet** (kommen würdet)","**könntet** ihr den Film sehen."]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
@@ -115,6 +123,8 @@
 | 4 | Wenn er reich ___ (sein), ___ er ein Schloss kaufen. (würde) | |
 | 5 | Wenn ihr früher ___ (kommen), ___ ihr den Film sehen. (würdet / können) | |
 </div>
+✏️ **ترجم الجملة إلى الألمانية:**
+
 <div class="exercise" markdown="1" data-answers='["هل سترافقني غداً؟"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|

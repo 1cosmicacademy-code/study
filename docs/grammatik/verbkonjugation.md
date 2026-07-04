@@ -73,6 +73,8 @@ haben: habe, hast, hat, haben, habt, haben
 
 ## 📝 تمارين
 
+✏️ **أكمل الفراغ بالكلمة الصحيحة:** اكتب كلمة واحدة فقط في كل خانة.
+
 <div class="exercise" markdown="1" data-answers='["wohne","lernst","kommt","arbeiten","spielt","tanzen"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
@@ -83,6 +85,8 @@ haben: habe, hast, hat, haben, habt, haben
 | 5 | Ihr ___ (spielen) Fußball. | |
 | 6 | Sie (جمع) ___ (tanzen) gern. | |
 </div>
+✏️ **أكمل الفراغ بالكلمة الصحيحة:** اكتب كلمة واحدة فقط في كل خانة.
+
 <div class="exercise" markdown="1" data-answers='["bin","hast","ist","haben","seid"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
@@ -92,6 +96,8 @@ haben: habe, hast, hat, haben, habt, haben
 | 4 | Wir ___ Hunger. | |
 | 5 | Ihr ___ fleißig. | |
 </div>
+✏️ **أكمل الفراغ بالكلمة الصحيحة:** اكتب كلمة واحدة فقط في كل خانة.
+
 <div class="exercise" markdown="1" data-answers='["fährt","siehst","liest","essen","nehme"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|

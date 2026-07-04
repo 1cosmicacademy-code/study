@@ -41,6 +41,8 @@
 
 ## 🎯 تمارين تفاعلية
 
+✏️ **أكمل الفراغ بالكلمة الصحيحة:** اكتب كلمة واحدة فقط في كل خانة.
+
 <div class="exercise" data-answers='["Wo", "Wohin", "Woher", "Wo", "Wohin"]'>
 1. ___? ist das Restaurant? (where)  
 2. ___? gehst du nach Hause? (where to)  
@@ -48,6 +50,8 @@
 4. ___? liegt das Museum? (where)  
 5. ___? fahren wir morgen? (where to)
 </div>
+
+✏️ **أكمل الفراغ بالكلمة الصحيحة:** اكتب كلمة واحدة فقط في كل خانة.
 
 <div class="exercise" data-answers='["Wo", "Wohin", "Woher"]'>
 1. ___? steht das Bild? (where)  

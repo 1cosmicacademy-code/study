@@ -51,6 +51,8 @@ The vowel change occurs only for **ich** and **du** forms. All other persons kee
 
 ## 📝 Interactive Exercises
 
+✏️ **Choose the correct option:**
+
 <div class="exercise" markdown="1" data-answers='["fahre","läufst","siehst","schläfst","liest"]'>
 | # | Fill the correct verb (present, ich/du) |
 |---|--------------------------------------|
@@ -60,6 +62,8 @@ The vowel change occurs only for **ich** and **du** forms. All other persons kee
 | 4 | Sie ___ (schlafen) früh. |
 | 5 | Wir ___ (lesen) die Zeitung. |
 </div>
+
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
 
 <div class="exercise" markdown="1" data-answers='["fährt","läufst","sieht","schlafen","liest"]'>
 | # | Choose the correct form (subject varies) |

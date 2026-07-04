@@ -65,6 +65,8 @@ Sie → you (formal — capital S!)
 
 ## 📝 Exercises
 
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
+
 <div class="exercise" markdown="1" data-answers='["Ich","Du","Sie","Wir","Ihr"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
@@ -74,6 +76,8 @@ Sie → you (formal — capital S!)
 | 4 | ___ sind Ärzte. (we) | |
 | 5 | ___ seid laut. (you all) | |
 </div>
+✏️ **Rearrange the words to form a correct sentence:**
+
 <div class="exercise" markdown="1" data-answers='["Er","Sie","Es","Sie","Wir"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
@@ -83,6 +87,8 @@ Sie → you (formal — capital S!)
 | 4 | Die Kinder tanzen. → ___ tanzen. | |
 | 5 | Anna und ich lesen. → ___ lesen. | |
 </div>
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
+
 <div class="exercise" markdown="1" data-answers='["Sie","Du","Ihr","Sie","Ihr"]'>
 | # | Sentence | Answer |
 |---|----------|--------|

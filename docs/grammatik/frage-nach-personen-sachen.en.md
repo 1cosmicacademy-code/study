@@ -37,6 +37,8 @@
 
 ## 📝 Interactive Exercises
 
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
+
 <div class="exercise" data-answers='["Wer", "Was", "Welcher", "Welche", "Welches"]'>
 1. ___? ist dein Lehrer? (who)  
 2. ___? liegt auf dem Boden? (what)  
@@ -44,6 +46,8 @@
 4. ___? Bücher hast du gelesen? (which feminine, plural)  
 5. ___? Auto ist rot? (which neuter)
 </div>
+
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
 
 <div class="exercise" data-answers='["Wer", "Was", "Welcher"]'>
 1. ___? hat den Ball? (who)  

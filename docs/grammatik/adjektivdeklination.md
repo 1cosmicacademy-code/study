@@ -110,6 +110,8 @@
 
 ## 📝 تمارين — أكمل النهاية الصحيحة
 
+✏️ **أكمل الفراغ بالكلمة الصحيحة:** اكتب كلمة واحدة فقط في كل خانة.
+
 <div class="exercise" markdown="1" data-answers='["den netten","Das kleine","der alten","Das neue","schönen"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
@@ -119,6 +121,8 @@
 | 4 | D___ neu___ Auto ist rot. | |
 | 5 | Die schön___ Blumen blühen im Frühling. | |
 </div>
+✏️ **أكمل الفراغ بالكلمة الصحيحة:** اكتب كلمة واحدة فقط في كل خانة.
+
 <div class="exercise" markdown="1" data-answers='["kaltes","frisches","warmer","gute","Schönes"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
@@ -128,6 +132,8 @@
 | 4 | Ich habe gut___ Freunde. | |
 | 5 | Schön___ Wetter macht mich glücklich. | |
 </div>
+✏️ **أكمل الفراغ بالكلمة الصحيحة:** اكتب كلمة واحدة فقط في كل خانة.
+
 <div class="exercise" markdown="1" data-answers='["interessanter","guten","schöne","alten","keine neue"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|

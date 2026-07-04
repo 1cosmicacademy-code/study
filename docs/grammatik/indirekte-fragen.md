@@ -92,6 +92,10 @@
 
 ## 📝 تمارين
 
+✏️ **رتّب الكلمات لتكوين جملة صحيحة:**
+
+✏️ **رتّب الكلمات لتكوين جملة صحيحة:**
+
 <div class="exercise" markdown="1" data-answers='["Er will wissen","warum du Deutsch lernst."]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
@@ -101,6 +105,10 @@
 | 4 | Wie viel kostet das? → Ich möchte wissen, ______________. | |
 | 5 | Warum lernst du Deutsch? → Er will wissen, ______________. | |
 </div>
+✏️ **رتّب الكلمات لتكوين جملة صحيحة:**
+
+✏️ **رتّب الكلمات لتكوين جملة صحيحة:**
+
 <div class="exercise" markdown="1" data-answers='["Ich frage mich","ob sie gut kochen kann."]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
@@ -110,6 +118,10 @@
 | 4 | Magst du Kaffee? → Er möchte wissen, ______________. | |
 | 5 | Kann sie gut kochen? → Ich frage mich, ______________. | |
 </div>
+✏️ **اختر الإجابة الصحيحة من الخيارات:**
+
+✏️ **اختر الإجابة الصحيحة من الخيارات:**
+
 <div class="exercise" markdown="1" data-answers='["wo","wann","was","warum","wie","ob"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
@@ -120,6 +132,10 @@
 | 5 | Ich möchte wissen, _______ das funktioniert. (كيف) | |
 | 6 | Sie fragt, _______ ich heute Abend Zeit habe. (هل / إن) | |
 </div>
+✏️ **ترجم الجملة إلى الألمانية:**
+
+✏️ **ترجم الجملة إلى الألمانية:**
+
 <div class="exercise" markdown="1" data-answers='["Er will wissen","warum du Deutsch lernst."]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|

@@ -51,6 +51,8 @@ Weak masculine nouns (often called **n‑declension** nouns) end in **-(e)n** in
 
 ### Interactive exercise
 
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
+
 <div class="exercise" data-answers='["den Studenten","einen Studenten","dem Studenten","des Studenten","den Namen"]'>
 1. I see ___ (the student) in the park.\
 2. We met ___ (a student) yesterday.\

@@ -42,11 +42,15 @@
 
 ## 📝 Interactive Exercises
 
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
+
 <div class="exercise" data-answers='["am besten", "am teuersten", "am kleinsten"]'>
 1. Write the superlative of *gut*: ______
 2. Turn *teuer* into the superlative: ______
 3. Write the superlative of *klein*: ______
 </div>
+
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
 
 <div class="exercise" data-answers='["am lautesten", "am schnellsten", "am freundlichsten"]'>
 1. Superlative of *laut*: ______

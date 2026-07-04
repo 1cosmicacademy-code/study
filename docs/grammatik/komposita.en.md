@@ -38,12 +38,16 @@
 
 ## 📝 Interactive Exercises
 
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
+
 <div class="exercise" data-answers='["Wohnzimmer", "Sonnenblume", "Staubsauger", "Kindergarten"]'>
 1. What is the compound noun for *living* + *room*?
 2. What is the compound noun for *sun* + *flower*?
 3. What is the compound noun for *dust* + *sucker*?
 4. What is the compound noun for *children* + *gardens*?
 </div>
+
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
 
 <div class="exercise" data-answers='["Kraftfahrzeug", "Fahrrad", "Waschmaschine", "Geschwindigkeitsbegrenzung"]'>
 1. Build a compound noun from *power* + *vehicle*.

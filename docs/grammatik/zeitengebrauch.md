@@ -34,6 +34,10 @@
 
 ## 📝 تمارين تفاعلية
 
+✏️ **اختر الإجابة الصحيحة من الخيارات:**
+
+✏️ **اختر الإجابة الصحيحة من الخيارات:**
+
 <div class="exercise" data-answers='["Präsens", "Perfekt", "Präteritum", "Futur I", "Futur II"]'>
 1. ___ (Ich / jetzt / ein Buch lesen) — أقرأ الآن كتابًا.  
 2. ___ (Er / gestern / nach Berlin fahren) — سافر إلى برلين أمس.  
@@ -41,6 +45,10 @@
 4. ___ (Sie / morgen / das Projekt beenden) — ستنهي المشروع غدًا.  
 5. ___ (Ich / in einem Jahr / die Prüfung bestanden haben) — سأكون قد نجحت في الامتحان بعد عام.
 </div>
+
+✏️ **اختر الإجابة الصحيحة من الخيارات:**
+
+✏️ **اختر الإجابة الصحيحة من الخيارات:**
 
 <div class="exercise" data-answers='["Präsens", "Perfekt", "Futur I"]'>
 1. ___ (Du / jedes Jahr / nach Spanien reisen) — تسافر إلى إسبانيا كل عام.  

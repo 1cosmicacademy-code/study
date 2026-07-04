@@ -76,6 +76,8 @@ Nominativ = الفاعل (subject) = اللي بيعمل الفعل
 
 ## 📝 تمارين
 
+✏️ **أكمل الفراغ بالكلمة الصحيحة:** اكتب كلمة واحدة فقط في كل خانة.
+
 <div class="exercise" markdown="1" data-answers='["der","die","das","die","das"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
@@ -85,6 +87,8 @@ Nominativ = الفاعل (subject) = اللي بيعمل الفعل
 | 4 | ___ Stühle (كراسي) | |
 | 5 | ___ Fenster (نافذة) | |
 </div>
+✏️ **أكمل الفراغ بالكلمة الصحيحة:** اكتب كلمة واحدة فقط في كل خانة.
+
 <div class="exercise" markdown="1" data-answers='["ein","eine","kein","keine","ein"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
@@ -94,6 +98,8 @@ Nominativ = الفاعل (subject) = اللي بيعمل الفعل
 | 4 | Das sind ___ Blumen. (keine — ليست زهور) | |
 | 5 | Das ist ___ Auto. (ein) | |
 </div>
+✏️ **أكمل الفراغ بالكلمة الصحيحة:** اكتب كلمة واحدة فقط في كل خانة.
+
 <div class="exercise" markdown="1" data-answers='["Die","Der","Die","Der","Das"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|

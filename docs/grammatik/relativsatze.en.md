@@ -78,6 +78,8 @@ In German, relative pronouns are almost the same as definite articles: **der, di
 
 ## 📝 Exercises
 
+✏️ **Choose the correct option:**
+
 <div class="exercise" markdown="1" data-answers='["**der**","**die**","**das**","**den**","**denen**"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
@@ -87,6 +89,8 @@ In German, relative pronouns are almost the same as definite articles: **der, di
 | 4 | Der Hund, ___ (den / dem / der) du fütterst, ist süß. | |
 | 5 | Die Freunde, ___ (denen / die / der) ich helfe, sind dankbar. | |
 </div>
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
+
 <div class="exercise" markdown="1" data-answers='["**den**","**die**","**das**","**dem**","**deren**"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
@@ -96,6 +100,8 @@ In German, relative pronouns are almost the same as definite articles: **der, di
 | 4 | Der Lehrer, ___ ich die Blume schenke, ist freundlich. | |
 | 5 | Die Kinder, ___ Spielzeug kaputt ist, weinen. | |
 </div>
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
+
 <div class="exercise" markdown="1" data-answers='["Ich lese ein Buch","**das** sehr interessant **ist**."]'>
 | # | Sentence | Answer |
 |---|----------|--------|
@@ -105,6 +111,8 @@ In German, relative pronouns are almost the same as definite articles: **der, di
 | 4 | Das ist der Hund. **Dem Hund** gebe ich Futter. | |
 | 5 | Ich lese ein Buch. **Das Buch** ist sehr interessant. | |
 </div>
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
+
 <div class="exercise" markdown="1" data-answers='["Die Leute","**deren** Auto kaputt ist","warten auf Hilfe. (Genitiv — possession)"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
@@ -114,6 +122,8 @@ In German, relative pronouns are almost the same as definite articles: **der, di
 | 4 | Der Film, **der** ich gesehen habe, war gut. (wrong) | |
 | 5 | Die Leute, **denen** Auto kaputt ist, warten auf Hilfe. (wrong) | |
 </div>
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
+
 <div class="exercise" markdown="1" data-answers='["Der Freund","**dessen** Auto blau ist","heißt Ahmed."]'>
 | # | Sentence | Answer |
 |---|----------|--------|

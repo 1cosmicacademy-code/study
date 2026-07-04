@@ -71,6 +71,8 @@ The golden rule 🥇:
 
 ## 📝 Exercises
 
+✏️ **Choose the correct option:**
+
 <div class="exercise" markdown="1" data-answers='["**kann**","**sollst**","**darf**","**will**","**müssen**"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
@@ -80,6 +82,8 @@ The golden rule 🥇:
 | 4 | Er ___ (will / kann / mag) Ingenieur werden. | |
 | 5 | Wir ___ (müssen / wollen / möchten) heute lernen, wir haben eine Prüfung. | |
 </div>
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
+
 <div class="exercise" markdown="1" data-answers='["**kann**","**sollst**","**darf**","**müssen**","**wollt**"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
@@ -89,6 +93,8 @@ The golden rule 🥇:
 | 4 | Wir (müssen) ___ früh aufstehen. | |
 | 5 | Ihr (wollen) ___ doch Deutsch lernen! | |
 </div>
+✏️ **Choose the correct option:**
+
 <div class="exercise" markdown="1" data-answers='["Er möchte ein Auto kaufen."]'>
 | # | Sentence | Answer |
 |---|----------|--------|
@@ -98,6 +104,8 @@ The golden rule 🥇:
 | 4 | (darfst / hier / nicht / du / rauchen) | |
 | 5 | (möchte / ein Auto / er / kaufen) | |
 </div>
+✏️ **Rearrange the words to form a correct sentence:**
+
 <div class="exercise" markdown="1" data-answers='["Man **darf** hier nicht fotografieren."]'>
 | # | Sentence | Answer |
 |---|----------|--------|
@@ -107,6 +115,8 @@ The golden rule 🥇:
 | 4 | The doctor recommends that you rest. → Du ___ dich ausruhen. (sollen) | |
 | 5 | It is forbidden to take photos here. → Man ___ hier nicht fotografieren. (dürfen) | |
 </div>
+✏️ **Rearrange the words to form a correct sentence:**
+
 <div class="exercise" markdown="1" data-answers='["**Soll** ich mehr **trinken**?"]'>
 | # | Sentence | Answer |
 |---|----------|--------|

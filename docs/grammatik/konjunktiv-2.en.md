@@ -79,6 +79,8 @@ We start from **Präteritum** (simple past) and add an **Umlaut** (dots) to the 
 
 ## 📝 Exercises
 
+✏️ **Choose the correct option:**
+
 <div class="exercise" markdown="1" data-answers='["**wäre**","**hätte**","**Könntest**","**wäre**","**hätten**"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
@@ -88,6 +90,8 @@ We start from **Präteritum** (simple past) and add an **Umlaut** (dots) to the 
 | 4 | Das ___ (wäre / hätte / würde) eine gute Idee! | |
 | 5 | Wir ___ (hätten / wären / würden) gern mehr Zeit. | |
 </div>
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
+
 <div class="exercise" markdown="1" data-answers='["**hätte**","**wärst**","**wäre**","**würden**","**Hättet**"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
@@ -97,6 +101,8 @@ We start from **Präteritum** (simple past) and add an **Umlaut** (dots) to the 
 | 4 | Wir ___ gern ins Kino gehen. | |
 | 5 | ___ ihr Zeit für mich? | |
 </div>
+✏️ **Rearrange the words to form a correct sentence:**
+
 <div class="exercise" markdown="1" data-answers='["Ihr **würdet** gern Kaffee **trinken**."]'>
 | # | Sentence | Answer |
 |---|----------|--------|
@@ -106,6 +112,8 @@ We start from **Präteritum** (simple past) and add an **Umlaut** (dots) to the 
 | 4 | Er reist nach Ägypten. (würde) → Er ___ gern nach Ägypten ___. | |
 | 5 | Ihr trinkt Kaffee. (würdet) → Ihr ___ gern Kaffee ___. | |
 </div>
+✏️ **Choose the correct option:**
+
 <div class="exercise" markdown="1" data-answers='["Wenn ihr früher **kämet** (kommen würdet)","**könntet** ihr den Film sehen."]'>
 | # | Sentence | Answer |
 |---|----------|--------|
@@ -115,6 +123,8 @@ We start from **Präteritum** (simple past) and add an **Umlaut** (dots) to the 
 | 4 | Wenn er reich ___ (sein), ___ er ein Schloss kaufen. (würde) | |
 | 5 | Wenn ihr früher ___ (kommen), ___ ihr den Film sehen. (würdet / können) | |
 </div>
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
+
 <div class="exercise" markdown="1" data-answers='["Would you come along tomorrow?"]'>
 | # | Sentence | Answer |
 |---|----------|--------|

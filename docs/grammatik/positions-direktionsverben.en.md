@@ -40,6 +40,8 @@
 
 ## 📝 Interactive Exercises
 
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
+
 <div class="exercise" data-answers='["stellt","liegt","steht","legt"]'>
 1. Choose the correct verb: "He ___ the glass **on** the table." (movement, upright)
 2. Complete the sentence: "The sheet ___ **on** the paper." (state, horizontal)

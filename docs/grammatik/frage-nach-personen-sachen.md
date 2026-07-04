@@ -30,6 +30,8 @@
 
 ## 📝 تمارين تفاعلية
 
+✏️ **أكمل الفراغ بالكلمة الصحيحة:** اكتب كلمة واحدة فقط في كل خانة.
+
 <div class="exercise" data-answers='["Wer", "Was", "Welcher", "Welche", "Welches"]'>
 1. ___? ist dein Lehrer? (who)  
 2. ___? liegt auf dem Boden? (what)  
@@ -37,6 +39,8 @@
 4. ___? Blumen hast du gekauft? (which feminine, plural)  
 5. ___? Auto ist rot? (which neuter)
 </div>
+
+✏️ **أكمل الفراغ بالكلمة الصحيحة:** اكتب كلمة واحدة فقط في كل خانة.
 
 <div class="exercise" data-answers='["Wer", "Was", "Welcher"]'>
 1. ___? hat den Ball? (who)  

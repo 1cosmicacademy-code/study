@@ -31,6 +31,8 @@
 
 ## 📝 Exercises
 
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
+
 <div class="exercise" markdown="1" data-answers='["niemand","nichts","nie"]'>
 | # | Sentence (fill the blank) | Answer |
 |---|---------------------------|--------|
@@ -38,6 +40,8 @@
 | 2 | **____** ist im Kühlschrank. (nothing) | |
 | 3 | Ich habe **____** das Spiel gewonnen. (never) | |
 </div>
+
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
 
 <div class="exercise" markdown="1" data-answers='["Nobody","Nothing","Never"]'>
 | # | English sentence (replace with German negation) |

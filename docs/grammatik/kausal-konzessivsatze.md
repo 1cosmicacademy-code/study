@@ -200,6 +200,8 @@ Es regnet,        trotzdem   gehen  wir spazieren.
 
 ## 5. 📝 تمارين
 
+✏️ **أكمل الفراغ بالكلمة الصحيحة:** اكتب كلمة واحدة فقط في كل خانة.
+
 <div class="exercise" markdown="1" data-answers='["weil","Da","trotzdem","Obwohl","deshalb"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
@@ -208,19 +210,28 @@ Es regnet,        trotzdem   gehen  wir spazieren.
 | 3 | Es regnet, ______________ gehe ich spazieren. | |
 | 4 | ______________ ich müde bin, lerne ich weiter. | |
 | 5 | Ich bin müde, ______________ gehe ich ins Bett. | |
-</div><div class="exercise" markdown="1" data-answers='["deshalb bin ich müde.","deshalb kommt er nicht.","deshalb bleiben wir zu Hause."]'>
+</div>
+✏️ **ترجم الجملة إلى الألمانية:**
+
+<div class="exercise" markdown="1" data-answers='["deshalb bin ich müde.","deshalb kommt er nicht.","deshalb bleiben wir zu Hause."]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
 | 1 | Ich bin müde, weil ich viel gearbeitet habe. | |
 | 2 | Er kommt nicht, weil er krank ist. | |
 | 3 | Wir bleiben zu Hause, weil es regnet. | |
-</div><div class="exercise" markdown="1" data-answers='["trotzdem gehen wir spazieren.","trotzdem kommt er zur Arbeit.","trotzdem helfe ich dir."]'>
+</div>
+✏️ **ترجم الجملة إلى الألمانية:**
+
+<div class="exercise" markdown="1" data-answers='["trotzdem gehen wir spazieren.","trotzdem kommt er zur Arbeit.","trotzdem helfe ich dir."]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
 | 1 | Obwohl es regnet, gehen wir spazieren. | |
 | 2 | Obwohl er krank ist, kommt er zur Arbeit. | |
 | 3 | Obwohl ich wenig Zeit habe, helfe ich dir. | |
-</div><div class="exercise" markdown="1" data-answers='["Ich bin müde","weil ich viel gearbeitet habe.","Ich habe viel gearbeitet","deshalb bin ich müde.","Obwohl es regnet","gehen wir spazieren.","Da ich keine Zeit habe","kann ich nicht kommen.","Er geht zum Arzt","weil er krank ist."]'>
+</div>
+✏️ **ترجم الجملة إلى الألمانية:**
+
+<div class="exercise" markdown="1" data-answers='["Ich bin müde","weil ich viel gearbeitet habe.","Ich habe viel gearbeitet","deshalb bin ich müde.","Obwohl es regnet","gehen wir spazieren.","Da ich keine Zeit habe","kann ich nicht kommen.","Er geht zum Arzt","weil er krank ist."]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
 | 1 | Ich bin müde. Ich habe viel gearbeitet. (weil) | |
@@ -228,7 +239,10 @@ Es regnet,        trotzdem   gehen  wir spazieren.
 | 3 | Es regnet. Wir gehen spazieren. (obwohl) | |
 | 4 | Ich habe keine Zeit. Ich kann nicht kommen. (da) | |
 | 5 | Er ist krank. Er geht zum Arzt. (weil) | |
-</div><div class="exercise" markdown="1" data-answers='["❌","✅","✅","❌","✅"]'>
+</div>
+✅ **حدد: ✅ صحيح / ❌ خطأ:**
+
+<div class="exercise" markdown="1" data-answers='["❌","✅","✅","❌","✅"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
 | 1 |  | |

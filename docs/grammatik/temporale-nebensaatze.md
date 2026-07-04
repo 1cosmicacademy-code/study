@@ -36,12 +36,16 @@
 
 ## 📝 ت%D9%85%D8%A7%D8%B1%D9%8A%D9%86 ت%D9%81%D8%A7%D8%B9%D9%84%D9%8A%D8%A9
 
+✏️ **أكمل الفراغ بالكلمة الصحيحة:** اكتب كلمة واحدة فقط في كل خانة.
+
 <div class="exercise" data-answers='["wenn", "als", "während", "bevor"]'>
 1. ______ ich ankomme, rufe ich dich an. (when I arrive)
 2. ______ wir gehen, haben wir das Licht aus.
 3. Er liest, ______ sie kocht. (while)
 4. ______ du das Buch liest, kannst du trinken. (before)
 </div>
+
+✏️ **أكمل الفراغ بالكلمة الصحيحة:** اكتب كلمة واحدة فقط في كل خانة.
 
 <div class="exercise" data-answers='["wenn", "als", "während", "bevor"]'>
 1. ______ es schneit, bauen wir einen Schneemann.

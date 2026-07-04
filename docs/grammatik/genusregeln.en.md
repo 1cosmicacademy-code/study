@@ -42,6 +42,8 @@ German nouns are masculine (der), feminine (die) or neuter (das). The gender is 
 
 ## 📝 Interactive Exercises
 
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
+
 <div class="exercise" data-answers='["der","die","das","die","der"]'>
 1. ___ Baum (tree)  
 2. ___ Lampe (lamp)  
@@ -49,6 +51,8 @@ German nouns are masculine (der), feminine (die) or neuter (das). The gender is 
 4. ___ Schule (school)  
 5. ___ Freund (friend)
 </div>
+
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
 
 <div class="exercise" data-answers='["die","das","der","die","das"]'>
 1. ___ Stadt (city)  

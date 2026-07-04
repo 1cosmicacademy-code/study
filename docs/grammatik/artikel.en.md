@@ -77,6 +77,8 @@ Not "Buch" but "das Buch"
 
 ## 📝 Exercises
 
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
+
 <div class="exercise" markdown="1" data-answers='["das","die","der","das","die"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
@@ -86,6 +88,8 @@ Not "Buch" but "das Buch"
 | 4 | ___ Auto (car) | |
 | 5 | ___ Schule (school) | |
 </div>
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
+
 <div class="exercise" markdown="1" data-answers='["ein","eine","ein","eine","ein"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
@@ -95,6 +99,8 @@ Not "Buch" but "das Buch"
 | 4 | Das ist ___ Katze. | |
 | 5 | Das ist ___ Apfel. | |
 </div>
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
+
 <div class="exercise" markdown="1" data-answers='["kein","keine","keine","keine","kein"]'>
 | # | Sentence | Answer |
 |---|----------|--------|

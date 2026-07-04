@@ -28,6 +28,8 @@
 
 ### تمارين تفاعلية
 
+✏️ **أكمل الفراغ بالكلمة الصحيحة:** اكتب كلمة واحدة فقط في كل خانة.
+
 <div class="exercise" data-answers='["zu lernen","zu kaufen","zu planen","zu verdienen","zu lösen"]'>
 1. Es ist wichtig, Deutsch ___ .\
 2. Ich habe vergessen, das Buch ___ .\

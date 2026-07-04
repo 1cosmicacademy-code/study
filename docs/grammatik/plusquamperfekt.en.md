@@ -50,6 +50,8 @@ The Past Perfect (Plusquamperfekt) is built with:
 
 ## 📝 Exercises
 
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
+
 <div class="exercise" markdown="1" data-answers='["hatte","war","hatte","war"]'>
 | # | Sentence (fill the missing auxiliary) |
 |---|-------------------------------------------|
@@ -58,6 +60,8 @@ The Past Perfect (Plusquamperfekt) is built with:
 | 3 | Wir ______ das Essen ______ (kochen). |
 | 4 | Er ______ das Spiel ______ (gewinnen). |
 </div>
+
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
 
 <div class="exercise" markdown="1" data-answers='["hatte gelesen","war gegangen","hatte gebaut","war gewesen"]'>
 | # | Complete the sentence with the correct Plusquamperfekt |

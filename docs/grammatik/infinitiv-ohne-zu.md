@@ -30,6 +30,8 @@
 
 ### تمارين تفاعلية
 
+✏️ **أكمل الفراغ بالكلمة الصحيحة:** اكتب كلمة واحدة فقط في كل خانة.
+
 <div class="exercise" data-answers='["schwimmen","essen","hören","lernen","machen"]'>
 1. Ich ___ (schwimmen) im See.\
 2. Wir ___ (essen) im Restaurant.\

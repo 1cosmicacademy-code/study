@@ -79,6 +79,8 @@ Komm! Geht! Kommen Sie!
 
 ## 📝 تمارين
 
+✏️ **رتّب الكلمات لتكوين جملة صحيحة:**
+
 <div class="exercise" markdown="1" data-answers='["Komm!","Geh!","Spiel!","Iss!","Lies!"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
@@ -88,6 +90,8 @@ Komm! Geht! Kommen Sie!
 | 4 | du isst → ___! | |
 | 5 | du liest → ___! | |
 </div>
+✏️ **رتّب الكلمات لتكوين جملة صحيحة:**
+
 <div class="exercise" markdown="1" data-answers='["Kommt!","Geht!","Spielt!","Seid!","Habt!"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
@@ -97,6 +101,8 @@ Komm! Geht! Kommen Sie!
 | 4 | ihr seid → ___! | |
 | 5 | ihr habt → ___! | |
 </div>
+✏️ **أكمل الفراغ بالكلمة الصحيحة:** اكتب كلمة واحدة فقط في كل خانة.
+
 <div class="exercise" markdown="1" data-answers='["Hilf","Seid","Nehmen Sie","Lies","Kommen Sie"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|

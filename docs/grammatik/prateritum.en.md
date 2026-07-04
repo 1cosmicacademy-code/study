@@ -185,6 +185,8 @@ Example: machen → ich machte, du machtest, er machte...
 
 ## 📝 Exercises
 
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
+
 <div class="exercise" markdown="1" data-answers='["war","hatten","wurde","warst","hatte"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
@@ -194,6 +196,8 @@ Example: machen → ich machte, du machtest, er machte...
 | 4 | Du ___ im Urlaub. (sein) | |
 | 5 | Sie ___ keine Lust. (haben) | |
 </div>
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
+
 <div class="exercise" markdown="1" data-answers='["konnte","musste","durften","wollte","solltest"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
@@ -203,6 +207,8 @@ Example: machen → ich machte, du machtest, er machte...
 | 4 | Sie ___ das Buch lesen. (wollen) | |
 | 5 | Du ___ mir helfen. (sollen) | |
 </div>
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
+
 <div class="exercise" markdown="1" data-answers='["ging...","las...","fuhren...","backte...","sah..."]'>
 | # | Sentence | Answer |
 |---|----------|--------|
@@ -212,6 +218,8 @@ Example: machen → ich machte, du machtest, er machte...
 | 4 | Sie hat einen Kuchen gebacken. ** Sie ___ einen Kuchen ___. | |
 | 5 | Ich habe den Film gesehen. ** Ich ___ den Film ___. | |
 </div>
+✏️ **Choose the correct option:**
+
 <div class="exercise" markdown="1" data-answers='["bin gegangen (conversation) or ging (story) — both ok","war (Prateritum with sein)","hatten (Prateritum with haben is natural)","fuhr (story)","konnte"]'>
 | # | Sentence | Answer |
 |---|----------|--------|

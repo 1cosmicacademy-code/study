@@ -41,6 +41,8 @@ A verb may be tightly linked with a preposition that determines the case and the
 
 ## 📝 Exercises
 
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
+
 <div class="exercise" markdown="1" data-answers='["an","auf","mit","für","über"]'>
 | # | Sentence (missing preposition) | Answer |
 |---|-------------------------------|--------|
@@ -50,6 +52,8 @@ A verb may be tightly linked with a preposition that determines the case and the
 | 4 | Sie interessiert sich ____ Geschichte. (interested in) |
 | 5 | Sie beschwert sich ____ das Essen. (complain about) |
 </div>
+
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
 
 <div class="exercise" markdown="1" data-answers='["an","auf","mit","für","über"]'>
 | # | Complete the German sentence with the correct preposition |

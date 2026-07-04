@@ -36,11 +36,15 @@
 
 ## 📝 ت%D9%85%D8%A7%D8%B1%D9%8A%D9%86 ت%D9%81%D8%A7%D8%B9%D9%84%D9%8A%D8%A9
 
+✏️ **أكمل الفراغ بالكلمة الصحيحة:** اكتب كلمة واحدة فقط في كل خانة.
+
 <div class="exercise" data-answers='["und", "aber", "sondern"]'>
 1. Ich habe Hunger, ______ ich esse ein Sandwich. (but)
 2. Sie spricht Deutsch, ______ sie versteht es nicht gut. (but)
 3. Er trinkt keinen Kaffee, ______ er trinkt Tee. (instead)
 </div>
+
+✏️ **أكمل الفراغ بالكلمة الصحيحة:** اكتب كلمة واحدة فقط في كل خانة.
 
 <div class="exercise" data-answers='["oder", "denn", "und"]'>
 1. Willst du Tee ______ Kaffee? (or)

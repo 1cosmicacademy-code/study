@@ -44,6 +44,8 @@
 
 ## 📝 ت%D9%85%D8%A7%D8%B1%D9%8A%D9%86 ت%D9%81%D8%A7%D8%B9%D9%84%D9%8A%D8%A9
 
+✏️ **أكمل الفراغ بالكلمة الصحيحة:** اكتب كلمة واحدة فقط في كل خانة.
+
 <div class="exercise" markdown="1" data-answers='["dem Mann","die Blume","dem Kind","dem Freund","das Heft","dem Chef"]'>
 | # | أكمل الجملة بالمفعول المناسب |
 |---|------------------------------|
@@ -54,6 +56,8 @@
 | 5 | Sie bringt ___ das Heft. |
 | 6 | Ich schreibe ___ eine E‑Mail. |
 </div>
+
+✏️ **أكمل الفراغ بالكلمة الصحيحة:** اكتب كلمة واحدة فقط في كل خانة.
 
 <div class="exercise" markdown="1" data-answers='["dem Mann","dem Kind","der Frau"]'>
 | # | اختر الجملة التي تتطلب Dativ فقط |

@@ -187,6 +187,8 @@ Es regnet,           trotzdem   gehen  wir spazieren.
 
 ## 4. 📝 Exercises
 
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
+
 <div class="exercise" markdown="1" data-answers='["weil","Da","trotzdem","Obwohl","deshalb"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
@@ -195,19 +197,28 @@ Es regnet,           trotzdem   gehen  wir spazieren.
 | 3 | Es regnet, ______________ gehe ich spazieren. | |
 | 4 | ______________ ich müde bin, lerne ich weiter. | |
 | 5 | Ich bin müde, ______________ gehe ich ins Bett. | |
-</div><div class="exercise" markdown="1" data-answers='["deshalb bin ich müde.","deshalb kommt er nicht.","deshalb bleiben wir zu Hause."]'>
+</div>
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
+
+<div class="exercise" markdown="1" data-answers='["deshalb bin ich müde.","deshalb kommt er nicht.","deshalb bleiben wir zu Hause."]'>
 | # | Sentence | Answer |
 |---|----------|--------|
 | 1 | Ich bin müde, weil ich viel gearbeitet habe. | |
 | 2 | Er kommt nicht, weil er krank ist. | |
 | 3 | Wir bleiben zu Hause, weil es regnet. | |
-</div><div class="exercise" markdown="1" data-answers='["trotzdem gehen wir spazieren.","trotzdem kommt er zur Arbeit.","trotzdem helfe ich dir."]'>
+</div>
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
+
+<div class="exercise" markdown="1" data-answers='["trotzdem gehen wir spazieren.","trotzdem kommt er zur Arbeit.","trotzdem helfe ich dir."]'>
 | # | Sentence | Answer |
 |---|----------|--------|
 | 1 | Obwohl es regnet, gehen wir spazieren. | |
 | 2 | Obwohl er krank ist, kommt er zur Arbeit. | |
 | 3 | Obwohl ich wenig Zeit habe, helfe ich dir. | |
-</div><div class="exercise" markdown="1" data-answers='["Ich bin müde","weil ich viel gearbeitet habe.","Ich habe viel gearbeitet","deshalb bin ich müde.","Obwohl es regnet","gehen wir spazieren.","Da ich keine Zeit habe","kann ich nicht kommen.","Er geht zum Arzt","weil er krank ist."]'>
+</div>
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
+
+<div class="exercise" markdown="1" data-answers='["Ich bin müde","weil ich viel gearbeitet habe.","Ich habe viel gearbeitet","deshalb bin ich müde.","Obwohl es regnet","gehen wir spazieren.","Da ich keine Zeit habe","kann ich nicht kommen.","Er geht zum Arzt","weil er krank ist."]'>
 | # | Sentence | Answer |
 |---|----------|--------|
 | 1 | Ich bin müde. Ich habe viel gearbeitet. (weil) | |
@@ -215,7 +226,10 @@ Es regnet,           trotzdem   gehen  wir spazieren.
 | 3 | Es regnet. Wir gehen spazieren. (obwohl) | |
 | 4 | Ich habe keine Zeit. Ich kann nicht kommen. (da) | |
 | 5 | Er ist krank. Er geht zum Arzt. (weil) | |
-</div><div class="exercise" markdown="1" data-answers='["❌","✅","✅","❌","✅"]'>
+</div>
+✅ **Mark: ✅ Correct / ❌ Incorrect:**
+
+<div class="exercise" markdown="1" data-answers='["❌","✅","✅","❌","✅"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
 | 1 |  | |

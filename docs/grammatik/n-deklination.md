@@ -51,6 +51,8 @@
 
 ### تمارين تفاعلية
 
+✏️ **أكمل الفراغ بالكلمة الصحيحة:** اكتب كلمة واحدة فقط في كل خانة.
+
 <div class="exercise" data-answers='["den Studenten","einen Studenten","dem Studenten","des Studenten","den Namen"]'>
 1. Ich sehe ___ (der Student) im Park.\
 2. Wir haben ___ (ein Student) kennengelernt.\

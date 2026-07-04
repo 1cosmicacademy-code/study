@@ -71,6 +71,8 @@
 
 ## 📝 تمارين تفاعلية
 
+✏️ **أكمل الفراغ بالكلمة الصحيحة:** اكتب كلمة واحدة فقط في كل خانة.
+
 <div class="exercise" markdown="1" data-answers='["bin","hast","hat","haben","werden","bleibt","gehen","kommen"]'>
 | # | الجملة (اكتب الفعل المناسب) |
 |---|--------------------------------|
@@ -83,6 +85,8 @@
 | 7 | Wir ___ (gehen) ins Kino. |
 | 8 | Ihr ___ (kommen) aus Hamburg. |
 </div>
+
+✏️ **أكمل الفراغ بالكلمة الصحيحة:** اكتب كلمة واحدة فقط في كل خانة.
 
 <div class="exercise" markdown="1" data-answers='["ist","habe","wird","bleibt","gehen","kommen"]'>
 | # | أكمل الجملة (اختيار من القائمة) |

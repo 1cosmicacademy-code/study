@@ -62,6 +62,10 @@ der Tisch → die Tische (not just Tisch)
 
 ## 📝 Exercises
 
+✏️ **Rearrange the words to form a correct sentence:**
+
+✏️ **Rearrange the words to form a correct sentence:**
+
 <div class="exercise" markdown="1" data-answers='["Hunde","Blumen","Kinder","Tische","Autos"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
@@ -71,6 +75,10 @@ der Tisch → die Tische (not just Tisch)
 | 4 | der Tisch → die ___ | |
 | 5 | das Auto → die ___ | |
 </div>
+✏️ **Rearrange the words to form a correct sentence:**
+
+✏️ **Rearrange the words to form a correct sentence:**
+
 <div class="exercise" markdown="1" data-answers='["Männer","Häuser","Mütter","Studenten","Bücher"]'>
 | # | Sentence | Answer |
 |---|----------|--------|

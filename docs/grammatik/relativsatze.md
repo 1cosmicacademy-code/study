@@ -78,6 +78,8 @@
 
 ## 📝 تمارين
 
+✏️ **اختر الإجابة الصحيحة من الخيارات:**
+
 <div class="exercise" markdown="1" data-answers='["**der**","**die**","**das**","**den**","**denen**"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
@@ -87,6 +89,8 @@
 | 4 | Der Hund, ___ (den / dem / der) du fütterst, ist süß. | |
 | 5 | Die Freunde, ___ (denen / die / der) ich helfe, sind dankbar. | |
 </div>
+✏️ **أكمل الفراغ بالكلمة الصحيحة:** اكتب كلمة واحدة فقط في كل خانة.
+
 <div class="exercise" markdown="1" data-answers='["**den**","**die**","**das**","**dem**","**deren**"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
@@ -96,6 +100,8 @@
 | 4 | Der Lehrer, ___ ich die Blume schenke, ist freundlich. | |
 | 5 | Die Kinder, ___ Spielzeug kaputt ist, weinen. | |
 </div>
+✏️ **ترجم الجملة إلى الألمانية:**
+
 <div class="exercise" markdown="1" data-answers='["Ich lese ein Buch","**das** sehr interessant **ist**."]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
@@ -105,6 +111,8 @@
 | 4 | Das ist der Hund. **Dem Hund** gebe ich Futter. | |
 | 5 | Ich lese ein Buch. **Das Buch** ist sehr interessant. | |
 </div>
+✏️ **ترجم الجملة إلى الألمانية:**
+
 <div class="exercise" markdown="1" data-answers='["Die Leute","**deren** Auto kaputt ist","warten auf Hilfe. (Genitiv — ملكية)"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
@@ -114,6 +122,8 @@
 | 4 | Der Film, **der** ich gesehen habe, war gut. (غلط) | |
 | 5 | Die Leute, **denen** Auto kaputt ist, warten auf Hilfe. (غلط) | |
 </div>
+✏️ **ترجم الجملة إلى الألمانية:**
+
 <div class="exercise" markdown="1" data-answers='["Der Freund","**dessen** Auto blau ist","heißt Ahmed."]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|

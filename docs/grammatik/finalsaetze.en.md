@@ -39,6 +39,10 @@
 
 ## 📝 Interactive Exercises
 
+✏️ **Rearrange the words to form a correct sentence:**
+
+✏️ **Rearrange the words to form a correct sentence:**
+
 <div class="exercise" data-answers='["um zu", "damit"]'>
 1. Complete the sentence with **um...zu**: "I save money, ______ buy a new bike."
 2. Complete the sentence with **damit**: "He gives her a book, ______ she can improve her German."

@@ -39,6 +39,8 @@
 
 ## 📝 تمارين تفاعلية
 
+✏️ **أكمل الفراغ بالكلمة الصحيحة:** اكتب كلمة واحدة فقط في كل خانة.
+
 <div class="exercise" markdown="1" data-answers='["an","auf","mit","für","über"]'>
 | # | الجملة (المفهوم) | الإجابة |
 |---|---------------------------|-----------|
@@ -48,6 +50,8 @@
 | 4 | Sie interessiert sich ____ Geschichte. (interested in) | |
 | 5 | Sie beschwert sich ____ das Essen. (complain about) | |
 </div>
+
+✏️ **أكمل الفراغ بالكلمة الصحيحة:** اكتب كلمة واحدة فقط في كل خانة.
 
 <div class="exercise" markdown="1" data-answers='["an","auf","mit","für","über"]'>
 | # | Complete the sentence in German using the correct preposition |

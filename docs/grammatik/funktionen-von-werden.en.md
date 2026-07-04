@@ -42,6 +42,8 @@ The verb **werden** can serve four distinct grammatical functions in German. It 
 
 ## ✏️ Interactive Exercises
 
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
+
 <div class="exercise" data-answers='["geworden","wird","werden","wird"]'>
 1. Fill in the correct form for a **state**: "She ___ angry ___ (become)."
 2. Choose the passive auxiliary: "The book ___ read by the class."

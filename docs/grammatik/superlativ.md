@@ -42,11 +42,19 @@
 
 ## 📝 تمارين تفاعلية
 
+✏️ **رتّب الكلمات لتكوين جملة صحيحة:**
+
+✏️ **رتّب الكلمات لتكوين جملة صحيحة:**
+
 <div class="exercise" data-answers='["am besten", "am teuersten", "am kleinsten"]'>
 1. أكتب صيغة التفضيل للمقارنة: *gut* → ______
 2. ضع الصفة *teuer* في صيغة التفضيل: ______
 3. صِف أصغر حجم: *klein* → ______
 </div>
+
+✏️ **رتّب الكلمات لتكوين جملة صحيحة:**
+
+✏️ **رتّب الكلمات لتكوين جملة صحيحة:**
 
 <div class="exercise" data-answers='["am lautesten", "am schnellsten", "am freundlichsten"]'>
 1. صِف أعلى صوت: *laut* → ______

@@ -142,6 +142,10 @@ TE — KA — MO — LO
 
 ## 5. 📝 تمارين
 
+✏️ **اختر الإجابة الصحيحة من الخيارات:**
+
+✏️ **اختر الإجابة الصحيحة من الخيارات:**
+
 <div class="exercise" markdown="1" data-answers='["morgen mit dem Zug nach Berlin","heute Abend mit Freunden ins Kino","morgen mit dem Auto zu mir","im Juli mit dem Flugzeug in den Urlaub","am Abend gern Deutsch zu Hause"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
@@ -151,6 +155,10 @@ TE — KA — MO — LO
 | 4 | Sie fliegt ______________ (in den Urlaub / im Juli / mit dem Flugzeug). | |
 | 5 | Ich lerne ______________ (am Abend / zu Hause / gern Deutsch). | |
 </div>
+
+✏️ **اختر الإجابة الصحيحة من الخيارات:**
+
+✏️ **اختر الإجابة الصحيحة من الخيارات:**
 
 <div class="exercise" markdown="1" data-type="choice" data-answers='["B","B","A","B"]'>
 | # | الجملة | أ | ب | ج |
@@ -163,6 +171,8 @@ TE — KA — MO — LO
 
 ---
 
+✏️ **أكمل الفراغ:** اكتب الإجابة كاملة في الخانة.
+
 <div class="exercise" markdown="1" data-answers='["um 7 Uhr","Links","nach Berlin","Am Montag","zu Hause","im September"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
@@ -172,7 +182,10 @@ TE — KA — MO — LO
 | 4 | ______________ habe ich Geburtstag. (زمان — يوم الاثنين) | |
 | 5 | Ich lerne ______________. (مكان — في البيت) | |
 | 6 | Der Kurs beginnt ______________. (زمان — في سبتمبر) | |
-</div><div class="exercise" markdown="1" data-answers='["Ich gehe morgen zum Markt.","Wir treffen uns heute am Bahnhof.","Er fährt im Sommer mit dem Auto nach Italien.","Gestern war ich zu Hause mit meiner Familie.","Sie fährt jeden Morgen mit dem Bus zur Arbeit."]'>
+</div>
+✏️ **ترجم الجملة إلى الألمانية:**
+
+<div class="exercise" markdown="1" data-answers='["Ich gehe morgen zum Markt.","Wir treffen uns heute am Bahnhof.","Er fährt im Sommer mit dem Auto nach Italien.","Gestern war ich zu Hause mit meiner Familie.","Sie fährt jeden Morgen mit dem Bus zur Arbeit."]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
 | 1 | أنا أذهب غداً إلى السوق. | |
@@ -180,7 +193,10 @@ TE — KA — MO — LO
 | 3 | هو يسافر في الصيف بالسيارة إلى إيطاليا. | |
 | 4 | أمس كنت في البيت مع عائلتي. | |
 | 5 | هي تذهب كل صباح بالباص إلى العمل. | |
-</div><div class="exercise" markdown="1" data-answers='["✅","✅","❌","✅","❌"]'>
+</div>
+✅ **حدد: ✅ صحيح / ❌ خطأ:**
+
+<div class="exercise" markdown="1" data-answers='["✅","✅","❌","✅","❌"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
 | 1 | في الألمانية، عبارات الزمان تأتي قبل المكان. | |

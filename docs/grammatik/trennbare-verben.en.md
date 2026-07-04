@@ -64,6 +64,8 @@ In subordinate clauses: prefix stays attached (verb goes to the end)
 
 ## 📝 Exercises
 
+✏️ **Complete the blank:** Write the full answer in the field.
+
 <div class="exercise" markdown="1" data-answers='["stehe ... auf","kaufst ... ein","fängt ... an","kommen ... mit","seht ... fern"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
@@ -73,6 +75,8 @@ In subordinate clauses: prefix stays attached (verb goes to the end)
 | 4 | Wir ___ (mitkommen) to the cinema. | |
 | 5 | Ihr ___ (fernsehen) in the evening. | |
 </div>
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
+
 <div class="exercise" markdown="1" data-answers='["auf","ab","zu","ein","mit"]'>
 | # | Sentence | Answer |
 |---|----------|--------|

@@ -90,6 +90,8 @@ Ja/Nein-Frage:     الفعل في الموضع 1
 
 ## 📝 تمارين
 
+✏️ **رتّب الكلمات لتكوين جملة صحيحة:**
+
 <div class="exercise" markdown="1" data-answers='["... weil ich Deutsch lerne."]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
@@ -99,6 +101,8 @@ Ja/Nein-Frage:     الفعل في الموضع 1
 | 4 | (heute / Ich / kaufe / ein / Brot) → ___ | |
 | 5 | (... weil / lerne / ich / Deutsch) → ___ | |
 </div>
+✏️ **أكمل الفراغ بالكلمة الصحيحة:** اكتب كلمة واحدة فقط في كل خانة.
+
 <div class="exercise" markdown="1" data-answers='["wohne","arbeitest","Hast","bin","habe"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
@@ -108,6 +112,8 @@ Ja/Nein-Frage:     الفعل في الموضع 1
 | 4 | Heute ___ (sein) ich zu Hause. | |
 | 5 | ... weil ich kein Auto ___ (haben). | |
 </div>
+✏️ **رتّب الكلمات لتكوين جملة صحيحة:**
+
 <div class="exercise" markdown="1" data-answers='["Ja/Nein-Frage","Aussagesatz","W-Frage","Imperativ","Nebensatz"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|

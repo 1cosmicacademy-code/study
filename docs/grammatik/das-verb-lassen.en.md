@@ -46,6 +46,8 @@ The verb **lassen** expresses permission, causation, or a request for something 
 
 ## ✍️ Interactive Exercises
 
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
+
 <div class="exercise" data-answers='["lasse","zu","reflexive","Objekt"]'>
 1. Choose the correct form: "I ___ the door close." (lassen + infinitive)
 2. Complete with **zu**: "He lets the report ___ finished." (allow the report to be completed)

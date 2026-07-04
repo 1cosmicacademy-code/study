@@ -117,6 +117,8 @@ In spoken (informal) German, people often use **von + Dative** instead of the Ge
 
 ## 📝 Exercises
 
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
+
 <div class="exercise" markdown="1" data-answers='["des","des","der","des","des"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
@@ -126,6 +128,8 @@ In spoken (informal) German, people often use **von + Dative** instead of the Ge
 | 4 | Das Zimmer ___ Jungen ist klein. (der) | |
 | 5 | Wegen ___ Wetters bleibe ich zu Hause. (das) | |
 </div>
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
+
 <div class="exercise" markdown="1" data-answers='["Vaters","Mannes","Kindes","Hauses","Frau (none)","Films"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
@@ -136,6 +140,8 @@ In spoken (informal) German, people often use **von + Dative** instead of the Ge
 | 5 | die Freundin der Frau___ (feminine — no ending) | |
 | 6 | das Ende des Film___ | |
 </div>
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
+
 <div class="exercise" markdown="1" data-answers='["des Vaters","der Mutter","des Kindes","der Eltern","meines Onkels"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
@@ -145,6 +151,8 @@ In spoken (informal) German, people often use **von + Dative** instead of the Ge
 | 4 | die Freunde von den Eltern ** die Freunde ___ | |
 | 5 | das Haus von meinem Onkel ** das Haus ___ | |
 </div>
+✏️ **Complete the blank:** Write the full answer in the field.
+
 <div class="exercise" markdown="1" data-answers='["Wegen","Trotz","Wahrend","Statt / Anstatt","Wahrend"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
@@ -154,6 +162,8 @@ In spoken (informal) German, people often use **von + Dative** instead of the Ge
 | 4 | ___ des Buches sehe ich fern. (instead of) | |
 | 5 | ___ der Ferien fahren wir nach Berlin. (during) | |
 </div>
+✏️ **Choose the correct option:**
+
 <div class="exercise" markdown="1" data-answers='["des","des","des","der","der"]'>
 | # | Sentence | Answer |
 |---|----------|--------|

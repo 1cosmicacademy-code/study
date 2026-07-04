@@ -61,6 +61,8 @@ Simply place the **finite verb** at the beginning of the sentence, then follow w
 
 ## 📝 Interactive Exercises
 
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
+
 <div class="exercise" markdown="1" data-answers='["Wer","Was","Wo","Bist","Hast"]'>
 | # | Fill in the correct W‑word |
 |---|---------------------------|
@@ -71,6 +73,8 @@ Simply place the **finite verb** at the beginning of the sentence, then follow w
 | 5 | ___ geht es dir? |
 | 6 | ___ lernst du Deutsch? |
 </div>
+
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
 
 <div class="exercise" markdown="1" data-answers='["Bist","Hast","Kommt","Geht","Kann","Musst"]'>
 | # | Turn the statement into a Yes/No question |

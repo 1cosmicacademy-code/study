@@ -64,6 +64,8 @@ Ich anrufe dich. ✗ (خطأ!)
 
 ## 📝 تمارين
 
+✏️ **أكمل الفراغ:** اكتب الإجابة كاملة في الخانة.
+
 <div class="exercise" markdown="1" data-answers='["stehe ... auf","kaufst ... ein","fängt ... an","kommen ... mit","seht ... fern"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
@@ -73,6 +75,8 @@ Ich anrufe dich. ✗ (خطأ!)
 | 4 | Wir ___ (mitkommen) ins Kino. | |
 | 5 | Ihr ___ (fernsehen) am Abend. | |
 </div>
+✏️ **ترجم الجملة إلى الألمانية:**
+
 <div class="exercise" markdown="1" data-answers='["auf","ab","zu","ein","mit"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|

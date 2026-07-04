@@ -93,6 +93,8 @@
 
 ## 📝 تمارين
 
+✏️ **اختر الإجابة الصحيحة من الخيارات:**
+
 <div class="exercise" markdown="1" data-answers='["**auf**","**auf**","**unter**","**in**","**an**"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
@@ -102,6 +104,8 @@
 | 4 | Ich gehe ___ (in / auf) die Schule. | |
 | 5 | Das Bild hängt ___ (an / auf) der Wand. | |
 </div>
+✏️ **أكمل الفراغ:** اكتب الإجابة كاملة في الخانة.
+
 <div class="exercise" markdown="1" data-answers='["Der Stuhl steht **neben der** Tür."]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
@@ -111,6 +115,8 @@
 | 4 | Der Vogel fliegt ___ (über) ___ Haus. (Akkusativ) | |
 | 5 | Der Stuhl steht ___ (neben) ___ Tür. (Dativ) | |
 </div>
+✏️ **رتّب الكلمات لتكوين جملة صحيحة:**
+
 <div class="exercise" markdown="1" data-answers='["Der Ball rollt **unter das Sofa**."]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
@@ -120,6 +126,8 @@
 | 4 | Das Kind sitzt neben der Mutter. → Das Kind setzt sich ___ ___ ___. (neben) | |
 | 5 | Der Ball ist unter dem Sofa. → Der Ball rollt ___ ___ ___. (unter) | |
 </div>
+✏️ **رتّب الكلمات لتكوين جملة صحيحة:**
+
 <div class="exercise" markdown="1" data-answers='["**im**","**ans** (أو an das)","**ins**","**beim**","**am**"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
@@ -129,6 +137,8 @@
 | 4 | bei + dem → ___ | |
 | 5 | an + dem → ___ | |
 </div>
+✏️ **اختر الإجابة الصحيحة من الخيارات:**
+
 <div class="exercise" markdown="1" data-answers='["**Wo** — Dativ (مكان ثابت)"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|

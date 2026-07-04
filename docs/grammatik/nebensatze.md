@@ -104,6 +104,8 @@ Er kommt, obwohl er krank ist.
 
 ## 📝 تمارين
 
+✏️ **أكمل الفراغ بالكلمة الصحيحة:** اكتب كلمة واحدة فقط في كل خانة.
+
 <div class="exercise" markdown="1" data-answers='["dass","weil","Obwohl","Wenn","dass"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
@@ -113,6 +115,8 @@ Er kommt, obwohl er krank ist.
 | 4 | _______ ich Zeit habe, lese ich ein Buch. | |
 | 5 | Er sagt, _______ er kein Geld hat. | |
 </div>
+✏️ **أكمل الفراغ بالكلمة الصحيحة:** اكتب كلمة واحدة فقط في كل خانة.
+
 <div class="exercise" markdown="1" data-answers='["kommst","stirbt","Wenn","hat","regnet"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
@@ -122,6 +126,8 @@ Er kommt, obwohl er krank ist.
 | 4 | Sie geht zur Arbeit, obwohl sie Fieber ____________. (haben) | |
 | 5 | Wir bleiben zu Hause, weil es ____________. (regnen) | |
 </div>
+✏️ **ترجم الجملة إلى الألمانية:**
+
 <div class="exercise" markdown="1" data-answers='["Sie lernt Deutsch","weil sie in Berlin studieren will."]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
@@ -129,6 +135,8 @@ Er kommt, obwohl er krank ist.
 | 2 | Er kommt nicht. Er ist krank. | |
 | 3 | Sie lernt Deutsch. Sie will in Berlin studieren. | |
 </div>
+✏️ **ترجم الجملة إلى الألمانية:**
+
 <div class="exercise" markdown="1" data-answers='["Er geht ins Kino","obwohl er krank ist."]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
@@ -137,6 +145,8 @@ Er kommt, obwohl er krank ist.
 | 3 | wenn / rufe / du / an / ich / mich / brauchst | |
 | 4 | obwohl / geht / ins / er / er / Kino / krank / ist | |
 </div>
+✏️ **أكمل الفراغ:** اكتب الإجابة كاملة في الخانة.
+
 <div class="exercise" markdown="1" data-answers='["Ich mache weiter..."]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|

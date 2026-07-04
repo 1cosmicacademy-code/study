@@ -36,12 +36,16 @@
 
 ## 📝 Interactive Exercises
 
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
+
 <div class="exercise" data-answers='["wenn", "als", "während", "bevor"]'>
 1. ______ I arrive, I will call you. (when I arrive)
 2. ______ we leave, we have turned the lights off.
 3. He reads, ______ she cooks. (while)
 4. ______ you read the book, you can drink. (before)
 </div>
+
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
 
 <div class="exercise" data-answers='["wenn", "als", "während", "bevor"]'>
 1. ______ it snows, we build a snowman.

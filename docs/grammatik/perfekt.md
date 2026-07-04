@@ -165,6 +165,8 @@ ge- + جذر الفعل (معدل) + -en
 
 ## 📝 تمارين
 
+✏️ **أكمل الفراغ بالكلمة الصحيحة:** اكتب كلمة واحدة فقط في كل خانة.
+
 <div class="exercise" markdown="1" data-answers='["habe","ist","haben","hat","ist","seid","hast"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
@@ -176,6 +178,8 @@ ge- + جذر الفعل (معدل) + -en
 | 6 | Ihr ___ spät gekommen. | |
 | 7 | Was ___ du gemacht? | |
 </div>
+✏️ **رتّب الكلمات لتكوين جملة صحيحة:**
+
 <div class="exercise" markdown="1" data-answers='["gekauft","getrunken","gearbeitet","geschrieben","studiert","aufgestanden","gefahren"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
@@ -187,6 +191,8 @@ ge- + جذر الفعل (معدل) + -en
 | 6 | aufstehen → ___ | |
 | 7 | fahren → ___ | |
 </div>
+✏️ **رتّب الكلمات لتكوين جملة صحيحة:**
+
 <div class="exercise" markdown="1" data-answers='["habe...gekauft","ist...gefahren","haben...gegessen","hat...gelesen","ist...eingeschlafen"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
@@ -196,6 +202,8 @@ ge- + جذر الفعل (معدل) + -en
 | 4 | Er liest die Zeitung. → Er ___ die Zeitung ___. | |
 | 5 | Das Kind schläft ein. → Das Kind ___ ___. | |
 </div>
+✏️ **رتّب الكلمات لتكوين جملة صحيحة:**
+
 <div class="exercise" markdown="1" data-answers='["✅ صحيح (sein مع fahren)","ist gekommen (hat → ist)","✅ صحيح","hat gelesen (ist → hat)","✅ صحيح"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
@@ -205,6 +213,8 @@ ge- + جذر الفعل (معدل) + -en
 | 4 | Er ist das Buch gelesen. | |
 | 5 | Ich bin früh aufgestanden. | |
 </div>
+✏️ **ترجم الجملة إلى الألمانية:**
+
 <div class="exercise" markdown="1" data-answers='["Sie ist um 7 Uhr aufgestanden."]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|

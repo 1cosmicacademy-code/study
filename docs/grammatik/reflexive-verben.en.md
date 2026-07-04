@@ -115,6 +115,8 @@ When a verb has a direct object (Akkusativ-Objekt) in addition to the reflexive 
 
 ## 📝 Exercises
 
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
+
 <div class="exercise" markdown="1" data-answers='["mich","dich","sich","uns","euch","sich"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
@@ -125,6 +127,8 @@ When a verb has a direct object (Akkusativ-Objekt) in addition to the reflexive 
 | 5 | Ihr müsst _______ ausziehen, es ist heiß hier. | |
 | 6 | Die Kinder waschen _______ vor dem Essen. | |
 </div>
+✏️ **Choose the correct option:**
+
 <div class="exercise" markdown="1" data-answers='["mir","sich","sich","uns","euch"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
@@ -134,6 +138,8 @@ When a verb has a direct object (Akkusativ-Objekt) in addition to the reflexive 
 | 4 | Wir kämmen (uns / uns) vor dem Spiegel. | |
 | 5 | Ihr trocknet (euch / euch) die Hände ab. | |
 </div>
+✏️ **Complete the blank:** Write the full answer in the field.
+
 <div class="exercise" markdown="1" data-answers='["freue mich","zieht das Baby an / zieht sich an","beeilen uns","ruht sich ... aus","setzen Sie sich"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
@@ -143,6 +149,8 @@ When a verb has a direct object (Akkusativ-Objekt) in addition to the reflexive 
 | 4 | Nach der Arbeit _______ er _______ auf dem Sofa. | |
 | 5 | Bitte _______ Sie _______! | |
 </div>
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
+
 <div class="exercise" markdown="1" data-answers='["wasche mir die Hände","Erinnern Sie sich an mich","beeilen uns","befindet sich das Museum","interessiert sich für Sport"]'>
 | # | Sentence | Answer |
 |---|----------|--------|

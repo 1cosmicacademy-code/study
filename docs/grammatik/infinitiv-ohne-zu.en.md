@@ -44,6 +44,8 @@ Certain verbs require the infinitive **without** "zu". This mainly includes the 
 
 ### Interactive exercise
 
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
+
 <div class="exercise" data-answers='["schwimmen","essen","hören","lernen","machen"]'>
 1. I ___ (swim) in the lake.\
 2. We ___ (eat) at the restaurant.\

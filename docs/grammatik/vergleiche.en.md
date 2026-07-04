@@ -119,6 +119,8 @@ Two forms:
 
 ## 📝 Exercises
 
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
+
 <div class="exercise" markdown="1" data-answers='["als","wie","als","wie","als","wie"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
@@ -129,6 +131,8 @@ Two forms:
 | 5 | Deutsch ist schwerer _______ Englisch. | |
 | 6 | Er rennt so schnell _______ ein Pferd. | |
 </div>
+✏️ **Rearrange the words to form a correct sentence:**
+
 <div class="exercise" markdown="1" data-answers='["größer","kleiner","jünger","älter","teurer","besser","mehr","schneller"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
@@ -141,6 +145,8 @@ Two forms:
 | 7 | viel → _______________ | |
 | 8 | schnell → _______________ | |
 </div>
+✏️ **Rearrange the words to form a correct sentence:**
+
 <div class="exercise" markdown="1" data-answers='["am größten","am schönsten","am schnellsten","am besten","am jüngsten","am liebsten"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
@@ -151,6 +157,8 @@ Two forms:
 | 5 | jung → _______________ | |
 | 6 | gern → _______________ | |
 </div>
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
+
 <div class="exercise" markdown="1" data-answers='["schneller","kälter","beste","lieber","billiger"]'>
 | # | Sentence | Answer |
 |---|----------|--------|

@@ -131,6 +131,8 @@
 
 ## 📝 تمارين
 
+✏️ **أكمل الفراغ:** اكتب الإجابة كاملة في الخانة.
+
 <div class="exercise" markdown="1" data-answers='["Um","Am","Im","Seit","Von ... bis"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
@@ -140,6 +142,8 @@
 | 4 | _______ 2021 lerne ich Deutsch. (منذ) | |
 | 5 | _______ 8 _______ 16 Uhr bin ich im Büro. (من ... إلى) | |
 </div>
+✏️ **أكمل الفراغ بالكلمة الصحيحة:** اكتب كلمة واحدة فقط في كل خانة.
+
 <div class="exercise" markdown="1" data-answers='["aus","bei","mit","nach","zu"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
@@ -149,6 +153,8 @@
 | 4 | Wir fliegen _______ Italien. (إلى) | |
 | 5 | Er geht _______ seinem Freund. (إلى) | |
 </div>
+✏️ **أكمل الفراغ:** اكتب الإجابة كاملة في الخانة.
+
 <div class="exercise" markdown="1" data-answers='["unter **dem** Tisch (Dativ)"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
@@ -158,6 +164,8 @@
 | 4 | Ich stelle die Blume in _______ (die Vase). (Akkusativ — حركة) | |
 | 5 | Der Hund liegt unter _______ (der Tisch). (Dativ — ثابت) | |
 </div>
+✏️ **أكمل الفراغ بالكلمة الصحيحة:** اكتب كلمة واحدة فقط في كل خانة.
+
 <div class="exercise" markdown="1" data-answers='["durch","für","gegen","ohne","um"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
@@ -167,6 +175,8 @@
 | 4 | Er geht _______ mich. (بدون) | |
 | 5 | Wir laufen _______ den Teich. (حول) | |
 </div>
+✏️ **ترجم الجملة إلى الألمانية:**
+
 <div class="exercise" markdown="1" data-answers='["Von Montag bis Freitag arbeite ich im Büro."]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|

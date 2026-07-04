@@ -39,6 +39,8 @@ The present participle (Partizip I) is formed by adding **-end** (or **-ierend**
 
 ## 📝 Interactive Exercises
 
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
+
 <div class="exercise" data-answers='["lachend","spielend","lernend"]'>
 1. Convert the verb **lachen** (to laugh) into a Partizip I adjective.
 2. Convert the verb **spielen** (to play) into a Partizip I adjective.

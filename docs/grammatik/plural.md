@@ -62,6 +62,10 @@ der Tisch → die Tische (وليس فقط Tisch)
 
 ## 📝 تمارين
 
+✏️ **رتّب الكلمات لتكوين جملة صحيحة:**
+
+✏️ **رتّب الكلمات لتكوين جملة صحيحة:**
+
 <div class="exercise" markdown="1" data-answers='["Hunde","Blumen","Kinder","Tische","Autos"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
@@ -71,6 +75,10 @@ der Tisch → die Tische (وليس فقط Tisch)
 | 4 | der Tisch → die ___ | |
 | 5 | das Auto → die ___ | |
 </div>
+✏️ **رتّب الكلمات لتكوين جملة صحيحة:**
+
+✏️ **رتّب الكلمات لتكوين جملة صحيحة:**
+
 <div class="exercise" markdown="1" data-answers='["Männer","Häuser","Mütter","Studenten","Bücher"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|

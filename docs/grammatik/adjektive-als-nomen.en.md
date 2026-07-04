@@ -35,6 +35,8 @@ When an adjective is used as a noun it takes a definite article and the gender t
 
 ## 📝 Interactive Exercises
 
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
+
 <div class="exercise" data-answers='["das Gute","der Alte","die Kleine"]'>
 1. Convert the adjective **gut** into a noun with an appropriate article.
 2. Convert the adjective **klein** into a noun with an appropriate article.

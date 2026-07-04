@@ -47,6 +47,8 @@
 
 ## 📝 ت%D9%85%D8%A7%D8%B1%D9%8A%D9%86 ت%D9%81%D8%A7%D8%B9%D9%84%D9%8Aة
 
+✏️ **أكمل الفراغ بالكلمة الصحيحة:** اكتب كلمة واحدة فقط في كل خانة.
+
 <div class="exercise" markdown="1" data-answers='["hatte","war","hatte","war"]'>
 | # | الجملة (املاة الفعل من فعل العبد) |
 |---|--------------------------------------------------------|
@@ -55,6 +57,8 @@
 | 3 | Wir ______ das Essen ______ (kochen). |
 | 4 | Er ______ das Spiel ______ (gewinnen). |
 </div>
+
+✏️ **أكمل الفراغ بالكلمة الصحيحة:** اكتب كلمة واحدة فقط في كل خانة.
 
 <div class="exercise" markdown="1" data-answers='["hatte gelesen","war gegangen","hatte gebaut","war gewesen"]'>
 | # | اكمل الجملة بالصيغة الصحيحة للـ Plusquamperfekt |

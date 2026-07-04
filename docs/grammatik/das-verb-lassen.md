@@ -44,6 +44,8 @@
 
 ## ✍️ تمارين تفاعلية
 
+✏️ **أكمل الفراغ بالكلمة الصحيحة:** اكتب كلمة واحدة فقط في كل خانة.
+
 <div class="exercise" data-answers='["lassen","zu","reflexive","Objekt"]'>
 1. اختر الصيغة الصحيحة: "Ich ___ das Fenster schließen." (السماح)
 2. أكمل الجملة: "Er lässt das Buch ___ lesen." (zu + Infinitiv)

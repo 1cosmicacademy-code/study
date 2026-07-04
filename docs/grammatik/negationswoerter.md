@@ -30,6 +30,8 @@
 
 ## 📝 تمارين تفاعلية
 
+✏️ **أكمل الفراغ بالكلمة الصحيحة:** اكتب كلمة واحدة فقط في كل خانة.
+
 <div class="exercise" markdown="1" data-answers='["niemand","nichts","nie"]'>
 | # | الجملة | الإجابة |
 |---|--------------------------|-----------|
@@ -37,6 +39,8 @@
 | 2 | **____** ist im Kühlschrank. (لا شيء) | |
 | 3 | Ich habe **____** das Spiel gewonnen. (أبداً) | |
 </div>
+
+✏️ **أكمل الفراغ بالكلمة الصحيحة:** اكتب كلمة واحدة فقط في كل خانة.
 
 <div class="exercise" markdown="1" data-answers='["Niemand","Nichts","Nie"]'>
 | # | الجملة (العربي) |

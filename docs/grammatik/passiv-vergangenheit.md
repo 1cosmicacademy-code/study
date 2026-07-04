@@ -44,6 +44,8 @@ Der Brief **war** von ihr **geschickt** worden.
 
 ## 📝 ت%D9%85%D8%A7%D8%B1%D9%8A%D9%86
 
+✏️ **أكمل الفراغ بالكلمة الصحيحة:** اكتب كلمة واحدة فقط في كل خانة.
+
 <div class="exercise" markdown="1" data-answers='["ist","wurde","gebacken","gelöst"]'>
 | # | الجملة (ال%D9%81%D8%B9%D9%84 أ%D8%B3%D8%A7%D8%B3%D9%8A) |
 |---|--------------------------|

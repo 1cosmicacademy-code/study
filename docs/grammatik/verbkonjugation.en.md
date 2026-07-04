@@ -72,6 +72,8 @@ haben: habe, hast, hat, haben, habt, haben
 
 ## 📝 Exercises
 
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
+
 <div class="exercise" markdown="1" data-answers='["wohne","lernst","kommt","arbeiten","spielt","tanzen"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
@@ -82,6 +84,8 @@ haben: habe, hast, hat, haben, habt, haben
 | 5 | Ihr ___ (spielen) football. | |
 | 6 | Sie (plural) ___ (tanzen) happily. | |
 </div>
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
+
 <div class="exercise" markdown="1" data-answers='["bin","hast","ist","haben","seid"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
@@ -91,6 +95,8 @@ haben: habe, hast, hat, haben, habt, haben
 | 4 | Wir ___ hungry. | |
 | 5 | Ihr ___ hardworking. | |
 </div>
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
+
 <div class="exercise" markdown="1" data-answers='["fährt","siehst","liest","essen","nehme"]'>
 | # | Sentence | Answer |
 |---|----------|--------|

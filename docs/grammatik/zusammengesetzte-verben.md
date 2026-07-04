@@ -41,6 +41,8 @@
 
 ## 📝 تمارين تفاعلية
 
+✏️ **أكمل الفراغ بالكلمة الصحيحة:** اكتب كلمة واحدة فقط في كل خانة.
+
 <div class="exercise" markdown="1" data-answers='["auf","ein","verstehen","bekommen"]'>
 | # | الجملة (املأ الفاصل) | الإجابة |
 |---|------------------------|----------|
@@ -49,6 +51,8 @@
 | 3 | Er **____** das Wort. (verstehen) | |
 | 4 | Sie **____** ein neues Auto. (bekommen) | |
 </div>
+
+✏️ **أكمل الفراغ بالكلمة الصحيحة:** اكتب كلمة واحدة فقط في كل خانة.
 
 <div class="exercise" markdown="1" data-answers='["aufstehen","einladen","verstehen","bekommen"]'>
 | # | أعد كتابة الجملة مع الفعل في موضعه الصحيح |

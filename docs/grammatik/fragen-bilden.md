@@ -56,6 +56,8 @@ _مثال_: **Hast du Zeit?** — هل لديك وقت؟
 
 ## 📝 ت%D9%85%D8%A7%D8%B1%D9%8Cت %D8%A7%D8%AA%D8%BA%D9%84_%DDe_? 
 
+✏️ **أكمل الفراغ بالكلمة الصحيحة:** اكتب كلمة واحدة فقط في كل خانة.
+
 <div class="exercise" markdown="1" data-answers='["Wer","Was","Wo","Wann","Wie","Warum"]'>
 | # | أكمل السؤال باستخدام أداة الاستفهام المناسبة |
 |---|----------------------------------------|
@@ -66,6 +68,8 @@ _مثال_: **Hast du Zeit?** — هل لديك وقت؟
 | 5 | ___ geht es dir? |
 | 6 | ___ lernst du Deutsch? |
 </div>
+
+✏️ **ترجم الجملة إلى الألمانية:**
 
 <div class="exercise" markdown="1" data-answers='["Bist","Hast","Kommt","Geht","Kann","Musst"]'>
 | # | حول الجملة إلى سؤال نعم/لا |

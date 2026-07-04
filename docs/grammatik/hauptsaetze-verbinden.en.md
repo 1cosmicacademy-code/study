@@ -36,11 +36,15 @@
 
 ## 📝 Interactive Exercises
 
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
+
 <div class="exercise" data-answers='["und", "aber", "sondern"]'>
 1. Ich habe Hunger, ______ ich esse ein Sandwich. (but)
 2. Sie spricht Deutsch, ______ sie versteht es nicht gut. (but)
 3. Er trinkt keinen Kaffee, ______ er trinkt Tee. (instead)
 </div>
+
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
 
 <div class="exercise" data-answers='["oder", "denn", "und"]'>
 1. Willst du Tee ______ Kaffee? (or)

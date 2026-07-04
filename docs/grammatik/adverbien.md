@@ -135,6 +135,8 @@
 
 ## 📝 تمارين
 
+🔤 **صنّف حسب النوع:** اكتب رمز التصنيف المناسب.
+
 <div class="exercise" markdown="1" data-answers='["T","L","M","T","M","L","T","L"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
@@ -147,6 +149,8 @@
 | 7 | oft → _______ | |
 | 8 | rechts → _______ | |
 </div>
+✏️ **اختر الإجابة الصحيحة من الخيارات:**
+
 <div class="exercise" markdown="1" data-answers='["morgen","Leider","draußen","oft","Gestern"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
@@ -156,6 +160,8 @@
 | 4 | Ich lese (oft / gern) Bücher, jeden Tag. (غالباً) | |
 | 5 | (Vielleicht / Gestern) war ich krank. (أمس) | |
 </div>
+✏️ **ترجم الجملة إلى الألمانية:**
+
 <div class="exercise" markdown="1" data-answers='["Ich habe heute leider keine Zeit."]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
@@ -165,6 +171,8 @@
 | 4 | immer / pünktlich / Er / kommt | |
 | 5 | leider / keine Zeit / Ich / habe / heute | |
 </div>
+✏️ **أكمل الفراغ:** اكتب الإجابة كاملة في الخانة.
+
 <div class="exercise" markdown="1" data-answers='["selten","Leider","hier","sehr / viel","Vielleicht"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
@@ -174,6 +182,8 @@
 | 4 | Ich habe dich _______, mein Schatz. (كثيراً) | |
 | 5 | _______ komme ich morgen. (ربما) | |
 </div>
+✏️ **ترجم الجملة إلى الألمانية:**
+
 <div class="exercise" markdown="1" data-answers='["Wir gehen oft am Freitag ins Kino."]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|

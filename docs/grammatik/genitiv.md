@@ -117,6 +117,8 @@ Die Tasche der Frau ist neu.
 
 ## 📝 تمارين
 
+✏️ **أكمل الفراغ بالكلمة الصحيحة:** اكتب كلمة واحدة فقط في كل خانة.
+
 <div class="exercise" markdown="1" data-answers='["des","des","der","des","des"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
@@ -126,6 +128,8 @@ Die Tasche der Frau ist neu.
 | 4 | Das Zimmer ___ Jungen ist klein. (der) | |
 | 5 | Wegen ___ Wetters bleibe ich zu Hause. (das) | |
 </div>
+✏️ **أكمل الفراغ بالكلمة الصحيحة:** اكتب كلمة واحدة فقط في كل خانة.
+
 <div class="exercise" markdown="1" data-answers='["Vaters","Mannes","Kindes","Hauses","Frau (بدون)","Films"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
@@ -136,6 +140,8 @@ Die Tasche der Frau ist neu.
 | 5 | die Freundin der Frau___ (مؤنث — بدون) | |
 | 6 | das Ende des Film___ | |
 </div>
+✏️ **رتّب الكلمات لتكوين جملة صحيحة:**
+
 <div class="exercise" markdown="1" data-answers='["des Vaters","der Mutter","des Kindes","der Eltern","meines Onkels"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
@@ -145,6 +151,8 @@ Die Tasche der Frau ist neu.
 | 4 | die Freunde von den Eltern → die Freunde ___ | |
 | 5 | das Haus von meinem Onkel → das Haus ___ | |
 </div>
+✏️ **أكمل الفراغ:** اكتب الإجابة كاملة في الخانة.
+
 <div class="exercise" markdown="1" data-answers='["Wegen","Trotz","Wahrend","Statt / Anstatt","Wahrend"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
@@ -154,6 +162,8 @@ Die Tasche der Frau ist neu.
 | 4 | ___ des Buches sehe ich fern. (بدلاً من) | |
 | 5 | ___ der Ferien fahren wir nach Berlin. (أثناء) | |
 </div>
+✏️ **اختر الإجابة الصحيحة من الخيارات:**
+
 <div class="exercise" markdown="1" data-answers='["des","des","des","der","der"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|

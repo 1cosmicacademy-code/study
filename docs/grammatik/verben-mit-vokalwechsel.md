@@ -45,6 +45,8 @@
 
 ## 📝 تمارين تفاعلية
 
+✏️ **أكمل الفراغ بالكلمة الصحيحة:** اكتب كلمة واحدة فقط في كل خانة.
+
 <div class="exercise" markdown="1" data-answers='["fahre","läufst","siehst","schläfst","liest"]'>
 | # | أكمل الفعل الصحيح (المتكلم) |
 |---|-----------------------------|
@@ -54,6 +56,8 @@
 | 4 | Sie ___ (schlafen) früh. |
 | 5 | Wir ___ (lesen) die Zeitung. |
 </div>
+
+✏️ **أكمل الفراغ بالكلمة الصحيحة:** اكتب كلمة واحدة فقط في كل خانة.
 
 <div class="exercise" markdown="1" data-answers='["fährt","läufst","sieht","schlafen","liest"]'>
 | # | أكمل الفعل (الضمير المناسب) |

@@ -59,6 +59,8 @@
 
 ## 📝 تمارين
 
+✏️ **أكمل الفراغ بالكلمة الصحيحة:** اكتب كلمة واحدة فقط في كل خانة.
+
 <div class="exercise" markdown="1" data-answers='["mein","meine","dein","deine","meine"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
@@ -68,6 +70,8 @@
 | 4 | Ist das ___ (dein) Katze? | |
 | 5 | Das sind ___ (mein) Bücher. | |
 </div>
+✏️ **أكمل الفراغ بالكلمة الصحيحة:** اكتب كلمة واحدة فقط في كل خانة.
+
 <div class="exercise" markdown="1" data-answers='["Mein","Deine","Sein","Unser","Ihre"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
@@ -77,6 +81,8 @@
 | 4 | Wir haben ein Haus. ___ Haus ist groß. | |
 | 5 | Sie (جمع) haben Kinder. ___ Kinder sind jung. | |
 </div>
+✏️ **اختر الإجابة الصحيحة من الخيارات:**
+
 <div class="exercise" markdown="1" data-answers='["Mein","Deine","Seine","Ihr","Unsere"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|

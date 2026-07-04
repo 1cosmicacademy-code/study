@@ -37,6 +37,8 @@ Partizip I (المصدر الفاعلي) يتكون بإضافة **-end** إلى
 
 ## 📝 تمارين تفاعلية
 
+✏️ **أكمل الفراغ بالكلمة الصحيحة:** اكتب كلمة واحدة فقط في كل خانة.
+
 <div class="exercise" data-answers='["lachend","spielend","lernend"]'>
 1. حول فعل "lachen" إلى صفة Partizip I.
 2. حول فعل "spielen" إلى صفة.

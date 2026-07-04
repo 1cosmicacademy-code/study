@@ -183,6 +183,8 @@ Prateritum = زمن القصص والأخبار
 
 ## 📝 تمارين
 
+✏️ **أكمل الفراغ بالكلمة الصحيحة:** اكتب كلمة واحدة فقط في كل خانة.
+
 <div class="exercise" markdown="1" data-answers='["war","hatten","wurde","warst","hatte"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
@@ -192,6 +194,8 @@ Prateritum = زمن القصص والأخبار
 | 4 | Du ___ im Urlaub. (sein) | |
 | 5 | Sie ___ keine Lust. (haben) | |
 </div>
+✏️ **أكمل الفراغ:** اكتب الإجابة كاملة في الخانة.
+
 <div class="exercise" markdown="1" data-answers='["konnte","musste","durften (durftet? لا — wir durften)","wollte","solltest"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
@@ -201,6 +205,8 @@ Prateritum = زمن القصص والأخبار
 | 4 | Sie ___ das Buch lesen. (wollen) | |
 | 5 | Du ___ mir helfen. (sollen) | |
 </div>
+✏️ **رتّب الكلمات لتكوين جملة صحيحة:**
+
 <div class="exercise" markdown="1" data-answers='["ging...","las...","fuhren...","backte...","sah...","schlief...ein","lernten..."]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
@@ -212,6 +218,8 @@ Prateritum = زمن القصص والأخبار
 | 6 | Das Kind ist eingeschlafen. → Das Kind ___ ___. | |
 | 7 | Sie haben Deutsch gelernt. → Sie ___ Deutsch ___. | |
 </div>
+✏️ **اختر الإجابة الصحيحة من الخيارات:**
+
 <div class="exercise" markdown="1" data-answers='["bin gegangen (محادثة) أو ging (قصة) — كلاهما صح","war (Prateritum مع sein)","hatten (Prateritum مع haben هو الطبيعي)","fuhr (قصة)","konnte"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|

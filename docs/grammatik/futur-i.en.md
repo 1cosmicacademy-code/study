@@ -119,6 +119,8 @@ In German, we often use **Präsens** with a time adverb for the future instead o
 
 ## 📝 Exercises
 
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
+
 <div class="exercise" markdown="1" data-answers='["werde","wirst","wird","werden","werdet","werden"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
@@ -129,6 +131,8 @@ In German, we often use **Präsens** with a time adverb for the future instead o
 | 5 | Ihr ______________ (werden) das nicht glauben. | |
 | 6 | Die Kinder ______________ (werden) sich freuen. | |
 </div>
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
+
 <div class="exercise" markdown="1" data-answers='["Wirst du das Fenster zumachen?"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
@@ -138,6 +142,8 @@ In German, we often use **Präsens** with a time adverb for the future instead o
 | 4 | Der Zug kommt um 10 Uhr. | |
 | 5 | Machst du das Fenster zu? | |
 </div>
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
+
 <div class="exercise" markdown="1" data-answers='["Wir werden die Prüfung bestimmt bestehen."]'>
 | # | Sentence | Answer |
 |---|----------|--------|
@@ -147,6 +153,8 @@ In German, we often use **Präsens** with a time adverb for the future instead o
 | 4 | nicht / es / heute / schneien | |
 | 5 | bestimmt / die Prüfung / wir / bestehen | |
 </div>
+✏️ **Choose the correct option:**
+
 <div class="exercise" markdown="1" data-answers='["werden besuchen (promise = Futur I)"]'>
 | # | Sentence | Answer |
 |---|----------|--------|

@@ -131,6 +131,8 @@ These prepositions **take Dative or Accusative** depending on the meaning!
 
 ## 📝 Exercises
 
+✏️ **Complete the blank:** Write the full answer in the field.
+
 <div class="exercise" markdown="1" data-answers='["Um","Am","Im","Seit","Von ... bis"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
@@ -140,6 +142,8 @@ These prepositions **take Dative or Accusative** depending on the meaning!
 | 4 | _______ 2021 lerne ich Deutsch. (since) | |
 | 5 | _______ 8 _______ 16 Uhr bin ich im Büro. (from ... to) | |
 </div>
+✏️ **Choose the correct option:**
+
 <div class="exercise" markdown="1" data-answers='["aus","bei","mit","nach","zu"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
@@ -149,6 +153,8 @@ These prepositions **take Dative or Accusative** depending on the meaning!
 | 4 | Wir fliegen _______ Italien. (to) | |
 | 5 | Er geht _______ seinem Freund. (to) | |
 </div>
+✏️ **Complete the blank:** Write the full answer in the field.
+
 <div class="exercise" markdown="1" data-answers='["unter **dem** Tisch (Dative)"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
@@ -158,6 +164,8 @@ These prepositions **take Dative or Accusative** depending on the meaning!
 | 4 | Ich stelle die Blume in _______ (die Vase). (Accusative — movement) | |
 | 5 | Der Hund liegt unter _______ (der Tisch). (Dative — fixed) | |
 </div>
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
+
 <div class="exercise" markdown="1" data-answers='["durch","für","gegen","ohne","um"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
@@ -167,6 +175,8 @@ These prepositions **take Dative or Accusative** depending on the meaning!
 | 4 | Er geht _______ mich. (without) | |
 | 5 | Wir laufen _______ den Teich. (around) | |
 </div>
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
+
 <div class="exercise" markdown="1" data-answers='["Von Montag bis Freitag arbeite ich im Büro."]'>
 | # | Sentence | Answer |
 |---|----------|--------|

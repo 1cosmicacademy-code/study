@@ -142,6 +142,10 @@ TE — KA — MO — LO
 
 ## 5. 📝 Exercises
 
+✏️ **Choose the correct option:**
+
+✏️ **Choose the correct option:**
+
 <div class="exercise" markdown="1" data-answers='["morgen mit dem Zug nach Berlin","heute Abend mit Freunden ins Kino","morgen mit dem Auto zu mir","im Juli mit dem Flugzeug in den Urlaub","am Abend gern Deutsch zu Hause"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
@@ -152,6 +156,10 @@ TE — KA — MO — LO
 | 5 | Ich lerne ______________ (am Abend / zu Hause / gern Deutsch). | |
 </div>
 
+✏️ **Choose the correct option:**
+
+✏️ **Choose the correct option:**
+
 <div class="exercise" markdown="1" data-type="choice" data-answers='["B","B","A","B"]'>
 | # | Sentence | A | B | C |
 |---|----------|---|---|---|
@@ -160,6 +168,7 @@ TE — KA — MO — LO
 | 3 | ______________. (heute / mit seiner Freundin / ins Konzert) | Er geht heute Abend mit seiner Freundin ins Konzert. | Er geht mit seiner Freundin heute Abend ins Konzert. | Er geht ins Konzert heute Abend mit seiner Freundin. |
 | 4 | ______________. (gestern / mit meinem Bruder / im Kino) | Gestern ich war im Kino mit meinem Bruder. | Gestern war ich mit meinem Bruder im Kino. | Gestern war ich im Kino mit meinem Bruder. |
 </div>
+✏️ **Complete the blank:** Write the full answer in the field.
 
 <div class="exercise" markdown="1" data-answers='["um 7 Uhr","Links","nach Berlin","Am Montag","zu Hause","im September"]'>
 | # | Sentence | Answer |
@@ -170,7 +179,10 @@ TE — KA — MO — LO
 | 4 | ______________ habe ich Geburtstag. (time — on Monday) | |
 | 5 | Ich lerne ______________. (place — at home) | |
 | 6 | Der Kurs beginnt ______________. (time — in September) | |
-</div><div class="exercise" markdown="1" data-answers='["✅","✅","❌","✅","❌"]'>
+</div>
+✅ **Mark: ✅ Correct / ❌ Incorrect:**
+
+<div class="exercise" markdown="1" data-answers='["✅","✅","❌","✅","❌"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
 | 1 | In German, time phrases come before place phrases. | |

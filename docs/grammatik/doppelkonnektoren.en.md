@@ -34,6 +34,10 @@ A double conjunction consists of two parts that must appear together in the corr
 
 ## 📝 Interactive Exercises
 
+✏️ **Complete the blank:** Write the full answer in the field.
+
+✏️ **Complete the blank:** Write the full answer in the field.
+
 <div class="exercise" data-answers='["sowohl ... als auch","nicht nur ... sondern auch","entweder ... oder","weder ... noch"]'>
 1. Fill the blanks with the correct double conjunction: "___ die Prüfung bestanden, ___ er sehr glücklich war."
 2. Choose the right pair: "___ das Wetter gut ist, ___ wir spazieren gehen können."

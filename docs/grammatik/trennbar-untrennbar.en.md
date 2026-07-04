@@ -61,6 +61,8 @@ Ich verstehe das Problem nicht.
 
 ## 📝 Exercises
 
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
+
 <div class="exercise" markdown="1" data-answers='["rufe","auf","verstehen","bekommt"]'>
 | # | Sentence (fill in the verb) |
 |---|----------------------------|

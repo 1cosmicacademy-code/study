@@ -95,6 +95,8 @@
 
 ## 📝 تمارين
 
+✏️ **رتّب الكلمات لتكوين جملة صحيحة:**
+
 <div class="exercise" markdown="1" data-answers='["**Aktiv**","**Passiv**","**Aktiv**","**Passiv**","**Passiv**"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
@@ -104,6 +106,8 @@
 | 4 | Das Fenster wird geöffnet. → ___ | |
 | 5 | Der Brief wird geschrieben. → ___ | |
 </div>
+✏️ **رتّب الكلمات لتكوين جملة صحيحة:**
+
 <div class="exercise" markdown="1" data-answers='["Das Bild **wird gemalt**."]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
@@ -113,6 +117,8 @@
 | 4 | Der Schüler liest das Buch. → Das Buch ___ ___. | |
 | 5 | Der Künstler malt das Bild. → Das Bild ___ ___. | |
 </div>
+✏️ **أكمل الفراغ بالكلمة الصحيحة:** اكتب كلمة واحدة فقط في كل خانة.
+
 <div class="exercise" markdown="1" data-answers='["**wird**","**werden**","**wird**","**werden**","**werde**"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
@@ -122,6 +128,8 @@
 | 4 | Die Blumen ___ gegossen. | |
 | 5 | Ich ___ gefragt. | |
 </div>
+✏️ **رتّب الكلمات لتكوين جملة صحيحة:**
+
 <div class="exercise" markdown="1" data-answers='["Die Tür **muss geschlossen werden**."]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
@@ -131,6 +139,8 @@
 | 4 | Man darf hier nicht rauchen. → Hier ___ nicht ___ ___. | |
 | 5 | Man muss die Tür schließen. → Die Tür ___ ___ ___. | |
 </div>
+✏️ **ترجم الجملة إلى الألمانية:**
+
 <div class="exercise" markdown="1" data-answers='["Die Kinder **werden von der Mutter gefragt**. (von der Mutter قبل gefragt أو قبله)"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|

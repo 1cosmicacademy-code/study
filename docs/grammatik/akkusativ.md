@@ -104,6 +104,8 @@ Akkusativ = المفعول به المباشر
 
 ## 📝 تمارين
 
+✏️ **أكمل الفراغ بالكلمة الصحيحة:** اكتب كلمة واحدة فقط في كل خانة.
+
 <div class="exercise" markdown="1" data-answers='["einen","die","den","das","die"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
@@ -113,6 +115,8 @@ Akkusativ = المفعول به المباشر
 | 4 | Er trinkt ___ Wasser. (das) | |
 | 5 | Ich brauche ___ Hilfe. (die) | |
 </div>
+
+✏️ **أكمل الفراغ بالكلمة الصحيحة:** اكتب كلمة واحدة فقط في كل خانة.
 
 <div class="exercise" markdown="1" data-answers='["für","durch","Ohne","um","gegen"]'>
 | # | الجملة | الإجابة |
@@ -124,6 +128,8 @@ Akkusativ = المفعول به المباشر
 | 5 | Das Medikament ist ___ Kopfschmerzen. (ضد) | |
 </div>
 
+✏️ **ترجم الجملة إلى الألمانية:**
+
 <div class="exercise" markdown="1" data-answers='["ein Buch","einen Ball","die Musik","Milch","diesen Mann"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
@@ -134,6 +140,8 @@ Akkusativ = المفعول به المباشر
 | 5 | Ich kenne diesen Mann nicht. | |
 </div>
 
+✏️ **رتّب الكلمات لتكوين جملة صحيحة:**
+
 <div class="exercise" markdown="1" data-answers='["den","einen","die","das","keinen"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
@@ -143,6 +151,8 @@ Akkusativ = المفعول به المباشر
 | 4 | Das Kind spielt. → Ich sehe ___ Kind. | |
 | 5 | Kein Student ist da. → Ich kenne ___ Studenten. | |
 </div>
+
+✏️ **اختر الإجابة الصحيحة من الخيارات:**
 
 <div class="exercise" markdown="1" data-answers='["einen","den","die","ein","einen"]'>
 | # | الجملة | الإجابة |

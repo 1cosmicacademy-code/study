@@ -67,6 +67,8 @@ If the sentence has a verb or adjective → use nicht
 
 ## 📝 Exercises
 
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
+
 <div class="exercise" markdown="1" data-answers='["kein","nicht","nicht","kein","keine"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
@@ -76,6 +78,8 @@ If the sentence has a verb or adjective → use nicht
 | 4 | Das ist ___ problem. | |
 | 5 | Wir haben ___ children. | |
 </div>
+✏️ **Fill in the blank with the correct word:** Write only one word in each field.
+
 <div class="exercise" markdown="1" data-answers='["keine","nicht","keinen","nicht","kein"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
