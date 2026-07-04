@@ -274,8 +274,8 @@
       sceneEmoji: '❓',
       sceneAr: 'تسأل عن أشياء في الغرفة.',
       sceneEn: 'Asking about things in the room.',
-      stemAr: '___ ist das? Das ist ein Buch.',
-      stemEn: '___ is that? That is a book.',
+      stemAr: 'اختر أداة الاستفهام: "___ ist das?"',
+      stemEn: 'Choose the question word: "___ ist das?"',
       options: ['Was', 'Wer', 'Wie'],
       answer: 'A',
       feedbackAr: '"Was" للأشياء (what). "Wer" للأشخاص (who). "Wie" للكيفية (how).',
@@ -319,7 +319,7 @@
       sceneEmoji: '🗣️',
       sceneAr: 'تسأل مديرك إذا كان يمكنك القدوم مبكراً.',
       sceneEn: 'Asking your boss if you may come earlier.',
-      stemAr: '___ ich morgen früher kommen?',
+      stemAr: 'اختر الفعل المساعد: "___ ich morgen früher kommen?"',
       stemEn: '___ I come earlier tomorrow?',
       options: ['Darf', 'Mag', 'Soll'],
       answer: 'A',
@@ -409,7 +409,7 @@
       sceneEmoji: '💭',
       sceneAr: 'تعبر عن أمنية — تتمنى لو كان لديك وقت أكثر.',
       sceneEn: 'Expressing a wish — if only you had more time.',
-      stemAr: '___ ich mehr Zeit hätte!',
+      stemAr: 'اختر أداة الشرط: "___ ich mehr Zeit hätte!"',
       stemEn: '___ I had more time!',
       options: ['Wenn', 'Weil', 'Dass'],
       answer: 'A',
@@ -708,7 +708,10 @@
     questionCard.className = 'level-question-card';
 
     var stem = en ? qd.stemEn : qd.stemAr;
-    var questionHtml = '<h3 class="level-question-stem">' + escapeHtml(stem) + '</h3>';
+    var escapedStem = escapeHtml(stem);
+    // عزل ___ عن تأثير اتجاه النص المحيط (RTL/LTR) لمنع إعادة الترتيب
+    escapedStem = escapedStem.replace(/___/g, '<bdi dir="ltr">___</bdi>');
+    var questionHtml = '<h3 class="level-question-stem">' + escapedStem + '</h3>';
 
     // زر الصوت للأسئلة الصوتية
     if (qd.audio) {
