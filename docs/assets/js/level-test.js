@@ -88,6 +88,28 @@
 
   var OPTION_LABELS = ['A', 'B', 'C', 'D'];
 
+  // خلط الخيارات لتوزيع الإجابات الصحيحة على A/B/C/D
+  function shuffleOptions() {
+    for (var i = 0; i < QUESTIONS.length; i++) {
+      var qd = QUESTIONS[i];
+      if (qd.type !== 'choice') continue;
+      var n = qd.options.length;
+      if (n < 2) continue;
+      // نستخدم index السؤال كـ seed لخلط موحد (نفس الترتيب كل مرة)
+      var shift = (i + 1) % n;
+      if (shift === 0) continue;
+      // تدوير الخيارات يساراً
+      var rotated = [];
+      for (var j = 0; j < n; j++) {
+        rotated[j] = qd.options[(j + shift) % n];
+      }
+      qd.options = rotated;
+      // الإجابة كانت index 0، بعد التدوير أصبحت في index (n - shift)
+      var newIdx = (n - shift) % n;
+      qd.answer = OPTION_LABELS[newIdx];
+    }
+  }
+
   // ── بيانات الأسئلة (30 سؤالاً) ──
   //
   // كل سؤال له:
@@ -106,8 +128,10 @@
       sceneEmoji: '🛎️',
       sceneAr: 'أنت في فندق في برلين. تصل الساعة 8 صباحاً.',
       sceneEn: 'You are at a hotel in Berlin. You arrive at 8 AM.',
-      stemAr: 'ما التحية المناسبة للموظف في الاستقبال؟',
-      stemEn: 'What greeting is appropriate for the receptionist?',
+      audio: true,
+      audioText: 'Guten Morgen',
+      stemAr: 'استمع واختر التحية المناسبة للساعة 8 صباحاً:',
+      stemEn: 'Listen and choose the appropriate greeting for 8 AM:',
       options: ['Guten Morgen', 'Guten Tag', 'Gute Nacht'],
       answer: 'A',
       feedbackAr: '"Guten Morgen" تُقال من الصباح حتى الظهر (حتى الساعة 12). مناسبة تماماً للساعة 8 صباحاً.',
@@ -181,8 +205,10 @@
       sceneEmoji: '🧍',
       sceneAr: 'في عيادة الطبيب. يشرح لك أجزاء الجسم.',
       sceneEn: 'At the doctor\'s office. They explain body parts to you.',
-      stemAr: 'كيف تقول "head" بالألمانية؟',
-      stemEn: 'How do you say "head" in German?',
+      audio: true,
+      audioText: 'der Kopf',
+      stemAr: 'استمع واختر الكلمة التي سمعتها:',
+      stemEn: 'Listen and choose the word you heard:',
       options: ['der Kopf', 'die Hand', 'der Fuß'],
       answer: 'A',
       feedbackAr: 'der Kopf = الرأس. die Hand = اليد. der Fuß = القدم.',
@@ -231,8 +257,10 @@
       sceneEmoji: '🧑‍🏫',
       sceneAr: 'في صف اللغة الألمانية، تتعلم تصريف الأفعال.',
       sceneEn: 'In German class, learning verb conjugation.',
-      stemAr: 'Er ___ (heißen) Ahmed.',
-      stemEn: 'He ___ Ahmed.',
+      audio: true,
+      audioText: 'Er heißt Ahmed',
+      stemAr: 'استمع واختر التصريف الصحيح:',
+      stemEn: 'Listen and choose the correct conjugation:',
       options: ['heißt', 'heiße', 'heißen'],
       answer: 'A',
       feedbackAr: 'er/sie/es → heiẞt. التصريف الصحيح للغائب المفرد.',
@@ -682,8 +710,27 @@
     var stem = en ? qd.stemEn : qd.stemAr;
     var questionHtml = '<h3 class="level-question-stem">' + escapeHtml(stem) + '</h3>';
 
+    // زر الصوت للأسئلة الصوتية
+    if (qd.audio) {
+      questionHtml +=
+        '<div class="level-audio-wrapper">' +
+          '<button class="level-audio-btn" data-audio-text="' + escapeHtml(qd.audioText) + '">' +
+            '<span class="level-audio-icon">🔊</span> ' +
+            '<span class="level-audio-label">' + escapeHtml(en ? 'Listen' : 'استمع') + '</span>' +
+          '</button>' +
+        '</div>';
+    }
+
     questionCard.innerHTML = questionHtml;
     container.appendChild(questionCard);
+
+    // ربط حدث زر الصوت
+    var audioBtn = questionCard.querySelector('.level-audio-btn');
+    if (audioBtn) {
+      audioBtn.addEventListener('click', function () {
+        playAudio(this);
+      });
+    }
 
     // ── منطقة الإجابة ──
     var answerArea = document.createElement('div');
@@ -711,8 +758,8 @@
     navArea.style.display = 'none';
     container.appendChild(navArea);
 
-    // إذا كان السؤال قد أُجيب مسبقاً (مثلاً بعد إعادة العرض)
-    if (userAnswers[currentStep] != null) {
+    // إذا كان السؤال قد أُجيب مسبقاً (نعرض التغذية الراجعة فقط إذا ضغط زر التأكيد)
+    if (userAnswers[currentStep] != null && userAnswers[currentStep].checked) {
       answeredCurrent = true;
       var prev = userAnswers[currentStep];
       showFeedback(qd, prev.answer, prev.correct, feedbackArea, navArea);
@@ -1006,7 +1053,7 @@
     if (answeredCurrent) return;
     var correct = (value === qd.answer);
 
-    userAnswers[currentStep] = { answer: value, correct: correct };
+    userAnswers[currentStep] = { answer: value, correct: correct, checked: true };
     answeredCurrent = true;
 
     // إعادة عرض الخيارات مع التمييز
@@ -1023,7 +1070,7 @@
     if (answeredCurrent) return;
     var correct = checkAnswer(value, qd);
 
-    userAnswers[currentStep] = { answer: value, correct: correct };
+    userAnswers[currentStep] = { answer: value, correct: correct, checked: true };
     answeredCurrent = true;
 
     // إعادة عرض حقل النص
@@ -1127,6 +1174,42 @@
       if (a[i] !== b[i]) return false;
     }
     return true;
+  }
+
+  // ── تشغيل الصوت ──
+
+  function playAudio(btn) {
+    if (!window.speechSynthesis) return;
+    var text = btn.getAttribute('data-audio-text');
+    if (!text) return;
+
+    // إيقاف أي تشغيل سابق
+    window.speechSynthesis.cancel();
+
+    var u = new SpeechSynthesisUtterance(text);
+    u.lang = 'de-DE';
+    u.rate = 0.82;
+    u.pitch = 1.05;
+
+    // محاولة استخدام صوت ألماني
+    var voices = window.speechSynthesis.getVoices();
+    for (var vi = 0; vi < voices.length; vi++) {
+      if (voices[vi].lang.startsWith('de')) {
+        u.voice = voices[vi];
+        break;
+      }
+    }
+
+    // مؤشر التشغيل
+    btn.disabled = true;
+    btn.querySelector('.level-audio-label').textContent = isEnglishPage() ? 'Playing…' : 'جارٍ التشغيل…';
+
+    u.onend = u.onerror = function () {
+      btn.disabled = false;
+      btn.querySelector('.level-audio-label').textContent = isEnglishPage() ? 'Listen' : 'استمع';
+    };
+
+    window.speechSynthesis.speak(u);
   }
 
   // ── احتساب النتائج ──
@@ -1490,6 +1573,7 @@
     container = document.querySelector('.level-assessment');
     if (!container) return;
     container.className = 'level-assessment';
+    shuffleOptions(); // توزيع الإجابات الصحيحة على A/B/C/D
     showIntro();
   }
 
