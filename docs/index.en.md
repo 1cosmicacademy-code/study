@@ -38,6 +38,21 @@ This website is your **free guide** for learning German at **A1-A2 level** — o
 
 ---
 
+## 🧪 Find Your Level — Einstufungstest (Level Assessment)
+
+> 🎯 **Are you A1, A2, or B1?** Take the smart 42-question test (randomly selected from a pool of ~200) and get your true level with personalized recommendations!
+
+| Feature | Description |
+|---------|-------------|
+| 🎯 **Accurate Level Assessment** | A1 · A2 · B1 — instant result after 42 questions |
+| 📊 **Strengths & Weaknesses Analysis** | Broken down by area: vocabulary, grammar, sentence structure, communication, listening, reading |
+| 🎓 **Personalized Recommendations** | Lessons and exercises tailored to your level — with direct links to the grammar you need |
+| 🔄 **Fresh Questions Every Time** | Random selection from a pool of ~200 questions — different test, same accuracy |
+
+[🚀 Start the Level Assessment — Free!](einstufungstest/index.md){ .md-button .md-button--primary }
+
+---
+
 ## 🎬 Educational Videos
 
 Every lesson has a YouTube video:
