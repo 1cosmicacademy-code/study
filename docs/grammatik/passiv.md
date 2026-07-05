@@ -97,7 +97,7 @@
 
 ✏️ **رتّب الكلمات لتكوين جملة صحيحة:**
 
-<div class="exercise" markdown="1" data-answers='["**Aktiv**","**Passiv**","**Aktiv**","**Passiv**","**Passiv**"]'>
+<div class="exercise" markdown="1" data-answers='["Aktiv","Passiv","Aktiv","Passiv","Passiv"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
 | 1 | Der Mann kauft ein Auto. → ___ | |
@@ -108,7 +108,7 @@
 </div>
 ✏️ **رتّب الكلمات لتكوين جملة صحيحة:**
 
-<div class="exercise" markdown="1" data-answers='["Das Bild **wird gemalt**."]'>
+<div class="exercise" markdown="1" data-answers='["wird...gebacken","wird...repariert","wird...gekocht","wird...gelesen","wird...gemalt"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
 | 1 | Der Bäcker backt das Brot. → Das Brot ___ ___. | |
@@ -119,7 +119,7 @@
 </div>
 ✏️ **أكمل الفراغ بالكلمة الصحيحة:** اكتب كلمة واحدة فقط في كل خانة.
 
-<div class="exercise" markdown="1" data-answers='["**wird**","**werden**","**wird**","**werden**","**werde**"]'>
+<div class="exercise" markdown="1" data-answers='["wird","werden","wird","werden","werde"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
 | 1 | Das Wasser ___ getrunken. | |
@@ -130,7 +130,7 @@
 </div>
 ✏️ **رتّب الكلمات لتكوين جملة صحيحة:**
 
-<div class="exercise" markdown="1" data-answers='["Die Tür **muss geschlossen werden**."]'>
+<div class="exercise" markdown="1" data-answers='["muss...gemacht...werden","kann...gelöst...werden","soll...getrennt...werden","darf...geraucht...werden","muss...geschlossen...werden"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
 | 1 | Man muss die Aufgabe machen. → Die Aufgabe ___ ___ ___. | |
@@ -141,7 +141,7 @@
 </div>
 ✏️ **ترجم الجملة إلى الألمانية:**
 
-<div class="exercise" markdown="1" data-answers='["Die Kinder **werden von der Mutter gefragt**. (von der Mutter قبل gefragt أو قبله)"]'>
+<div class="exercise" markdown="1" data-answers='["Das Buch wird gelesen.","Die Suppe wird gekocht.","Der Brief wird vom Lehrer geschrieben.","Das Fenster kann geöffnet werden.","Die Kinder werden von der Mutter gefragt."]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
 | 1 | Das Buch wird lesen. (غلط) | |

@@ -133,13 +133,13 @@
 | # | Words | Correct Sentence |
 |---|-------|-----------------|
 | 1 | auf / um 7 Uhr / stehe / ich | **______________** |
-| 2 | like / you / soccer / play / do / ? | **______________** |
-| 3 | today / we / time / have | **______________** |
-| 4 | in your free time / do / what / you / ? | **______________** |
-| 5 | a sister / has / he | **______________** |
-| 6 | in the evening / watches / he / TV | **______________** |
-| 7 | at 10 o'clock / sleep / go / I | **______________** |
-| 8 | on Saturday / shop / we | **______________** |
+| 2 | gern / du / Fußball / spielst / ? | **______________** |
+| 3 | heute / wir / Zeit / haben | **______________** |
+| 4 | Was / machst / du / in der Freizeit / ? | **______________** |
+| 5 | Er / hat / eine Schwester | **______________** |
+| 6 | Er / sieht / abends / fern | **______________** |
+| 7 | Ich / gehe / um 10 Uhr / schlafen | **______________** |
+| 8 | Wir / kaufen / am Samstag / ein | **______________** |
 
 </div>
 ---

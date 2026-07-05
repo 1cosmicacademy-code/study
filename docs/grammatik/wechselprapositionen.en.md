@@ -97,7 +97,7 @@ When a preposition comes with **der / das**, they often merge:
 
 ✏️ **Choose the correct option:**
 
-<div class="exercise" markdown="1" data-answers='["**auf**","**auf**","**unter**","**in**","**an**"]'>
+<div class="exercise" markdown="1" data-answers='["auf","auf","unter","in","an"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
 | 1 | Wo ist der Schlüssel? — Er liegt ___ (auf / in) dem Tisch. | |
@@ -110,7 +110,7 @@ When a preposition comes with **der / das**, they often merge:
 
 ✏️ **Complete the blank:** Write the full answer in the field.
 
-<div class="exercise" markdown="1" data-answers='["Der Stuhl steht **neben der** Tür."]'>
+<div class="exercise" markdown="1" data-answers='["im","in den","unter dem","über das","neben der"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
 | 1 | Das Kind spielt ___ (in) ___ Garten. (Dativ) | |
@@ -123,7 +123,7 @@ When a preposition comes with **der / das**, they often merge:
 
 ✏️ **Rearrange the words to form a correct sentence:**
 
-<div class="exercise" markdown="1" data-answers='["Der Ball rollt **unter das Sofa**."]'>
+<div class="exercise" markdown="1" data-answers='["auf...den...Tisch","unter...das...Bett","hinter...die...Tür","neben...die...Mutter","unter...das...Sofa"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
 | 1 | Die Katze sitzt auf dem Tisch. → Die Katze springt ___ ___ ___. (auf) | |
@@ -136,7 +136,7 @@ When a preposition comes with **der / das**, they often merge:
 
 ✏️ **Rearrange the words to form a correct sentence:**
 
-<div class="exercise" markdown="1" data-answers='["**im**","**ans**","**ins**","**beim**","**am**"]'>
+<div class="exercise" markdown="1" data-answers='["im","ans","ins","beim","am"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
 | 1 | in + dem → ___ | |
@@ -149,7 +149,7 @@ When a preposition comes with **der / das**, they often merge:
 
 ✏️ **Rearrange the words to form a correct sentence:**
 
-<div class="exercise" markdown="1" data-answers='["**Wo** — Dativ (fixed location)"]'>
+<div class="exercise" markdown="1" data-answers='["Wo","Wohin","Wo","Wohin","Wo"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
 | 1 | ___ (Wo / Wohin) ist mein Buch? → **Wo** + **Dativ** | |

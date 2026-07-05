@@ -80,7 +80,7 @@ In German, relative pronouns are almost the same as definite articles: **der, di
 
 ✏️ **Choose the correct option:**
 
-<div class="exercise" markdown="1" data-answers='["**der**","**die**","**das**","**den**","**denen**"]'>
+<div class="exercise" markdown="1" data-answers='["der","die","das","den","denen"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
 | 1 | Der Mann, ___ (der / den / dem) dort arbeitet, ist nett. | |
@@ -91,7 +91,7 @@ In German, relative pronouns are almost the same as definite articles: **der, di
 </div>
 ✏️ **Fill in the blank with the correct word:** Write only one word in each field.
 
-<div class="exercise" markdown="1" data-answers='["**den**","**die**","**das**","**dem**","**deren**"]'>
+<div class="exercise" markdown="1" data-answers='["den","die","das","dem","deren"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
 | 1 | Der Film, ___ ich gesehen habe, war langweilig. | |
@@ -102,7 +102,7 @@ In German, relative pronouns are almost the same as definite articles: **der, di
 </div>
 ✏️ **Fill in the blank with the correct word:** Write only one word in each field.
 
-<div class="exercise" markdown="1" data-answers='["Ich lese ein Buch","**das** sehr interessant **ist**."]'>
+<div class="exercise" markdown="1" data-answers='["Ich habe einen Freund, der in Hamburg wohnt.","Das ist ein Film, den ich gestern gesehen habe.","Kennst du die Frau, die im Krankenhaus arbeitet?","Das ist der Hund, dem ich Futter gebe.","Ich lese ein Buch, das sehr interessant ist."]'>
 | # | Sentence | Answer |
 |---|----------|--------|
 | 1 | Ich habe einen Freund. **Der Freund** wohnt in Hamburg. | |
@@ -113,7 +113,7 @@ In German, relative pronouns are almost the same as definite articles: **der, di
 </div>
 ✏️ **Fill in the blank with the correct word:** Write only one word in each field.
 
-<div class="exercise" markdown="1" data-answers='["Die Leute","**deren** Auto kaputt ist","warten auf Hilfe. (Genitiv — possession)"]'>
+<div class="exercise" markdown="1" data-answers='["Der Mann, der dort arbeitet, ist jung.","Die Frau, die ich sehe, ist schön.","Das Kind, dem ich helfe, ist klein.","Der Film, den ich gesehen habe, war gut.","Die Leute, deren Auto kaputt ist, warten auf Hilfe."]'>
 | # | Sentence | Answer |
 |---|----------|--------|
 | 1 | Der Mann, **den** dort arbeitet, ist jung. (wrong case) | |
@@ -124,7 +124,7 @@ In German, relative pronouns are almost the same as definite articles: **der, di
 </div>
 ✏️ **Fill in the blank with the correct word:** Write only one word in each field.
 
-<div class="exercise" markdown="1" data-answers='["Der Freund","**dessen** Auto blau ist","heißt Ahmed."]'>
+<div class="exercise" markdown="1" data-answers='["Der Mann, der hier wohnt, ist Arzt.","Die Frau, die ich sehe, ist schön.","Das Buch, das ich gekauft habe, ist interessant.","Die Kinder, denen ich helfe, sind klein.","Der Freund, dessen Auto blau ist, heißt Ahmed."]'>
 | # | Sentence | Answer |
 |---|----------|--------|
 | 1 | The man who lives here is a doctor. | |

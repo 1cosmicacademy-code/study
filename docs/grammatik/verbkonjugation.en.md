@@ -78,32 +78,32 @@ haben: habe, hast, hat, haben, habt, haben
 | # | Sentence | Answer |
 |---|----------|--------|
 | 1 | Ich ___ (wohnen) in Berlin. | |
-| 2 | Du ___ (lernen) German. | |
-| 3 | Er ___ (kommen) from Syria. | |
-| 4 | Wir ___ (arbeiten) here. | |
-| 5 | Ihr ___ (spielen) football. | |
-| 6 | Sie (plural) ___ (tanzen) happily. | |
+| 2 | Du ___ (lernen) Deutsch. | |
+| 3 | Er ___ (kommen) aus Syrien. | |
+| 4 | Wir ___ (arbeiten) hier. | |
+| 5 | Ihr ___ (spielen) Fußball. | |
+| 6 | Sie (plural) ___ (tanzen) gern. | |
 </div>
 ✏️ **Fill in the blank with the correct word:** Write only one word in each field.
 
 <div class="exercise" markdown="1" data-answers='["bin","hast","ist","haben","seid"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
-| 1 | Ich ___ 25 years old. | |
-| 2 | Du ___ a dog. | |
-| 3 | Er ___ a teacher. | |
-| 4 | Wir ___ hungry. | |
-| 5 | Ihr ___ hardworking. | |
+| 1 | Ich ___ 25 Jahre alt. | |
+| 2 | Du ___ einen Hund. | |
+| 3 | Er ___ ein Lehrer. | |
+| 4 | Wir ___ Hunger. | |
+| 5 | Ihr ___ fleißig. | |
 </div>
 ✏️ **Fill in the blank with the correct word:** Write only one word in each field.
 
 <div class="exercise" markdown="1" data-answers='["fährt","siehst","liest","essen","nehme"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
-| 1 | Er ___ (fahren) to Munich. | |
-| 2 | Du ___ (sehen) the film. | |
-| 3 | Sie (she) ___ (lesen) a book. | |
-| 4 | Wir ___ (essen) pizza. | |
-| 5 | Ich ___ (nehmen) the bus. | |
+| 1 | Er ___ (fahren) nach München. | |
+| 2 | Du ___ (sehen) den Film. | |
+| 3 | Sie (she) ___ (lesen) ein Buch. | |
+| 4 | Wir ___ (essen) Pizza. | |
+| 5 | Ich ___ (nehmen) den Bus. | |
 </div>
 ---

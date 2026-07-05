@@ -81,7 +81,7 @@ We start from **Präteritum** (simple past) and add an **Umlaut** (dots) to the 
 
 ✏️ **Choose the correct option:**
 
-<div class="exercise" markdown="1" data-answers='["**wäre**","**hätte**","**Könntest**","**wäre**","**hätten**"]'>
+<div class="exercise" markdown="1" data-answers='["wäre","hätte","Könntest","wäre","hätten"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
 | 1 | Ich ___ (wäre / hätte / würde) gern in Berlin. | |
@@ -92,7 +92,7 @@ We start from **Präteritum** (simple past) and add an **Umlaut** (dots) to the 
 </div>
 ✏️ **Fill in the blank with the correct word:** Write only one word in each field.
 
-<div class="exercise" markdown="1" data-answers='["**hätte**","**wärst**","**wäre**","**würden**","**Hättet**"]'>
+<div class="exercise" markdown="1" data-answers='["hätte","wärst","wäre","würden","Hättet"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
 | 1 | Ich ___ gern einen Hund. | |
@@ -103,7 +103,7 @@ We start from **Präteritum** (simple past) and add an **Umlaut** (dots) to the 
 </div>
 ✏️ **Rearrange the words to form a correct sentence:**
 
-<div class="exercise" markdown="1" data-answers='["Ihr **würdet** gern Kaffee **trinken**."]'>
+<div class="exercise" markdown="1" data-answers='["würde...lernen","würde...kaufen","würden...essen","würde...reisen","würdet...trinken"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
 | 1 | Ich lerne Deutsch. (würde) → Ich ___ gern Deutsch ___. | |
@@ -114,7 +114,7 @@ We start from **Präteritum** (simple past) and add an **Umlaut** (dots) to the 
 </div>
 ✏️ **Choose the correct option:**
 
-<div class="exercise" markdown="1" data-answers='["Wenn ihr früher **kämet** (kommen würdet)","**könntet** ihr den Film sehen."]'>
+<div class="exercise" markdown="1" data-answers='["hätte...würde","könntest...könntest","hätten...würden","wäre...würde","kämet...könntet"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
 | 1 | Wenn ich Zeit ___, ___ ich Sport machen. (haben / würde) | |
@@ -125,7 +125,7 @@ We start from **Präteritum** (simple past) and add an **Umlaut** (dots) to the 
 </div>
 ✏️ **Fill in the blank with the correct word:** Write only one word in each field.
 
-<div class="exercise" markdown="1" data-answers='["Would you come along tomorrow?"]'>
+<div class="exercise" markdown="1" data-answers='["wäre","Könntest","wäre","hätte","Würdest"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
 | 1 | Ich wäre gern bei dir. | |

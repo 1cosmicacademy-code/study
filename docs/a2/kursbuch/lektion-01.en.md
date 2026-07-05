@@ -148,10 +148,10 @@
 Fill in the correct verb form:
 
 1. Ich _____ (lernen) Deutsch.
-2. Du _____ (kommen) from Ägypten.
-3. Er _____ (gehen) to school.
-4. Wir _____ (arbeiten) together.
-5. Ihr _____ (sein) hardworking.
+2. Du _____ (kommen) aus Ägypten.
+3. Er _____ (gehen) zur Schule.
+4. Wir _____ (arbeiten) zusammen.
+5. Ihr _____ (sein) fleißig.
 
 ### Exercise 2: Directions — Write the correct direction
 
@@ -186,7 +186,7 @@ Fill in the correct verb form:
 
 **Choose the correct word based on the sentence meaning:**
 
-<div class="exercise" markdown="1" data-type="choice" data-answers='["ب","ب","ج","ب","ج"]'>
+<div class="exercise" markdown="1" data-type="choice" data-answers='["B","B","C","B","C"]'>
 
 | # | Sentence | أ | ب | ج |
 |---|----------|---|---|---|
@@ -208,11 +208,11 @@ Fill in the correct verb form:
 
 | # | Sentence | Answer |
 |---|----------|--------|
-| 1 | Ich ___ (gehen — to go) to school. | |
-| 2 | Du ___ (kommen — to come) from Spain. | |
+| 1 | Ich ___ (gehen — to go) zur Schule. | |
+| 2 | Du ___ (kommen — to come) aus Spanien. | |
 | 3 | Er ___ (lernen — to learn) German. | |
-| 4 | Sie (she) ___ (arbeiten — to work) at a company. | |
-| 5 | Ihr ___ (sein — to be) hardworking. | |
+| 4 | Sie (she) ___ (arbeiten — to work) bei einer Firma. | |
+| 5 | Ihr ___ (sein — to be) fleißig. | |
 | 6 | Ihr ___ (wohnen — to live) in Berlin. | |
 
 </div>

@@ -28,7 +28,7 @@
 
 **اختار: mein ولا meine؟**
 
-<div class="exercise" markdown="1" data-type="choice" data-answers='["mein","meine","mein","meine","mein","meine","mein","meine"]'>
+<div class="exercise" markdown="1" data-type="choice" data-answers='["A","B","A","B","A","B","A","B"]'>
 
 | # | الجملة | mein | meine |
 |---|--------|:----:|:-----:|
@@ -133,7 +133,7 @@
 
 **اختر كلمة الملكية الصحيحة:**
 
-<div class="exercise" markdown="1" data-type="choice" data-answers='["ب","ب","ج","ب","أ","ب","أ","ب"]'>
+<div class="exercise" markdown="1" data-type="choice" data-answers='["B","B","C","B","A","B","A","B"]'>
 
 | # | الجملة | أ | ب | ج |
 |---|--------|---|---|---|

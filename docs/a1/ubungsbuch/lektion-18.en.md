@@ -30,7 +30,7 @@
 
 **Choose the correct word:**
 
-<div class="exercise" data-type="choice" markdown="1" data-answers='["a", "b", "c", "c", "b", "b", "b", "b", "b", "b"]'>
+<div class="exercise" data-type="choice" markdown="1" data-answers='["A", "B", "C", "C", "B", "B", "B", "B", "B", "B"]'>
 
 | # | Sentence | Choices |
 |---|----------|---------|

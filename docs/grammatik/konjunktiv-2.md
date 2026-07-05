@@ -81,7 +81,7 @@
 
 ✏️ **اختر الإجابة الصحيحة من الخيارات:**
 
-<div class="exercise" markdown="1" data-answers='["**wäre**","**hätte**","**Könntest**","**wäre**","**hätten**"]'>
+<div class="exercise" markdown="1" data-answers='["wäre","hätte","Könntest","wäre","hätten"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
 | 1 | Ich ___ (wäre / hätte / würde) gern in Berlin. | |
@@ -92,7 +92,7 @@
 </div>
 ✏️ **أكمل الفراغ بالكلمة الصحيحة:** اكتب كلمة واحدة فقط في كل خانة.
 
-<div class="exercise" markdown="1" data-answers='["**hätte**","**wärst**","**wäre**","**würden**","**Hättet**"]'>
+<div class="exercise" markdown="1" data-answers='["hätte","wärst","wäre","würden","Hättet"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
 | 1 | Ich ___ gern einen Hund. | |
@@ -103,7 +103,7 @@
 </div>
 ✏️ **رتّب الكلمات لتكوين جملة صحيحة:**
 
-<div class="exercise" markdown="1" data-answers='["Ihr **würdet** gern Kaffee **trinken**."]'>
+<div class="exercise" markdown="1" data-answers='["würde...lernen","würde...kaufen","würden...essen","würde...reisen","würdet...trinken"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
 | 1 | Ich lerne Deutsch. (würde) → Ich ___ gern Deutsch ___. | |
@@ -114,7 +114,7 @@
 </div>
 ✏️ **اختر الإجابة الصحيحة من الخيارات:**
 
-<div class="exercise" markdown="1" data-answers='["Wenn ihr früher **kämet** (kommen würdet)","**könntet** ihr den Film sehen."]'>
+<div class="exercise" markdown="1" data-answers='["hätte...würde","könntest...könntest","hätten...würden","wäre...würde","kämet...könntet"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
 | 1 | Wenn ich Zeit ___, ___ ich Sport machen. (haben / würde) | |
@@ -125,7 +125,7 @@
 </div>
 ✏️ **ترجم الجملة إلى الألمانية:**
 
-<div class="exercise" markdown="1" data-answers='["هل سترافقني غداً؟"]'>
+<div class="exercise" markdown="1" data-answers='["wäre","Könntest","wäre","hätte","Würdest"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
 | 1 | Ich wäre gern bei dir. | |

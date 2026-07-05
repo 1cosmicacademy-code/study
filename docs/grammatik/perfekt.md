@@ -204,7 +204,7 @@ ge- + جذر الفعل (معدل) + -en
 </div>
 ✏️ **رتّب الكلمات لتكوين جملة صحيحة:**
 
-<div class="exercise" markdown="1" data-answers='["✅ صحيح (sein مع fahren)","ist gekommen (hat → ist)","✅ صحيح","hat gelesen (ist → hat)","✅ صحيح"]'>
+<div class="exercise" markdown="1" data-answers='["Ich bin nach Berlin gefahren.","Sie ist gestern gekommen.","Wir haben im Park gespielt.","Er hat das Buch gelesen.","Ich bin früh aufgestanden."]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
 | 1 | Ich habe nach Berlin gefahren. | |

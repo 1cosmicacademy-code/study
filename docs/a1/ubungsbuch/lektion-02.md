@@ -32,7 +32,7 @@
 
 **اختر الشكل الصحيح (مذكر أو مؤنث) حسب المعنى:**
 
-<div class="exercise" markdown="1" data-type="choice" data-answers='["أ","ب","ب","أ","ب","أ","أ","ب"]'>
+<div class="exercise" markdown="1" data-type="choice" data-answers='["A","B","B","A","B","A","A","B"]'>
 
 | # | الجملة | أ | ب |
 |---|--------|---|---|
@@ -76,7 +76,7 @@
 
 **هل نستخدم du (غير رسمي) أم Sie (رسمي)؟**
 
-<div class="exercise" markdown="1" data-type="choice" data-answers='["du","Sie","du","Sie","Sie","du","Sie","du"]'>
+<div class="exercise" markdown="1" data-type="choice" data-answers='["A","B","A","B","B","A","B","A"]'>
 
 | # | الموقف | du | Sie |
 |---|--------|:--:|:---:|
@@ -175,7 +175,7 @@
 
 ## التمرين 9: اختر الإجابة الصحيحة — المهنة والمكان 🎯
 
-<div class="exercise" markdown="1" data-type="choice" data-answers='["ب","أ","ج","ب","ج","ج"]'>
+<div class="exercise" markdown="1" data-type="choice" data-answers='["B","A","C","B","C","C"]'>
 
 | # | السؤال | أ | ب | ج |
 |---|--------|---|---|---|

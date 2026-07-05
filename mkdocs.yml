@@ -48,6 +48,7 @@ extra_css:
 extra_javascript:
   - assets/js/video-switcher.js
   - assets/js/exercise-checker.js
+  - assets/js/question-bank.js
   - assets/js/level-test.js
   - assets/js/direction-fix.js
 

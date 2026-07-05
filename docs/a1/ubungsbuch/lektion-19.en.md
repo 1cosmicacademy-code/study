@@ -29,7 +29,7 @@
 
 </div>
 
-<div class="exercise" data-type="choice" markdown="1" data-answers='["b", "a", "c", "b", "b", "b", "a", "c"]'>
+<div class="exercise" data-type="choice" markdown="1" data-answers='["B", "A", "C", "B", "B", "B", "A", "C"]'>
 
 ## 🥈 Exercise 2: Choose the Correct Answer
 

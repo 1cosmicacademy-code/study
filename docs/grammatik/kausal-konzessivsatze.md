@@ -242,7 +242,7 @@ Es regnet,        trotzdem   gehen  wir spazieren.
 </div>
 ✅ **حدد: ✅ صحيح / ❌ خطأ:**
 
-<div class="exercise" markdown="1" data-answers='["❌","✅","✅","❌","✅"]'>
+<div class="exercise" markdown="1" data-answers='["falsch","richtig","richtig","falsch","richtig"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
 | 1 |  | |

@@ -29,7 +29,7 @@
 
 **Choose a, b or c:**
 
-<div class="exercise" markdown="1" data-type="choice" data-answers='["b", "c", "b", "b", "b", "a", "c", "c", "a", "b"]'>
+<div class="exercise" markdown="1" data-type="choice" data-answers='["B", "C", "B", "B", "B", "A", "C", "C", "A", "B"]'>
 1. Entschuldigung! Wie komme ich ___ Bahnhof?
    - a) zur
    - b) zum

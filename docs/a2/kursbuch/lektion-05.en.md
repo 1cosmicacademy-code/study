@@ -179,7 +179,7 @@ Präteritum is the simple past tense. In spoken German, it is used mainly with t
 **A:** Guten Tag! _____ Sie bitte Platz.
 **B:** Danke. Ich möchte mich als _____ bewerben.
 **A:** Was _____ Sie von Beruf?
-**B:** Ich _____ (sein) at a company in Hamburg.
+**B:** Ich _____ (sein) bei einer Firma in Hamburg.
 
 ### Exercise 5: Write about your dream job
 

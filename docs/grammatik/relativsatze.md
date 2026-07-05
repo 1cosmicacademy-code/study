@@ -80,7 +80,7 @@
 
 ✏️ **اختر الإجابة الصحيحة من الخيارات:**
 
-<div class="exercise" markdown="1" data-answers='["**der**","**die**","**das**","**den**","**denen**"]'>
+<div class="exercise" markdown="1" data-answers='["der","die","das","den","denen"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
 | 1 | Der Mann, ___ (der / den / dem) dort arbeitet, ist nett. | |
@@ -91,7 +91,7 @@
 </div>
 ✏️ **أكمل الفراغ بالكلمة الصحيحة:** اكتب كلمة واحدة فقط في كل خانة.
 
-<div class="exercise" markdown="1" data-answers='["**den**","**die**","**das**","**dem**","**deren**"]'>
+<div class="exercise" markdown="1" data-answers='["den","die","das","dem","deren"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
 | 1 | Der Film, ___ ich gesehen habe, war langweilig. | |
@@ -102,7 +102,7 @@
 </div>
 ✏️ **ترجم الجملة إلى الألمانية:**
 
-<div class="exercise" markdown="1" data-answers='["Ich lese ein Buch","**das** sehr interessant **ist**."]'>
+<div class="exercise" markdown="1" data-answers='["Ich habe einen Freund, der in Hamburg wohnt.","Das ist ein Film, den ich gestern gesehen habe.","Kennst du die Frau, die im Krankenhaus arbeitet?","Das ist der Hund, dem ich Futter gebe.","Ich lese ein Buch, das sehr interessant ist."]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
 | 1 | Ich habe einen Freund. **Der Freund** wohnt in Hamburg. | |
@@ -113,7 +113,7 @@
 </div>
 ✏️ **ترجم الجملة إلى الألمانية:**
 
-<div class="exercise" markdown="1" data-answers='["Die Leute","**deren** Auto kaputt ist","warten auf Hilfe. (Genitiv — ملكية)"]'>
+<div class="exercise" markdown="1" data-answers='["Der Mann, der dort arbeitet, ist jung.","Die Frau, die ich sehe, ist schön.","Das Kind, dem ich helfe, ist klein.","Der Film, den ich gesehen habe, war gut.","Die Leute, deren Auto kaputt ist, warten auf Hilfe."]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
 | 1 | Der Mann, **den** dort arbeitet, ist jung. (غلط في الحالة) | |
@@ -124,7 +124,7 @@
 </div>
 ✏️ **ترجم الجملة إلى الألمانية:**
 
-<div class="exercise" markdown="1" data-answers='["Der Freund","**dessen** Auto blau ist","heißt Ahmed."]'>
+<div class="exercise" markdown="1" data-answers='["Der Mann, der hier wohnt, ist Arzt.","Die Frau, die ich sehe, ist schön.","Das Buch, das ich gekauft habe, ist interessant.","Die Kinder, denen ich helfe, sind klein.","Der Freund, dessen Auto blau ist, heißt Ahmed."]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
 | 1 | الرجل الذي يسكن هنا هو طبيب. | |

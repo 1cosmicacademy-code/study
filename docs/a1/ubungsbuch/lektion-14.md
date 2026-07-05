@@ -24,7 +24,7 @@
 
 **اختر a, b أو c:**
 
-<div class="exercise" markdown="1" data-type="choice" data-answers='["b", "a", "b", "a", "b", "b", "c", "a"]'>
+<div class="exercise" markdown="1" data-type="choice" data-answers='["B", "A", "B", "A", "B", "B", "C", "A"]'>
 1. ___ tut der Kopf weh.
    - a) Ich
    - b) Mir

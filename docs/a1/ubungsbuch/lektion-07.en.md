@@ -103,7 +103,7 @@
 |---|-------|-----------------|
 | 1 | trinke / ich / Kaffee / keinen | **_______________** |
 | 2 | Fleisch / kein / isst / sie | **_______________** |
-| 3 | nicht / kommt / today / er | **_______________** |
+| 3 | nicht / kommt / heute / er | **_______________** |
 | 4 | Milch / wir / haben / keine | **_______________** |
 | 5 | mag / keinen / Fisch / er | **_______________** |
 

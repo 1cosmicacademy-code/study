@@ -128,7 +128,7 @@ Er kommt, obwohl er krank ist.
 </div>
 ✏️ **ترجم الجملة إلى الألمانية:**
 
-<div class="exercise" markdown="1" data-answers='["Sie lernt Deutsch","weil sie in Berlin studieren will."]'>
+<div class="exercise" markdown="1" data-answers='["Ich bin müde, weil ich viel gearbeitet habe.", "Er kommt nicht, weil er krank ist.", "Sie lernt Deutsch, weil sie in Berlin studieren will."]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
 | 1 | Ich bin müde. Ich habe viel gearbeitet. | |
@@ -137,7 +137,7 @@ Er kommt, obwohl er krank ist.
 </div>
 ✏️ **ترجم الجملة إلى الألمانية:**
 
-<div class="exercise" markdown="1" data-answers='["Er geht ins Kino","obwohl er krank ist."]'>
+<div class="exercise" markdown="1" data-answers='["Ich denke, dass er kommt.", "Sie lernt Deutsch, weil sie die Sprache liebt.", "Wenn du mich brauchst, rufe ich an.", "Er geht ins Kino, obwohl er krank ist."]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
 | 1 | dass / Ich / er / denke / kommt | |
@@ -147,7 +147,7 @@ Er kommt, obwohl er krank ist.
 </div>
 ✏️ **أكمل الفراغ:** اكتب الإجابة كاملة في الخانة.
 
-<div class="exercise" markdown="1" data-answers='["Ich mache weiter..."]'>
+<div class="exercise" markdown="1" data-answers='["Ich bin froh, dass du da bist.", "Er bleibt zu Hause, weil er krank ist.", "Ich lese ein Buch, wenn ich Zeit habe.", "Ich mache weiter, obwohl es schwierig ist."]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
 | 1 | Ich bin froh, dass ___________________. | |

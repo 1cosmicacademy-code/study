@@ -144,7 +144,7 @@
 
 **اختر صح (Richtig) أو خطأ (Falsch):**
 
-<div class="exercise" markdown="1" data-type="choice" data-answers='["خطأ","صح","صح","صح","خطأ","صح","خطأ","صح"]'>
+<div class="exercise" markdown="1" data-type="choice" data-answers='["B","A","A","A","B","A","B","A"]'>
 
 | # | الجملة | صح | خطأ |
 |---|--------|:--:|:---:|

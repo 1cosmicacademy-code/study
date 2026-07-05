@@ -200,7 +200,7 @@
 | 4 | Pause / von / ist / 12 / bis / 13 / Die | **______________** |
 | 5 | am / habe / ich / frei / Wochenende | **______________** |
 | 6 | du / pünktlich / Bist / ? | **______________** |
-| 7 | Monday / Am / I / an appointment / have | **______________** |
+| 7 | Am / Montag / habe / ich / einen Termin | **______________** |
 
 </div>
 ---

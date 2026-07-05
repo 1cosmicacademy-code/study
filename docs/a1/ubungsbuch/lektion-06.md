@@ -42,7 +42,7 @@
 
 </div>
 ---
-<div class="exercise" markdown="1" data-answers='["ب","ب","ج","ب","أ","ب","ب"]' data-type="choice">
+<div class="exercise" markdown="1" data-answers='["B","B","C","B","A","B","B"]' data-type="choice">
 
 
 ## التمرين 3: اختر الإجابة الصحيحة 🎯

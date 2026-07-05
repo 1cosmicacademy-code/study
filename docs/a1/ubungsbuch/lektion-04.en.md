@@ -28,7 +28,7 @@
 
 **Choose: mein or meine?**
 
-<div class="exercise" markdown="1" data-type="choice" data-answers='["mein","meine","mein","meine","mein","meine","mein","meine"]'>
+<div class="exercise" markdown="1" data-type="choice" data-answers='["A","B","A","B","A","B","A","B"]'>
 
 | # | Sentence | mein | meine |
 |---|----------|:----:|:-----:|

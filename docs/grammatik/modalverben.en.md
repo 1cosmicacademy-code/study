@@ -73,7 +73,7 @@ The golden rule 🥇:
 
 ✏️ **Choose the correct option:**
 
-<div class="exercise" markdown="1" data-answers='["**kann**","**sollst**","**darf**","**will**","**müssen**"]'>
+<div class="exercise" markdown="1" data-answers='["kann","sollst","darf","will","müssen"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
 | 1 | Ich ___ (kann / muss / darf) gut singen. | |
@@ -84,7 +84,7 @@ The golden rule 🥇:
 </div>
 ✏️ **Fill in the blank with the correct word:** Write only one word in each field.
 
-<div class="exercise" markdown="1" data-answers='["**kann**","**sollst**","**darf**","**müssen**","**wollt**"]'>
+<div class="exercise" markdown="1" data-answers='["kann","sollst","darf","müssen","wollt"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
 | 1 | Ich (können) ___ gut kochen. | |
@@ -95,7 +95,7 @@ The golden rule 🥇:
 </div>
 ✏️ **Choose the correct option:**
 
-<div class="exercise" markdown="1" data-answers='["Er möchte ein Auto kaufen."]'>
+<div class="exercise" markdown="1" data-answers='["Ich kann dir helfen.","Sie müssen Deutsch lernen.","Wir wollen ins Kino gehen.","Du darfst hier nicht rauchen.","Er möchte ein Auto kaufen."]'>
 | # | Sentence | Answer |
 |---|----------|--------|
 | 1 | (kann / Ich / helfen / dir) | |
@@ -106,7 +106,7 @@ The golden rule 🥇:
 </div>
 ✏️ **Rearrange the words to form a correct sentence:**
 
-<div class="exercise" markdown="1" data-answers='["Man **darf** hier nicht fotografieren."]'>
+<div class="exercise" markdown="1" data-answers='["kann","musst","möchte","sollst","darf"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
 | 1 | It is possible that I come. → Ich ___ kommen. (können) | |
@@ -117,7 +117,7 @@ The golden rule 🥇:
 </div>
 ✏️ **Rearrange the words to form a correct sentence:**
 
-<div class="exercise" markdown="1" data-answers='["**Soll** ich mehr **trinken**?"]'>
+<div class="exercise" markdown="1" data-answers='["Kannst...helfen","Muss...kommen","Dürfen...parken","Wollt...reisen","Soll...trinken"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
 | 1 | Du kannst mir helfen. → ___ du mir ___? | |

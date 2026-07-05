@@ -258,7 +258,7 @@ TE — KA — MO — LO
 </div>
 ✅ **Mark: ✅ Correct / ❌ Incorrect:**
 
-<div class="exercise" markdown="1" data-answers='["✅","❌","✅","❌","✅"]'>
+<div class="exercise" markdown="1" data-answers='["richtig","falsch","richtig","falsch","richtig"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
 | 1 |  | |

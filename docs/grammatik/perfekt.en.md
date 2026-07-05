@@ -204,7 +204,7 @@ prefix + ge + verb stem + t/en
 </div>
 ✏️ **Fill in the blank with the correct word:** Write only one word in each field.
 
-<div class="exercise" markdown="1" data-answers='["OK — correct (ist aufgestanden)"]'>
+<div class="exercise" markdown="1" data-answers='["Ich bin nach Berlin gefahren.","Sie ist gestern gekommen.","Wir haben im Park gespielt.","Er hat das Buch gelesen.","Ich bin früh aufgestanden."]'>
 | # | Sentence | Answer |
 |---|----------|--------|
 | 1 | Ich habe nach Berlin gefahren. | |

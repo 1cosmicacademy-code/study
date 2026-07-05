@@ -28,7 +28,7 @@
 
 **Choose the correct word:**
 
-<div class="exercise" data-type="choice" markdown="1" data-answers='["b", "a", "c", "a", "b", "a", "b", "b"]'>
+<div class="exercise" data-type="choice" markdown="1" data-answers='["B", "A", "C", "A", "B", "A", "B", "B"]'>
 
 | # | Sentence | Choices |
 |---|----------|---------|

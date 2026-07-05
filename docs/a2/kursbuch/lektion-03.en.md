@@ -164,9 +164,9 @@ Choose the correct sentence:
 
 ### Exercise 2: Separable Verbs — Complete the sentences
 
-1. Ich _____ (aufstehen) at 6 o'clock.
+1. Ich _____ (aufstehen) um 6 Uhr.
 2. Wann _____ der Film _____ (anfangen)?
-3. Wir _____ (einkaufen) tomorrow.
+3. Wir _____ (einkaufen) morgen.
 4. _____ du mich _____ (anrufen)?
 
 ### Exercise 3: Questions — Answer in detail

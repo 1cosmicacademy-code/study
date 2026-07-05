@@ -48,7 +48,7 @@
 
 **Choose the correct word:**
 
-<div class="exercise" markdown="1" data-type="choice" data-answers='["b","c","a","c","b","a","c","a"]'>
+<div class="exercise" markdown="1" data-type="choice" data-answers='["B","C","A","C","B","A","C","A"]'>
 
 | # | Sentence | Options |
 |---|----------|---------|
@@ -112,7 +112,7 @@
 
 **Read the sentence and choose Richtig (True) or Falsch (False):**
 
-<div class="exercise" markdown="1" data-type="choice" data-answers='["True","True","True","False","False","True","True"]'>
+<div class="exercise" markdown="1" data-type="choice" data-answers='["A","A","A","B","B","A","A"]'>
 
 | # | Sentence | True | False |
 |---|----------|:----:|:-----:|

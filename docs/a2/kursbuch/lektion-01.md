@@ -186,7 +186,7 @@
 
 **اختر الكلمة الصحيحة حسب معنى الجملة:**
 
-<div class="exercise" markdown="1" data-type="choice" data-answers='["ب","ب","ج","ب","ج"]'>
+<div class="exercise" markdown="1" data-type="choice" data-answers='["B","B","C","B","C"]'>
 
 | # | الجملة | أ | ب | ج |
 |---|--------|---|---|---|

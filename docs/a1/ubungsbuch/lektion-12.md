@@ -112,7 +112,7 @@
 
 **في كل جملة خطأ واحد. ابحث عنه وصححه:**
 
-<div class="exercise" markdown="1" data-answers='["Ich bin Schüler","Du bist Student","Er ist Lehrer","Wir sind in der Schule","Ich möchte Arzt werden","Was bist du von Beruf?","Sie sind Studenten","صحيح"]'>
+<div class="exercise" markdown="1" data-answers='["Ich bin Schüler","Du bist Student","Er ist Lehrer","Wir sind in der Schule","Ich möchte Arzt werden","Was bist du von Beruf?","Sie sind Studenten","richtig"]'>
 
 | # | الجملة الخطأ | التصحيح |
 |---|-------------|---------|
@@ -182,7 +182,7 @@
 >
 > Was möchte ich werden? Ich möchte Polizist werden. Polizist ist ein cooler Beruf!
 
-<div class="exercise" markdown="1" data-type="choice" data-answers='["صح","خطأ","خطأ","صح","خطأ","صح","صح","صح"]'>
+<div class="exercise" markdown="1" data-type="choice" data-answers='["A","B","B","A","B","A","A","A"]'>
 
 | # | الجملة | صح | خطأ |
 |---|--------|:--:|:---:|

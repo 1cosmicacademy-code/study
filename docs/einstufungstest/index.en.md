@@ -4,7 +4,7 @@
 
 ---
 
-> 🎯 **Discover your German level** — A 30-question diagnostic test that estimates your level (A1/A2/B1) and reveals strengths, weaknesses, and personalised recommendations.
+> 🎯 **Discover your German level** — A 42-question diagnostic test (randomly selected from a bank of ~200) that estimates your level (A1/A2/B1) and reveals strengths, weaknesses, and personalised recommendations.
 
 ## 🎯 Why Take This Test?
 

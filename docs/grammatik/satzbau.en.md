@@ -105,9 +105,9 @@ Subordinate:     Verb at the end
 | # | Sentence | Answer |
 |---|----------|--------|
 | 1 | Ich ___ (wohnen) in Berlin. | |
-| 2 | Wo ___ (arbeiten) you? | |
-| 3 | ___ (haben) you a brother? | |
-| 4 | Today I ___ (sein) at home. | |
+| 2 | Wo ___ (arbeiten) du? | |
+| 3 | ___ (haben) du einen Bruder? | |
+| 4 | Heute ___ ich (sein) zu Hause. | |
 | 5 | ... weil ich kein Auto ___ (haben). | |
 </div>
 ✏️ **Rearrange the words to form a correct sentence:**

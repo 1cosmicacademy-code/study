@@ -144,7 +144,7 @@
 
 **Choose Richtig (True) or Falsch (False):**
 
-<div class="exercise" markdown="1" data-type="choice" data-answers='["False","True","True","True","False","True","False","True"]'>
+<div class="exercise" markdown="1" data-type="choice" data-answers='["B","A","A","A","B","A","B","A"]'>
 
 | # | Statement | True | False |
 |---|-----------|:----:|:-----:|

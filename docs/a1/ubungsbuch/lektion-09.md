@@ -48,7 +48,7 @@
 
 **اختر الكلمة الصحيحة:**
 
-<div class="exercise" markdown="1" data-type="choice" data-answers='["b","c","a","c","b","a","c","a"]'>
+<div class="exercise" markdown="1" data-type="choice" data-answers='["B","C","A","C","B","A","C","A"]'>
 
 | # | الجملة | الخيارات |
 |---|--------|----------|
@@ -112,7 +112,7 @@
 
 **اقرأ الجملة واختر صح (Richtig) أو خطأ (Falsch):**
 
-<div class="exercise" markdown="1" data-type="choice" data-answers='["صح","صح","صح","خطأ","خطأ","صح","صح"]'>
+<div class="exercise" markdown="1" data-type="choice" data-answers='["A","A","A","B","B","A","A"]'>
 
 | # | الجملة | صح | خطأ |
 |---|--------|:--:|:---:|

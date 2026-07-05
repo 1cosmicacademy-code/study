@@ -95,7 +95,7 @@
 
 ✏️ **اختر الإجابة الصحيحة من الخيارات:**
 
-<div class="exercise" markdown="1" data-answers='["**auf**","**auf**","**unter**","**in**","**an**"]'>
+<div class="exercise" markdown="1" data-answers='["auf","auf","unter","in","an"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
 | 1 | Wo ist der Schlüssel? — Er liegt ___ (auf / in) dem Tisch. | |
@@ -106,7 +106,7 @@
 </div>
 ✏️ **أكمل الفراغ:** اكتب الإجابة كاملة في الخانة.
 
-<div class="exercise" markdown="1" data-answers='["Der Stuhl steht **neben der** Tür."]'>
+<div class="exercise" markdown="1" data-answers='["im","in den","unter dem","über das","neben der"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
 | 1 | Das Kind spielt ___ (in) ___ Garten. (Dativ) | |
@@ -117,7 +117,7 @@
 </div>
 ✏️ **رتّب الكلمات لتكوين جملة صحيحة:**
 
-<div class="exercise" markdown="1" data-answers='["Der Ball rollt **unter das Sofa**."]'>
+<div class="exercise" markdown="1" data-answers='["auf...den...Tisch","unter...das...Bett","hinter...die...Tür","neben...die...Mutter","unter...das...Sofa"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
 | 1 | Die Katze sitzt auf dem Tisch. → Die Katze springt ___ ___ ___. (auf) | |
@@ -128,7 +128,7 @@
 </div>
 ✏️ **رتّب الكلمات لتكوين جملة صحيحة:**
 
-<div class="exercise" markdown="1" data-answers='["**im**","**ans** (أو an das)","**ins**","**beim**","**am**"]'>
+<div class="exercise" markdown="1" data-answers='["im","ans","ins","beim","am"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
 | 1 | in + dem → ___ | |
@@ -139,7 +139,7 @@
 </div>
 ✏️ **اختر الإجابة الصحيحة من الخيارات:**
 
-<div class="exercise" markdown="1" data-answers='["**Wo** — Dativ (مكان ثابت)"]'>
+<div class="exercise" markdown="1" data-answers='["Wo","Wohin","Wo","Wohin","Wo"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
 | 1 | ___ (Wo / Wohin) ist mein Buch? — **Wo** + **Dativ** | |

@@ -61,7 +61,7 @@
 
 **Choose A, B, or C:**
 
-<div class="exercise" data-type="choice" markdown="1" data-answers='["A (lade)", "B (hast)", "C (bekommt)", "B (feiern)", "B (tanzt)", "C (singen)"]'>
+<div class="exercise" data-type="choice" markdown="1" data-answers='["A","B","C","B","B","C"]'>
 
 | # | Sentence | A | B | C |
 |---|----------|---|---|---|

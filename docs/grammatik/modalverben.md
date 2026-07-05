@@ -73,7 +73,7 @@
 
 ✏️ **اختر الإجابة الصحيحة من الخيارات:**
 
-<div class="exercise" markdown="1" data-answers='["**kann**","**sollst**","**darf**","**will**","**müssen**"]'>
+<div class="exercise" markdown="1" data-answers='["kann","sollst","darf","will","müssen"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
 | 1 | Ich ___ (kann / muss / darf) gut singen. | |
@@ -84,7 +84,7 @@
 </div>
 ✏️ **أكمل الفراغ بالكلمة الصحيحة:** اكتب كلمة واحدة فقط في كل خانة.
 
-<div class="exercise" markdown="1" data-answers='["**kann**","**sollst**","**darf**","**müssen**","**wollt**"]'>
+<div class="exercise" markdown="1" data-answers='["kann","sollst","darf","müssen","wollt"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
 | 1 | Ich (können) ___ gut kochen. | |
@@ -95,7 +95,7 @@
 </div>
 ✏️ **اختر الإجابة الصحيحة من الخيارات:**
 
-<div class="exercise" markdown="1" data-answers='["Er möchte ein Auto kaufen."]'>
+<div class="exercise" markdown="1" data-answers='["Ich kann dir helfen.","Sie müssen Deutsch lernen.","Wir wollen ins Kino gehen.","Du darfst hier nicht rauchen.","Er möchte ein Auto kaufen."]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
 | 1 | (kann / Ich / helfen / dir) | |
@@ -106,7 +106,7 @@
 </div>
 ✏️ **رتّب الكلمات لتكوين جملة صحيحة:**
 
-<div class="exercise" markdown="1" data-answers='["Man **darf** hier nicht fotografieren."]'>
+<div class="exercise" markdown="1" data-answers='["kann","musst","möchte","sollst","darf"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
 | 1 | Es ist möglich, dass ich komme. → Ich ___ kommen. (können) | |
@@ -117,7 +117,7 @@
 </div>
 ✏️ **رتّب الكلمات لتكوين جملة صحيحة:**
 
-<div class="exercise" markdown="1" data-answers='["**Soll** ich mehr **trinken**?"]'>
+<div class="exercise" markdown="1" data-answers='["Kannst...helfen","Muss...kommen","Dürfen...parken","Wollt...reisen","Soll...trinken"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
 | 1 | Du kannst mir helfen. → ___ du mir ___? | |

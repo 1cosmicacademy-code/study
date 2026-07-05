@@ -259,7 +259,7 @@ TE — KA — MO — LO
 </div>
 ✅ **حدد: ✅ صحيح / ❌ خطأ:**
 
-<div class="exercise" markdown="1" data-answers='["✅","❌","✅","❌","✅"]'>
+<div class="exercise" markdown="1" data-answers='["richtig","falsch","richtig","falsch","richtig"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
 | 1 |  | |

@@ -1090,6 +1090,7 @@
   flex-wrap: wrap;
   gap: 8px;
   align-items: center;
+  direction: ltr;
 }
 
 .level-order-placeholder {
@@ -1160,6 +1161,7 @@
   border: 1px solid #E2E8F0;
   border-radius: 14px;
   min-height: 50px;
+  direction: ltr;
 }
 
 /* Actions */
@@ -1647,6 +1649,20 @@
   color: #6366F1;
   font-style: italic;
   margin-top: 8px;
+}
+
+.level-d2-weak-in-recommend {
+  margin-top: 20px;
+  padding-top: 16px;
+  border-top: 1px solid #E2E8F0;
+}
+
+.level-d2-weak-in-recommend .level-d2-card-list {
+  margin-top: 8px;
+}
+
+[data-md-color-scheme="slate"] .level-d2-weak-in-recommend {
+  border-top-color: #334155;
 }
 
 /* ═══════════════════════════════════════════════

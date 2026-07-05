@@ -229,7 +229,7 @@ Es regnet,           trotzdem   gehen  wir spazieren.
 </div>
 ✅ **Mark: ✅ Correct / ❌ Incorrect:**
 
-<div class="exercise" markdown="1" data-answers='["❌","✅","✅","❌","✅"]'>
+<div class="exercise" markdown="1" data-answers='["falsch","richtig","richtig","falsch","richtig"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
 | 1 |  | |

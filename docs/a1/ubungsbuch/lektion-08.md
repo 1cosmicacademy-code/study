@@ -37,7 +37,7 @@
 
 **اختر الإجابة الصحيحة من بين الخيارات:**
 
-<div class="exercise" markdown="1" data-type="choice" data-answers='["ب","ب","أ","أ","ج","ب","ب","ب"]'>
+<div class="exercise" markdown="1" data-type="choice" data-answers='["B","B","A","A","C","B","B","B"]'>
 
 | # | السؤال | أ | ب | ج |
 |---|--------|---|---|---|

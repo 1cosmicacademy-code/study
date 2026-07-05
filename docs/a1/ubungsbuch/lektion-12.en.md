@@ -182,7 +182,7 @@
 >
 > Was möchte ich werden? Ich möchte Polizist werden. Polizist ist ein cooler Beruf!
 
-<div class="exercise" markdown="1" data-type="choice" data-answers='["True","False","False","True","False","True","True","True"]'>
+<div class="exercise" markdown="1" data-type="choice" data-answers='["A","B","B","A","B","A","A","A"]'>
 
 | # | Statement | True | False |
 |---|-----------|:----:|:-----:|

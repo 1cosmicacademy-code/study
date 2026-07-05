@@ -26,7 +26,7 @@
 
 **Choose the correct word:**
 
-<div class="exercise" markdown="1" data-type="choice" data-answers='["b) kostet", "b) kosten", "b) kosten", "b) Haben", "b) möchte", "c) geschlossen", "b) teuer", "b) Karte"]'>
+<div class="exercise" markdown="1" data-type="choice" data-answers='["B","B","B","B","B","C","B","B"]'>
 | # | Sentence | Choices |
 |---|----------|---------|
 | 1 | Die Banane ________ 30 Cent. | a) kosten / b) kostet / c) kaufen |

@@ -26,7 +26,7 @@
 
 **اختر الكلمة الصحيحة:**
 
-<div class="exercise" markdown="1" data-type="choice" data-answers='["b) kostet", "b) kosten", "b) kosten", "b) Haben", "b) möchte", "c) geschlossen", "b) teuer", "b) Karte"]'>
+<div class="exercise" markdown="1" data-type="choice" data-answers='["B","B","B","B","B","C","B","B"]'>
 | # | الجملة | الاختيارات |
 |---|--------|------------|
 | 1 | Die Banane ________ 30 Cent. | a) kosten / b) kostet / c) kaufen |
@@ -117,19 +117,19 @@
 
 **هل الجملة صحيحة (✅) أم خطأ (❌)؟**
 
-<div class="exercise" markdown="1" data-type="choice" data-answers='["kostet", "kosten", "kostet"]'>
-| # | الجملة | صح/خطأ |
-|---|--------|:-------:|
-| 1 | Der Apfel kosten 1 Euro. (التفاحة سعرها 1 يورو) | |
-| 2 | Wie viel kostet die Banane? (كم سعر الموزة؟) | |
-| 3 | Die Äpfel kostet 3 Euro. (التفاح سعره 3 يورو) | |
-| 4 | Ich möchte ein Kilo Kartoffeln, bitte. (أريد كيلو بطاطس من فضلك) | |
-| 5 | Haben Sie eine Tüte? (هل عندكم كيس؟) | |
-| 6 | Wo ist die Kasse? (أين الكاشير؟) — ich suche die Kasse | |
-| 7 | Das ist alles. (هذا كل شيء) | |
-| 8 | Kann ich mit Bargeld zahlen? (هل أستطيع الدفع كاش؟) | |
-| 9 | Die Tüte kosten 10 Cent. (الكيس سعره 10 سنت) | |
-| 10 | Der Supermarkt ist offen. (السوبرماركت مفتوح) | |
+<div class="exercise" markdown="1" data-type="choice" data-answers='["B","A","B","A","A","A","A","A","B","A"]'>
+| # | الجملة | ✅ صح | ❌ خطأ |
+|---|--------|:-----:|:------:|
+| 1 | Der Apfel kosten 1 Euro. (التفاحة سعرها 1 يورو) | ○ | ○ |
+| 2 | Wie viel kostet die Banane? (كم سعر الموزة؟) | ○ | ○ |
+| 3 | Die Äpfel kostet 3 Euro. (التفاح سعره 3 يورو) | ○ | ○ |
+| 4 | Ich möchte ein Kilo Kartoffeln, bitte. (أريد كيلو بطاطس من فضلك) | ○ | ○ |
+| 5 | Haben Sie eine Tüte? (هل عندكم كيس؟) | ○ | ○ |
+| 6 | Wo ist die Kasse? (أين الكاشير؟) — ich suche die Kasse | ○ | ○ |
+| 7 | Das ist alles. (هذا كل شيء) | ○ | ○ |
+| 8 | Kann ich mit Bargeld zahlen? (هل أستطيع الدفع كاش؟) | ○ | ○ |
+| 9 | Die Tüte kosten 10 Cent. (الكيس سعره 10 سنت) | ○ | ○ |
+| 10 | Der Supermarkt ist offen. (السوبرماركت مفتوح) | ○ | ○ |
 
 </div>
 ---

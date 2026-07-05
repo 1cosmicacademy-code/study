@@ -76,7 +76,7 @@
 
 **Should we use du (informal) or Sie (formal)?**
 
-<div class="exercise" markdown="1" data-type="choice" data-answers='["du","Sie","du","Sie","Sie","du","Sie","du"]'>
+<div class="exercise" markdown="1" data-type="choice" data-answers='["A","B","A","B","B","A","B","A"]'>
 
 | # | Situation | du | Sie |
 |---|-----------|:--:|:---:|
@@ -121,11 +121,11 @@
 | # | Words | Correct Sentence |
 |---|-------|-----------------|
 | 1 | bin / Arzt / Ich | **______________** |
-| 2 | du / What / Beruf / von / bist / ? | **______________** |
+| 2 | du / Was / Beruf / von / bist / ? | **______________** |
 | 3 | ist / Sie / Ärztin | **______________** |
-| 4 | arbeitest / du / Where / ? | **______________** |
-| 5 | sind / Sie / What / Beruf / von / ? | **______________** |
-| 6 | in / Er / hospital / arbeitet | **______________** |
+| 4 | arbeitest / du / Wo / ? | **______________** |
+| 5 | sind / Sie / Was / Beruf / von / ? | **______________** |
+| 6 | in / Er / Krankenhaus / arbeitet | **______________** |
 | 7 | bei / Verkäuferin / Sie / arbeitet / Lidl | **______________** |
 | 8 | bin / Studentin / Ich | **______________** |
 
@@ -166,8 +166,8 @@
 | 4 | Wir **bist** Verkäufer. | **______________** |
 | 5 | Ihr **sind** Schüler. | **______________** |
 | 6 | Sie (formal) **bist** Ingenieur. | **______________** |
-| 7 | What **sind** du von Beruf? | **______________** |
-| 8 | What **bist** Sie von Beruf? | **______________** |
+| 7 | Was **sind** du von Beruf? | **______________** |
+| 8 | Was **bist** Sie von Beruf? | **______________** |
 
 </div>
 
@@ -182,7 +182,7 @@
 | 1 | Where does a doctor (Arzt) work? | in der Schule | **im Krankenhaus** | im Büro |
 | 2 | Where does a teacher (Lehrer) work? | **in der Schule** | im Krankenhaus | im Restaurant |
 | 3 | Where does a cook (Koch) work? | in der Schule | im Büro | **im Restaurant** |
-| 4 | Where does a police officer (Polizist) work? | in der Schule | **at the police station** | im Supermarkt |
+| 4 | Where does a police officer (Polizist) work? | in der Schule | **auf der Polizei** | im Supermarkt |
 | 5 | Where does a manager work? | in der Schule | im Krankenhaus | **im Büro** |
 | 6 | Where does a salesperson (Verkäufer) work? | in der Schule | im Krankenhaus | **im Supermarkt** |
 
@@ -198,11 +198,11 @@
 
 | Speaker | Text | Answer |
 |---------|------|--------|
-| Sara (friend) | Hallo, Maria! What ________ du von Beruf? (Hello Maria! What is your job?) | |
+| Sara (friend) | Hallo, Maria! Was ________ du von Beruf? (Hello Maria! What is your job?) | |
 | Maria | Ich ________ Verkäuferin. Und du? (I am a saleswoman. And you?) | |
 | Sara (friend) | Ich ________ Studentin. (I am a student.) | |
 | Sara (friend) | Ich ________ Medizin. (I study medicine.) | |
-| Maria | Toll! And where ________ du? (Great! And where do you study?) | |
+| Maria | Toll! Und wo ________ du? (Great! And where do you study?) | |
 | Sara (friend) | Ich ________ an der Universität. (I study at the university.) | |
 
 </div>

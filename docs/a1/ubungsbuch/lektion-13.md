@@ -51,7 +51,7 @@
 
 **اختر mein أو meine حسب أداة الكلمة:**
 
-<div class="exercise" markdown="1" data-type="choice" data-answers='["mein","meine","mein","meine","mein","meine","mein","meine"]'>
+<div class="exercise" markdown="1" data-type="choice" data-answers='["A","B","A","B","A","B","A","B"]'>
 
 | # | الجملة | mein | meine |
 |---|--------|:----:|:-----:|

@@ -11,7 +11,7 @@
 
 > feiern 🎉 | schenken 🎁 | einladen 💌 | gratulieren 🎊 | wünschen ✨
 
-<div class="exercise" data-type="choice" markdown="1" data-answers='["feiere", "lade ... ein", "schenke", "wünsche", "gratuliere"]'>
+<div class="exercise" data-type="choice" markdown="1" data-answers='["A","A","A","A","A"]'>
 
 | # | الجملة | الكلمة المناسبة |
 |---|--------|----------------|
@@ -45,7 +45,7 @@
 
 > Herzlichen Glückwunsch 🎂 | Frohe Weihnachten 🎄 | Guten Rutsch ins neue Jahr 🎆 | Frohe Ostern 🐣 | Alles Gute zum Geburtstag 🎈
 
-<div class="exercise" data-type="choice" markdown="1" data-answers='["Alles Gute zum Geburtstag!", "Frohe Weihnachten!", "Guten Rutsch ins neue Jahr!", "Frohe Ostern!", "Alles Gute zum Geburtstag!"]'>
+<div class="exercise" data-type="choice" markdown="1" data-answers='["A","A","A","A","A"]'>
 
 | # | الموقف | التهنئة المناسبة |
 |---|--------|----------------|
@@ -61,7 +61,7 @@
 
 **اختر أ أو ب أو ج:**
 
-<div class="exercise" data-type="choice" markdown="1" data-answers='["أ (lade)", "ب (hast)", "ج (bekommt)", "ب (feiern)", "ب (tanzt)", "ج (singen)"]'>
+<div class="exercise" data-type="choice" markdown="1" data-answers='["A","B","C","B","B","C"]'>
 
 | # | الجملة | أ | ب | ج |
 |---|--------|---|---|---|
@@ -126,7 +126,7 @@
 
 **في كل مجموعة، كلمة واحدة مختلفة عن الباقي. ضع خط تحتها:**
 
-<div class="exercise" data-type="choice" markdown="1" data-answers='["Geschenk", "Geschenk", "Gast", "Party", "Party"]'>
+<div class="exercise" data-type="choice" markdown="1" data-answers='["A","A","A","A","A"]'>
 
 | # | المجموعة | الكلمة المختلفة |
 |---|----------|----------------|

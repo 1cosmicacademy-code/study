@@ -22,7 +22,7 @@
 
 </div>
 
-<div class="exercise" markdown="1" data-type="choice" data-answers='["أ","ب","ج","هـ","و","د"]'>
+<div class="exercise" markdown="1" data-type="choice" data-answers='["A","B","C","E","F","D"]'>
 
 | # | الجملة | الإجابة |
 |---|--------|---------|

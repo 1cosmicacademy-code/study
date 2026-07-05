@@ -196,7 +196,7 @@ TE — KA — MO — LO
 </div>
 ✅ **حدد: ✅ صحيح / ❌ خطأ:**
 
-<div class="exercise" markdown="1" data-answers='["✅","✅","❌","✅","❌"]'>
+<div class="exercise" markdown="1" data-answers='["richtig","richtig","falsch","richtig","falsch"]'>
 | # | الجملة | الإجابة |
 |---|--------|---------|
 | 1 | في الألمانية، عبارات الزمان تأتي قبل المكان. | |

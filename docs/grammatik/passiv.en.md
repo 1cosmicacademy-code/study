@@ -97,7 +97,7 @@ When combining Modalverb with Passiv:
 
 ✏️ **Rearrange the words to form a correct sentence:**
 
-<div class="exercise" markdown="1" data-answers='["**Aktiv**","**Passiv**","**Aktiv**","**Passiv**","**Passiv**"]'>
+<div class="exercise" markdown="1" data-answers='["Aktiv","Passiv","Aktiv","Passiv","Passiv"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
 | 1 | Der Mann kauft ein Auto. → ___ | |
@@ -108,7 +108,7 @@ When combining Modalverb with Passiv:
 </div>
 ✏️ **Rearrange the words to form a correct sentence:**
 
-<div class="exercise" markdown="1" data-answers='["Das Bild **wird gemalt**."]'>
+<div class="exercise" markdown="1" data-answers='["wird...gebacken","wird...repariert","wird...gekocht","wird...gelesen","wird...gemalt"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
 | 1 | Der Bäcker backt das Brot. → Das Brot ___ ___. | |
@@ -119,7 +119,7 @@ When combining Modalverb with Passiv:
 </div>
 ✏️ **Fill in the blank with the correct word:** Write only one word in each field.
 
-<div class="exercise" markdown="1" data-answers='["**wird**","**werden**","**wird**","**werden**","**werde**"]'>
+<div class="exercise" markdown="1" data-answers='["wird","werden","wird","werden","werde"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
 | 1 | Das Wasser ___ getrunken. | |
@@ -130,7 +130,7 @@ When combining Modalverb with Passiv:
 </div>
 ✏️ **Rearrange the words to form a correct sentence:**
 
-<div class="exercise" markdown="1" data-answers='["Die Tür **muss geschlossen werden**."]'>
+<div class="exercise" markdown="1" data-answers='["muss...gemacht...werden","kann...gelöst...werden","soll...getrennt...werden","darf...geraucht...werden","muss...geschlossen...werden"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
 | 1 | Man muss die Aufgabe machen. → Die Aufgabe ___ ___ ___. | |
@@ -141,7 +141,7 @@ When combining Modalverb with Passiv:
 </div>
 ✏️ **Fill in the blank with the correct word:** Write only one word in each field.
 
-<div class="exercise" markdown="1" data-answers='["Die Kinder **werden von der Mutter gefragt**. (von der Mutter before gefragt)"]'>
+<div class="exercise" markdown="1" data-answers='["Das Buch wird gelesen.","Die Suppe wird gekocht.","Der Brief wird vom Lehrer geschrieben.","Das Fenster kann geöffnet werden.","Die Kinder werden von der Mutter gefragt."]'>
 | # | Sentence | Answer |
 |---|----------|--------|
 | 1 | Das Buch wird lesen. (wrong) | |

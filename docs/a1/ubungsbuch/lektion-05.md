@@ -83,7 +83,7 @@
 
 </div>
 ---
-<div class="exercise" markdown="1" data-answers='["أ","أ","ب","ب","أ","ج","أ","ب"]' data-type="choice">
+<div class="exercise" markdown="1" data-answers='["A","A","B","B","A","C","A","B"]' data-type="choice">
 
 
 ## التمرين 5: اختر الإجابة الصحيحة 🎯
@@ -163,7 +163,7 @@
 
 </div>
 ---
-<div class="exercise" markdown="1" data-answers='["✅","✅","✅","✅","✅","❌","✅","✅"]'>
+<div class="exercise" markdown="1" data-answers='["richtig|r","richtig|r","richtig|r","richtig|r","richtig|r","falsch|f","richtig|r","richtig|r"]'>
 
 
 ## التمرين 9: صح أم خطأ؟ ✅❌

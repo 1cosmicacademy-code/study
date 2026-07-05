@@ -182,7 +182,7 @@ TE — KA — MO — LO
 </div>
 ✅ **Mark: ✅ Correct / ❌ Incorrect:**
 
-<div class="exercise" markdown="1" data-answers='["✅","✅","❌","✅","❌"]'>
+<div class="exercise" markdown="1" data-answers='["richtig","richtig","falsch","richtig","falsch"]'>
 | # | Sentence | Answer |
 |---|----------|--------|
 | 1 | In German, time phrases come before place phrases. | |
