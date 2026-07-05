@@ -88,7 +88,10 @@
     if (str == null) return '';
     var d = document.createElement('div');
     d.appendChild(document.createTextNode(String(str)));
-    return d.innerHTML;
+    var escaped = d.innerHTML;
+    // Also escape quotes for attribute context safety (CWE-79 fix)
+    escaped = escaped.replace(/\x22/g, '&quot;').replace(/\x27/g, '&#x27;');
+    return escaped;
   }
 
   var OPTION_LABELS = ['A', 'B', 'C', 'D'];
@@ -126,6 +129,12 @@
   var QUESTIONS = (window.QuestionBank && window.QuestionBank.selectQuestions)
     ? window.QuestionBank.selectQuestions(42)
     : (console.error('QuestionBank not loaded! Make sure question-bank.js is loaded before level-test.js'), []);
+
+  // Freeze question data to prevent runtime tampering (SEC-008)
+  if (QUESTIONS.length > 0) {
+    QUESTIONS.forEach(function(q) { Object.freeze(q); });
+    Object.freeze(QUESTIONS);
+  }
 
   // ── بيانات الأقسام ──
 

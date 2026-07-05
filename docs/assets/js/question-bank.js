@@ -3546,8 +3546,13 @@
   // ── أدوات مساعدة ──
 
   function shuffleArray(arr) {
-    for (var i = arr.length - 1; i > 0; i--) {
-      var j = Math.floor(Math.random() * (i + 1));
+    // Use crypto.getRandomValues() instead of Math.random() for stronger PRNG (CWE-338 / SEC-019)
+    var n = arr.length;
+    if (n < 2) return;
+    var randValues = new Uint32Array(n);
+    crypto.getRandomValues(randValues);
+    for (var i = n - 1; i > 0; i--) {
+      var j = randValues[i] % (i + 1);
       var temp = arr[i];
       arr[i] = arr[j];
       arr[j] = temp;
@@ -3562,8 +3567,9 @@
   // تصدير إلى window.QuestionBank
   // ═══════════════════════════════════════════════════════════════
 
+  // Only expose selectQuestions; hide QUESTIONS_BANK from global scope
+  // to prevent students from seeing all answers via DevTools (CWE-200)
   window.QuestionBank = {
-    all: QUESTIONS_BANK,
     selectQuestions: selectQuestions
   };
 

@@ -16,7 +16,8 @@
   to = "/en/grammatik/"
   status = 301
 
-[[redirects]]
-  from = "/*"
-  to = "https://study-german.pages.dev/:splat"
-  status = 301
+# SEC-009: wildcard redirect removed — it allowed open redirect attacks
+# [[redirects]]
+#   from = "/*"
+#   to = "https://study-german.pages.dev/:splat"
+#   status = 301

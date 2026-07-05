@@ -1,0 +1,3 @@
+# Redirect /grammatik/index/ → /grammatik/ (MkDocs serves index.md at directory root, not /index/)
+/grammatik/index/ /grammatik/ 301
+/en/grammatik/index/ /en/grammatik/ 301

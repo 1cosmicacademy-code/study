@@ -40,6 +40,7 @@
     iframe.style.border = 'none';
     iframe.style.borderRadius = '8px';
     iframe.setAttribute('allowfullscreen', '');
+    iframe.setAttribute('sandbox', 'allow-scripts allow-same-origin allow-presentation allow-popups');
     iframe.setAttribute('allow', 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture');
     return iframe;
   }
@@ -112,14 +113,14 @@
   function updateFallbackLinks(videoId, channel, title) {
     var links = document.querySelectorAll('a[href*="youtube.com/watch"]');
     links.forEach(function (link) {
-      link.href = 'https://www.youtube.com/watch?v=' + videoId;
+      link.href = 'https://www.youtube-nocookie.com/watch?v=' + videoId;
       if (channel) link.textContent = channel + ' — ' + title;
     });
 
     var codes = document.querySelectorAll('code');
     codes.forEach(function (code) {
       if ((code.textContent || '').indexOf('youtube.com/watch') !== -1) {
-        code.textContent = 'https://www.youtube.com/watch?v=' + videoId;
+        code.textContent = 'https://www.youtube-nocookie.com/watch?v=' + videoId;
       }
     });
   }
