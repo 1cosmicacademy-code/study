@@ -130,12 +130,6 @@
     ? window.QuestionBank.selectQuestions(42)
     : (console.error('QuestionBank not loaded! Make sure question-bank.js is loaded before level-test.js'), []);
 
-  // Freeze question data to prevent runtime tampering (SEC-008)
-  if (QUESTIONS.length > 0) {
-    QUESTIONS.forEach(function(q) { Object.freeze(q); });
-    Object.freeze(QUESTIONS);
-  }
-
   // ── بيانات الأقسام ──
 
   var SECTIONS = [
@@ -1201,6 +1195,15 @@
     if (!container) return;
     container.className = 'level-assessment';
     shuffleOptions(); // توزيع الإجابات الصحيحة على A/B/C/D
+
+    // Freeze AFTER shuffling so shuffleOptions() can modify question objects
+    // (Object.freeze in strict mode throws on assignment, which would silently
+    // break the test UI — CWE-200 mitigation must come after answer distribution)
+    if (QUESTIONS.length > 0) {
+      QUESTIONS.forEach(function(q) { Object.freeze(q); });
+      Object.freeze(QUESTIONS);
+    }
+
     showIntro();
   }
 
