@@ -5,6 +5,17 @@
 [build.environment]
   PYTHON_VERSION = "3.14"
 
+# Redirect /grammatik/index/ → /grammatik/ (MkDocs serves index.md at directory root, not /index/)
+[[redirects]]
+  from = "/grammatik/index/"
+  to = "/grammatik/"
+  status = 301
+
+[[redirects]]
+  from = "/en/grammatik/index/"
+  to = "/en/grammatik/"
+  status = 301
+
 [[redirects]]
   from = "/*"
   to = "https://study-german.pages.dev/:splat"

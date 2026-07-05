@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://study-german-509.netlify.app/sitemap.xml

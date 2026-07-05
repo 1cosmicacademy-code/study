@@ -6,7 +6,8 @@ site_url: https://study-german-509.netlify.app
 theme:
   name: material
   language: ar
-  direction: rtl
+  favicon: assets/images/favicon.svg
+  # direction: rtl  # ملغى — direction-fix.js يضبطها ديناميكياً حسب اللغة
   features:
     - navigation.tabs
     - navigation.sections
@@ -48,6 +49,7 @@ extra_javascript:
   - assets/js/video-switcher.js
   - assets/js/exercise-checker.js
   - assets/js/level-test.js
+  - assets/js/direction-fix.js
 
 plugins:
   - search

@@ -14,6 +14,11 @@
 (function () {
   'use strict';
 
+  // Early exit — self-guard: only run on the level assessment page
+  // يتحقق من وجود عنصر level-assessment لمنع تشغيل مستوى.js
+  // في صفحات الدروس، القواعد، Übungsbuch، والصفحات الأخرى غير المطلوبة.
+  if (!document.querySelector('.level-assessment')) return;
+
   // ── الوضعيات ──
   var STATE_INTRO  = -1;
   var STATE_QUIZ   = 0;
@@ -104,8 +109,10 @@
         rotated[j] = qd.options[(j + shift) % n];
       }
       qd.options = rotated;
-      // الإجابة كانت index 0، بعد التدوير أصبحت في index (n - shift)
-      var newIdx = (n - shift) % n;
+      // حفظ موقع الإجابة الصحيحة الأصلي قبل الخلط (بدلاً من افتراض index 0)
+      var originalIdx = OPTION_LABELS.indexOf(qd.answer);
+      // بعد التدوير، نحسب الموقع الجديد للإجابة الصحيحة
+      var newIdx = (originalIdx - shift + n) % n;
       qd.answer = OPTION_LABELS[newIdx];
     }
   }

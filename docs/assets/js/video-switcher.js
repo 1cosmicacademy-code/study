@@ -15,6 +15,11 @@
 (function () {
   'use strict';
 
+  // Early exit — self-guard: only run on lesson pages (URL contains /lektion-)
+  // هذا الـ guard يمنع تحميل وتنفيذ video-switcher.js في الصفحات غير المطلوبة مثل
+  // الرئيسية، القواعد، فحص المستوى، Übungsbuch، والصفحات الأخرى التي لا تحتوي فيديوهات دروس.
+  if (window.location.pathname.indexOf('/lektion-') === -1) return;
+
   var isEnglish = window.location.pathname.startsWith('/en/');
   var lang = isEnglish ? 'en' : 'ar';
 
@@ -76,7 +81,12 @@
     if (existingContainer) {
       var existingIframe = existingContainer.querySelector('iframe');
       if (existingIframe) {
+        // Update existing iframe src
         existingIframe.src = 'https://www.youtube-nocookie.com/embed/' + videoId;
+      } else {
+        // Container exists but no iframe (static fallback) — inject iframe
+        existingContainer.textContent = '';
+        existingContainer.appendChild(createEmbedIframe(videoId));
       }
       return;
     }
@@ -122,7 +132,10 @@
       .then(function (res) { return res.json(); })
       .then(function (data) {
         var lesson = data[lessonKey];
-        if (!lesson || !lesson[lang] || !lesson[lang].video_id) return;
+        if (!lesson || !lesson[lang] || !lesson[lang].video_id) {
+          console.warn('[VideoSwitcher] No video entry for key:', lessonKey, 'lang:', lang);
+          return;
+        }
 
         var videoId = lesson[lang].video_id;
         var channel = lesson[lang].channel || '';
@@ -131,12 +144,14 @@
         var heading = getVideoSectionHeading();
         if (heading) {
           createOrUpdateEmbed(heading, videoId);
+        } else {
+          console.warn('[VideoSwitcher] No h2 video heading found on page');
         }
 
         updateFallbackLinks(videoId, channel, title);
       })
-      .catch(function () {
-        // Silent fail
+      .catch(function (err) {
+        console.warn('[VideoSwitcher] Failed to fetch videos.json:', err.message || err);
       });
   }
 
@@ -145,4 +160,27 @@
   } else {
     init();
   }
+
+  // --- دعم التنقل الديناميكي لـ MkDocs SPA ---
+
+  window.addEventListener('popstate', function () {
+    // تأخير قصير للتأكد من تحمّل DOM الجديد
+    setTimeout(init, 100);
+  });
+
+  var observer = new MutationObserver(function (mutations) {
+    if (window.location.pathname.indexOf('/lektion-') !== -1) {
+      var headings = document.querySelectorAll('h2');
+      for (var i = 0; i < headings.length; i++) {
+        var text = headings[i].textContent || '';
+        if (text.indexOf('فيديو') !== -1 || text.search(/video/i) !== -1) {
+          if (!headings[i].nextElementSibling || !headings[i].nextElementSibling.classList.contains('video-embed-container')) {
+            setTimeout(init, 200);
+          }
+          break;
+        }
+      }
+    }
+  });
+  observer.observe(document.body, { childList: true, subtree: true });
 })();

@@ -5,6 +5,11 @@
 ---
 
 ## 🎬 Lesson Video
+
+<div class="video-embed-container">
+  <p><a href="https://www.youtube.com/watch?v=iB_sassbnOw" target="_blank" rel="noopener">📺 Watch the lesson video on YouTube</a></p>
+</div>
+
 ---
 
 ## 1. 👋 Greetings (Begrüßungen)

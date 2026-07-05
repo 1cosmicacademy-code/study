@@ -15,6 +15,11 @@
 (function () {
   'use strict';
 
+  // Early exit — self-guard: only run on pages that contain interactive exercises
+  // يتحقق من وجود عنصر exercise أو عنصر يحمل data-answers (للمنصات غير المغلفة بـ .exercise)
+  // هذا يمنع تشغيل exercise-checker.js في الصفحات الخالية من التمارين التفاعلية.
+  if (!document.querySelector('.exercise') && !document.querySelector('[data-answers]')) return;
+
   function init() {
     var containers = document.querySelectorAll('.exercise');
     if (!containers.length) return;
@@ -286,7 +291,9 @@
     for (var i = 0; i < inputs.length; i++) {
       var given = inputs[i].value.trim();
       var expected = answers[i] != null ? String(answers[i]) : '';
-      var correct = given.toLowerCase() === expected.toLowerCase();
+      // تدعم الفاصل | للإجابات البديلة (مثلاً "Ägypten|Syrien" تقبل أي منهما)
+      var accepted = expected.split('|').map(function (s) { return s.trim().toLowerCase(); });
+      var correct = accepted.indexOf(given.toLowerCase()) !== -1;
       inputs[i].className = 'exercise-input' + (correct ? ' correct' : ' wrong');
       if (!correct && given) {
         // Show comparison below input

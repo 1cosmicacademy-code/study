@@ -180,4 +180,63 @@
 
 ---
 
+## التمارين التفاعلية — Interactive Exercises
+
+### 🎯 التمرين التفاعلي 1: اختر الإجابة الصحيحة (الاتجاهات)
+
+**اختر الكلمة الصحيحة حسب معنى الجملة:**
+
+<div class="exercise" markdown="1" data-type="choice" data-answers='["ب","ب","ج","ب","ج"]'>
+
+| # | الجملة | أ | ب | ج |
+|---|--------|---|---|---|
+| 1 | Gehen Sie ___ (إلى اليمين). | links | **rechts** | geradeaus |
+| 2 | ___ (إلى اليسار) ist der Supermarkt. | Rechts | **Links** | Geradeaus |
+| 3 | Die ___ (إشارة المرور) ist rot. | Straße | Ecke | **Ampel** |
+| 4 | Biegen Sie an der ___ (التقاطع) ab. | Brücke | **Kreuzung** | Richtung |
+| 5 | Gehen Sie ___ (إلى الأمام) zur Post. | Links | Rechts | **Geradeaus** |
+
+</div>
+
+---
+
+### ✍️ التمرين التفاعلي 2: تصريف الأفعال — املأ الفراغ
+
+**اكتب التصريف الصحيح للفعل في الفراغ:**
+
+<div class="exercise" markdown="1" data-answers='["gehe","kommst","lernt","arbeitet","seid","wohnt"]'>
+
+| # | الجملة | الإجابة |
+|---|--------|---------|
+| 1 | Ich ___ (gehen) in die Schule. | |
+| 2 | Du ___ (kommen) aus Spanien. | |
+| 3 | Er ___ (lernen) Deutsch. | |
+| 4 | Sie (هي) ___ (arbeiten) bei einer Firma. | |
+| 5 | Ihr ___ (sein) fleißig. | |
+| 6 | Ihr ___ (wohnen) in Berlin. | |
+
+</div>
+
+---
+
+### 🔗 التمرين التفاعلي 3: صِل الكلمات بمعانيها
+
+**صِل الكلمة الألمانية بمعناها العربي الصحيح:**
+
+<div class="exercise" markdown="1" data-type="match" data-answers='["د","ه","و","أ","ز","ج","ب"]' data-options='["أ","ب","ج","د","ه","و","ز"]'>
+
+| Deutsch | العربية |
+|---------|---------|
+| 1. geradeaus | أ. إشارة مرور |
+| 2. links | ب. الطريق |
+| 3. rechts | ج. جسر |
+| 4. die Ampel | د. إلى الأمام مباشرة |
+| 5. die Kreuzung | ه. يسار |
+| 6. die Brücke | و. يمين |
+| 7. der Weg | ز. تقاطع |
+
+</div>
+
+---
+
 > 🎯 **هدف الدرس:** في نهاية هذا الدرس، ستكون قادراً على تعريف بنفسك بالتفصيل، وسؤال عن الاتجاهات، وتصريف الأفعال الأساسية في المضارع.

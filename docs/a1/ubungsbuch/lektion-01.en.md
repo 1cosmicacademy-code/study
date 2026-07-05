@@ -128,7 +128,7 @@
 | 1 | heiße / ich / Anna | |
 | 2 | du / wie / heißt / ? | |
 | 3 | geht's / mir / gut | |
-| 4 | from / komme / Egypt / ich | |
+| 4 | aus / komme / Ägypten / ich | |
 | 5 | heißen / Sie / wie / ? | |
 
 **Word order explanation:** In German, the verb is usually in the second position.  

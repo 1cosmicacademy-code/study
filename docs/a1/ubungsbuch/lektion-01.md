@@ -56,38 +56,27 @@
 
 ---
 
-## التمرين 3: اكتب حوار (Dialogue) ✍️
+<div class="exercise" markdown="1" data-answers='["Hallo","heiße","geht&#39;s","Mir","gut","kommst","aus","Ägypten|Syrien|Marokko|Irak|Algerien|Tunesien|Jemen|Sudan|Libyen","Tschüss"]'>
 
-**اكمل الحوار بين شخصين يتعرفان على بعض:**
+## التمرين 3: أكمل الحوار (Dialogue) ✍️
 
-> **Person A:** ________________________! Ich heiße Maria.  
-> **Person B:** Hallo Maria! Ich ________________________ Ahmed.  
-> **Person A:** Freut mich, Ahmed! Wie ________________________ dir?  
-> **Person B:** ________________________ geht's gut, danke! Und dir?  
-> **Person A:** Mir geht's auch ________________________. Woher ________________________ du?  
-> **Person B:** Ich komme ________________________ Deutschland. Und du?  
-> **Person A:** Ich komme aus ________________________.  
-> **Person B:** Toll! Tschüss, Maria!  
-> **Person A:** ________________________, Ahmed!
+**أكمل الحوار بين شخصين يتعرفان على بعض (اكتب الكلمة الناقصة في كل سطر):**
 
-✅ **الحل:**
+| # | الحوار | الإجابة |
+|---|--------|---------|
+| 1 | Person A: ___! Ich heiße Maria. | |
+| 2 | Person B: Hallo Maria! Ich ___ Ahmed. | |
+| 3 | Person A: Freut mich, Ahmed! Wie ___ dir? | |
+| 4 | Person B: ___ geht's gut, danke! | |
+| 5 | Person A: Mir geht's auch ___. | |
+| 6 | Person A: Woher ___ du? | |
+| 7 | Person B: Ich komme ___ Deutschland. | |
+| 8 | Person B: Ich komme aus ___. | |
+| 9 | Person A: ___, Ahmed! | |
 
-> **Person A:** **Hallo!** Ich heiße Maria.  
-> *(نبدأ التحية بـ Hallo)*  
-> **Person B:** Hallo Maria! Ich **heiße** Ahmed.  
-> *(بعد ich نستخدم heiße)*  
-> **Person A:** Freut mich, Ahmed! Wie **geht's** dir?  
-> *(Wie geht's dir? = كيف حالك؟)*  
-> **Person B:** **Mir** geht's gut, danke! Und dir?  
-> *(Mir geht's = أنا بحالة...)*  
-> **Person A:** Mir geht's auch **gut**. Woher **kommst** du?  
-> *(kommst = تصريف kommen مع du)*  
-> **Person B:** Ich komme **aus** Deutschland. Und du?  
-> *(aus = من (بلد))*  
-> **Person A:** Ich komme aus **Ägypten / Marokko / ...**  
-> *(أي بلد عربي مناسب)*  
-> **Person B:** Toll! Tschüss, Maria!  
-> **Person A:** **Tschüss**, Ahmed!
+**💡 ملاحظة:** السؤال 8، أي بلد عربي صحيح يقبل (مثلاً: Ägypten, Syrien, Marokko...)
+
+</div>
 
 ---
 

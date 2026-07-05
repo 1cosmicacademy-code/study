@@ -180,4 +180,63 @@ Fill in the correct verb form:
 
 ---
 
+## Interactive Exercises
+
+### 🎯 Interactive Exercise 1: Multiple Choice (Directions)
+
+**Choose the correct word based on the sentence meaning:**
+
+<div class="exercise" markdown="1" data-type="choice" data-answers='["ب","ب","ج","ب","ج"]'>
+
+| # | Sentence | أ | ب | ج |
+|---|----------|---|---|---|
+| 1 | Go ___ (to the right). | links | **rechts** | geradeaus |
+| 2 | ___ (to the left) is the supermarket. | Rechts | **Links** | Geradeaus |
+| 3 | The ___ (traffic light) is red. | Straße | Ecke | **Ampel** |
+| 4 | Turn at the ___ (intersection). | Brücke | **Kreuzung** | Richtung |
+| 5 | Go ___ (straight ahead) to the post office. | Links | Rechts | **Geradeaus** |
+
+</div>
+
+---
+
+### ✍️ Interactive Exercise 2: Verb Conjugation — Fill in the Blanks
+
+**Write the correct conjugated form of the verb in the blank:**
+
+<div class="exercise" markdown="1" data-answers='["gehe","kommst","lernt","arbeitet","seid","wohnt"]'>
+
+| # | Sentence | Answer |
+|---|----------|--------|
+| 1 | Ich ___ (gehen — to go) to school. | |
+| 2 | Du ___ (kommen — to come) from Spain. | |
+| 3 | Er ___ (lernen — to learn) German. | |
+| 4 | Sie (she) ___ (arbeiten — to work) at a company. | |
+| 5 | Ihr ___ (sein — to be) hardworking. | |
+| 6 | Ihr ___ (wohnen — to live) in Berlin. | |
+
+</div>
+
+---
+
+### 🔗 Interactive Exercise 3: Match Words with Meanings
+
+**Match the German word with its correct Arabic meaning:**
+
+<div class="exercise" markdown="1" data-type="match" data-answers='["د","ه","و","أ","ز","ج","ب"]' data-options='["أ","ب","ج","د","ه","و","ز"]'>
+
+| Deutsch | العربية |
+|---------|---------|
+| 1. geradeaus | أ. traffic light |
+| 2. links | ب. path/way |
+| 3. rechts | ج. bridge |
+| 4. die Ampel | د. straight ahead |
+| 5. die Kreuzung | ه. left |
+| 6. die Brücke | و. right |
+| 7. der Weg | ز. intersection |
+
+</div>
+
+---
+
 > 🎯 **Lesson goal:** By the end of this lesson, you will be able to introduce yourself in detail, ask for directions, and conjugate basic verbs in the present tense.
