@@ -4,6 +4,12 @@
 
 ---
 
+## 📺 Instructional Video
+An instructional video explaining this grammar topic with practical examples.
+
+<div class="video-container" data-video-id="auWRmuw_AcY"></div>
+
+
 ## 💡 List of Two-Way Prepositions
 
 There are **10 two-way prepositions** in German:
@@ -169,3 +175,4 @@ When a preposition comes with **der / das**, they often merge:
 Ask yourself these two questions before every use and you'll get it right!
 
 🔙 [Back to Grammar](index.md)
+

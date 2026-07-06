@@ -4,6 +4,12 @@
 
 ---
 
+## 📺 فيديو توضيحي
+فيديو تعليمي يشرح هذه القاعدة بشكل مبسط مع أمثلة تطبيقية.
+
+<div class="video-container" data-video-id="T0JXQrxLN1s"></div>
+
+
 ## 💡 ما هو Partizip 2؟
 
 **Partizip 2** (أو Partizip Perfekt) هو الصيغة الثالثة للفعل في الألمانية. يُستخدم لبناء:
@@ -136,3 +142,4 @@
 | 3 | Wir __________ Pizza __________. (essen) | |
 | 4 | Du __________ ein Buch __________. (lesen) | |
 </div>
+

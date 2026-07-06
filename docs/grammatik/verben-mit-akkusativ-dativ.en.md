@@ -4,6 +4,12 @@
 
 ---
 
+## 📺 Instructional Video
+An instructional video explaining this grammar topic with practical examples.
+
+<div class="video-container" data-video-id="YxK0h3euhoQ"></div>
+
+
 ## 🎯 Lesson Goals
 
 - Identify verbs that require both an **Accusative** and a **Dative** object.
@@ -73,3 +79,4 @@
 - **Verb + Dative + Accusative** is the standard order for verbs that need both objects.
 - Remember that a few verbs only require Dative.
 - Practicing with everyday nouns will solidify the pattern.
+

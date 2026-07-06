@@ -4,6 +4,12 @@
 
 ---
 
+## 📺 فيديو توضيحي
+فيديو تعليمي يشرح هذه القاعدة بشكل مبسط مع أمثلة تطبيقية.
+
+<div class="video-container" data-video-id="G50HJfKguKU"></div>
+
+
 ## 💡 ما هي البادئات المنفصلة؟
 
 أشهر البادئات المنفصلة: **ab-, an-, auf-, aus-, ein-, mit-, nach-, vor-, weg-, zu-, zurück-**

@@ -4,6 +4,12 @@
 
 ---
 
+## 📺 Instructional Video
+An instructional video explaining this grammar topic with practical examples.
+
+<div class="video-container" data-video-id="ATnUjMoNXhE"></div>
+
+
 ## 🎯 Lesson Goals
 
 - Understand how to link independent sentences using coordinating conjunctions
@@ -51,3 +57,4 @@
 2. Wir bleiben zu Hause, ______ es regnet. (because)
 3. Ich lerne Deutsch ______ Englisch. (and)
 </div>
+

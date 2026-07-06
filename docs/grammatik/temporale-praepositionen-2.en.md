@@ -4,6 +4,12 @@
 
 ---
 
+## 📺 Instructional Video
+An instructional video explaining this grammar topic with practical examples.
+
+<div class="video-container" data-video-id="MaJ0LEQ3Jf4"></div>
+
+
 ## 💡 What Are Temporal Prepositions (Group 2)?
 
 These are further temporal prepositions in German. Each tells us **when** or **within what time frame** something happens:
@@ -102,3 +108,4 @@ These are further temporal prepositions in German. Each tells us **when** or **w
 ---
 
 💡 **Tip:** **bei** describes a circumstance or event (+ Dativ), while **ab** is used for a future time point (+ Dativ). **gegen** gives an approximate time (+ Akkusativ).
+

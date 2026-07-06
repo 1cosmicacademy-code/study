@@ -1,6 +1,12 @@
 # Präpositionaladverbien — ظروف الجر
 ---
 
+## 📺 فيديو توضيحي
+فيديو تعليمي يشرح هذه القاعدة بشكل مبسط مع أمثلة تطبيقية.
+
+<div class="video-container" data-video-id="dslAPvDEttk"></div>
+
+
 ## 🎯 أهداف الدرس
 
 - التعرف على ظروف الجر الألمانية التي تحل محل "Preposition + Nomen/Pronomen".
@@ -49,3 +55,4 @@
 4. Er erinnert sich ___ (an den Termin).\
 5. Wir warten ___ (auf das Ergebnis).
 </div>
+

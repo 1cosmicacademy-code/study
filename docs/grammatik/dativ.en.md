@@ -4,6 +4,12 @@
 
 ---
 
+## 📺 Instructional Video
+An instructional video explaining this grammar topic with practical examples.
+
+<div class="video-container" data-video-id="bZL5OB61XXM"></div>
+
+
 ## 💡 When do we use the Dative?
 
 ### 1. Indirect Object

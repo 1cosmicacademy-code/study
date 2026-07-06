@@ -4,6 +4,12 @@
 
 ---
 
+## 📺 Instructional Video
+An instructional video explaining this grammar topic with practical examples.
+
+<div class="video-container" data-video-id="exwewlcw8UY"></div>
+
+
 ## 💡 When do we decline the adjective?
 
 We decline the adjective **only** when it is:

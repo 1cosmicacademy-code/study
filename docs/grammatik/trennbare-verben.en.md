@@ -4,6 +4,12 @@
 
 ---
 
+## 📺 Instructional Video
+An instructional video explaining this grammar topic with practical examples.
+
+<div class="video-container" data-video-id="Kj_L8uAffG8"></div>
+
+
 ## 💡 What are Separable Prefixes?
 
 Common separable prefixes: **ab-, an-, auf-, aus-, ein-, mit-, nach-, vor-, weg-, zu-, zurück-**

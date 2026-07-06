@@ -4,6 +4,12 @@
 
 ---
 
+## 📺 Instructional Video
+An instructional video explaining this grammar topic with practical examples.
+
+<div class="video-container" data-video-id="927_HU6AVlU"></div>
+
+
 ## 🎯 Lesson Goals
 
 - Identify the four common German particles: **doch**, **mal**, **ja**, **eben**.
@@ -50,3 +56,4 @@ The particles **doch**, **mal**, **ja**, **eben** are *modal particles* (Modalpa
 3. Which particle would you use to stress that something is obvious?
 4. Complete: "We will meet ____ at eight o’clock." (hint: a casual suggestion)
 </div>
+

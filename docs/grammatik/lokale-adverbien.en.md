@@ -4,6 +4,12 @@
 
 ---
 
+## 📺 Instructional Video
+An instructional video explaining this grammar topic with practical examples.
+
+<div class="video-container" data-video-id="oM_9h0ZeGwM"></div>
+
+
 ## 💡 What Are Adverbs of Place?
 
 Adverbs of place (Lokale Adverbien) tell us **where** something happens. They **do not change** with grammatical cases — unlike prepositions!
@@ -94,3 +100,4 @@ Adverbs of place take different forms depending on the question:
 | 3 | __________ wohne ich. (here — location) | |
 | 4 | Wir gehen __________. (to the right) | |
 </div>
+

@@ -6,6 +6,12 @@
 
 ---
 
+## 📺 Instructional Video
+An instructional video explaining this grammar topic with practical examples.
+
+<div class="video-container" data-video-id="3_pBWyKN3LI"></div>
+
+
 ## 🎯 Lesson Goals
 
 - Understand the difference between Temporalangaben (time) and Lokalangaben (place)
@@ -191,3 +197,4 @@ TE — KA — MO — LO
 | 4 | "Morgen fahre ich nach Berlin." — correct sentence | |
 | 5 | "Ich fahre nach Berlin morgen." — correct TEKAMOLO order | |
 </div>
+

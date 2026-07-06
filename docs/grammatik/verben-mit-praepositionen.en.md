@@ -4,6 +4,12 @@
 
 ---
 
+## 📺 Instructional Video
+An instructional video explaining this grammar topic with practical examples.
+
+<div class="video-container" data-video-id="dV54jc8K6MU"></div>
+
+
 ## 🎯 Lesson Goals
 
 - Recognise which German verbs require a specific preposition.
@@ -64,3 +70,4 @@ A verb may be tightly linked with a preposition that determines the case and the
 | 4 | Sie ist gespannt ____ das Ergebnis. |
 | 5 | Er ärgert sich ____ das Wetter. |
 </div>
+

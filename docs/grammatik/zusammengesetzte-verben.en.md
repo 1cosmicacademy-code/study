@@ -4,6 +4,12 @@
 
 ---
 
+## 📺 Instructional Video
+An instructional video explaining this grammar topic with practical examples.
+
+<div class="video-container" data-video-id="fOk7TeT9kgU"></div>
+
+
 ## 🎯 Lesson Goals
 
 - Understand what compound (separable and inseparable) verbs are.
@@ -60,3 +66,4 @@ Compound verbs consist of a **prefix** + **verb stem**.
 | 3 | I ___ the task not. |
 | 4 | We ___ a letter. |
 </div>
+

@@ -4,6 +4,12 @@
 
 ---
 
+## 📺 Instructional Video
+An instructional video explaining this grammar topic with practical examples.
+
+<div class="video-container" data-video-id="rk_EokULiT8"></div>
+
+
 ## 🎯 Lesson Objectives
 
 - Learn how the German present participle (Partizip I) functions as an adjective.
@@ -47,3 +53,4 @@ The present participle (Partizip I) is formed by adding **-end** (or **-ierend**
 3. Convert the verb **lernen** (to learn) into a Partizip I adjective.
 4. Fill in the blank with the correct participle: "Das ___ Kind ist früh aufgestanden."
 </div>
+

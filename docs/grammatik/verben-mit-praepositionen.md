@@ -4,6 +4,12 @@
 
 ---
 
+## 📺 فيديو توضيحي
+فيديو تعليمي يشرح هذه القاعدة بشكل مبسط مع أمثلة تطبيقية.
+
+<div class="video-container" data-video-id="BFnwTq8H0n0"></div>
+
+
 ## 🎯 أهداف الدرس
 
 - تعرف ما هي أفعال مع حروف الجر وكيفية استخدامها.
@@ -62,3 +68,4 @@
 | 4 | Sie ist gespannt ____ das Ergebnis. |
 | 5 | Er ärgert sich ____ das Wetter. |
 </div>
+

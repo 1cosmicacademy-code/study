@@ -4,6 +4,12 @@
 
 ---
 
+## 📺 Instructional Video
+An instructional video explaining this grammar topic with practical examples.
+
+<div class="video-container" data-video-id="ATnUjMoNXhE"></div>
+
+
 ## 🎯 Lesson Objectives
 
 - Understand when to use the "um...zu" infinitive clause.
@@ -48,3 +54,4 @@
 2. Complete the sentence with **damit**: "He gives her a book, ______ she can improve her German."
 3. Rewrite this sentence using the other construction: "She practices every day, **damit** she passes the exam." → change to **um...zu**.
 </div>
+

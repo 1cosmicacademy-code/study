@@ -4,6 +4,12 @@
 
 ---
 
+## 📺 Instructional Video
+An instructional video explaining this grammar topic with practical examples.
+
+<div class="video-container" data-video-id="0rSO790y9a0"></div>
+
+
 ## 🎯 Lesson Goals
 
 - Understand how location, direction and origin are expressed with German prepositions.
@@ -59,3 +65,4 @@
 2. ___? fliegst du? (where to)  
 3. ___? stammt das Rezept? (where from)
 </div>
+

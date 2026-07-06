@@ -4,6 +4,12 @@
 
 ---
 
+## 📺 Instructional Video
+An instructional video explaining this grammar topic with practical examples.
+
+<div class="video-container" data-video-id="9eiw7yDTBI8"></div>
+
+
 ## 💡 When do we use the Genitive?
 
 ### 1. Showing Possession — Linking Two Things

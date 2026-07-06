@@ -4,6 +4,12 @@
 
 ---
 
+## 📺 فيديو توضيحي
+فيديو تعليمي يشرح هذه القاعدة بشكل مبسط مع أمثلة تطبيقية.
+
+<div class="video-container" data-video-id="dU_ZwPgJx8Y"></div>
+
+
 ## 🎯 أهداف الدرس
 
 - فهم كيفية تستخدم "um...zu" و "damit" لإبداء الغرض.
@@ -47,3 +53,4 @@
 2. أكمِل الجملة باستخدام "damit": "Er schenkt ihr ein Buch, ______ sie besser Deutsch lernen kann."
 3. حوِّل الجملة: "Sie übt jeden Tag, damit sie die Prüfung besteht." إلى بنية "um...zu".
 </div>
+

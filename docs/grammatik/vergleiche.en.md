@@ -4,6 +4,12 @@
 
 ---
 
+## 📺 Instructional Video
+An instructional video explaining this grammar topic with practical examples.
+
+<div class="video-container" data-video-id="bkPT2RYeIIs"></div>
+
+
 ## 💡 When do we use wie and when als?
 
 ### 1. wie — like / as (Equality)

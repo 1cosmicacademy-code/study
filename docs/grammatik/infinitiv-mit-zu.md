@@ -1,6 +1,12 @@
 # Infinitiv mit zu — المصدر مع zu
 ---
 
+## 📺 فيديو توضيحي
+فيديو تعليمي يشرح هذه القاعدة بشكل مبسط مع أمثلة تطبيقية.
+
+<div class="video-container" data-video-id="ytqaWZ2Hcik"></div>
+
+
 ## 🎯 أهداف الدرس
 
 - فهم التستخدام الشائع للمصدر مع كلمة "zu".
@@ -37,3 +43,4 @@
 4. Die Möglichkeit, mehr ___ , ist attraktiv.\
 5. Der Versuch, das Problem ___ , war erfolgreich.
 </div>
+

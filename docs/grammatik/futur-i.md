@@ -4,6 +4,12 @@
 
 ---
 
+## 📺 فيديو توضيحي
+فيديو تعليمي يشرح هذه القاعدة بشكل مبسط مع أمثلة تطبيقية.
+
+<div class="video-container" data-video-id="Jy93kaJQGcs"></div>
+
+
 ## 💡 متى نستخدم Futur I؟
 
 ### 1. النوايا والخطط (Absichten / Pläne)
@@ -199,3 +205,4 @@ Ich    werde    morgen    nach Berlin    fahren.
 ---
 
 💡 **نصيحة:** في البداية، استخدم Präsens + ظرف زمان للمستقبل (مثل morgen, nächstes Jahr). هذا سهل جداً ويستخدم يومياً. استخدم Futur I عندما تريد التأكيد على النية، أو التوقع، أو الوعد. مثلاً: **"Ich rufe dich morgen an."** (Präsens) vs. **"Ich werde dich anrufen, versprochen!"** (Futur I + وعد).
+

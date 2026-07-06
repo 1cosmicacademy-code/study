@@ -4,6 +4,12 @@
 
 ---
 
+## 📺 Instructional Video
+An instructional video explaining this grammar topic with practical examples.
+
+<div class="video-container" data-video-id="NcswV-xuyMc"></div>
+
+
 ## 🎯 Lesson Goals
 
 - Identify the three main negation words used at A2 level.
@@ -50,3 +56,4 @@
 | 2 | **____** was left on the table. |
 | 3 | **____** have I been late. |
 </div>
+

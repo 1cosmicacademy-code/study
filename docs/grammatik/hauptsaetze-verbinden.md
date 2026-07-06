@@ -4,6 +4,12 @@
 
 ---
 
+## 📺 فيديو توضيحي
+فيديو تعليمي يشرح هذه القاعدة بشكل مبسط مع أمثلة تطبيقية.
+
+<div class="video-container" data-video-id="7ARuNFUrViA"></div>
+
+
 ## 🎯 أهداف الدرس
 
 - فهم كيفية الترابط باستخدام الأفعال المواضعة
@@ -51,3 +57,4 @@
 2. Wir bleiben zu Hause, ______ es regnet. (because)
 3. Ich lerne Deutsch ______ Englisch. (and)
 </div>
+

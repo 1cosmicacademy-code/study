@@ -4,6 +4,12 @@
 
 ---
 
+## 📺 Instructional Video
+An instructional video explaining this grammar topic with practical examples.
+
+<div class="video-container" data-video-id="H5XQGE87doc"></div>
+
+
 ## 🎯 Lesson Objectives
 
 - Learn how to nominalise adjectives in German.
@@ -42,3 +48,4 @@ When an adjective is used as a noun it takes a definite article and the gender t
 2. Convert the adjective **klein** into a noun with an appropriate article.
 3. Convert the adjective **deutsch** into a noun with an appropriate article.
 </div>
+

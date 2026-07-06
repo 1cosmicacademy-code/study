@@ -4,6 +4,12 @@
 
 ---
 
+## 📺 Instructional Video
+An instructional video explaining this grammar topic with practical examples.
+
+<div class="video-container" data-video-id="vhL6C2ubVCo"></div>
+
+
 ## 🎯 Lesson Goals
 
 - Use temporal conjunctions to place actions in time
@@ -53,3 +59,4 @@
 3. She photographs, ______ he paints a picture.
 4. ______ we are finished, we go home.
 </div>
+

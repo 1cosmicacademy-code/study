@@ -1,6 +1,12 @@
 # Infinitive with "zu"
 ---
 
+## 📺 Instructional Video
+An instructional video explaining this grammar topic with practical examples.
+
+<div class="video-container" data-video-id="gsfTkeF5tNU"></div>
+
+
 ## 🎯 Lesson goals
 
 - Understand when to use **zu + infinitive** in German.
@@ -46,3 +52,4 @@ The infinitive with **zu** is used after certain verbs (e.g., *versuchen*, *verg
 4. The possibility ___ more money is attractive.\
 5. The attempt ___ the problem was successful.
 </div>
+

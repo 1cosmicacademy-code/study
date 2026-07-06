@@ -4,6 +4,12 @@
 
 ---
 
+## 📺 Instructional Video
+An instructional video explaining this grammar topic with practical examples.
+
+<div class="video-container" data-video-id="9TgTYAeKnP0"></div>
+
+
 ## 🎯 Lesson Goals
 
 - Recognise the four main uses of *werden*: **state**, **passive**, **process**, **development**.
@@ -50,3 +56,4 @@ The verb **werden** can serve four distinct grammatical functions in German. It 
 3. Complete the future sentence: "They ___ arrive next week."
 4. Indicate development: "The city ___ larger each year."
 </div>
+

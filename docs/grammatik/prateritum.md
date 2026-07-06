@@ -4,6 +4,12 @@
 
 ---
 
+## 📺 فيديو توضيحي
+فيديو تعليمي يشرح هذه القاعدة بشكل مبسط مع أمثلة تطبيقية.
+
+<div class="video-container" data-video-id="0vjE-XopATY"></div>
+
+
 ## 💡 الفرق بين Prateritum و Perfekt
 
 | Prateritum | Perfekt |

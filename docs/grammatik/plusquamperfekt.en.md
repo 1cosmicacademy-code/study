@@ -4,6 +4,12 @@
 
 ---
 
+## 📺 Instructional Video
+An instructional video explaining this grammar topic with practical examples.
+
+<div class="video-container" data-video-id="l5-E_TqF2a8"></div>
+
+
 ## 🎯 Lesson Goals
 
 - Understand the function of the Past Perfect in German (events that happened before another past event).
@@ -71,3 +77,4 @@ The Past Perfect (Plusquamperfekt) is built with:
 | 3 | Wir ______ das Haus. |
 | 4 | Er ______ beim Arzt. |
 </div>
+

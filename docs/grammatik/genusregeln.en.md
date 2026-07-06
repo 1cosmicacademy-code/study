@@ -4,6 +4,12 @@
 
 ---
 
+## 📺 Instructional Video
+An instructional video explaining this grammar topic with practical examples.
+
+<div class="video-container" data-video-id="IFsEX4ZY6bc"></div>
+
+
 ## 🎯 Lesson Goals
 
 - Identify the three grammatical genders of German nouns.
@@ -61,3 +67,4 @@ German nouns are masculine (der), feminine (die) or neuter (das). The gender is 
 4. ___ Blume (flower)  
 5. ___ Meer (sea)
 </div>
+

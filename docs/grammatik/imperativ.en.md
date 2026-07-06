@@ -4,6 +4,12 @@
 
 ---
 
+## 📺 Instructional Video
+An instructional video explaining this grammar topic with practical examples.
+
+<div class="video-container" data-video-id="Mty5HjzgNOc"></div>
+
+
 ## 💡 The Three Imperative Forms
 
 ### 1. du Imperative — informal singular

@@ -4,6 +4,12 @@
 
 ---
 
+## 📺 Instructional Video
+An instructional video explaining this grammar topic with practical examples.
+
+<div class="video-container" data-video-id="xzpnjZb7I0s"></div>
+
+
 ## 💡 What Are Genitive Prepositions?
 
 Some German prepositions always take the **Genitive** case. The noun following them must be in the genitive form.
@@ -88,3 +94,4 @@ Some German prepositions always take the **Genitive** case. The noun following t
 ---
 
 💡 **Tip:** In exams (e.g., Goethe-Zertifikat), use the formal Genitiv. In everyday conversation, Dativ is accepted and understood.
+

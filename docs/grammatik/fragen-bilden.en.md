@@ -4,6 +4,12 @@
 
 ---
 
+## 📺 Instructional Video
+An instructional video explaining this grammar topic with practical examples.
+
+<div class="video-container" data-video-id="1dBD8P9cCrA"></div>
+
+
 ## 🎯 Lesson Goals
 
 - Learn how to build **W‑questions** (who, what, where, etc.) in German.
@@ -94,3 +100,4 @@ Simply place the **finite verb** at the beginning of the sentence, then follow w
 - **W‑questions**: `W‑word + Verb + Subject …`
 - **Yes/No questions**: `Verb + Subject + …`
 - Practice daily by turning statements you hear into questions.
+

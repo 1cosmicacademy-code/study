@@ -4,6 +4,12 @@
 
 ---
 
+## 📺 Instructional Video
+An instructional video explaining this grammar topic with practical examples.
+
+<div class="video-container" data-video-id="EEarxfsXwk4"></div>
+
+
 ## 💡 What Are Ordinal Numbers?
 
 Ordinal numbers tell us about **order**: first, second, third... In German:
@@ -132,3 +138,4 @@ In German, ordinal numbers are written with a **period (dot)** after the number:
 | 2 | Heute ist der __________ August. (15 August) | |
 | 3 | Das ist mein __________ Versuch. (2nd) | |
 </div>
+

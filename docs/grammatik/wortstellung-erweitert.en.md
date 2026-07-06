@@ -6,6 +6,12 @@
 
 ---
 
+## 📺 Instructional Video
+An instructional video explaining this grammar topic with practical examples.
+
+<div class="video-container" data-video-id="NDrNwaDwqJA"></div>
+
+
 ## 🎯 Lesson Goals
 
 - Understand the **Satzklammer** (verbal bracket) in sentences with Modalverben, Perfekt, and separable verbs
@@ -267,3 +273,4 @@ TE — KA — MO — LO
 | 4 |  | |
 | 5 |  | |
 </div>
+

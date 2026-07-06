@@ -4,6 +4,12 @@
 
 ---
 
+## 📺 Instructional Video
+An instructional video explaining this grammar topic with practical examples.
+
+<div class="video-container" data-video-id="0rSO790y9a0"></div>
+
+
 ## 🎯 Lesson Goals
 
 - Distinguish between position verbs (**stellen**, **stehen**) and directional verbs (**legen**, **liegen**).
@@ -48,3 +54,4 @@
 3. Which verb describes a static upright object? "The vase ___ on the table."
 4. Fill in the verb: "She ___ the child **on** the chair."
 </div>
+

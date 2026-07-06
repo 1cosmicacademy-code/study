@@ -1,6 +1,12 @@
 # Infinitiv ohne zu — المصدر دون zu
 ---
 
+## 📺 فيديو توضيحي
+فيديو تعليمي يشرح هذه القاعدة بشكل مبسط مع أمثلة تطبيقية.
+
+<div class="video-container" data-video-id="p77h4Ee1LAo"></div>
+
+
 ## 🎯 أهداف الدرس
 
 - يتعلم قاعدة الأفعال الموسمة بدون "zu".
@@ -39,3 +45,4 @@
 4. Er ___ (lernen) Deutsch.\
 5. Sie ___ (machen) das Projekt.
 </div>
+

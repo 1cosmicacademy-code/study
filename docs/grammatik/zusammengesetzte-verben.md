@@ -4,6 +4,12 @@
 
 ---
 
+## 📺 فيديو توضيحي
+فيديو تعليمي يشرح هذه القاعدة بشكل مبسط مع أمثلة تطبيقية.
+
+<div class="video-container" data-video-id="Aev41gNHbkY"></div>
+
+
 ## 🎯 أهداف الدرس
 
 - فهم مفهوم الأفعال المركبة (Trennbare und Untrennbare Verben).
@@ -62,3 +68,4 @@
 | 3 | Ich ___ die Aufgabe nicht. |
 | 4 | Wir ___ einen Brief. |
 </div>
+

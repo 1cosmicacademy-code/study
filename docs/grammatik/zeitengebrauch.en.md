@@ -4,6 +4,12 @@
 
 ---
 
+## 📺 Instructional Video
+An instructional video explaining this grammar topic with practical examples.
+
+<div class="video-container" data-video-id="f7xdty6hgYo"></div>
+
+
 ## 🎯 Lesson Goals
 
 - Identify the main German tenses and when to use each.
@@ -64,3 +70,4 @@
 2. ___ (Er / gerade / das Essen kochen) — He is cooking the food right now.  
 3. ___ (Wir / später / das Haus renovieren) — We will renovate the house later.
 </div>
+

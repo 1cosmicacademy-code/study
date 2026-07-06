@@ -4,6 +4,12 @@
 
 ---
 
+## 📺 Instructional Video
+An instructional video explaining this grammar topic with practical examples.
+
+<div class="video-container" data-video-id="L4ywLKcyPs4"></div>
+
+
 ## 🎯 Lesson Goals
 
 - Learn how to ask about people, objects and specific attributes in everyday German.
@@ -54,3 +60,4 @@
 2. ___? ist das Geräusch? (what)  
 3. ___? Straße führt zum Park? (which masculine)
 </div>
+

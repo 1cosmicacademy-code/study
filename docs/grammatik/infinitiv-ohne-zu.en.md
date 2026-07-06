@@ -1,6 +1,12 @@
 # Infinitive without "zu"
 ---
 
+## 📺 Instructional Video
+An instructional video explaining this grammar topic with practical examples.
+
+<div class="video-container" data-video-id="EQvRVlCA4Ko"></div>
+
+
 ## 🎯 Lesson goals
 
 - Identify verbs that take a bare infinitive (no "zu").
@@ -53,3 +59,4 @@ Certain verbs require the infinitive **without** "zu". This mainly includes the 
 4. He ___ (learn) German.\
 5. They ___ (do) the project.
 </div>
+

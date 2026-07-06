@@ -4,6 +4,12 @@
 
 ---
 
+## 📺 فيديو توضيحي
+فيديو تعليمي يشرح هذه القاعدة بشكل مبسط مع أمثلة تطبيقية.
+
+<div class="video-container" data-video-id="yuh7Tp8JrLE"></div>
+
+
 ## 💡 الفرق بين Aktiv und Passiv
 
 | Aktiv (معلوم) | Passiv (مجهول) |

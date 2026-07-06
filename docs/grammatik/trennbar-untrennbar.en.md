@@ -4,6 +4,12 @@
 
 ---
 
+## 📺 Instructional Video
+An instructional video explaining this grammar topic with practical examples.
+
+<div class="video-container" data-video-id="Tizr0WwCzFQ"></div>
+
+
 ## 🎯 Lesson Goals
 
 - Distinguish between separable prefixes and inseparable verbs.
@@ -79,3 +85,4 @@ Ich verstehe das Problem nicht.
 - Do **not** split verbs that start with inseparable prefixes such as **ver-**, **be-**, **er-**.
 - In the perfect tense with separable verbs, the prefix stays attached to the past participle and the **haben/sein** auxiliary comes before it (e.g., *Ich habe angerufen*).
 - Keep a list of the most common separable prefixes (**an-, auf-, aus-, ein-, mit-, nach-, vor-, zu-**) to quickly recognise them.
+

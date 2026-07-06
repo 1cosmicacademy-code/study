@@ -4,6 +4,12 @@
 
 ---
 
+## 📺 فيديو توضيحي
+فيديو تعليمي يشرح هذه القاعدة بشكل مبسط مع أمثلة تطبيقية.
+
+<div class="video-container" data-video-id="wT-USHbJiCU"></div>
+
+
 ## 🎯 أهداف الدرس
 
 - التعرف على الجنس الثلاثة للأسماء الألمانية (der männlich, die weiblich, das neutral).
@@ -61,3 +67,4 @@
 4. ___ Blume (زهرة)  
 5. ___ Meer (بحر)
 </div>
+

@@ -6,6 +6,12 @@
 
 ---
 
+## 📺 فيديو توضيحي
+فيديو تعليمي يشرح هذه القاعدة بشكل مبسط مع أمثلة تطبيقية.
+
+<div class="video-container" data-video-id="r01D7YT_ypQ"></div>
+
+
 ## 🎯 أهداف الدرس
 
 - فهم **Satzklammer** (القوس الفعلي) في جمل Modalverben, Perfekt, و trennbare Verben
@@ -268,3 +274,4 @@ TE — KA — MO — LO
 | 4 |  | |
 | 5 |  | |
 </div>
+

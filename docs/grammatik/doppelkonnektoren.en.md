@@ -4,6 +4,12 @@
 
 ---
 
+## 📺 Instructional Video
+An instructional video explaining this grammar topic with practical examples.
+
+<div class="video-container" data-video-id="y_cxgBBE6iA"></div>
+
+
 ## 🎯 Lesson Objectives
 
 - Recognise common German double conjunctions ("sowohl ... als auch", "nicht nur ... sondern auch", "entweder ... oder", "weder ... noch").
@@ -44,3 +50,4 @@ A double conjunction consists of two parts that must appear together in the corr
 3. Write a sentence using **entweder ... oder** to express a choice between coffee and tea.
 4. Write a sentence using **weder ... noch** to deny both rain and snow.
 </div>
+

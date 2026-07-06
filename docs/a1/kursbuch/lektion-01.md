@@ -6,9 +6,7 @@
 
 ## 🎬 فيديو الدرس
 
-<div class="video-embed-container">
-  <p><a href="https://www.youtube.com/watch?v=kolo85cQdxo" target="_blank" rel="noopener">📺 شاهد فيديو الدرس على يوتيوب</a></p>
-</div>
+<div class="video-container" data-video-id="CPa4pXBlB4w"></div>
 
 ---
 

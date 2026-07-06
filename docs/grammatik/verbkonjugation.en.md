@@ -4,6 +4,12 @@
 
 ---
 
+## 📺 Instructional Video
+An instructional video explaining this grammar topic with practical examples.
+
+<div class="video-container" data-video-id="0LRs_M_BtsI"></div>
+
+
 ## 💡 Regular Verb Endings
 
 Most German verbs follow the same pattern. Verb = stem + ending:

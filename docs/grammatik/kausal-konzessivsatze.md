@@ -6,6 +6,12 @@
 
 ---
 
+## 📺 فيديو توضيحي
+فيديو تعليمي يشرح هذه القاعدة بشكل مبسط مع أمثلة تطبيقية.
+
+<div class="video-container" data-video-id="GnDuqivbJCw"></div>
+
+
 ## 🎯 أهداف الدرس
 
 - فهم الفرق بين **Kausalsätze** (جمل السبب) و **Konzessivsätze** (جمل المنع)
@@ -251,3 +257,4 @@ Es regnet,        trotzdem   gehen  wir spazieren.
 | 4 |  | |
 | 5 |  | |
 </div>
+

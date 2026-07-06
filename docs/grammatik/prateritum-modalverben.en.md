@@ -4,6 +4,12 @@
 
 ---
 
+## 📺 Instructional Video
+An instructional video explaining this grammar topic with practical examples.
+
+<div class="video-container" data-video-id="J5FYjADg97c"></div>
+
+
 ## 💡 What is the Präteritum of Modal Verbs?
 
 Modal verbs have a special **Präteritum** form. In the past tense, they all end in **-te** and lose the Umlaut (¨).
@@ -101,3 +107,4 @@ Modal verbs have a special **Präteritum** form. In the past tense, they all end
 | 4 | Sie __________ (wollen) tanzen gehen. | |
 | 5 | Ich __________ (sollen) die Wahrheit sagen. | |
 </div>
+

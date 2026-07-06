@@ -4,6 +4,12 @@
 
 ---
 
+## 📺 Instructional Video
+An instructional video explaining this grammar topic with practical examples.
+
+<div class="video-container" data-video-id="fPKH95g_9cs"></div>
+
+
 ## 💡 When do we use the Accusative?
 
 ### 1. Direct Object
@@ -163,3 +169,4 @@ Only the masculine changes: der → den, ein → einen
 </div>
 
 💡 **Tip:** The easiest way to remember the Accusative — ask yourself "what?" or "whom?" after the verb. The answer is the Accusative object.
+

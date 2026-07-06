@@ -4,6 +4,12 @@
 
 ---
 
+## 📺 فيديو توضيحي
+فيديو تعليمي يشرح هذه القاعدة بشكل مبسط مع أمثلة تطبيقية.
+
+<div class="video-container" data-video-id="0VmUW7XX0Jo"></div>
+
+
 ## 💡 أنماط الجمع الرئيسية
 
 ### 1. إضافة -e (أشهر الأنماط)
@@ -89,3 +95,4 @@ der Tisch → die Tische (وليس فقط Tisch)
 | 5 | das Buch → die (Bücher / Bucher / Büchen) | |
 </div>
 ---
+

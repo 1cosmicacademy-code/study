@@ -4,6 +4,12 @@
 
 ---
 
+## 📺 فيديو توضيحي
+فيديو تعليمي يشرح هذه القاعدة بشكل مبسط مع أمثلة تطبيقية.
+
+<div class="video-container" data-video-id="fFKuIgf89IU"></div>
+
+
 ## 🎯 أهداف الدرس
 
 - فهم واستخدام أدوات الاستفهام "welcher, welche, welches, welchen, welchem".
@@ -62,3 +68,4 @@
 5. ___ (____) (Stuhl) ist bequem? — (اكتب السؤال باستخدام الفعل المناسب)
 6. Sie mag ___ (____) (Blume) nicht. — (اكتب الجملة مع أداة الإشارة في حالة Akkusativ)
 </div>
+

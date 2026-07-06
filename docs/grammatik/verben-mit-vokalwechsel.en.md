@@ -4,6 +4,12 @@
 
 ---
 
+## 📺 Instructional Video
+An instructional video explaining this grammar topic with practical examples.
+
+<div class="video-container" data-video-id="ZpfZyZwApFc"></div>
+
+
 ## 🎯 Lesson Goals
 
 - Recognize verbs that undergo a vowel change (Umlaut) in the present tense.
@@ -82,3 +88,4 @@ The vowel change occurs only for **ich** and **du** forms. All other persons kee
 - Vowel change (Umlaut) only affects **ich** and **du**.
 - Remember the three typical patterns **a→ä**, **o→ö**, **u→ü**.
 - Practice with daily activities to internalize the forms.
+

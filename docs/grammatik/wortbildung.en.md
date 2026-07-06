@@ -4,6 +4,12 @@
 
 ---
 
+## 📺 Instructional Video
+An instructional video explaining this grammar topic with practical examples.
+
+<div class="video-container" data-video-id="DH65q61UXHA"></div>
+
+
 ## 🎯 Lesson Goals
 
 - Understand how prefixes (Vorsilben) and suffixes (Nachsilben) expand word meaning.
@@ -59,3 +65,4 @@ In German you can attach **prefixes** before a stem or **suffixes** after a stem
 - Keep a list of common prefixes (**ver‑, be‑, ent‑, miss‑**) and suffixes (**‑ung, ‑heit, ‑lich**) to expand your vocabulary.
 - Practice forming words with both parts; the meaning often becomes transparent once you know the components.
 - Watch out for spelling changes in the stem when a prefix is added (e.g., **ver** often triggers an **e** insertion).
+

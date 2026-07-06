@@ -4,6 +4,12 @@
 
 ---
 
+## 📺 Instructional Video
+An instructional video explaining this grammar topic with practical examples.
+
+<div class="video-container" data-video-id="3Aqc5WDKO9A"></div>
+
+
 ## 💡 Main Plural Patterns
 
 ### 1. Add -e (most common)
@@ -89,3 +95,4 @@ der Tisch → die Tische (not just Tisch)
 | 5 | das Buch → die (Bücher / Bucher / Büchen) | |
 </div>
 ---
+

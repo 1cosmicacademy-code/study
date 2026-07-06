@@ -15,10 +15,11 @@
 (function () {
   'use strict';
 
-  // Early exit — self-guard: only run on lesson pages (URL contains /lektion-)
-  // هذا الـ guard يمنع تحميل وتنفيذ video-switcher.js في الصفحات غير المطلوبة مثل
-  // الرئيسية، القواعد، فحص المستوى، Übungsbuch، والصفحات الأخرى التي لا تحتوي فيديوهات دروس.
-  if (window.location.pathname.indexOf('/lektion-') === -1) return;
+  // Early exit — self-guard: only run on lesson pages or grammar pages
+  // صفحات الدروس تحتوي /lektion-، وصفحات القواعد تحتوي /grammatik/
+  var isGrammarPage = window.location.pathname.indexOf('/grammatik/') !== -1;
+  var isLessonPage = window.location.pathname.indexOf('/lektion-') !== -1;
+  if (!isGrammarPage && !isLessonPage) return;
 
   var isEnglish = window.location.pathname.startsWith('/en/');
   var lang = isEnglish ? 'en' : 'ar';
@@ -125,7 +126,36 @@
     });
   }
 
+  /**
+   * Process grammar pages: find .video-container elements with data-video-id
+   * and convert them into YouTube iframe embeds.
+   * صفحات القواعد تحتوي على <div class="video-container" data-video-id="...">
+   * مضمنة مسبقاً في HTML، نحتاج فقط إلى تحويلها إلى iframe.
+   */
+  function initGrammarVideos() {
+    var containers = document.querySelectorAll('.video-container[data-video-id]');
+    if (!containers.length) return;
+
+    containers.forEach(function (container) {
+      var videoId = container.getAttribute('data-video-id');
+      if (!videoId) return;
+
+      // Clear container and create iframe
+      container.textContent = '';
+      container.style.margin = '1rem 0';
+      container.style.textAlign = 'center';
+      container.appendChild(createEmbedIframe(videoId));
+    });
+  }
+
   function init() {
+    // Handle grammar pages differently
+    if (isGrammarPage) {
+      initGrammarVideos();
+      return;
+    }
+
+    // Original logic for lesson pages
     var lessonKey = getLessonKey();
     if (!lessonKey) return;
 

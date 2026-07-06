@@ -4,6 +4,12 @@
 
 ---
 
+## 📺 فيديو توضيحي
+فيديو تعليمي يشرح هذه القاعدة بشكل مبسط مع أمثلة تطبيقية.
+
+<div class="video-container" data-video-id="-mYamuCZKOw"></div>
+
+
 ## 💡 ما هو Präteritum der Modalverben؟
 
 الأفعال الناقصة (Modalverben) لها صيغة **Präteritum** خاصة. في الماضي، كلها تنتهي بـ **-te** وتفقد الـ Umlaut (¨).
@@ -101,3 +107,4 @@
 | 4 | Sie __________ (wollen) tanzen gehen. | |
 | 5 | Ich __________ (sollen) die Wahrheit sagen. | |
 </div>
+

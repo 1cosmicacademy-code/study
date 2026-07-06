@@ -4,6 +4,12 @@
 
 ---
 
+## 📺 فيديو توضيحي
+فيديو تعليمي يشرح هذه القاعدة بشكل مبسط مع أمثلة تطبيقية.
+
+<div class="video-container" data-video-id="WUA7dvV4Mac"></div>
+
+
 ## 💡 لماذا نحتاج الضمائر في Akkusativ und Dativ؟
 
 في الجملة الألمانية، الضمائر الشخصية تتغير حسب **وظيفتها النحوية**:
@@ -115,3 +121,4 @@
 | 3 | Wie geht es __________? (Sie - formal) | |
 | 4 | Ohne __________ kann ich nicht leben. (sie - Pl.) | |
 </div>
+

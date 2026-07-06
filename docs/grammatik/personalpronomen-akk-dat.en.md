@@ -4,6 +4,12 @@
 
 ---
 
+## 📺 Instructional Video
+An instructional video explaining this grammar topic with practical examples.
+
+<div class="video-container" data-video-id="GHRHSR-5thc"></div>
+
+
 ## 💡 Why Do We Need Pronouns in Akkusativ and Dativ?
 
 In German sentences, personal pronouns change depending on their **grammatical function**:
@@ -115,3 +121,4 @@ Some verbs take two objects (Akkusativ + Dativ):
 | 3 | Wie geht es __________? (Sie - formal) | |
 | 4 | Ohne __________ kann ich nicht leben. (sie - Pl.) | |
 </div>
+

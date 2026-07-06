@@ -4,6 +4,12 @@
 
 ---
 
+## 📺 فيديو توضيحي
+فيديو تعليمي يشرح هذه القاعدة بشكل مبسط مع أمثلة تطبيقية.
+
+<div class="video-container" data-video-id="DnuOh3YPqkQ"></div>
+
+
 ## 🎯 أهداف الدرس
 
 - فهم كيفية استخدام جمل السؤال والجواب في المحاولة اليومية.
@@ -47,3 +53,4 @@
 2. ___? ist das Geräusch? (what)  
 3. ___? Straße führt zum Park? (which masculine)
 </div>
+

@@ -6,6 +6,12 @@
 
 ---
 
+## 📺 Instructional Video
+An instructional video explaining this grammar topic with practical examples.
+
+<div class="video-container" data-video-id="nymodKZcdpU"></div>
+
+
 ## 🎯 Lesson Goals
 
 - Understand the difference between **Kausalsätze** (reason clauses) and **Konzessivsätze** (concession clauses)
@@ -238,3 +244,4 @@ Es regnet,           trotzdem   gehen  wir spazieren.
 | 4 |  | |
 | 5 |  | |
 </div>
+

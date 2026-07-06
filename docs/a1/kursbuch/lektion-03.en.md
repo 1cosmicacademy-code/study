@@ -173,79 +173,52 @@ And the answer is always: **Das ist...** (dahs ist) = **That is...**
 
 ### Exercise 1: Choose the correct article 🎯
 
+<div class="exercise" markdown="1" data-type="choice" data-answers='["A","B","C","B","A","C","B","C"]'>
+
 | # | Word | der | die | das |
 |---|------|:---:|:---:|:---:|
-| 1 | ___ Park | ⬜ | ⬜ | ⬜ |
-| 2 | ___ Schule | ⬜ | ⬜ | ⬜ |
-| 3 | ___ Haus | ⬜ | ⬜ | ⬜ |
-| 4 | ___ Lampe | ⬜ | ⬜ | ⬜ |
-| 5 | ___ Tisch | ⬜ | ⬜ | ⬜ |
-| 6 | ___ Buch | ⬜ | ⬜ | ⬜ |
-| 7 | ___ Stadt | ⬜ | ⬜ | ⬜ |
-| 8 | ___ Auto | ⬜ | ⬜ | ⬜ |
+| 1 | ___ Park | der | die | das |
+| 2 | ___ Schule | der | die | das |
+| 3 | ___ Haus | der | die | das |
+| 4 | ___ Lampe | der | die | das |
+| 5 | ___ Tisch | der | die | das |
+| 6 | ___ Buch | der | die | das |
+| 7 | ___ Stadt | der | die | das |
+| 8 | ___ Auto | der | die | das |
 
-✅ **Solution:**
-
-| # | Answer |
-|---|--------|
-| 1 | **der** Park — masculine 🟦 |
-| 2 | **die** Schule — feminine 🟥 |
-| 3 | **das** Haus — neuter 🟩 |
-| 4 | **die** Lampe — feminine 🟥 (ends with -e) |
-| 5 | **der** Tisch — masculine 🟦 |
-| 6 | **das** Buch — neuter 🟩 |
-| 7 | **die** Stadt — feminine 🟥 |
-| 8 | **das** Auto — neuter 🟩 |
-
----
+</div>
 
 ### Exercise 2: ein or eine? 🤔
 
+<div class="exercise" markdown="1" data-type="choice" data-answers='["A","B","A","B","A","B","A","A"]'>
+
 | # | Sentence | ein 🟦🟩 | eine 🟥 |
 |---|----------|:---------:|:--------:|
-| 1 | Das ist ___ Park. | ⬜ | ⬜ |
-| 2 | Das ist ___ Schule. | ⬜ | ⬜ |
-| 3 | Das ist ___ Haus. | ⬜ | ⬜ |
-| 4 | Das ist ___ Lampe. | ⬜ | ⬜ |
-| 5 | Das ist ___ Tisch. | ⬜ | ⬜ |
-| 6 | Das ist ___ Frau. | ⬜ | ⬜ |
-| 7 | Das ist ___ Kind. | ⬜ | ⬜ |
-| 8 | Das ist ___ Café. | ⬜ | ⬜ |
+| 1 | Das ist ___ Park. | ein | eine |
+| 2 | Das ist ___ Schule. | ein | eine |
+| 3 | Das ist ___ Haus. | ein | eine |
+| 4 | Das ist ___ Lampe. | ein | eine |
+| 5 | Das ist ___ Tisch. | ein | eine |
+| 6 | Das ist ___ Frau. | ein | eine |
+| 7 | Das ist ___ Kind. | ein | eine |
+| 8 | Das ist ___ Café. | ein | eine |
 
-✅ **Solution:**
-
-| # | Answer | Explanation |
-|---|--------|-------------|
-| 1 | **ein** Park | der → ein 🟦 |
-| 2 | **eine** Schule | die → eine 🟥 |
-| 3 | **ein** Haus | das → ein 🟩 |
-| 4 | **eine** Lampe | die → eine 🟥 |
-| 5 | **ein** Tisch | der → ein 🟦 |
-| 6 | **eine** Frau | die → eine 🟥 |
-| 7 | **ein** Kind | das → ein 🟩 |
-| 8 | **ein** Café | das → ein 🟩 |
-
----
+</div>
 
 ### Exercise 3: Order the sentence 🧩
 
+<div class="exercise" markdown="1" data-answers='["Das ist ein Park.","Das ist eine Schule.","Das ist ein Buch.","Das ist ein Auto.","Das ist eine Lampe."]'>
+
 | # | Words | Correct Sentence |
 |---|-------|-----------------|
-| 1 | ist / ein / das / Park | **______________** |
-| 2 | eine / ist / Schule / das | **______________** |
-| 3 | Buch / das / ist / ein | **______________** |
-| 4 | das / ist / ein / Auto | **______________** |
-| 5 | eine / Lampe / das / ist | **______________** |
+| 1 | ist / ein / das / Park | |
+| 2 | eine / ist / Schule / das | |
+| 3 | Buch / das / ist / ein | |
+| 4 | das / ist / ein / Auto | |
+| 5 | eine / Lampe / das / ist | |
 
-✅ **Solution:**
+</div>
 
-| # | Correct Sentence | Translation |
-|---|------------------|-------------|
-| 1 | **Das ist ein Park.** | That is a park. |
-| 2 | **Das ist eine Schule.** | That is a school. |
-| 3 | **Das ist ein Buch.** | That is a book. |
-| 4 | **Das ist ein Auto.** | That is a car. |
-| 5 | **Das ist eine Lampe.** | That is a lamp. |
 
 ---
 

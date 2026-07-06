@@ -4,6 +4,12 @@
 
 ---
 
+## 📺 فيديو توضيحي
+فيديو تعليمي يشرح هذه القاعدة بشكل مبسط مع أمثلة تطبيقية.
+
+<div class="video-container" data-video-id="d9mFD22RpHE"></div>
+
+
 ## 🎯 أهداف الدرس
 
 - معرفة كيف يُستعمل الفعل **lassen** لتعبير عن السماح أو الإلزام.
@@ -52,3 +58,4 @@
 3. أي صيغة تُستعمل في: "Sie ___ sich das Haar schneiden." (reflexive)
 4. حدد الصيغة في: "Der Trainer lässt die Spieler trainieren." (Objekt + Infinitiv)
 </div>
+

@@ -4,6 +4,12 @@
 
 ---
 
+## 📺 Instructional Video
+An instructional video explaining this grammar topic with practical examples.
+
+<div class="video-container" data-video-id="OlRQT4V72LM"></div>
+
+
 ## 💡 When do we use prepositions in German?
 
 ### 🟢 Temporale Präpositionen — Temporal Prepositions (when?)

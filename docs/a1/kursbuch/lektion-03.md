@@ -173,79 +173,52 @@
 
 ### التمرين 1: اختر الأداة الصحيحة 🎯
 
+<div class="exercise" markdown="1" data-type="choice" data-answers='["A","B","C","B","A","C","B","C"]'>
+
 | # | الكلمة | der | die | das |
 |---|--------|:---:|:---:|:---:|
-| 1 | ___ Park | ⬜ | ⬜ | ⬜ |
-| 2 | ___ Schule | ⬜ | ⬜ | ⬜ |
-| 3 | ___ Haus | ⬜ | ⬜ | ⬜ |
-| 4 | ___ Lampe | ⬜ | ⬜ | ⬜ |
-| 5 | ___ Tisch | ⬜ | ⬜ | ⬜ |
-| 6 | ___ Buch | ⬜ | ⬜ | ⬜ |
-| 7 | ___ Stadt | ⬜ | ⬜ | ⬜ |
-| 8 | ___ Auto | ⬜ | ⬜ | ⬜ |
+| 1 | ___ Park | der | die | das |
+| 2 | ___ Schule | der | die | das |
+| 3 | ___ Haus | der | die | das |
+| 4 | ___ Lampe | der | die | das |
+| 5 | ___ Tisch | der | die | das |
+| 6 | ___ Buch | der | die | das |
+| 7 | ___ Stadt | der | die | das |
+| 8 | ___ Auto | der | die | das |
 
-✅ **الحل:**
-
-| # | الإجابة |
-|---|---------|
-| 1 | **der** Park — مذكر 🟦 |
-| 2 | **die** Schule — مؤنث 🟥 |
-| 3 | **das** Haus — محايد 🟩 |
-| 4 | **die** Lampe — مؤنث 🟥 (تنتهي بـ -e) |
-| 5 | **der** Tisch — مذكر 🟦 |
-| 6 | **das** Buch — محايد 🟩 |
-| 7 | **die** Stadt — مؤنث 🟥 |
-| 8 | **das** Auto — محايد 🟩 |
-
----
+</div>
 
 ### التمرين 2: ein oder eine? 🤔
 
+<div class="exercise" markdown="1" data-type="choice" data-answers='["A","B","A","B","A","B","A","A"]'>
+
 | # | الجملة | ein 🟦🟩 | eine 🟥 |
 |---|--------|:---------:|:--------:|
-| 1 | Das ist ___ Park. | ⬜ | ⬜ |
-| 2 | Das ist ___ Schule. | ⬜ | ⬜ |
-| 3 | Das ist ___ Haus. | ⬜ | ⬜ |
-| 4 | Das ist ___ Lampe. | ⬜ | ⬜ |
-| 5 | Das ist ___ Tisch. | ⬜ | ⬜ |
-| 6 | Das ist ___ Frau. | ⬜ | ⬜ |
-| 7 | Das ist ___ Kind. | ⬜ | ⬜ |
-| 8 | Das ist ___ Café. | ⬜ | ⬜ |
+| 1 | Das ist ___ Park. | ein | eine |
+| 2 | Das ist ___ Schule. | ein | eine |
+| 3 | Das ist ___ Haus. | ein | eine |
+| 4 | Das ist ___ Lampe. | ein | eine |
+| 5 | Das ist ___ Tisch. | ein | eine |
+| 6 | Das ist ___ Frau. | ein | eine |
+| 7 | Das ist ___ Kind. | ein | eine |
+| 8 | Das ist ___ Café. | ein | eine |
 
-✅ **الحل:**
-
-| # | الإجابة | الشرح |
-|---|---------|-------|
-| 1 | **ein** Park | der → ein 🟦 |
-| 2 | **eine** Schule | die → eine 🟥 |
-| 3 | **ein** Haus | das → ein 🟩 |
-| 4 | **eine** Lampe | die → eine 🟥 |
-| 5 | **ein** Tisch | der → ein 🟦 |
-| 6 | **eine** Frau | die → eine 🟥 |
-| 7 | **ein** Kind | das → ein 🟩 |
-| 8 | **ein** Café | das → ein 🟩 |
-
----
+</div>
 
 ### التمرين 3: رتّب الجملة 🧩
 
+<div class="exercise" markdown="1" data-answers='["Das ist ein Park.","Das ist eine Schule.","Das ist ein Buch.","Das ist ein Auto.","Das ist eine Lampe."]'>
+
 | # | الكلمات | الجملة الصحيحة |
 |---|---------|----------------|
-| 1 | ist / ein / das / Park | **______________** |
-| 2 | eine / ist / Schule / das | **______________** |
-| 3 | Buch / das / ist / ein | **______________** |
-| 4 | das / ist / ein / Auto | **______________** |
-| 5 | eine / Lampe / das / ist | **______________** |
+| 1 | ist / ein / das / Park | |
+| 2 | eine / ist / Schule / das | |
+| 3 | Buch / das / ist / ein | |
+| 4 | das / ist / ein / Auto | |
+| 5 | eine / Lampe / das / ist | |
 
-✅ **الحل:**
+</div>
 
-| # | الجملة الصحيحة | المعنى |
-|---|-----------------|--------|
-| 1 | **Das ist ein Park.** | هذه حديقة. |
-| 2 | **Das ist eine Schule.** | هذه مدرسة. |
-| 3 | **Das ist ein Buch.** | هذا كتاب. |
-| 4 | **Das ist ein Auto.** | هذه سيارة. |
-| 5 | **Das ist eine Lampe.** | هذه لمبة. |
 
 ---
 

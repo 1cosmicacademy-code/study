@@ -4,6 +4,12 @@
 
 ---
 
+## 📺 Instructional Video
+An instructional video explaining this grammar topic with practical examples.
+
+<div class="video-container" data-video-id="VHXRyyTVhmw"></div>
+
+
 ## 💡 What is Partizip 2?
 
 **Partizip 2** (or Partizip Perfekt) is the third form of German verbs. It is used to form:
@@ -136,3 +142,4 @@
 | 3 | Wir __________ Pizza __________. (essen) | |
 | 4 | Du __________ ein Buch __________. (lesen) | |
 </div>
+

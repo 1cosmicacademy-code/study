@@ -1,6 +1,12 @@
 # n-Deklination — تصريف n
 ---
 
+## 📺 فيديو توضيحي
+فيديو تعليمي يشرح هذه القاعدة بشكل مبسط مع أمثلة تطبيقية.
+
+<div class="video-container" data-video-id="7dCuh5F25co"></div>
+
+
 ## 🎯 أهداف الدرس
 
 - التعرف على الأسماء المذكرة الضعيفة التي تنتهي بـ -(e)n في جميع الحالات ما عدا الـ Nominativ.
@@ -60,3 +66,4 @@
 4. Das ist das Haus ___ (der Student).\
 5. Ich kenne ___ (der Name) nicht.
 </div>
+

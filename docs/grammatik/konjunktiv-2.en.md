@@ -4,6 +4,12 @@
 
 ---
 
+## 📺 Instructional Video
+An instructional video explaining this grammar topic with practical examples.
+
+<div class="video-container" data-video-id="lt8c9WEBhYc"></div>
+
+
 ## 💡 When do we use Konjunktiv II?
 
 | Usage | Example | Translation |

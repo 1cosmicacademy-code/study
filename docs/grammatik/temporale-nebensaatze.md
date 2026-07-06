@@ -4,6 +4,12 @@
 
 ---
 
+## 📺 فيديو توضيحي
+فيديو تعليمي يشرح هذه القاعدة بشكل مبسط مع أمثلة تطبيقية.
+
+<div class="video-container" data-video-id="r-Ue5bznmcM"></div>
+
+
 ## 🎯 أهداف الدرس
 
 - فهم كيفية إستخدام جمل زمنية لإبيان الوقت والهدف
@@ -53,3 +59,4 @@
 3. Sie fotografiert, ______ er ein Bild malt.
 4. ______ wir fertig sind, gehen wir nach Hause.
 </div>
+

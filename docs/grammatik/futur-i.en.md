@@ -4,6 +4,12 @@
 
 ---
 
+## 📺 Instructional Video
+An instructional video explaining this grammar topic with practical examples.
+
+<div class="video-container" data-video-id="-Qa4NeyYCnw"></div>
+
+
 ## 💡 When do we use Futur I?
 
 ### 1. Intentions and Plans (Absichten / Pläne)

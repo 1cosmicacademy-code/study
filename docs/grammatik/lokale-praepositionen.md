@@ -4,6 +4,12 @@
 
 ---
 
+## 📺 فيديو توضيحي
+فيديو تعليمي يشرح هذه القاعدة بشكل مبسط مع أمثلة تطبيقية.
+
+<div class="video-container" data-video-id="hHlKmbECKnE"></div>
+
+
 ## 🎯 أهداف الدرس
 
 - فهم كيفية استخدام حروف الجر المكانية في الجمل اليومية.
@@ -58,3 +64,4 @@
 2. ___? fliegst du? (where to)  
 3. ___? stammt das Rezept? (where from)
 </div>
+

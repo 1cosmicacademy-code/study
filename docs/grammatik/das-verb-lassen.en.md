@@ -4,6 +4,12 @@
 
 ---
 
+## 📺 Instructional Video
+An instructional video explaining this grammar topic with practical examples.
+
+<div class="video-container" data-video-id="6WxShqoXFtQ"></div>
+
+
 ## 🎯 Lesson Goals
 
 - Understand the different constructions with **lassen**.
@@ -54,3 +60,4 @@ The verb **lassen** expresses permission, causation, or a request for something 
 3. Which construction is reflexive? "She ___ the hair cut."
 4. Fill the object: "The coach ___ the players train."
 </div>
+

@@ -4,6 +4,12 @@
 
 ---
 
+## 📺 Instructional Video
+An instructional video explaining this grammar topic with practical examples.
+
+<div class="video-container" data-video-id="i34ICN0PzJY"></div>
+
+
 ## 🎯 Lesson Goals
 
 - Understand how to build the past passive (Perfekt) in German.
@@ -59,3 +65,4 @@ If the sentence is in pluperfect, use **war** + **Partizip II** + **worden**.
 - The agent can be omitted when it is obvious or not important.
 - In perfect passive, the past participle is **always** preceded by **sein** (not **haben**).
 - Remember the difference between **wurde** (simple past passive) and **ist ... geworden** (perfect passive).
+

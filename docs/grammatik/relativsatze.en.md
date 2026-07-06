@@ -4,6 +4,12 @@
 
 ---
 
+## 📺 Instructional Video
+An instructional video explaining this grammar topic with practical examples.
+
+<div class="video-container" data-video-id="6CtW6EvAV4A"></div>
+
+
 ## 💡 Relative Pronouns (Relativpronomen)
 
 In German, relative pronouns are almost the same as definite articles: **der, die, das** — with small differences in Dativ and Genitiv.

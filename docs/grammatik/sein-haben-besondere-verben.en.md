@@ -4,6 +4,12 @@
 
 ---
 
+## 📺 Instructional Video
+An instructional video explaining this grammar topic with practical examples.
+
+<div class="video-container" data-video-id="84mM9AT3EsI"></div>
+
+
 ## 🎯 Lesson Goals
 
 - Understand the basic uses of **sein** and **haben** as core verbs.
@@ -98,3 +104,4 @@ These verbs can take **Akkusativ** or **Dativ** objects depending on the verb an
 | 5 | Wir ___ spazieren. |
 | 6 | Ihr ___ nach Berlin. |
 </div>
+

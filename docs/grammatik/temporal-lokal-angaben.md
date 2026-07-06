@@ -6,6 +6,12 @@
 
 ---
 
+## 📺 فيديو توضيحي
+فيديو تعليمي يشرح هذه القاعدة بشكل مبسط مع أمثلة تطبيقية.
+
+<div class="video-container" data-video-id="uBQ4jQfNEWo"></div>
+
+
 ## 🎯 أهداف الدرس
 
 - فهم الفرق بين Temporalangaben (الزمان) و Lokalangaben (المكان)
@@ -205,3 +211,4 @@ TE — KA — MO — LO
 | 4 | "Morgen fahre ich nach Berlin." — جملة صحيحة | |
 | 5 | "Ich fahre nach Berlin morgen." — ترتيب صحيح لـ TEKAMOLO | |
 </div>
+

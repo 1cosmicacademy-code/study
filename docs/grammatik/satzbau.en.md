@@ -4,6 +4,12 @@
 
 ---
 
+## 📺 Instructional Video
+An instructional video explaining this grammar topic with practical examples.
+
+<div class="video-container" data-video-id="O-_cxHx5FD4"></div>
+
+
 ## 💡 The Basic Rule: Verb in Second Position
 
 In a statement (Aussagesatz), **the verb is always in second position**.

@@ -4,6 +4,12 @@
 
 ---
 
+## 📺 Instructional Video
+An instructional video explaining this grammar topic with practical examples.
+
+<div class="video-container" data-video-id="996NJ2axTV0"></div>
+
+
 ## 🎯 Lesson Goals
 
 - Understand how German forms compound nouns and why they are useful
@@ -55,3 +61,4 @@
 3. Form a compound from *wash* + *machine*.
 4. Combine *speed* + *limit* into a German compound noun.
 </div>
+

@@ -4,6 +4,12 @@
 
 ---
 
+## 📺 Instructional Video
+An instructional video explaining this grammar topic with practical examples.
+
+<div class="video-container" data-video-id="SYWra2Qzch4"></div>
+
+
 ## 🎯 Lesson Goals
 
 - Form superlative adjectives and adverbs
@@ -57,3 +63,4 @@
 2. Superlative of *schnell*: ______
 3. Superlative of *freundlich*: ______
 </div>
+

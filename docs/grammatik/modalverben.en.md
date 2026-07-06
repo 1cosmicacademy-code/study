@@ -4,6 +4,12 @@
 
 ---
 
+## 📺 Instructional Video
+An instructional video explaining this grammar topic with practical examples.
+
+<div class="video-container" data-video-id="bD4vSw6AWps"></div>
+
+
 ## 💡 List of Modal Verbs
 
 German has **6 main modal verbs**:

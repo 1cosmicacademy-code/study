@@ -1,6 +1,12 @@
 # n-Declination (Weak Masculine Nouns)
 ---
 
+## 📺 Instructional Video
+An instructional video explaining this grammar topic with practical examples.
+
+<div class="video-container" data-video-id="9iR3puB9ay0"></div>
+
+
 ## 🎯 Lesson goals
 
 - Recognise weak masculine nouns that add **-n / -en** in every case except Nominative.
@@ -60,3 +66,4 @@ Weak masculine nouns (often called **n‑declension** nouns) end in **-(e)n** in
 4. That is the house ___ (the student) lives in.\
 5. I don't know ___ (the name).
 </div>
+

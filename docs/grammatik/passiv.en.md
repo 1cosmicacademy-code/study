@@ -4,6 +4,12 @@
 
 ---
 
+## 📺 Instructional Video
+An instructional video explaining this grammar topic with practical examples.
+
+<div class="video-container" data-video-id="43m6-wQuaGo"></div>
+
+
 ## 💡 Difference between Aktiv and Passiv
 
 | Aktiv (Active) | Passiv (Passive) |
