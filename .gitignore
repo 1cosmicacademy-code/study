@@ -1,7 +1,12 @@
 # Claude Code personal files
 CLAUDE.local.md
+.claude/
 .claude/settings.local.json
 .claude/plans/
+
+# Other Claude Code work files
+.agents/
+.github/
 
 # OS files
 .DS_Store
@@ -23,3 +28,28 @@ site/
 
 # Local Netlify folder
 .netlify
+
+# Temp work files
+scripts/
+snapshot/
+*.ps1
+*.png
+*.jpg
+*.yml
+*.txt
+tmp_*
+*.py
+skills-lock.json
+*.json
+auth.js
+netlify-auth.js
+
+# Work docs
+docs/fixes-log.md
+
+# Design experiments
+bavarian-ember-*
+nordic-blueprint-*
+nordlicht-*
+saffron-ink-*
+screenshot-*
