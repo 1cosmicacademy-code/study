@@ -228,68 +228,68 @@
 
 ## 5. 🧠 تمارين سريعة
 
-**التمرين 1: اختر zum أو zur**
+### التمرين 1: اختر zum أو zur
 
-1. Wie komme ich ___ Bahnhof? (der Bahnhof)
-2. Wie komme ich ___ Post? (die Post)
-3. Wie komme ich ___ Kino? (das Kino)
-4. Wie komme ich ___ Schule? (die Schule)
-5. Wie komme ich ___ Supermarkt? (der Supermarkt)
+<div class="exercise" markdown="1" data-type="choice" data-answers='["A","B","A","B","A"]'>
 
-✅ **الحل:** 1-zum, 2-zur, 3-zum, 4-zur, 5-zum
+| # | Deutsch | zum | zur |
+|---|---------|:---:|:---:|
+| 1 | Wie komme ich ___ Bahnhof? (der) | **zum** | zur |
+| 2 | Wie komme ich ___ Post? (die) | zum | **zur** |
+| 3 | Wie komme ich ___ Kino? (das) | **zum** | zur |
+| 4 | Wie komme ich ___ Schule? (die) | zum | **zur** |
+| 5 | Wie komme ich ___ Supermarkt? (der) | **zum** | zur |
 
----
-
-**التمرين 2: رتب الكلمات**
-
-1. du / Wie / zum / Bahnhof / komme / ich / ?
-   **→** _______________________________
-
-2. geradeaus / Gehen / Sie / .
-   **→** _______________________________
-
-3. ist / Wo / die / Post / ?
-   **→** _______________________________
-
-4. der / links / Ampel / An / .
-   **→** _______________________________
-
-5. weit / ist / nicht / Es / .
-   **→** _______________________________
-
-✅ **الحل:**
-1. **Wie komme ich zum Bahnhof?**
-2. **Gehen Sie geradeaus.**
-3. **Wo ist die Post?**
-4. **An der Ampel links.**
-5. **Es ist nicht weit.**
+</div>
 
 ---
 
-**التمرين 3: اكمل الفراغ**
+### التمرين 2: رتب الكلمات لتكوين جملة صحيحة
 
-1. Entschuldigung! Wie komme ich ___ Kino? → **____**
-2. Gehen Sie ___ (straight). → **____**
-3. An der ___ (traffic light) links. → **____**
-4. ___ (Then) rechts. → **____**
-5. Es ist nicht ___ (far). → **____**
+<div class="exercise" markdown="1" data-answers='["Wie komme ich zum Bahnhof?","Gehen Sie geradeaus.","Wo ist die Post?","An der Ampel links.","Es ist nicht weit."]'>
 
-✅ **الحل:** 1-zum, 2-geradeaus, 3-Ampel, 4-Dann, 5-weit
+| # | الكلمات | الجملة الصحيحة |
+|---|--------|----------------|
+| 1 | du / Wie / zum / Bahnhof / komme / ich / ? | |
+| 2 | geradeaus / Gehen / Sie / . | |
+| 3 | ist / Wo / die / Post / ? | |
+| 4 | der / links / Ampel / An / . | |
+| 5 | weit / ist / nicht / Es / . | |
+
+</div>
+
+> 💡 **نصيحة:** المقارنة غير حساسة لحالة الأحرف (كبيرة/صغيرة). اكتب الجملة كاملة بعلامات الترقيم.
 
 ---
 
-**التمرين 4: صحح الخطأ**
+### التمرين 3: أكمل الفراغ
 
-1. Wie komme ich **zur** Bahnhof? → **________________**
-2. Gehen Sie **rechts** (معناها يمين بس الجملة تقصد straight). → **________________**
-3. An der **Kreuzung** (معناها تقاطع بس الجملة تقصد إشارة). → **________________**
-4. Es ist **weit** (الجملة تقصد مش بعيد). → **________________**
+<div class="exercise" markdown="1" data-answers='["zum","geradeaus","Ampel","Dann","weit"]'>
 
-✅ **الحل:**
-1. **zum** Bahnhof (der Bahnhof → zum)
-2. Gehen Sie **geradeaus** (يمشي straight)
-3. An der **Ampel** (إشارة مرور)
-4. Es ist **nicht weit** (ما هو بعيد)
+| # | الجملة | أكمل |
+|---|--------|------|
+| 1 | Entschuldigung! Wie komme ich ___ Kino? | |
+| 2 | Gehen Sie ___ (straight). | |
+| 3 | An der ___ (traffic light) links. | |
+| 4 | ___ (Then) rechts. | |
+| 5 | Es ist nicht ___ (far). | |
+
+</div>
+
+---
+
+### التمرين 4: صحح الخطأ
+
+<div class="exercise" markdown="1" data-answers='["zum Bahnhof|Wie komme ich zum Bahnhof?","Gehen Sie geradeaus","An der Ampel","Es ist nicht weit|nicht weit"]'>
+
+| # | الجملة الخاطئة | التصحيح |
+|---|---------------|---------|
+| 1 | Wie komme ich **zur** Bahnhof? (der → zum) | |
+| 2 | Gehen Sie **rechts** (المطلوب: straight) | |
+| 3 | An der **Kreuzung** (المطلوب: إشارة مرور) | |
+| 4 | Es ist **weit** (المطلوب: مش بعيد) | |
+
+</div>
 
 ---
 

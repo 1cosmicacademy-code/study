@@ -208,48 +208,35 @@
 
 ## 5. 🧠 تمارين سريعة
 
-**التمرين 1: اختر الإجابة الصحيحة**
+### التمرين 1: اختر الإجابة الصحيحة
 
-1. Ich ___ krank.
-   - a) habe
-   - b) bin
-   - c) muss
+<div class="exercise" markdown="1" data-type="choice" data-answers='["B","B","B","C","C"]'>
 
-2. Ich ___ Fieber.
-   - a) bin
-   - b) habe
-   - c) tut
+| # | Deutsch | a | b | c |
+|---|---------|:-:|:-:|:-:|
+| 1 | Ich \_\_\_\_\_ krank. | habe | **bin** | muss |
+| 2 | Ich \_\_\_\_\_ Fieber. | bin | **habe** | tut |
+| 3 | Mir \_\_\_\_\_ der Kopf weh. | habe | **tut** | tun |
+| 4 | Ich \_\_\_\_\_ zum Arzt gehen. | habe | kann | **muss** |
+| 5 | Mir \_\_\_\_\_ die Augen weh. | tut | habe | **tun** |
 
-3. Mir ___ der Kopf weh.
-   - a) habe
-   - b) tut
-   - c) tun
-
-4. Ich ___ zum Arzt gehen.
-   - a) habe
-   - b) kann
-   - c) muss
-
-5. Mir ___ die Augen weh.
-   - a) tut
-   - b) habe
-   - c) tun
-
-✅ **الحل:** 1-b, 2-b, 3-b, 4-c, 5-c
+</div>
 
 ---
 
-**التمرين 2: اربط الجملة بالترجمة**
+### التمرين 2: اختر الترجمة الصحيحة
 
-| # | Deutsch | # | Arabisch |
-|---|---------|---|----------|
-| 1 | Ich habe Fieber. | أ | أنا مريض. |
-| 2 | Mir tut der Hals weh. | ب | عندي سعال. |
-| 3 | Ich bin krank. | ج | عندي حمى. |
-| 4 | Ich habe Husten. | د | حلقي يؤلمني. |
-| 5 | Ich muss zum Arzt. | ه | يجب أن أذهب للطبيب. |
+<div class="exercise" markdown="1" data-type="choice" data-answers='["C","D","A","B","E"]'>
 
-✅ **الحل:** 1-ج, 2-د, 3-أ, 4-ب, 5-ه
+| # | Deutsch | أ | ب | ج | د | ه |
+|---|---------|:-:|:-:|:-:|:-:|:-:|
+| 1 | Ich habe Fieber. | أنا مريض. | عندي سعال. | **عندي حمى.** | حلقي يؤلمني. | يجب أن أذهب للطبيب. |
+| 2 | Mir tut der Hals weh. | أنا مريض. | عندي سعال. | عندي حمى. | **حلقي يؤلمني.** | يجب أن أذهب للطبيب. |
+| 3 | Ich bin krank. | **أنا مريض.** | عندي سعال. | عندي حمى. | حلقي يؤلمني. | يجب أن أذهب للطبيب. |
+| 4 | Ich habe Husten. | أنا مريض. | **عندي سعال.** | عندي حمى. | حلقي يؤلمني. | يجب أن أذهب للطبيب. |
+| 5 | Ich muss zum Arzt. | أنا مريض. | عندي سعال. | عندي حمى. | حلقي يؤلمني. | **يجب أن أذهب للطبيب.** |
+
+</div>
 
 ---
 

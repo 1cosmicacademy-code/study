@@ -241,94 +241,78 @@
 
 أكمل الفراغات بالكلمات المناسبة: (Formular — Termin — Anliegen — unterschreiben — Reisepass — Gebühr)
 
-> **Frau Weber:** Guten Morgen! Haben Sie einen (1) ______________?
->
-> **Herr Schmidt:** Ja, um 10 Uhr. Ich möchte einen neuen (2) ______________ beantragen.
->
-> **Frau Weber:** Was ist Ihr (3) ______________?
->
+> **Frau Weber:** Guten Morgen! Haben Sie einen ___?
+> **Herr Schmidt:** Ja, um 10 Uhr. Ich möchte einen neuen ___ beantragen.
+> **Frau Weber:** Was ist Ihr ___?
 > **Herr Schmidt:** Mein Pass ist ungültig.
->
-> **Frau Weber:** Dann müssen Sie dieses (4) ______________ ausfüllen und (5) ______________.
->
-> **Herr Schmidt:** Die (6) ______________ ist 60 Euro, richtig?
->
-> **Frau Weber:** Ja, genau.
+> **Frau Weber:** Dann müssen Sie dieses ___ ausfüllen und ___.
+> **Herr Schmidt:** Die ___ ist 60 Euro, richtig?
 
-✅ **الحل:**
+<div class="exercise" markdown="1" data-answers='["Termin","Reisepass","Anliegen","Formular","unterschreiben","Gebühr"]'>
 
-(1) **Termin** | (2) **Reisepass** | (3) **Anliegen** | (4) **Formular** | (5) **unterschreiben** | (6) **Gebühr**
+| # | الجملة الناقصة | الإجابة |
+|---|---------------|---------|
+| 1 | Haben Sie einen ___? | |
+| 2 | Ich möchte einen neuen ___ beantragen. | |
+| 3 | Was ist Ihr ___? | |
+| 4 | Dann müssen Sie dieses ___ ausfüllen. | |
+| 5 | ... und ___ . | |
+| 6 | Die ___ ist 60 Euro, richtig? | |
+
+</div>
 
 ---
 
 ### التمرين 2: صرّف Modalverb بين القوسين ⚠️
 
-1. Ich ______________ (müssen) einen Antrag stellen.
-2. ______________ (dürfen) ich hereinkommen?
-3. Sie ______________ (sollen) Ihren Ausweis mitbringen.
-4. Wir ______________ (können) online bezahlen.
-5. Du ______________ (müssen) das Formular ausfüllen.
-6. Er ______________ (dürfen) nicht ohne Termin kommen.
-7. ______________ (können) Sie mir bitte helfen?
-8. Ihr ______________ (sollen) pünktlich sein.
+<div class="exercise" markdown="1" data-answers='["muss","Darf|darf","sollen","können","musst","darf","Können|können","sollt"]'>
 
-✅ **الحل:**
+| # | الجملة | أكمل |
+|---|--------|------|
+| 1 | Ich ___ (müssen) einen Antrag stellen. | |
+| 2 | ___ (dürfen) ich hereinkommen? | |
+| 3 | Sie ___ (sollen) Ihren Ausweis mitbringen. | |
+| 4 | Wir ___ (können) online bezahlen. | |
+| 5 | Du ___ (müssen) das Formular ausfüllen. | |
+| 6 | Er ___ (dürfen) nicht ohne Termin kommen. | |
+| 7 | ___ (können) Sie mir bitte helfen? | |
+| 8 | Ihr ___ (sollen) pünktlich sein. | |
 
-1. **muss** | 2. **Darf** | 3. **sollen** | 4. **können** | 5. **musst** | 6. **darf** | 7. **Können** | 8. **sollt**
+</div>
 
 ---
 
 ### التمرين 3: رتب الكلمات لتكوين جملة صحيحة 🔀
 
-1. müssen / Ich / zum Amt / gehen
-   → ___________________________________
+<div class="exercise" markdown="1" data-answers='["Ich muss zum Amt gehen.","Sie müssen das Formular unterschreiben.","Wo kann ich einen Termin machen?","Hier dürfen Sie nicht parken.","Was soll ich machen?"]'>
 
-2. Sie / das Formular / unterschreiben / müssen
-   → ___________________________________
+| # | الكلمات | الجملة الصحيحة |
+|---|--------|----------------|
+| 1 | müssen / Ich / zum Amt / gehen | |
+| 2 | Sie / das Formular / unterschreiben / müssen | |
+| 3 | kann / Wo / ich / einen Termin / machen? | |
+| 4 | dürfen / Hier / Sie / nicht / parken | |
+| 5 | soll / Was / ich / machen? | |
 
-3. kann / Wo / ich / einen Termin / machen?
-   → ___________________________________
+</div>
 
-4. dürfen / Hier / Sie / nicht / parken
-   → ___________________________________
-
-5. soll / Was / ich / machen?
-   → ___________________________________
-
-✅ **الحل:**
-
-1. **Ich muss zum Amt gehen.**
-2. **Sie müssen das Formular unterschreiben.**
-3. **Wo kann ich einen Termin machen?**
-4. **Hier dürfen Sie nicht parken.**
-5. **Was soll ich machen?**
+> 💡 **نصيحة:** المقارنة غير حساسة لحالة الأحرف. اكتب الجملة كاملة بعلامات الترقيم.
 
 ---
 
 ### التمرين 4: ترجم الجمل التالية إلى الألمانية 🌍
 
-1. أنا مضطر لملء استمارة.
-   → ___________________________________
+<div class="exercise" markdown="1" data-answers='["Ich muss ein Formular ausfüllen.","Können Sie mir bitte helfen?","Wo ist der Schalter?","Dieses Amt ist nicht zuständig.","Sie sollen einen gültigen Pass mitbringen."]'>
 
-2. هل تستطيع مساعدتي من فضلك؟
-   → ___________________________________
+| # | العربية | الألمانية |
+|---|---------|----------|
+| 1 | أنا مضطر لملء استمارة. | |
+| 2 | هل تستطيع مساعدتي من فضلك؟ | |
+| 3 | أين هو الشباك (الكاونتر)؟ | |
+| 4 | هذه الدائرة ليست هي المختصة. | |
+| 5 | من المفترض أن تحضر جواز سفر ساري المفعول. | |
 
-3. أين هو الشباك (الكاونتر)؟
-   → ___________________________________
-
-4. هذه الدائرة ليست هي المختصة.
-   → ___________________________________
-
-5. من المفترض أن تحضر جواز سفر ساري المفعول.
-   → ___________________________________
-
-✅ **الحل:**
-
-1. **Ich muss ein Formular ausfüllen.**
-2. **Können Sie mir bitte helfen?**
-3. **Wo ist der Schalter?**
-4. **Dieses Amt ist nicht zuständig.**
-5. **Sie sollen einen gültigen Pass mitbringen.**
+</div>
 
 ---
 

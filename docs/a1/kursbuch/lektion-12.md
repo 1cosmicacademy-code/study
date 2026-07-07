@@ -7,6 +7,9 @@
 ---
 
 ## 🎬 فيديو الدرس
+
+<div class="video-container" data-video-id="DJDhM28AlAo"></div>
+
 ---
 
 ## 1. 🏫 كلمات جديدة — المدرسة والمهنة (Schule und Beruf)
@@ -210,60 +213,39 @@
 
 ## 6. 🧠 تمارين سريعة
 
-**التمرين 1: اختر الإجابة الصحيحة**
+### التمرين 1: اختر الإجابة الصحيحة — فعل sein
 
-1. Ich ___ Schüler.
-   - a) bin
-   - b) bist
-   - c) ist
+**اختر التصريف الصحيح للفعل sein:**
 
-2. Du ___ Student.
-   - a) bin
-   - b) bist
-   - c) ist
+<div class="exercise" markdown="1" data-type="choice" data-answers='["A","B","C","A","A"]'>
 
-3. Er ___ Lehrer.
-   - a) bin
-   - b) bist
-   - c) ist
+| # | الجملة | a | b | c |
+|---|--------|:-:|:-:|:-:|
+| 1 | Ich \_\_\_\_\_\_ Schüler. | bin | bist | ist |
+| 2 | Du \_\_\_\_\_\_ Student. | bin | bist | ist |
+| 3 | Er \_\_\_\_\_\_ Lehrer. | bin | bist | ist |
+| 4 | Wir \_\_\_\_\_\_ in der Schule. | sind | seid | ist |
+| 5 | Was \_\_\_\_\_\_ du von Beruf? | bist | ist | bin |
 
-4. Wir ___ in der Schule.
-   - a) sind
-   - b) seid
-   - c) ist
-
-5. Was ___ du von Beruf?
-   - a) bist
-   - b) ist
-   - c) bin
-
-✅ **الحل:** 1-a, 2-b, 3-c, 4-a, 5-a
+</div>
 
 ---
 
-**التمرين 2: أكمل الجملة**
+### التمرين 2: أكمل الجملة — möchten + werden + sein
 
-1. Ich möchte Arzt ___ .
-   → **______**
+**اكتب الكلمة الناقصة:**
 
-2. Was möchtest du ___ ?
-   → **______**
+<div class="exercise" markdown="1" data-answers='["werden","werden","möchte","sind","Was"]'>
 
-3. Sie ___ Ärztin werden.
-   → **______**
+| # | الجملة | أكمل |
+|---|--------|------|
+| 1 | Ich möchte Arzt \_\_\_\_\_\_ . | |
+| 2 | Was möchtest du \_\_\_\_\_\_ ? | |
+| 3 | Sie \_\_\_\_\_\_ Ärztin werden. | |
+| 4 | Wir \_\_\_\_\_\_ Schüler. | |
+| 5 | \_\_\_\_\_\_ bist du von Beruf? | |
 
-4. Wir ___ Schüler.
-   → **______**
-
-5. ___ bist du von Beruf?
-   → **______**
-
-✅ **الحل:**
-1. Ich möchte Arzt **werden**.
-2. Was möchtest du **werden**?
-3. Sie **möchte** Ärztin werden.
-4. Wir **sind** Schüler.
-5. **Was** bist du von Beruf?
+</div>
 
 ---
 

@@ -55,20 +55,20 @@
 
 **Match the German word with its English meaning:**
 
-<div class="exercise" markdown="1" data-answers='["D","A","G","C","B","E","H","F","J","I"]'>
+<div class="exercise" markdown="1" data-type="match" data-options='["the city","the park","the book","the library","the door","the bed","the church","the computer","the ball","the café"]' data-answers='["the city","the park","the book","the library","the door","the bed","the church","the computer","the ball","the café"]'>
 
-| German | English |
-|--------|---------|
-| 1. die Stadt | A. the park |
-| 2. der Park | B. the door |
-| 3. das Buch | C. the library |
-| 4. die Bibliothek | D. the city |
-| 5. die Tür | E. the bed |
-| 6. das Bett | F. the computer |
-| 7. die Kirche | G. the book |
-| 8. der Computer | H. the church |
-| 9. der Ball | I. the café |
-| 10. das Café | J. the ball |
+| # | German | English |
+|---|--------|:--------|
+| 1 | die Stadt | — |
+| 2 | der Park | — |
+| 3 | das Buch | — |
+| 4 | die Bibliothek | — |
+| 5 | die Tür | — |
+| 6 | das Bett | — |
+| 7 | die Kirche | — |
+| 8 | der Computer | — |
+| 9 | der Ball | — |
+| 10 | das Café | — |
 
 </div>
 
@@ -82,14 +82,24 @@
 Tisch · Schule · Haus · Lampe · Park · Buch · Stadt · Auto · Fenster · Bahnhof · Blume · Bett
 ```
 
-<div class="exercise" markdown="1" data-answers='["Tisch","Schule","Haus","Park","Lampe","Buch","Bahnhof","Stadt","Auto","","Blume","Fenster"]'>
+<div class="exercise" markdown="1" data-type="choice" data-answers='["A","B","C","B","A","C","B","C","C","A","B","C"]'>
 
-| der 🟦 | die 🟥 | das 🟩 |
-|:------:|:------:|:------:|
-| ________ | ________ | ________ |
-| ________ | ________ | ________ |
-| ________ | ________ | ________ |
-| ________ | ________ | ________ |
+| # | Word | der 🟦 | die 🟥 | das 🟩 |
+|---|------|:-----:|:------:|:------:|
+| 1 | Tisch | **der** | die | das |
+| 2 | Schule | der | **die** | das |
+| 3 | Haus | der | die | **das** |
+| 4 | Lampe | der | **die** | das |
+| 5 | Park | **der** | die | das |
+| 6 | Buch | der | die | **das** |
+| 7 | Stadt | der | **die** | das |
+| 8 | Auto | der | die | **das** |
+| 9 | Fenster | der | die | **das** |
+| 10 | Bahnhof | **der** | die | das |
+| 11 | Blume | der | **die** | das |
+| 12 | Bett | der | die | **das** |
+
+**Instructions:** For each word, choose the correct article: der (masculine 🟦), die (feminine 🟥), das (neuter 🟩).
 
 </div>
 
@@ -118,18 +128,18 @@ Tisch · Schule · Haus · Lampe · Park · Buch · Stadt · Auto · Fenster · 
 
 **Is the sentence correct? Mark ✔️ or ❌:**
 
-<div class="exercise" markdown="1" data-answers='["❌","❌","✔️","✔️","✔️","❌","✔️","✔️"]'>
+<div class="exercise" markdown="1" data-type="choice" data-answers='["B","B","A","A","A","B","A","A"]'>
 
-| # | Sentence | ✔️ / ❌ |
-|---|----------|:-------:|
-| 1 | Das ist **eine** Park. | ⬜ |
-| 2 | Das ist **ein** Schule. | ⬜ |
-| 3 | Das ist **ein** Haus. | ⬜ |
-| 4 | Das ist **eine** Lampe. | ⬜ |
-| 5 | Das ist **ein** Tisch. | ⬜ |
-| 6 | Das ist **eine** Buch. | ⬜ |
-| 7 | Das ist **eine** Stadt. | ⬜ |
-| 8 | Das ist **ein** Auto. | ⬜ |
+| # | Sentence | ✔️ | ❌ |
+|---|----------|:--:|:--:|
+| 1 | Das ist **eine** Park. | ✔️ | **❌** |
+| 2 | Das ist **ein** Schule. | ✔️ | **❌** |
+| 3 | Das ist **ein** Haus. | **✔️** | ❌ |
+| 4 | Das ist **eine** Lampe. | **✔️** | ❌ |
+| 5 | Das ist **ein** Tisch. | **✔️** | ❌ |
+| 6 | Das ist **eine** Buch. | ✔️ | **❌** |
+| 7 | Das ist **eine** Stadt. | **✔️** | ❌ |
+| 8 | Das ist **ein** Auto. | **✔️** | ❌ |
 
 </div>
 

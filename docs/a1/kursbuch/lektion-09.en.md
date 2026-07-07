@@ -225,6 +225,7 @@ To say the date in German:
 > **Der wievielte ist heute?** — What is the date today?
 
 **To ask:**
+
 | German | Pronunciation | English |
 |--------|---------------|---------|
 | **Der wievielte ist heute?** | deer vee-FEEL-teh ist HOY-teh | What is the date today? |
@@ -232,6 +233,7 @@ To say the date in German:
 | **Wann hast du Geburtstag?** | vahn hahst doo geh-BOORTS-tahk | When is your birthday? |
 
 **To answer:**
+
 | German | English |
 |--------|---------|
 | **Heute ist der 1. Januar.** | Today is January 1st. |

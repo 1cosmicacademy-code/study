@@ -25,33 +25,21 @@
 
 ---
 
-<div class="exercise" markdown="1" data-type="match" data-answers='["D","A","E","B","C","G","F"]' data-options='["A","B","C","D","E","F","G"]'>
+<div class="exercise" markdown="1" data-type="match" data-options='["Good morning","Good evening","Good night","Bye / See ya","Hello","Good day","Goodbye (formal)"]' data-answers='["Bye / See ya","Good morning","Hello","Good evening","Good night","Goodbye (formal)","Good day"]'>
 
 ## Exercise 2: Match 🔗
 
-**Match the German greeting with the English meaning by writing the correct letter:**
+**Match the German greeting with the English meaning from the dropdown list:**
 
-| # | German | Letter |
-|---|--------|--------|
-| 1 | Tschüss | |
-| 2 | Guten Morgen | |
-| 3 | Hallo | |
-| 4 | Guten Abend | |
-| 5 | Gute Nacht | |
-| 6 | Auf Wiedersehen | |
-| 7 | Guten Tag | |
-
-**Options:**
-
-| Letter | English |
-|--------|---------|
-| A | Good morning |
-| B | Good evening |
-| C | Good night |
-| D | Bye / See ya |
-| E | Hello |
-| F | Good day |
-| G | Goodbye (formal) |
+| # | German | English |
+|---|--------|:--------|
+| 1 | Tschüss | — |
+| 2 | Guten Morgen | — |
+| 3 | Hallo | — |
+| 4 | Guten Abend | — |
+| 5 | Gute Nacht | — |
+| 6 | Auf Wiedersehen | — |
+| 7 | Guten Tag | — |
 
 </div>
 

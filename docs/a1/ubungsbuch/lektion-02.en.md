@@ -80,14 +80,14 @@
 
 | # | Situation | du | Sie |
 |---|-----------|:--:|:---:|
-| 1 | Talking to your friend | **✅** | ⬜ |
-| 2 | Talking to your teacher | ⬜ | **✅** |
-| 3 | Talking to your little brother | **✅** | ⬜ |
-| 4 | Talking to your boss at work | ⬜ | **✅** |
-| 5 | Talking to a police officer on the street | ⬜ | **✅** |
-| 6 | Talking to your grandfather | **✅** | ⬜ |
-| 7 | Asking a stranger about their job | ⬜ | **✅** |
-| 8 | Asking your classmate | **✅** | ⬜ |
+| 1 | Talking to your friend | du | Sie |
+| 2 | Talking to your teacher | du | Sie |
+| 3 | Talking to your little brother | du | Sie |
+| 4 | Talking to your boss at work | du | Sie |
+| 5 | Talking to a police officer on the street | du | Sie |
+| 6 | Talking to your grandfather | du | Sie |
+| 7 | Asking a stranger about their job | du | Sie |
+| 8 | Asking your classmate | du | Sie |
 
 </div>
 

@@ -201,89 +201,68 @@
 
 اختر: **fahre — fährst — fährt — fahren — fahrt**
 
-1. Ich ______ nach Berlin.
-2. Du ______ mit dem Bus.
-3. Er ______ zum Flughafen.
-4. Wir ______ nach Hause. (إلى البيت)
-5. Ihr ______ mit dem Fahrrad.
-6. Sie (plural) ______ in die Stadt.
+<div class="exercise" markdown="1" data-type="choice" data-answers='["A","B","C","D","E","D"]'>
 
-<details>
-<summary>✅ الإجابات</summary>
+| # | Deutsch | fahre | fährst | fährt | fahren | fahrt |
+|---|---------|:-----:|:------:|:-----:|:------:|:-----:|
+| 1 | Ich ___ nach Berlin. | **fahre** | fährst | fährt | fahren | fahrt |
+| 2 | Du ___ mit dem Bus. | fahre | **fährst** | fährt | fahren | fahrt |
+| 3 | Er ___ zum Flughafen. | fahre | fährst | **fährt** | fahren | fahrt |
+| 4 | Wir ___ nach Hause. | fahre | fährst | fährt | **fahren** | fahrt |
+| 5 | Ihr ___ mit dem Fahrrad. | fahre | fährst | fährt | fahren | **fahrt** |
+| 6 | Sie (plural) ___ in die Stadt. | fahre | fährst | fährt | **fahren** | fahrt |
 
-1. Ich **fahre** nach Berlin.
-2. Du **fährst** mit dem Bus.
-3. Er **fährt** zum Flughafen.
-4. Wir **fahren** nach Hause.
-5. Ihr **fahrt** mit dem Fahrrad.
-6. Sie **fahren** in die Stadt.
-</details>
+</div>
 
 ---
 
 ### 🥈 التمرين 2: اختر "mit dem" أو "mit der"
 
-1. Ich fahre ______ Auto. 🚗
-2. Er fährt ______ U-Bahn. 🚇
-3. Wir fahren ______ Zug. 🚆
-4. Du fährst ______ Bus. 🚌
-5. Sie fährt ______ Fahrrad. 🚲
-6. Ich fliege ______ Flugzeug. ✈️
+<div class="exercise" markdown="1" data-type="choice" data-answers='["A","B","A","A","A","A"]'>
 
-<details>
-<summary>✅ الإجابات</summary>
+| # | Deutsch | mit dem | mit der |
+|---|---------|:-------:|:-------:|
+| 1 | Ich fahre ___ Auto. 🚗 | **mit dem** | mit der |
+| 2 | Er fährt ___ U-Bahn. 🚇 | mit dem | **mit der** |
+| 3 | Wir fahren ___ Zug. 🚆 | **mit dem** | mit der |
+| 4 | Du fährst ___ Bus. 🚌 | **mit dem** | mit der |
+| 5 | Sie fährt ___ Fahrrad. 🚲 | **mit dem** | mit der |
+| 6 | Ich fliege ___ Flugzeug. ✈️ | **mit dem** | mit der |
 
-1. **mit dem** Auto
-2. **mit der** U-Bahn
-3. **mit dem** Zug
-4. **mit dem** Bus
-5. **mit dem** Fahrrad (محايد)
-6. **mit dem** Flugzeug
-</details>
+</div>
 
 ---
 
-### 🥉 التمرين 3: اختر "möchte" أو "möchtest" أو "möchten"
+### 🥉 التمرين 3: اختر "möchte" أو "möchtest" أو "möchtet" أو "möchten"
 
-1. Ich ______ ein Ticket kaufen.
-2. ______ du nach Berlin fahren?
-3. Wir ______ ein Hotel finden.
-4. Er ______ mit dem Zug reisen.
-5. Ihr ______ zum Bahnhof gehen.
-6. Sie (formal) ______ ein Zimmer, bitte.
+<div class="exercise" markdown="1" data-type="choice" data-answers='["A","B","D","A","C","D"]'>
 
-<details>
-<summary>✅ الإجابات</summary>
+| # | Deutsch | möchte | möchtest | möchtet | möchten |
+|---|---------|:------:|:--------:|:-------:|:-------:|
+| 1 | Ich ___ ein Ticket kaufen. | **möchte** | möchtest | möchtet | möchten |
+| 2 | ___ du nach Berlin fahren? | möchte | **möchtest** | möchtet | möchten |
+| 3 | Wir ___ ein Hotel finden. | möchte | möchtest | möchtet | **möchten** |
+| 4 | Er ___ mit dem Zug reisen. | **möchte** | möchtest | möchtet | möchten |
+| 5 | Ihr ___ zum Bahnhof gehen. | möchte | möchtest | **möchtet** | möchten |
+| 6 | Sie (formal) ___ ein Zimmer, bitte. | möchte | möchtest | möchtet | **möchten** |
 
-1. Ich **möchte**
-2. **Möchtest** du — لاحظ أن الفعل في البداية للسؤال
-3. Wir **möchten**
-4. Er **möchte**
-5. Ihr **möchtet**
-6. Sie **möchten**
-</details>
+</div>
 
 ---
 
-### 🏆 التمرين 4: ربط الجملة بالصورة
+### 🏆 التمرين 4: صِل (Match) — الجملة مع وسيلة النقل
 
-| الجملة | وسيلة النقل |
-|:-------|:------------|
-| 1. Ich fliege nach Berlin. | 🔵 Auto |
-| 2. Er fährt mit dem Bus. | 🟢 Flugzeug |
-| 3. Wir fahren mit dem Auto. | 🟡 Bus |
-| 4. Du fährst mit dem Zug. | 🔴 Fahrrad |
-| 5. Sie fährt mit dem Fahrrad. | 🟣 Zug |
+<div class="exercise" markdown="1" data-type="match" data-options='["Auto","Bus","Flugzeug","Fahrrad","Zug"]' data-answers='["Flugzeug","Bus","Auto","Zug","Fahrrad"]'>
 
-<details>
-<summary>✅ الإجابات</summary>
+| # | الجملة | وسيلة النقل |
+|---|--------|:------------|
+| 1 | Ich fliege nach Berlin. | — |
+| 2 | Er fährt mit dem Bus. | — |
+| 3 | Wir fahren mit dem Auto. | — |
+| 4 | Du fährst mit dem Zug. | — |
+| 5 | Sie fährt mit dem Fahrrad. | — |
 
-1. Ich fliege nach Berlin. → 🟢 **Flugzeug**
-2. Er fährt mit dem Bus. → 🟡 **Bus**
-3. Wir fahren mit dem Auto. → 🔵 **Auto**
-4. Du fährst mit dem Zug. → 🟣 **Zug**
-5. Sie fährt mit dem Fahrrad. → 🔴 **Fahrrad**
-</details>
+</div>
 
 ---
 

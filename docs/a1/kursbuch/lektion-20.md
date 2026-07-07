@@ -211,25 +211,35 @@
 
 ## 6. 🎯 تمارين سريعة (Schnelle Übungen)
 
-**Ü 1:** اكتب الكلمة الصحيحة:
+### 🥇 Ü 1: اكتب الكلمة الصحيحة
+
+<div class="exercise" markdown="1" data-answers='["der Geburtstag|Geburtstag","das Geschenk|Geschenk","einladen","schenken","gratulieren"]'>
 
 | العربية | الألمانية |
 |---------|-----------|
-| عيد الميلاد | _______________ |
-| الهدية | _______________ |
-| يدعو | _______________ |
-| يهدي | _______________ |
-| يهنّئ | _______________ |
+| عيد الميلاد | |
+| الهدية | |
+| يدعو | |
+| يهدي | |
+| يهنّئ | |
 
-✅ **الحل:** der Geburtstag / das Geschenk / einladen / schenken / gratulieren
+</div>
 
-**Ü 2:** اختر التصريف الصحيح:
+### 🥈 Ü 2: اختر التصريف الصحيح
 
-1. Ich ________ (feiern) meinen Geburtstag. → **feiere**
-2. Du ________ (schenken) mir eine Blume. → **schenkst**
-3. Er ________ (einladen) seine Freunde ein. → **lädt ein**
-4. Wir ________ (tanzen) auf der Party. → **tanzen**
-5. Ihr ________ (feiern) Silvester. → **feiert**
+اختر التصريف الصحيح حسب الضمير (**ich** → A, **du** → B, **er/sie** → C, **wir** → D, **ihr** → E):
+
+<div class="exercise" markdown="1" data-type="choice" data-answers='["A","B","C","D","E"]'>
+
+| # | Deutsch | ich | du | er/sie | wir | ihr |
+|---|---------|:---:|:---:|:------:|:---:|:---:|
+| 1 | Ich ___ (feiern) | **feiere** | feierst | feiert | feiern | feiert |
+| 2 | Du ___ (schenken) | schenke | **schenkst** | schenkt | schenken | schenkt |
+| 3 | Er ___ (einladen) ein | lade ein | lädst ein | **lädt ein** | laden ein | ladet ein |
+| 4 | Wir ___ (tanzen) | tanze | tanzt | tanzt | **tanzen** | tanzt |
+| 5 | Ihr ___ (feiern) | feiere | feierst | feiert | feiern | **feiert** |
+
+</div>
 
 ---
 

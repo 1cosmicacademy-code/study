@@ -55,20 +55,20 @@
 
 **صِل الكلمة الألمانية بالمعنى العربي:**
 
-<div class="exercise" markdown="1" data-answers='["د","أ","ز","ج","ب","ه","ح","و","ي","ط"]'>
+<div class="exercise" markdown="1" data-type="match" data-options='["المدينة","الحديقة","الكتاب","المكتبة","الباب","السرير","الكنيسة","الكمبيوتر","الكرة","المقهى"]' data-answers='["المدينة","الحديقة","الكتاب","المكتبة","الباب","السرير","الكنيسة","الكمبيوتر","الكرة","المقهى"]'>
 
-| الألمانية | العربية |
-|-----------|---------|
-| 1. die Stadt | أ. الحديقة |
-| 2. der Park | ب. الباب |
-| 3. das Buch | ج. المكتبة |
-| 4. die Bibliothek | د. المدينة |
-| 5. die Tür | ه. السرير |
-| 6. das Bett | و. الكمبيوتر |
-| 7. die Kirche | ز. الكتاب |
-| 8. der Computer | ح. الكنيسة |
-| 9. der Ball | ط. المقهى |
-| 10. das Café | ي. الكرة |
+| # | الألمانية | المعنى بالعربية |
+|---|-----------|:----------------|
+| 1 | die Stadt | — |
+| 2 | der Park | — |
+| 3 | das Buch | — |
+| 4 | die Bibliothek | — |
+| 5 | die Tür | — |
+| 6 | das Bett | — |
+| 7 | die Kirche | — |
+| 8 | der Computer | — |
+| 9 | der Ball | — |
+| 10 | das Café | — |
 
 </div>
 
@@ -82,14 +82,24 @@
 Tisch · Schule · Haus · Lampe · Park · Buch · Stadt · Auto · Fenster · Bahnhof · Blume · Bett
 ```
 
-<div class="exercise" markdown="1" data-answers='["Tisch","Schule","Haus","Park","Lampe","Buch","Bahnhof","Stadt","Auto","","Blume","Fenster"]'>
+<div class="exercise" markdown="1" data-type="choice" data-answers='["A","B","C","B","A","C","B","C","C","A","B","C"]'>
 
-| der 🟦 | die 🟥 | das 🟩 |
-|:------:|:------:|:------:|
-| ________ | ________ | ________ |
-| ________ | ________ | ________ |
-| ________ | ________ | ________ |
-| ________ | ________ | ________ |
+| # | الكلمة | der 🟦 | die 🟥 | das 🟩 |
+|---|--------|:-----:|:------:|:------:|
+| 1 | Tisch | **der** | die | das |
+| 2 | Schule | der | **die** | das |
+| 3 | Haus | der | die | **das** |
+| 4 | Lampe | der | **die** | das |
+| 5 | Park | **der** | die | das |
+| 6 | Buch | der | die | **das** |
+| 7 | Stadt | der | **die** | das |
+| 8 | Auto | der | die | **das** |
+| 9 | Fenster | der | die | **das** |
+| 10 | Bahnhof | **der** | die | das |
+| 11 | Blume | der | **die** | das |
+| 12 | Bett | der | die | **das** |
+
+**تعليمات:** لكل كلمة، اختر أداة التعريف الصحيحة: der (مذكر 🟦), die (مؤنث 🟥), das (محايد 🟩).
 
 </div>
 
@@ -118,18 +128,18 @@ Tisch · Schule · Haus · Lampe · Park · Buch · Stadt · Auto · Fenster · 
 
 **هل الجملة صحيحة؟ ضع علامة ✔️ أو ❌:**
 
-<div class="exercise" markdown="1" data-answers='["❌","❌","✔️","✔️","✔️","❌","✔️","✔️"]'>
+<div class="exercise" markdown="1" data-type="choice" data-answers='["B","B","A","A","A","B","A","A"]'>
 
-| # | الجملة | ✔️ / ❌ |
-|---|--------|:-------:|
-| 1 | Das ist **eine** Park. | ⬜ |
-| 2 | Das ist **ein** Schule. | ⬜ |
-| 3 | Das ist **ein** Haus. | ⬜ |
-| 4 | Das ist **eine** Lampe. | ⬜ |
-| 5 | Das ist **ein** Tisch. | ⬜ |
-| 6 | Das ist **eine** Buch. | ⬜ |
-| 7 | Das ist **eine** Stadt. | ⬜ |
-| 8 | Das ist **ein** Auto. | ⬜ |
+| # | الجملة | ✔️ | ❌ |
+|---|--------|:--:|:--:|
+| 1 | Das ist **eine** Park. | ✔️ | **❌** |
+| 2 | Das ist **ein** Schule. | ✔️ | **❌** |
+| 3 | Das ist **ein** Haus. | **✔️** | ❌ |
+| 4 | Das ist **eine** Lampe. | **✔️** | ❌ |
+| 5 | Das ist **ein** Tisch. | **✔️** | ❌ |
+| 6 | Das ist **eine** Buch. | ✔️ | **❌** |
+| 7 | Das ist **eine** Stadt. | **✔️** | ❌ |
+| 8 | Das ist **ein** Auto. | **✔️** | ❌ |
 
 </div>
 

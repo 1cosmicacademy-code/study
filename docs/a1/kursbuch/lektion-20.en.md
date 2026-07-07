@@ -211,25 +211,35 @@ In German, **the verb is always in the second position**:
 
 ## 6. 🎯 Quick Exercises (Schnelle Übungen)
 
-**Ü 1:** Write the correct German word:
+### 🥇 Ü 1: Write the correct German word
+
+<div class="exercise" markdown="1" data-answers='["der Geburtstag|Geburtstag","das Geschenk|Geschenk","einladen","schenken","gratulieren"]'>
 
 | English | German |
 |---------|--------|
-| birthday | _______________ |
-| the gift | _______________ |
-| to invite | _______________ |
-| to give a present | _______________ |
-| to congratulate | _______________ |
+| birthday | |
+| the gift | |
+| to invite | |
+| to give a present | |
+| to congratulate | |
 
-✅ **Solution:** der Geburtstag / das Geschenk / einladen / schenken / gratulieren
+</div>
 
-**Ü 2:** Choose the correct conjugation:
+### 🥈 Ü 2: Choose the correct conjugation
 
-1. Ich ________ (feiern) meinen Geburtstag. → **feiere**
-2. Du ________ (schenken) mir eine Blume. → **schenkst**
-3. Er ________ (einladen) seine Freunde ein. → **lädt ein**
-4. Wir ________ (tanzen) auf der Party. → **tanzen**
-5. Ihr ________ (feiern) Silvester. → **feiert**
+Choose the correct conjugation by person (**ich** → A, **du** → B, **er/sie** → C, **wir** → D, **ihr** → E):
+
+<div class="exercise" markdown="1" data-type="choice" data-answers='["A","B","C","D","E"]'>
+
+| # | Deutsch | ich | du | er/sie | wir | ihr |
+|---|---------|:---:|:---:|:------:|:---:|:---:|
+| 1 | Ich ___ (feiern) | **feiere** | feierst | feiert | feiern | feiert |
+| 2 | Du ___ (schenken) | schenke | **schenkst** | schenkt | schenken | schenkt |
+| 3 | Er ___ (einladen) ein | lade ein | lädst ein | **lädt ein** | laden ein | ladet ein |
+| 4 | Wir ___ (tanzen) | tanze | tanzt | tanzt | **tanzen** | tanzt |
+| 5 | Ihr ___ (feiern) | feiere | feierst | feiert | feiern | **feiert** |
+
+</div>
 
 ---
 
