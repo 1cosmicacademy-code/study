@@ -68,7 +68,8 @@ In German, there are two ways to say the time. For A1 level, let's learn the eas
 | **Es ist drei Uhr dreißig.** | **es ist drai oor DRY-sikh** | It's 3:30. |
 | **Es ist vier Uhr fünfundvierzig.** | **es ist feer oor fünff-unt-FEER-tsikh** | It's 4:45. |
 
-**Questions about time:**
+### Questions about time
+
 | German | Pronunciation | English |
 |--------|---------------|---------|
 | **Wie spät ist es?** | **vee shpayt ist es** | What time is it? |
