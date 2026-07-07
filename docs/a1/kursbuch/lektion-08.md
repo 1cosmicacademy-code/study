@@ -221,30 +221,22 @@
 
 ### تمرين 1: ضع الفعل في Perfekt
 
-**أكمل الجملة بوضع الفعل بين قوسين في صيغة Perfekt:**
+**أكمل الجملة بوضع الفعل بين قوسين في صيغة Perfekt - اكتب صيغة Perfekt كاملة (haben/sein + التصريف الثالث):**
 
-1. Ich _________ gestern ___________. (feiern)
-2. Wir _________ zusammen ___________. (tanzen)
-3. Er _________ um 9 Uhr ___________. (kommen)
-4. Sie _________ Cola ___________. (trinken)
-5. Du _________ ein Geschenk ___________. (mitbringen)
-6. Ihr _________ Kuchen ___________. (essen)
-7. Die Gäste _________ viel ___________. (singen)
-8. Ich _________ die Wohnung ___________. (aufräumen)
+<div class="exercise" markdown="1" data-answers='["habe gefeiert","haben getanzt","ist gekommen","hat getrunken","hast mitgebracht","habt gegessen","haben gesungen","habe aufgeräumt"]'>
 
-<details>
-<summary>✅ الحلول</summary>
+| # | الجملة | أكمل |
+|---|--------|------|
+| 1 | Ich \_\_\_\_\_\_ \_\_\_\_\_\_\_\_. (feiern) | |
+| 2 | Wir \_\_\_\_\_\_ \_\_\_\_\_\_\_\_. (tanzen) | |
+| 3 | Er \_\_\_\_\_\_ um 9 Uhr \_\_\_\_\_\_\_\_. (kommen) | |
+| 4 | Sie \_\_\_\_\_\_ Cola \_\_\_\_\_\_\_\_. (trinken) | |
+| 5 | Du \_\_\_\_\_\_ ein Geschenk \_\_\_\_\_\_\_\_\_. (mitbringen) | |
+| 6 | Ihr \_\_\_\_\_\_ Kuchen \_\_\_\_\_\_\_\_. (essen) | |
+| 7 | Die Gäste \_\_\_\_\_\_ viel \_\_\_\_\_\_\_\_. (singen) | |
+| 8 | Ich \_\_\_\_\_\_ die Wohnung \_\_\_\_\_\_\_\_\_. (aufräumen) | |
 
-1. Ich **habe** gestern **gefeiert**.
-2. Wir **haben** zusammen **getanzt**.
-3. Er **ist** um 9 Uhr **gekommen**.
-4. Sie **hat** Cola **getrunken**.
-5. Du **hast** ein Geschenk **mitgebracht**.
-6. Ihr **habt** Kuchen **gegessen**.
-7. Die Gäste **haben** viel **gesungen**.
-8. Ich **habe** die Wohnung **aufgeräumt**.
-
-</details>
+</div>
 
 ---
 
@@ -252,28 +244,20 @@
 
 **اختر الفعل المساعد الصحيح (haben / sein):**
 
-1. Ich _______ Fußball gespielt.
-2. Er _______ nach Berlin gefahren.
-3. Wir _______ Pizza gegessen.
-4. Du _______ gestern gekommen.
-5. Ihr _______ Musik gehört.
-6. Sie _______ (Plural) im Park gewesen.
-7. Die Kinder _______ getanzt.
-8. Ich _______ zu Hause geblieben.
+<div class="exercise" markdown="1" data-type="choice" data-answers='["A","B","A","B","A","B","A","B"]'>
 
-<details>
-<summary>✅ الحلول</summary>
+| # | الجملة | haben | sein |
+|---|--------|:-----:|:----:|
+| 1 | Ich \_\_\_\_\_\_ Fußball gespielt. | haben | sein |
+| 2 | Er \_\_\_\_\_\_ nach Berlin gefahren. | haben | sein |
+| 3 | Wir \_\_\_\_\_\_ Pizza gegessen. | haben | sein |
+| 4 | Du \_\_\_\_\_\_ gestern gekommen. | haben | sein |
+| 5 | Ihr \_\_\_\_\_\_ Musik gehört. | haben | sein |
+| 6 | Sie (Plural) \_\_\_\_\_\_ im Park gewesen. | haben | sein |
+| 7 | Die Kinder \_\_\_\_\_\_ getanzt. | haben | sein |
+| 8 | Ich \_\_\_\_\_\_ zu Hause geblieben. | haben | sein |
 
-1. Ich **habe** Fußball gespielt.
-2. Er **ist** nach Berlin gefahren.
-3. Wir **haben** Pizza gegessen.
-4. Du **bist** gestern gekommen.
-5. Ihr **habt** Musik gehört.
-6. Sie **sind** im Park gewesen. (sein → gewesen)
-7. Die Kinder **haben** getanzt.
-8. Ich **bin** zu Hause geblieben.
-
-</details>
+</div>
 
 ---
 
