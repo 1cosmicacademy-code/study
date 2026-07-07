@@ -250,25 +250,23 @@
       '</div>' +
       '<div class="exercise-review-list"></div>';
 
-    // Per-question comparison for wrong answers
+    // Show ALL answers in review list (correct ✅ + wrong ❌)
     var reviewList = results.querySelector('.exercise-review-list');
-    var anyWrong = false;
     for (var i = 0; i < userAnswers.length; i++) {
       var ua = userAnswers[i];
-      if (!ua.correct) {
-        anyWrong = true;
-        var reviewItem = document.createElement('div');
-        reviewItem.className = 'review-item';
+      var reviewItem = document.createElement('div');
+      reviewItem.className = 'review-item';
+      if (ua.correct) {
+        reviewItem.innerHTML =
+          '<span class="review-correct-mark">✅</span> ' +
+          txt.expected + ' <strong>' + escapeHtml(ua.expected) + '</strong>';
+      } else {
         reviewItem.innerHTML =
           '<span class="review-wrong-mark">❌</span> ' +
           txt.wrong + ' <span class="review-user-answer">' + escapeHtml(ua.given || txt.noAnswer) + '</span> &rarr; ' +
           txt.expected + ' <span class="review-correct-answer">' + escapeHtml(ua.expected) + '</span>';
-        reviewList.appendChild(reviewItem);
       }
-    }
-
-    if (!anyWrong && userAnswers.length > 0) {
-      reviewList.innerHTML = '<div class="review-all-correct">🎉 ' + escapeHtml(txt.correct) + '</div>';
+      reviewList.appendChild(reviewItem);
     }
 
     // Disable all inputs
@@ -295,16 +293,15 @@
       var accepted = expected.split('|').map(function (s) { return s.trim().toLowerCase(); });
       var correct = accepted.indexOf(given.toLowerCase()) !== -1;
       inputs[i].className = 'exercise-input' + (correct ? ' correct' : ' wrong');
-      if (!correct && given) {
-        // Show comparison below input
-        var parent = inputs[i].parentNode;
-        var existingCmp = parent.querySelector('.answer-comparison');
-        if (existingCmp) existingCmp.remove();
-        var cmp = document.createElement('div');
-        cmp.className = 'answer-comparison';
-        cmp.innerHTML = txt.expected + ' <strong>' + escapeHtml(expected) + '</strong>';
-        parent.appendChild(cmp);
-      }
+      // Always show correct answer below each input (✅ / ❌)
+      var parent = inputs[i].parentNode;
+      var existingCmp = parent.querySelector('.answer-comparison');
+      if (existingCmp) existingCmp.remove();
+      var cmp = document.createElement('div');
+      cmp.className = 'answer-comparison' + (correct ? ' correct' : ' wrong');
+      var icon = correct ? '✅ ' : '❌ ';
+      cmp.innerHTML = icon + txt.expected + ' <strong>' + escapeHtml(expected) + '</strong>';
+      parent.appendChild(cmp);
       results.push({ correct: correct, given: given || '', expected: expected });
     }
     return results;
@@ -369,15 +366,15 @@
       }
       var correct = given === expected;
       selects[i].className = 'exercise-select' + (correct ? ' correct' : ' wrong');
-      if (!correct && given) {
-        var parent = selects[i].parentNode;
-        var existingCmp = parent.querySelector('.answer-comparison');
-        if (existingCmp) existingCmp.remove();
-        var cmp = document.createElement('div');
-        cmp.className = 'answer-comparison';
-        cmp.innerHTML = txt.expected + ' <strong>' + escapeHtml(expected) + '</strong>';
-        parent.appendChild(cmp);
-      }
+      // Always show correct answer below each select (✅ / ❌)
+      var parent = selects[i].parentNode;
+      var existingCmp = parent.querySelector('.answer-comparison');
+      if (existingCmp) existingCmp.remove();
+      var cmp = document.createElement('div');
+      cmp.className = 'answer-comparison' + (correct ? ' correct' : ' wrong');
+      var icon = correct ? '✅ ' : '❌ ';
+      cmp.innerHTML = icon + txt.expected + ' <strong>' + escapeHtml(expected) + '</strong>';
+      parent.appendChild(cmp);
       results.push({ correct: correct, given: given || '', expected: expected });
     }
     return results;

@@ -404,9 +404,16 @@
 .answer-comparison {
   margin-top: 4px;
   font-size: 0.8rem;
-  color: #DC2626;
   direction: ltr;
   text-align: center;
+}
+
+.answer-comparison.wrong {
+  color: #DC2626;
+}
+
+.answer-comparison.correct {
+  color: #16A34A;
 }
 
 .answer-comparison strong {
