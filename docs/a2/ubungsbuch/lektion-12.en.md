@@ -169,4 +169,20 @@ Mein Lieblingsfach ist Englisch. Ich mag Englisch, weil ich Sprachen interessant
 
 ---
 
+## 📚 Related Grammar
+
+<div class="grammar-links">
+
+<a href="/grammatik/satzbau/" class="grammar-btn">🔤 Sentence Structure (Satzbau) in German</a>
+
+<a href="/grammatik/wortstellung-erweitert/" class="grammar-btn">🔤 Wortstellung im Satz (erweitert)</a>
+
+<a href="/grammatik/adverbien/" class="grammar-btn">🔤 Adverbs (Adverbien) in German</a>
+
+<a href="/grammatik/fragen-bilden/" class="grammar-btn">🔤 Forming Questions</a>
+
+</div>
+
+---
+
 > ✅ **Review lesson vocabulary:** das Fach (subject), die Stunde (lesson/hour), der Lehrer/die Lehrerin (teacher), der Schüler/die Schülerin (student), die Tafel (board), das Buch (book), der Stundenplan (schedule), die Pause (break), die Hausaufgaben (homework) — and **expressions:** zuerst (first), dann (then), danach (after that), später (later).

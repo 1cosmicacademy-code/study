@@ -142,6 +142,23 @@ We start from **Präteritum** (simple past) and add an **Umlaut** (dots) to the 
 </div>
 ---
 
+
+---
+
+---
+
+## 📖 Related Lessons
+
+<div class="lesson-links">
+
+<a href="/a1/kursbuch/lektion-20/" class="lesson-btn">🔤 Lektion 20: Feste und Feiern — Holidays and Celebrations</a>
+<a href="/a1/ubungsbuch/lektion-20/" class="lesson-btn">🔤 Exercises Lektion 20: Feste und Feiern</a>
+<a href="/a2/kursbuch/lektion-07/" class="lesson-btn">🔤 Lektion 7: Gesundheit erhalten — Maintaining Health</a>
+<a href="/a2/ubungsbuch/lektion-07/" class="lesson-btn">🔤 Exercises Lektion 7: Gesundheit erhalten (Staying Healthy)</a>
+<a href="/a2/kursbuch/lektion-18/" class="lesson-btn">🔤 Lektion 18: Alles über Geld — All About Money</a>
+<a href="/a2/ubungsbuch/lektion-18/" class="lesson-btn">🔤 Exercises Lektion 18: Alles über Geld (Everything About Money)</a>
+
+</div>
 ---
 
 💡 **Quick tip:** The two most useful uses of Konjunktiv II are:

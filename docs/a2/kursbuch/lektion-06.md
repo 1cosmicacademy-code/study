@@ -151,4 +151,18 @@
 
 ---
 
+
+
+---
+
+## 📚 القواعد المرتبطة
+
+<div class="grammar-links">
+
+<a href="/grammatik/wechselpraepositionen/" class="grammar-btn">🇩🇪 🔤 Wechselprapositionen (Wechselprapositionen)</a>
+<a href="/grammatik/lokale-praepositionen/" class="grammar-btn">🇩🇪 🔤 حروف الجر المكانية (wo?, wohin?, woher?) (حروف الجر المكانية (wo?, wohin?, woher?))</a>
+<a href="/grammatik/prapositionen/" class="grammar-btn">🇩🇪 🔤 الزمانية والمكانية في اللغة الألمانية (الزمانية والمكانية في اللغة الألمانية)</a>
+
+</div>
+
 > 💡 **نصيحة أخيرة:** تذكّر دائماً: **wo? = Dativ, wohin? = Akkusativ**. تدرب على هذا الفرق في كل محادثة عن الطريق والمواصلات!

@@ -73,6 +73,18 @@ These verbs can take **Akkusativ** or **Dativ** objects depending on the verb an
 | Wir **gehen** zum Markt. | نذهب إلى السوق. |
 | Ihr **kommt** morgen. | ستأتون غداً. |
 
+
+---
+
+---
+
+## 📖 Related Lessons
+
+<div class="lesson-links">
+
+📌 *This topic is not linked to specific lessons yet.*
+
+</div>
 ---
 
 ## 📝 Exercises

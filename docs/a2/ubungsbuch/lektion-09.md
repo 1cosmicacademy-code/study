@@ -210,3 +210,16 @@
 *(النموذج أعلاه — يمكن للطالب اختيار مقارناته الخاصة. المهم استخدام Komparativ مع "als" وSuperlativ مع "am …-sten".)*
 
 ---
+
+## 📚 القواعد المرتبطة
+
+<div class="grammar-links">
+
+<a href="/grammatik/vergleiche/" class="grammar-btn">🇩🇪 🔤 Vergleiche (Vergleiche)</a>
+<a href="/grammatik/superlativ/" class="grammar-btn">🇩🇪 🔤 صيغة التفضيل (Superlativ) (صيغة التفضيل (Superlativ))</a>
+<a href="/grammatik/adjektivdeklination/" class="grammar-btn">🇩🇪 🔤 Adjektivdeklination (Adjektivdeklination)</a>
+<a href="/grammatik/ordinalzahlen/" class="grammar-btn">🇩🇪 🔤 الأعداد الترتيبية والتاريخ (الأعداد الترتيبية والتاريخ)</a>
+
+</div>
+
+---

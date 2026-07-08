@@ -37,6 +37,19 @@ When an adjective is used as a noun it takes a definite article and the gender t
 - **der Deutsche** – "the German (person)"
 - **die Kleine** – "the little one (female)"
 
+
+---
+
+---
+
+## 📖 Related Lessons
+
+<div class="lesson-links">
+
+<a href="/a2/kursbuch/lektion-13/" class="lesson-btn">🔤 Lektion 13: Selbstständig arbeiten — Working Independently</a>
+<a href="/a2/ubungsbuch/lektion-13/" class="lesson-btn">🔤 Exercises Lektion 13: Selbstständig arbeiten (Working Independently)</a>
+
+</div>
 ---
 
 ## 📝 Interactive Exercises

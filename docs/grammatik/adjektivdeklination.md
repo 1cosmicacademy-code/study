@@ -151,6 +151,25 @@
 </div>
 ---
 
+
+---
+
+---
+
+---
+
+## 📖 الدروس المرتبطة
+
+<div class="lesson-links">
+
+<a href="/a2/kursbuch/lektion-02/" class="lesson-btn">🇩🇪 🔤 Lektion 2: Arbeiten und Lernen</a>
+<a href="/a2/ubungsbuch/lektion-02/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 2: Arbeiten und Lernen</a>
+<a href="/a2/kursbuch/lektion-09/" class="lesson-btn">🇩🇪 🔤 Lektion 9: Große und kleine Dinge</a>
+<a href="/a2/ubungsbuch/lektion-09/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 9: Große und kleine Dinge</a>
+<a href="/a2/kursbuch/lektion-17/" class="lesson-btn">🇩🇪 🔤 Lektion 17: Geschäfte</a>
+<a href="/a2/ubungsbuch/lektion-17/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 17: Geschäfte</a>
+
+</div>
 ---
 
 💡 **نصيحة:** أهم حالة تتقنها هي Nominativ — لأن منها تنطلق لباقي التصريفات. والتصريف الضعيف (مع der/die/das) هو الأسهل والأكثر استخداماً. ابدا فيه أولاً.

@@ -113,6 +113,19 @@
 - Das ist der **dritte** Versuch. — هذه المحاولة الثالثة.
 - Sie wohnt im **vierten** Stock. — هي تسكن في الطابق الرابع.
 
+
+---
+
+---
+
+## 📖 الدروس المرتبطة
+
+<div class="lesson-links">
+
+<a href="/a2/kursbuch/lektion-09/" class="lesson-btn">🇩🇪 🔤 Lektion 9: Große und kleine Dinge</a>
+<a href="/a2/ubungsbuch/lektion-09/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 9: Große und kleine Dinge</a>
+
+</div>
 ---
 
 ## 📝 تمارين

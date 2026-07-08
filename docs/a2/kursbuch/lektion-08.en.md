@@ -149,4 +149,18 @@ The verb **sollen** means "should / be supposed to" and is used for **advice**, 
 
 ---
 
+
+
+---
+
+## 📚 Related Grammar
+
+<div class="grammar-links">
+
+<a href="/grammatik/modalverben/" class="grammar-btn">🔤 Modal Verbs (Modalverben) in German</a>
+<a href="/grammatik/imperativ/" class="grammar-btn">🔤 The Imperative in German</a>
+<a href="/grammatik/passiv/" class="grammar-btn">🔤 Passive Voice (Passiv) in German</a>
+
+</div>
+
 > 💡 **Final Tip:** The difference between **sollen** and **müssen** is crucial at work. **Sollen** = recommendation/expectation. **Müssen** = obligation/no choice. Use **sollte** for friendly advice!

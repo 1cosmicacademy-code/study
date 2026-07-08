@@ -38,6 +38,19 @@ An instructional video explaining this grammar topic with practical examples.
 - *Er ist müde, **aber** er arbeitet weiter.* *(He is tired, **but** he keeps working.)*
 - *Wir gehen ins Kino, **denn** der Film ist gut.* *(We are going to the cinema, **because** the film is good.)*
 
+
+---
+
+---
+
+## 📖 Related Lessons
+
+<div class="lesson-links">
+
+<a href="/a2/kursbuch/lektion-11/" class="lesson-btn">🔤 Lektion 11: Information und Unterhaltung — Information & Entertainment</a>
+<a href="/a2/ubungsbuch/lektion-11/" class="lesson-btn">🔤 Exercises Lektion 11: Information und Unterhaltung (Information and Entertainment)</a>
+
+</div>
 ---
 
 ## 📝 Interactive Exercises

@@ -183,4 +183,18 @@ Mein Kollege / Meine Kollegin ist _____, _____ und _____.
 
 ---
 
+---
+
+## 📚 القواعد المرتبطة
+
+<div class="grammar-links">
+
+<a href="/grammatik/adjektivdeklination/" class="grammar-btn">🇩🇪 🔤 Adjektivdeklination (Adjektivdeklination)</a>
+
+<a href="/grammatik/reflexive-verben/" class="grammar-btn">🇩🇪 🔤 Reflexive Verben (Reflexive Verben)</a>
+
+<a href="/grammatik/verben-mit-akkusativ-dativ/" class="grammar-btn">🇩🇪 🔤 الأفعال التي تأخذ مفعول النصب والجر (الأفعال التي تأخذ مفعول النصب والجر)</a>
+
+</div>
+
 > 🎯 **هدف الدرس:** في نهاية هذا الدرس، ستكون قادراً على التحدث عن المهن والصفات، واستخدام تصريف الصفات بشكل صحيح، وإجراء حوار بسيط عن العمل.

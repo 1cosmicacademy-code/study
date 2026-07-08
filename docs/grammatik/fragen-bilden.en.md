@@ -93,6 +93,19 @@ Simply place the **finite verb** at the beginning of the sentence, then follow w
 | 6 | Wir **müssen** lernen. |
 </div>
 
+
+---
+
+---
+
+## 📖 Related Lessons
+
+<div class="lesson-links">
+
+<a href="/a2/kursbuch/lektion-12/" class="lesson-btn">🔤 Lektion 12: In der Schule — At School</a>
+<a href="/a2/ubungsbuch/lektion-12/" class="lesson-btn">🔤 Exercises Lektion 12: In der Schule (At School)</a>
+
+</div>
 ---
 
 ## ✅ Summary

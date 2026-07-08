@@ -115,6 +115,19 @@
 - Sie hat Deutsch **studiert**. — هي درست الألمانية.
 - Ich bin früh **aufgestanden**. — أنا استيقظت مبكراً.
 
+
+---
+
+---
+
+## 📖 الدروس المرتبطة
+
+<div class="lesson-links">
+
+<a href="/a2/kursbuch/lektion-19/" class="lesson-btn">🇩🇪 🔤 Lektion 19: Unterwegs</a>
+<a href="/a2/ubungsbuch/lektion-19/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 19: Unterwegs</a>
+
+</div>
 ---
 
 ## 📝 تمارين

@@ -95,6 +95,18 @@
 | **sagen** (يقول) | الكلام | المستمع | Sag **mir** die Wahrheit! |
 | **schicken** (يرسل) | الشيء | المستلم | Ich schicke **euch** die Einladung. |
 
+
+---
+
+---
+
+## 📖 الدروس المرتبطة
+
+<div class="lesson-links">
+
+📌 *هذه القاعدة غير مرتبطة بدروس محددة حالياً.*
+
+</div>
 ---
 
 ## 📝 تمارين

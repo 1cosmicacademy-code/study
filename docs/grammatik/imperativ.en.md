@@ -118,4 +118,29 @@ Komm! Geht! Kommen Sie!
 | 4 | To your brother: "___ das Buch!" (read — lesen) | |
 | 5 | To colleagues: "___ bitte!" (come in — kommen) | |
 </div>
+
+---
+
+---
+
+## 📖 Related Lessons
+
+<div class="lesson-links">
+
+<a href="/a1/kursbuch/lektion-10/" class="lesson-btn">🔤 Lektion 10: Bus und Bahn — Bus and Train</a>
+<a href="/a1/ubungsbuch/lektion-10/" class="lesson-btn">🔤 Exercises Lektion 10: Bus und Bahn</a>
+<a href="/a1/kursbuch/lektion-13/" class="lesson-btn">🔤 Lektion 13: Beim Arzt — At the Doctor & Body Parts</a>
+<a href="/a1/ubungsbuch/lektion-13/" class="lesson-btn">🔤 Exercises Lektion 13: Beim Arzt</a>
+<a href="/a1/kursbuch/lektion-15/" class="lesson-btn">🔤 Lektion 15: Wege in der Stadt — Ways in the City (Directions)</a>
+<a href="/a1/ubungsbuch/lektion-15/" class="lesson-btn">🔤 Exercises Lektion 15: Wege in der Stadt</a>
+<a href="/a1/kursbuch/lektion-18/" class="lesson-btn">🔤 Lektion 18: Beim Amt — At the Government Office</a>
+<a href="/a1/ubungsbuch/lektion-18/" class="lesson-btn">🔤 Exercises Lektion 18: Beim Amt</a>
+<a href="/a2/kursbuch/lektion-07/" class="lesson-btn">🔤 Lektion 7: Gesundheit erhalten — Maintaining Health</a>
+<a href="/a2/ubungsbuch/lektion-07/" class="lesson-btn">🔤 Exercises Lektion 7: Gesundheit erhalten (Staying Healthy)</a>
+<a href="/a2/kursbuch/lektion-08/" class="lesson-btn">🔤 Lektion 8: Sicherheit am Arbeitsplatz — Safety at Work</a>
+<a href="/a2/ubungsbuch/lektion-08/" class="lesson-btn">🔤 Exercises Lektion 8: Sicherheit am Arbeitsplatz (Safety at Work)</a>
+<a href="/a2/kursbuch/lektion-16/" class="lesson-btn">🔤 Lektion 16: Sport und Ernährung — Sports & Nutrition</a>
+<a href="/a2/ubungsbuch/lektion-16/" class="lesson-btn">🔤 Exercises Lektion 16: Sport und Ernährung (Sports and Nutrition)</a>
+
+</div>
 ---

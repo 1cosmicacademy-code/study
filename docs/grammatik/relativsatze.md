@@ -141,6 +141,19 @@
 </div>
 ---
 
+
+---
+
+---
+
+## 📖 الدروس المرتبطة
+
+<div class="lesson-links">
+
+<a href="/a2/kursbuch/lektion-20/" class="lesson-btn">🇩🇪 🔤 Lektion 20: Erinnerungen und Wünsche</a>
+<a href="/a2/ubungsbuch/lektion-20/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 20: Erinnerungen und Wünsche</a>
+
+</div>
 ---
 
 💡 **نصيحة سريعة:** أصعب شيء في Relativsätze هو تحديد الحالة (Case). اسأل نفسك: وش وظيفة الاسم الموصول في الجملة الموصولة؟ 

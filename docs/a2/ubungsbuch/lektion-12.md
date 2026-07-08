@@ -169,4 +169,20 @@ Mein Lieblingsfach ist Englisch. Ich mag Englisch, weil ich Sprachen interessant
 
 ---
 
+## 📚 القواعد المرتبطة
+
+<div class="grammar-links">
+
+<a href="/grammatik/satzbau/" class="grammar-btn">🇩🇪 🔤 Satzbau (Satzbau)</a>
+
+<a href="/grammatik/wortstellung-erweitert/" class="grammar-btn">🇩🇪 🔤 ترتيب الكلمات المتقدم (ترتيب الكلمات المتقدم)</a>
+
+<a href="/grammatik/adverbien/" class="grammar-btn">🇩🇪 🔤 Adverbien (Adverbien)</a>
+
+<a href="/grammatik/fragen-bilden/" class="grammar-btn">🇩🇪 🔤 تكوين الأسئلة (تكوين الأسئلة)</a>
+
+</div>
+
+---
+
 > ✅ **راجع مفردات الدرس:** das Fach, die Stunde, der Lehrer/die Lehrerin, der Schüler/die Schülerin, die Tafel, das Buch, der Stundenplan, die Pause, die Hausaufgaben — والتعبيرات: zuerst, dann, danach, später, zuerst... dann...

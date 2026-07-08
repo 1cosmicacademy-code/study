@@ -105,6 +105,19 @@
 | 5 | __________ Nacht hat es geregnet. | |
 </div>
 
+
+---
+
+---
+
+## 📖 الدروس المرتبطة
+
+<div class="lesson-links">
+
+<a href="/a2/kursbuch/lektion-15/" class="lesson-btn">🇩🇪 🔤 Lektion 15: Mit dem Auto reisen</a>
+<a href="/a2/ubungsbuch/lektion-15/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 15: Mit dem Auto reisen</a>
+
+</div>
 ---
 
 💡 **نصيحة:** **bei** يصف ظرفاً أو حدثاً (+ Dativ)، أما **ab** فيستخدم لنقطة زمنية مستقبلية (+ Dativ). **gegen** يعطي وقتاً تقريبياً (+ Akkusativ).

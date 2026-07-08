@@ -80,6 +80,21 @@
 | wollen | Sie **will** kaufen. | Sie **wollte** kaufen. | تريد ← أرادت |
 | mögen | Ich **mag** das. | Ich **mochte** das. | أحب ← كنت أحب |
 
+
+---
+
+---
+
+## 📖 الدروس المرتبطة
+
+<div class="lesson-links">
+
+<a href="/a2/kursbuch/lektion-10/" class="lesson-btn">🇩🇪 🔤 Lektion 10: Durch die Stadt</a>
+<a href="/a2/ubungsbuch/lektion-10/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 10: Durch die Stadt</a>
+<a href="/a2/kursbuch/lektion-18/" class="lesson-btn">🇩🇪 🔤 Lektion 18: Alles über Geld</a>
+<a href="/a2/ubungsbuch/lektion-18/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 18: Alles über Geld</a>
+
+</div>
 ---
 
 ## 📝 تمارين

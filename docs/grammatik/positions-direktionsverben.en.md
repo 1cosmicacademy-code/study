@@ -42,6 +42,19 @@ An instructional video explaining this grammar topic with practical examples.
 3. *Sie legt das Buch **auf** das Regal.* — "She puts the book on the shelf."
 4. *Das Buch liegt **auf** dem Regal.* — "The book lies on the shelf."
 
+
+---
+
+---
+
+## 📖 Related Lessons
+
+<div class="lesson-links">
+
+<a href="/a2/kursbuch/lektion-01/" class="lesson-btn">🔤 Lektion 1: Unser neuer Weg — Our New Path</a>
+<a href="/a2/ubungsbuch/lektion-01/" class="lesson-btn">🔤 Exercises Lektion 1: Unser neuer Weg (Our New Path)</a>
+
+</div>
 ---
 
 ## 📝 Interactive Exercises

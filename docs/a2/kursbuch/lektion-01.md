@@ -239,4 +239,18 @@
 
 ---
 
+---
+
+## 📚 القواعد المرتبطة
+
+<div class="grammar-links">
+
+<a href="/grammatik/verbkonjugation/" class="grammar-btn">🇩🇪 🔤 Präsens) (Präsens))</a>
+
+<a href="/grammatik/trennbare-verben/" class="grammar-btn">🇩🇪 🔤 Trennbare Verben (Trennbare Verben)</a>
+
+<a href="/grammatik/positions-direktionsverben/" class="grammar-btn">🇩🇪 🔤 und Direktionsverben — أفعال المكان والاتجاه (stellen/stehen, legen/liegen) (und Direktionsverben — أفعال المكان والاتجاه (stellen/stehen, legen/liegen))</a>
+
+</div>
+
 > 🎯 **هدف الدرس:** في نهاية هذا الدرس، ستكون قادراً على تعريف بنفسك بالتفصيل، وسؤال عن الاتجاهات، وتصريف الأفعال الأساسية في المضارع.

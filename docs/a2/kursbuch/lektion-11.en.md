@@ -157,4 +157,22 @@ Form indirect questions with "ob":
 
 ---
 
+
+
+---
+
+## 📚 Related Grammar
+
+<div class="grammar-links">
+
+<a href="/grammatik/nebensatze/" class="grammar-btn">🔤 Subordinate Clauses (Nebensätze) in German</a>
+
+<a href="/grammatik/hauptsaetze-verbinden/" class="grammar-btn">🔤 Connecting Main Clauses</a>
+
+<a href="/grammatik/indirekte-fragen/" class="grammar-btn">🔤 Indirect Questions (Indirekte Fragen) in German</a>
+
+<a href="/grammatik/adverbien/" class="grammar-btn">🔤 Adverbs (Adverbien) in German</a>
+
+</div>
+
 > 💡 **Final Tip:** Watch the lesson video at the link above and try to repeat the sentences out loud — practice is the secret!

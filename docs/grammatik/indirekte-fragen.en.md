@@ -144,6 +144,19 @@ Indirect question: Er fragt, ob ich Zeit habe.
 </div>
 ---
 
+
+---
+
+---
+
+## 📖 Related Lessons
+
+<div class="lesson-links">
+
+<a href="/a2/kursbuch/lektion-11/" class="lesson-btn">🔤 Lektion 11: Information und Unterhaltung — Information & Entertainment</a>
+<a href="/a2/ubungsbuch/lektion-11/" class="lesson-btn">🔤 Exercises Lektion 11: Information und Unterhaltung (Information and Entertainment)</a>
+
+</div>
 ---
 
 💡 **Tip:** The difference between direct and indirect questions: in direct questions the verb is in second position (Wo wohnst du?), and in indirect questions the verb is at the end (Ich weiß nicht, wo du wohnst). If the direct question is a Yes/No type — use **ob**!

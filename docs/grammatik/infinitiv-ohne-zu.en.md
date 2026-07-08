@@ -46,6 +46,18 @@ Certain verbs require the infinitive **without** "zu". This mainly includes the 
 - **Sie will schneller lernen.** – She wants to learn faster.
 - **Sie lässt das Fenster öffnen.** – She lets the window be opened.
 
+
+---
+
+---
+
+## 📖 Related Lessons
+
+<div class="lesson-links">
+
+📌 *This topic is not linked to specific lessons yet.*
+
+</div>
 ---
 
 ### Interactive exercise

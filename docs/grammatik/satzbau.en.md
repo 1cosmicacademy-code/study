@@ -127,4 +127,29 @@ Subordinate:     Verb at the end
 | 4 | Geh nach Hause! → ___ | |
 | 5 | ... weil es regnet. → ___ | |
 </div>
+
+---
+
+---
+
+## 📖 Related Lessons
+
+<div class="lesson-links">
+
+<a href="/a1/kursbuch/lektion-01/" class="lesson-btn">🔤 Lektion 1: Hallo! — Greetings and Introductions</a>
+<a href="/a1/ubungsbuch/lektion-01/" class="lesson-btn">🔤 Exercises Lektion 1: Hallo!</a>
+<a href="/a1/kursbuch/lektion-06/" class="lesson-btn">🔤 Lektion 6: Arbeitszeiten — Working Hours and Time</a>
+<a href="/a1/ubungsbuch/lektion-06/" class="lesson-btn">🔤 Exercises Lektion 6: Arbeitszeiten</a>
+<a href="/a1/kursbuch/lektion-09/" class="lesson-btn">🔤 Lektion 9: Termine — Appointments & Days of the Week</a>
+<a href="/a1/ubungsbuch/lektion-09/" class="lesson-btn">🔤 Exercises Lektion 9: Termine</a>
+<a href="/a1/kursbuch/lektion-12/" class="lesson-btn">🔤 Lektion 12: Ausbildung — Education & Training</a>
+<a href="/a1/ubungsbuch/lektion-12/" class="lesson-btn">🔤 Exercises Lektion 12: Ausbildung</a>
+<a href="/a1/kursbuch/lektion-16/" class="lesson-btn">🔤 Lektion 16: Im Laden — At the Shop (Shopping)</a>
+<a href="/a1/ubungsbuch/lektion-16/" class="lesson-btn">🔤 Exercises Lektion 16: Im Laden</a>
+<a href="/a1/kursbuch/lektion-17/" class="lesson-btn">🔤 Lektion 17: Arbeit — Work (Jobs and Duties)</a>
+<a href="/a1/ubungsbuch/lektion-17/" class="lesson-btn">🔤 Exercises Lektion 17: Arbeit</a>
+<a href="/a2/kursbuch/lektion-12/" class="lesson-btn">🔤 Lektion 12: In der Schule — At School</a>
+<a href="/a2/ubungsbuch/lektion-12/" class="lesson-btn">🔤 Exercises Lektion 12: In der Schule (At School)</a>
+
+</div>
 ---

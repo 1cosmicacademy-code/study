@@ -41,6 +41,19 @@
 3. *Wir **werden** morgen reisen.* — "نسافر يوم القادم".
 4. *Der Fluss **wird** größer.* — "النهر سيصبح أكبر".
 
+
+---
+
+---
+
+## 📖 الدروس المرتبطة
+
+<div class="lesson-links">
+
+<a href="/a2/kursbuch/lektion-18/" class="lesson-btn">🇩🇪 🔤 Lektion 18: Alles über Geld</a>
+<a href="/a2/ubungsbuch/lektion-18/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 18: Alles über Geld</a>
+
+</div>
 ---
 
 ## 📝 تمارين تفاعلية

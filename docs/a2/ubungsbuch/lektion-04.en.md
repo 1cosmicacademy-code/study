@@ -176,3 +176,17 @@
 | der Vorort, -e | the suburb |
 | klopfen | to knock |
 | leider | unfortunately |
+
+---
+
+## 📚 Related Grammar
+
+<div class="grammar-links">
+
+<a href="/grammatik/nebensatze/" class="grammar-btn">🔤 Subordinate Clauses (Nebensätze) in German</a>
+
+<a href="/grammatik/temporale-nebensaatze/" class="grammar-btn">🔤 Temporal Subordinate Clauses</a>
+
+<a href="/grammatik/lokale-praepositionen/" class="grammar-btn">🔤 Local prepositions</a>
+
+</div>

@@ -167,4 +167,18 @@
 
 ---
 
+---
+
+## 📚 القواعد المرتبطة
+
+<div class="grammar-links">
+
+<a href="/grammatik/imperativ/" class="grammar-btn">🇩🇪 🔤 Imperativ (Imperativ)</a>
+
+<a href="/grammatik/partikeln/" class="grammar-btn">🇩🇪 🔤 الجسيمات اللغوية (doch, mal, ja, eben) (الجسيمات اللغوية (doch, mal, ja, eben))</a>
+
+<a href="/grammatik/partizip-1-als-adjektiv/" class="grammar-btn">🇩🇪 🔤 الصف الفاعل 1 كصفة (الصف الفاعل 1 كصفة)</a>
+
+</div>
+
 > 💡 **Hausaufgabe:** اكتب فقرة قصيرة (30-40 كلمة) عن روتينك الرياضي باستخدام المفردات الجديدة.

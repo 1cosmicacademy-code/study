@@ -155,4 +155,20 @@
 > - **Möglichkeit (50%):** Das könnte so sein. (ربما هذا صحيح)
 > - **Unsicher (20%):** Das könnte vielleicht so sein. (قد يكون هذا صحيحاً)
 
+---
+
+## 📚 القواعد المرتبطة
+
+<div class="grammar-links">
+
+<a href="/grammatik/modalverben/" class="grammar-btn">🇩🇪 🔤 Modalverben (Modalverben)</a>
+
+<a href="/grammatik/konjunktiv-2/" class="grammar-btn">🇩🇪 🔤 Konjunktiv 2 (Konjunktiv 2)</a>
+
+<a href="/grammatik/funktionen-von-werden/" class="grammar-btn">🇩🇪 🔤 وظائف الفعل ويل (werden) (وظائف الفعل ويل (werden))</a>
+
+<a href="/grammatik/prateritum-modalverben/" class="grammar-btn">🇩🇪 🔤 الماضي البسيط للأفعال الناقصة (الماضي البسيط للأفعال الناقصة)</a>
+
+</div>
+
 > 🎯 **راجِع:** المفردات الجديدة — das Konto, die Bank, der Automat, der Zinssatz, die Anlage, die Ausgabe, die Einnahme, sparen, ausgeben, einzahlen, abheben, überweisen

@@ -186,4 +186,22 @@ Ich habe gestern im Radio eine interessante Nachricht gehört. Die Nachricht sag
 
 ---
 
+
+
+---
+
+## 📚 Related Grammar
+
+<div class="grammar-links">
+
+<a href="/grammatik/nebensatze/" class="grammar-btn">🔤 Subordinate Clauses (Nebensätze) in German</a>
+
+<a href="/grammatik/hauptsaetze-verbinden/" class="grammar-btn">🔤 Connecting Main Clauses</a>
+
+<a href="/grammatik/indirekte-fragen/" class="grammar-btn">🔤 Indirect Questions (Indirekte Fragen) in German</a>
+
+<a href="/grammatik/adverbien/" class="grammar-btn">🔤 Adverbs (Adverbien) in German</a>
+
+</div>
+
 > ✅ **Review lesson vocabulary:** die Nachrichten (news), das Fernsehen (TV), die Zeitung (newspaper), das Internet (internet), die Sendung (program), der Bericht (report), die Zeitschrift (magazine), der Zuschauer (viewer) — and **grammar:** dass-clauses, ob-clauses.

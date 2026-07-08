@@ -189,6 +189,19 @@ Es regnet,           trotzdem   gehen  wir spazieren.
 | **obwohl** | Nebensatz | end of clause | **Obwohl** es regnet, gehe ich spazieren. |
 | **trotzdem** | Hauptsatz | position 2 | Es regnet, **trotzdem gehe** ich spazieren. |
 
+
+---
+
+---
+
+## 📖 Related Lessons
+
+<div class="lesson-links">
+
+<a href="/a2/kursbuch/lektion-14/" class="lesson-btn">🔤 Lektion 14: Zusammenleben — Living Together</a>
+<a href="/a2/ubungsbuch/lektion-14/" class="lesson-btn">🔤 Exercises Lektion 14: Zusammenleben (Living Together)</a>
+
+</div>
 ---
 
 ## 4. 📝 Exercises

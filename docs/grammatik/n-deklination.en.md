@@ -53,6 +53,18 @@ Weak masculine nouns (often called **n‑declension** nouns) end in **-(e)n** in
 - **der Name** → **den Namen**, **dem Namen**, **des Namens**
 - **der Herr** → **den Herrn**, **dem Herrn**, **des Herrn**
 
+
+---
+
+---
+
+## 📖 Related Lessons
+
+<div class="lesson-links">
+
+📌 *This topic is not linked to specific lessons yet.*
+
+</div>
 ---
 
 ### Interactive exercise

@@ -239,4 +239,20 @@ Meine Traumreise mit dem Auto geht durch Europa. Ich möchte mit meinen Freunden
 
 ---
 
+
+
+---
+
+## 📚 القواعد المرتبطة
+
+<div class="grammar-links">
+
+<a href="/grammatik/artikel-interrogativ-demonstrativ/" class="grammar-btn">🇩🇪 🔤 أدوات الاستفهام والإشارة (أدوات الاستفهام والإشارة)</a>
+
+<a href="/grammatik/prapositionen/" class="grammar-btn">🇩🇪 🔤 الزمانية والمكانية في اللغة الألمانية (الزمانية والمكانية في اللغة الألمانية)</a>
+
+<a href="/grammatik/temporale-praepositionen-2/" class="grammar-btn">🇩🇪 🔤 حروف الجر الزمنية (2) (حروف الجر الزمنية (2))</a>
+
+</div>
+
 > ✅ **راجع مفردات الدرس:** das Auto, der Fahrer, die Tankstelle, die Autobahn, der Verkehr, die Straße, die Landkarte, die Reise, das Benzin, die Panne — و **القواعد:** Demonstrativpronomen (dieser/diese/dieses) في Nominativ, Akkusativ, Dativ.

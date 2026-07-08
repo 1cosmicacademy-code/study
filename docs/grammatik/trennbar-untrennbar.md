@@ -62,6 +62,19 @@ Er ruft ___ an? (السؤال)
 | 4 | Sie ___ ein Geschenk. (bekommen) |
 </div>
 
+
+---
+
+---
+
+## 📖 الدروس المرتبطة
+
+<div class="lesson-links">
+
+<a href="/a2/kursbuch/lektion-03/" class="lesson-btn">🇩🇪 🔤 Lektion 3: In unserer Freizeit</a>
+<a href="/a2/ubungsbuch/lektion-03/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 3: In unserer Freizeit</a>
+
+</div>
 ---
 
 ## 🟡 ملاحظات للمتعلمين

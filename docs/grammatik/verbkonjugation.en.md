@@ -88,7 +88,7 @@ haben: habe, hast, hat, haben, habt, haben
 | 3 | Er ___ (kommen) aus Syrien. | |
 | 4 | Wir ___ (arbeiten) hier. | |
 | 5 | Ihr ___ (spielen) Fußball. | |
-| 6 | Sie (plural) ___ (tanzen) gern. | |
+| 6 | Sie ___ (tanzen) gern. | |
 </div>
 ✏️ **Fill in the blank with the correct word:** Write only one word in each field.
 
@@ -111,5 +111,28 @@ haben: habe, hast, hat, haben, habt, haben
 | 3 | Sie (she) ___ (lesen) ein Buch. | |
 | 4 | Wir ___ (essen) Pizza. | |
 | 5 | Ich ___ (nehmen) den Bus. | |
+</div>
+
+---
+
+---
+
+## 📖 Related Lessons
+
+<div class="lesson-links">
+
+<a href="/a1/kursbuch/lektion-01/" class="lesson-btn">🔤 Lektion 1: Hallo! — Greetings and Introductions</a>
+<a href="/a1/ubungsbuch/lektion-01/" class="lesson-btn">🔤 Exercises Lektion 1: Hallo!</a>
+<a href="/a1/kursbuch/lektion-02/" class="lesson-btn">🔤 Lektion 2: Berufe — Professions and Formal Address (Sie)</a>
+<a href="/a1/ubungsbuch/lektion-02/" class="lesson-btn">🔤 Exercises Lektion 2: Berufe</a>
+<a href="/a1/kursbuch/lektion-04/" class="lesson-btn">🔤 Lektion 4: Familie! — Family and Possessive Articles</a>
+<a href="/a1/ubungsbuch/lektion-04/" class="lesson-btn">🔤 Exercises Lektion 4: Familie!</a>
+<a href="/a1/kursbuch/lektion-05/" class="lesson-btn">🔤 Lektion 5: Alltag und Freizeit — Daily Life and Free Time</a>
+<a href="/a1/ubungsbuch/lektion-05/" class="lesson-btn">🔤 Exercises Lektion 5: Alltag und Freizeit</a>
+<a href="/a1/kursbuch/lektion-12/" class="lesson-btn">🔤 Lektion 12: Ausbildung — Education & Training</a>
+<a href="/a1/ubungsbuch/lektion-12/" class="lesson-btn">🔤 Exercises Lektion 12: Ausbildung</a>
+<a href="/a2/kursbuch/lektion-01/" class="lesson-btn">🔤 Lektion 1: Unser neuer Weg — Our New Path</a>
+<a href="/a2/ubungsbuch/lektion-01/" class="lesson-btn">🔤 Exercises Lektion 1: Unser neuer Weg (Our New Path)</a>
+
 </div>
 ---

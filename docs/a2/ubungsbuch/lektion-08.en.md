@@ -146,3 +146,15 @@
 **Grammar Note:** "sollen" → obligation, "sollte" → recommendation, "müssen" → strong necessity. For formal safety rules, use "sollen" or "müssen."
 
 ---
+
+## 📚 Related Grammar
+
+<div class="grammar-links">
+
+<a href="/grammatik/modalverben/" class="grammar-btn">🔤 Modal Verbs (Modalverben) in German</a>
+<a href="/grammatik/imperativ/" class="grammar-btn">🔤 The Imperative in German</a>
+<a href="/grammatik/passiv/" class="grammar-btn">🔤 Passive Voice (Passiv) in German</a>
+
+</div>
+
+---

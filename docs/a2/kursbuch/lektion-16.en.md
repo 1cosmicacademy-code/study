@@ -143,4 +143,18 @@
 
 ---
 
+---
+
+## 📚 Related Grammar
+
+<div class="grammar-links">
+
+<a href="/grammatik/imperativ/" class="grammar-btn">🔤 The Imperative in German</a>
+
+<a href="/grammatik/partikeln/" class="grammar-btn">🔤 Partikeln (doch, mal, ja, eben)</a>
+
+<a href="/grammatik/partizip-1-als-adjektiv/" class="grammar-btn">🔤 Partizip 1 as Adjective</a>
+
+</div>
+
 > 💡 **Homework:** Write a short paragraph (30-40 words) about your exercise routine using the new vocabulary.

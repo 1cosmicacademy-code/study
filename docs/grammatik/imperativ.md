@@ -118,4 +118,29 @@ Komm! Geht! Kommen Sie!
 | 4 | إلى أخيك: "___ das Buch!" (اقرأ الكتاب — lesen) | |
 | 5 | إلى زملاء: "___ bitte!" (تفضلوا — kommen) | |
 </div>
+
+---
+
+---
+
+## 📖 الدروس المرتبطة
+
+<div class="lesson-links">
+
+<a href="/a1/kursbuch/lektion-10/" class="lesson-btn">🇩🇪 🔤 Lektion 10: Bus und Bahn</a>
+<a href="/a1/ubungsbuch/lektion-10/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 10: Bus und Bahn</a>
+<a href="/a1/kursbuch/lektion-13/" class="lesson-btn">🇩🇪 🔤 Lektion 13: Beim Arzt</a>
+<a href="/a1/ubungsbuch/lektion-13/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 13: Beim Arzt</a>
+<a href="/a1/kursbuch/lektion-15/" class="lesson-btn">🇩🇪 🔤 Lektion 15: Wege in der Stadt</a>
+<a href="/a1/ubungsbuch/lektion-15/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 15: Wege in der Stadt</a>
+<a href="/a1/kursbuch/lektion-18/" class="lesson-btn">🇩🇪 🔤 Lektion 18: Beim Amt</a>
+<a href="/a1/ubungsbuch/lektion-18/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 18: Beim Amt</a>
+<a href="/a2/kursbuch/lektion-07/" class="lesson-btn">🇩🇪 🔤 Lektion 7: Gesundheit erhalten</a>
+<a href="/a2/ubungsbuch/lektion-07/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 7: Gesundheit erhalten</a>
+<a href="/a2/kursbuch/lektion-08/" class="lesson-btn">🇩🇪 🔤 Lektion 8: Sicherheit am Arbeitsplatz</a>
+<a href="/a2/ubungsbuch/lektion-08/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 8: Sicherheit am Arbeitsplatz</a>
+<a href="/a2/kursbuch/lektion-16/" class="lesson-btn">🇩🇪 🔤 Lektion 16: Sport und Ernährung</a>
+<a href="/a2/ubungsbuch/lektion-16/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 16: Sport und Ernährung</a>
+
+</div>
 ---

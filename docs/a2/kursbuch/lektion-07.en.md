@@ -156,4 +156,18 @@ For present tense: **würde** + infinitive
 | Rückenschmerzen | _____ |
 | Bauchschmerzen | _____ |
 
+
+
+---
+
+## 📚 Related Grammar
+
+<div class="grammar-links">
+
+<a href="/grammatik/konjunktiv-2/" class="grammar-btn">🔤 Subjunctive 2 (Konjunktiv II) in German</a>
+<a href="/grammatik/modalverben/" class="grammar-btn">🔤 Modal Verbs (Modalverben) in German</a>
+<a href="/grammatik/imperativ/" class="grammar-btn">🔤 The Imperative in German</a>
+
+</div>
+
 > 💡 **Final Tip:** Always remember that Konjunktiv II is the key to politeness in German. "Könnten Sie...?" is much better than "Können Sie...?" in formal situations!

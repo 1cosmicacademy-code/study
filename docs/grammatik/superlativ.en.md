@@ -44,6 +44,19 @@ An instructional video explaining this grammar topic with practical examples.
 - **Er ist am freundlichsten von allen.** *(He is the friendliest of all.)*
 - **Das ist am interessantesten.** *(That is the most interesting.)*
 
+
+---
+
+---
+
+## 📖 Related Lessons
+
+<div class="lesson-links">
+
+<a href="/a2/kursbuch/lektion-09/" class="lesson-btn">🔤 Lektion 9: Große und kleine Dinge — Big and Small Things</a>
+<a href="/a2/ubungsbuch/lektion-09/" class="lesson-btn">🔤 Exercises Lektion 9: Große und kleine Dinge (Big and Small Things)</a>
+
+</div>
 ---
 
 ## 📝 Interactive Exercises

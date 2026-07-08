@@ -154,4 +154,22 @@
 > - With **ein/eine** (indefinite article): the adjective takes the definite article's ending! (ein → -er, eine → -e, ein → -es)
 > - In **Dativ** always: **-en** regardless of gender!
 
+---
+
+## 📚 Related Grammar
+
+<div class="grammar-links">
+
+<a href="/grammatik/adjektivdeklination/" class="grammar-btn">🔤 Adjective Declension (Adjektivdeklination) in German</a>
+
+<a href="/grammatik/akkusativ/" class="grammar-btn">🔤 The Accusative Case (Akkusativ) in German</a>
+
+<a href="/grammatik/dativ/" class="grammar-btn">🔤 The Dative Case (Dativ) in German</a>
+
+<a href="/grammatik/genitiv/" class="grammar-btn">🔤 The Genitive Case (Genitiv) in German</a>
+
+<a href="/grammatik/artikel/" class="grammar-btn">🔤 Articles (Artikel) in German</a>
+
+</div>
+
 > 🎯 **Review:** New vocabulary — das Geschäft (shop), der Laden (store), das Angebot (offer), der Preis (price), die Kasse (cash register), der Einkaufswagen (shopping cart), die Tüte (bag), bar zahlen (pay cash), die Quittung (receipt), der Rabatt (discount)

@@ -60,6 +60,18 @@ Der Brief **war** von ihr **geschickt** worden.
 | 3 | Die Aufgabe ___ von uns ___. |
 </div>
 
+
+---
+
+---
+
+## 📖 الدروس المرتبطة
+
+<div class="lesson-links">
+
+📌 *هذه القاعدة غير مرتبطة بدروس محددة حالياً.*
+
+</div>
 ---
 
 ## ملاحظات للمتعلمين

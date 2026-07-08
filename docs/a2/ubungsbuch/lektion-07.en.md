@@ -196,3 +196,15 @@
 - Incorrect: "Man sollte viel **trinkt**."
 
 ---
+
+## 📚 Related Grammar
+
+<div class="grammar-links">
+
+<a href="/grammatik/konjunktiv-2/" class="grammar-btn">🔤 Subjunctive 2 (Konjunktiv II) in German</a>
+<a href="/grammatik/modalverben/" class="grammar-btn">🔤 Modal Verbs (Modalverben) in German</a>
+<a href="/grammatik/imperativ/" class="grammar-btn">🔤 The Imperative in German</a>
+
+</div>
+
+---

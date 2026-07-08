@@ -211,4 +211,18 @@ Ein idealer Mitbewohner sollte freundlich und sauber sein. Das Wichtigste ist, d
 
 ---
 
+---
+
+## 📚 Related Grammar
+
+<div class="grammar-links">
+
+<a href="/grammatik/finalsaetze/" class="grammar-btn">🔤 Finalsätze (um...zu, damit)</a>
+
+<a href="/grammatik/infinitiv-mit-zu/" class="grammar-btn">🔤 Infinitive with "zu"</a>
+
+<a href="/grammatik/kausal-konzessivsatze/" class="grammar-btn">🔤 Kausal</a>
+
+</div>
+
 > ✅ **Review lesson vocabulary:** der Mitbewohner (roommate), die WG (shared apartment), die Wohnung (apartment), das Zimmer (room), die Miete (rent), die Nebenkosten (additional costs), der Putzplan (cleaning schedule), die Hausarbeit (housework), die Ruhe (quiet), der Lärm (noise) — and **grammar:** um...zu + Infinitiv, damit + Nebensatz.

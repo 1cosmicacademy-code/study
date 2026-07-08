@@ -152,3 +152,15 @@
 **قاعدة اضافية:** "sollen" → إلزام (obligation)، "sollte" → توصية (recommendation)، "müssen" → ضرورة ملزمة (strong necessity). في قواعد السلامة الرسمية، استخدم "sollen" أو "müssen".
 
 ---
+
+## 📚 القواعد المرتبطة
+
+<div class="grammar-links">
+
+<a href="/grammatik/modalverben/" class="grammar-btn">🇩🇪 🔤 Modalverben (Modalverben)</a>
+<a href="/grammatik/imperativ/" class="grammar-btn">🇩🇪 🔤 Imperativ (Imperativ)</a>
+<a href="/grammatik/passiv/" class="grammar-btn">🇩🇪 🔤 Passiv (Passiv)</a>
+
+</div>
+
+---

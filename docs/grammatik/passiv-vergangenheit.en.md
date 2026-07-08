@@ -57,6 +57,18 @@ If the sentence is in pluperfect, use **war** + **Partizip II** + **worden**.
 | 3 | Die Aufgabe ___ von uns ___. |
 </div>
 
+
+---
+
+---
+
+## 📖 Related Lessons
+
+<div class="lesson-links">
+
+📌 *This topic is not linked to specific lessons yet.*
+
+</div>
 ---
 
 ## ملاحظات للمتعلمين

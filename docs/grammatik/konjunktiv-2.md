@@ -142,6 +142,23 @@
 </div>
 ---
 
+
+---
+
+---
+
+## 📖 الدروس المرتبطة
+
+<div class="lesson-links">
+
+<a href="/a1/kursbuch/lektion-20/" class="lesson-btn">🇩🇪 🔤 Lektion 20: Feste und Feiern</a>
+<a href="/a1/ubungsbuch/lektion-20/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 20: Feste und Feiern</a>
+<a href="/a2/kursbuch/lektion-07/" class="lesson-btn">🇩🇪 🔤 Lektion 7: Gesundheit erhalten</a>
+<a href="/a2/ubungsbuch/lektion-07/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 7: Gesundheit erhalten</a>
+<a href="/a2/kursbuch/lektion-18/" class="lesson-btn">🇩🇪 🔤 Lektion 18: Alles über Geld</a>
+<a href="/a2/ubungsbuch/lektion-18/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 18: Alles über Geld</a>
+
+</div>
 ---
 
 💡 **نصيحة سريعة:** أكثر استخدامين ستحتاجهما من Konjunktiv II هما:

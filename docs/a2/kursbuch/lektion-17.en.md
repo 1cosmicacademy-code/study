@@ -154,4 +154,22 @@
 
 ---
 
+---
+
+## 📚 Related Grammar
+
+<div class="grammar-links">
+
+<a href="/grammatik/adjektivdeklination/" class="grammar-btn">🔤 Adjective Declension (Adjektivdeklination) in German</a>
+
+<a href="/grammatik/akkusativ/" class="grammar-btn">🔤 The Accusative Case (Akkusativ) in German</a>
+
+<a href="/grammatik/dativ/" class="grammar-btn">🔤 The Dative Case (Dativ) in German</a>
+
+<a href="/grammatik/genitiv/" class="grammar-btn">🔤 The Genitive Case (Genitiv) in German</a>
+
+<a href="/grammatik/artikel/" class="grammar-btn">🔤 Articles (Artikel) in German</a>
+
+</div>
+
 > 💡 **Homework:** Write a short shopping dialogue (8-10 sentences) between a salesperson and a customer, using at least 3 adjectives.

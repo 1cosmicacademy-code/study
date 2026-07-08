@@ -202,6 +202,18 @@ Ich    werde    morgen    nach Berlin    fahren.
 4. wird regnen (توقع الطقس ← Futur I)
 5. werden besuchen (وعد ← Futur I)
 
+
+---
+
+---
+
+## 📖 الدروس المرتبطة
+
+<div class="lesson-links">
+
+📌 *هذه القاعدة غير مرتبطة بدروس محددة حالياً.*
+
+</div>
 ---
 
 💡 **نصيحة:** في البداية، استخدم Präsens + ظرف زمان للمستقبل (مثل morgen, nächstes Jahr). هذا سهل جداً ويستخدم يومياً. استخدم Futur I عندما تريد التأكيد على النية، أو التوقع، أو الوعد. مثلاً: **"Ich rufe dich morgen an."** (Präsens) vs. **"Ich werde dich anrufen, versprochen!"** (Futur I + وعد).

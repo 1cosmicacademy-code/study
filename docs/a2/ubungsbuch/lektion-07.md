@@ -198,3 +198,15 @@
 - Falsch: "Man sollte viel **trinkt**."
 
 ---
+
+## 📚 القواعد المرتبطة
+
+<div class="grammar-links">
+
+<a href="/grammatik/konjunktiv-2/" class="grammar-btn">🇩🇪 🔤 Konjunktiv 2 (Konjunktiv 2)</a>
+<a href="/grammatik/modalverben/" class="grammar-btn">🇩🇪 🔤 Modalverben (Modalverben)</a>
+<a href="/grammatik/imperativ/" class="grammar-btn">🇩🇪 🔤 Imperativ (Imperativ)</a>
+
+</div>
+
+---

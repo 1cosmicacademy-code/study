@@ -175,4 +175,22 @@
 
 ---
 
+---
+
+## 📚 القواعد المرتبطة
+
+<div class="grammar-links">
+
+<a href="/grammatik/adjektivdeklination/" class="grammar-btn">🇩🇪 🔤 Adjektivdeklination (Adjektivdeklination)</a>
+
+<a href="/grammatik/akkusativ/" class="grammar-btn">🇩🇪 🔤 Akkusativ (Akkusativ)</a>
+
+<a href="/grammatik/dativ/" class="grammar-btn">🇩🇪 🔤 Dativ (Dativ)</a>
+
+<a href="/grammatik/genitiv/" class="grammar-btn">🇩🇪 🔤 Genitiv (Genitiv)</a>
+
+<a href="/grammatik/artikel/" class="grammar-btn">🇩🇪 🔤 der, die, das, ein, keine (der, die, das, ein, keine)</a>
+
+</div>
+
 > 💡 **Hausaufgabe:** اكتب حوار تسوق قصير (8-10 جمل) بين بائع وزبون، واستخدم 3 صفات على الأقل.

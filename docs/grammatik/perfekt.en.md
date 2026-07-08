@@ -232,6 +232,27 @@ prefix + ge + verb stem + t/en
 </div>
 ---
 
+
+---
+
+---
+
+## 📖 Related Lessons
+
+<div class="lesson-links">
+
+<a href="/a1/kursbuch/lektion-08/" class="lesson-btn">🔤 Lektion 8: Party</a>
+<a href="/a1/ubungsbuch/lektion-08/" class="lesson-btn">🔤 Exercises Lektion 8: Party</a>
+<a href="/a1/kursbuch/lektion-14/" class="lesson-btn">🔤 Lektion 14: Krankschreibung — Sick Leave</a>
+<a href="/a1/ubungsbuch/lektion-14/" class="lesson-btn">🔤 Exercises Lektion 14: Krankschreibung</a>
+<a href="/a1/kursbuch/lektion-17/" class="lesson-btn">🔤 Lektion 17: Arbeit — Work (Jobs and Duties)</a>
+<a href="/a1/ubungsbuch/lektion-17/" class="lesson-btn">🔤 Exercises Lektion 17: Arbeit</a>
+<a href="/a1/kursbuch/lektion-20/" class="lesson-btn">🔤 Lektion 20: Feste und Feiern — Holidays and Celebrations</a>
+<a href="/a1/ubungsbuch/lektion-20/" class="lesson-btn">🔤 Exercises Lektion 20: Feste und Feiern</a>
+<a href="/a2/kursbuch/lektion-19/" class="lesson-btn">🔤 Lektion 19: Unterwegs — On the Road / Travel</a>
+<a href="/a2/ubungsbuch/lektion-19/" class="lesson-btn">🔤 Exercises Lektion 19: Unterwegs (On the Road — Travel and Transport)</a>
+
+</div>
 ---
 
 💡 **Tip:** First memorize the list of verbs that take **sein** — it's a short list. Everything else takes **haben**. This covers 90% of cases.

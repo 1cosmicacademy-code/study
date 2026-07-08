@@ -173,4 +173,19 @@
 
 ---
 
+
+
+---
+
+## 📚 Related Grammar
+
+<div class="grammar-links">
+
+<a href="/grammatik/vergleiche/" class="grammar-btn">🔤 Comparisons (Vergleiche) in German</a>
+<a href="/grammatik/superlativ/" class="grammar-btn">🔤 Superlativ</a>
+<a href="/grammatik/adjektivdeklination/" class="grammar-btn">🔤 Adjective Declension (Adjektivdeklination) in German</a>
+<a href="/grammatik/ordinalzahlen/" class="grammar-btn">🔤 Ordinal Numbers and Dates (Ordinalzahlen und Datum)</a>
+
+</div>
+
 > 💡 **Final Tip:** Comparisons are in every conversation! Practice using **als** after comparatives (groesser **als**) and **am** before superlatives (**am** groessten). This way you'll speak more precisely!

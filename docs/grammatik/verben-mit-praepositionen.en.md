@@ -43,6 +43,18 @@ A verb may be tightly linked with a preposition that determines the case and the
 - **Sie spricht **mit** der Lehrerin.** — She talks with the teacher.
 - **Ich interessiere mich **für** Kunst.** — I am interested in art.
 
+
+---
+
+---
+
+## 📖 Related Lessons
+
+<div class="lesson-links">
+
+📌 *This topic is not linked to specific lessons yet.*
+
+</div>
 ---
 
 ## 📝 Exercises

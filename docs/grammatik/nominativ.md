@@ -115,4 +115,21 @@ Nominativ = الفاعل (subject) = اللي بيعمل الفعل
 | 4 | ___ Apfel ist rot. (تفاحة — der) | |
 | 5 | ___ Wasser ist kalt. (الماء — das) | |
 </div>
+
+---
+
+---
+
+## 📖 الدروس المرتبطة
+
+<div class="lesson-links">
+
+<a href="/a1/kursbuch/lektion-01/" class="lesson-btn">🇩🇪 🔤 Lektion 1: Hallo!</a>
+<a href="/a1/ubungsbuch/lektion-01/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 1: Hallo!</a>
+<a href="/a1/kursbuch/lektion-02/" class="lesson-btn">🇩🇪 🔤 Lektion 2: Berufe</a>
+<a href="/a1/ubungsbuch/lektion-02/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 2: Berufe</a>
+<a href="/a1/kursbuch/lektion-03/" class="lesson-btn">🇩🇪 🔤 Lektion 3: Orte und Dinge</a>
+<a href="/a1/ubungsbuch/lektion-03/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 3: Orte und Dinge</a>
+
+</div>
 ---

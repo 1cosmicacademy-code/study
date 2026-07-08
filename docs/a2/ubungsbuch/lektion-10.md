@@ -239,3 +239,15 @@ Der Weg dauerte nur 20 Minuten. Ich sollte öfter durch die Stadt laufen — es 
 استغرق الطريق 20 دقيقة فقط. يجب أن أمشي عبر المدينة أكثر — إنه ممتع!
 
 ---
+
+## 📚 القواعد المرتبطة
+
+<div class="grammar-links">
+
+<a href="/grammatik/prateritum-modalverben/" class="grammar-btn">🇩🇪 🔤 الماضي البسيط للأفعال الناقصة (الماضي البسيط للأفعال الناقصة)</a>
+<a href="/grammatik/lokale-adverbien/" class="grammar-btn">🇩🇪 🔤 الظروف المكانية (الظروف المكانية)</a>
+<a href="/grammatik/lokale-praepositionen/" class="grammar-btn">🇩🇪 🔤 حروف الجر المكانية (wo?, wohin?, woher?) (حروف الجر المكانية (wo?, wohin?, woher?))</a>
+
+</div>
+
+---

@@ -113,6 +113,19 @@ In German, ordinal numbers are written with a **period (dot)** after the number:
 - Das ist der **dritte** Versuch. — This is the third attempt.
 - Sie wohnt im **vierten** Stock. — She lives on the fourth floor.
 
+
+---
+
+---
+
+## 📖 Related Lessons
+
+<div class="lesson-links">
+
+<a href="/a2/kursbuch/lektion-09/" class="lesson-btn">🔤 Lektion 9: Große und kleine Dinge — Big and Small Things</a>
+<a href="/a2/ubungsbuch/lektion-09/" class="lesson-btn">🔤 Exercises Lektion 9: Große und kleine Dinge (Big and Small Things)</a>
+
+</div>
 ---
 
 ## 📝 Exercises

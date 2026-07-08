@@ -159,3 +159,17 @@
 | abgemacht | متفق عليه |
 | spazieren gehen | يتمشى |
 | selten | نادراً |
+
+---
+
+## 📚 القواعد المرتبطة
+
+<div class="grammar-links">
+
+<a href="/grammatik/trennbare-verben/" class="grammar-btn">🇩🇪 🔤 Trennbare Verben (Trennbare Verben)</a>
+
+<a href="/grammatik/trennbar-untrennbar/" class="grammar-btn">🇩🇪 🔤 الأفعال المنفصلة وغير المنفصلة (الأفعال المنفصلة وغير المنفصلة)</a>
+
+<a href="/grammatik/zusammengesetzte-verben/" class="grammar-btn">🇩🇪 🔤 الأفعال المركبة (الأفعال المركبة)</a>
+
+</div>

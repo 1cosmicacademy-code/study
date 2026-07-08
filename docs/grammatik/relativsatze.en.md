@@ -141,6 +141,19 @@ In German, relative pronouns are almost the same as definite articles: **der, di
 </div>
 ---
 
+
+---
+
+---
+
+## 📖 Related Lessons
+
+<div class="lesson-links">
+
+<a href="/a2/kursbuch/lektion-20/" class="lesson-btn">🔤 Lektion 20: Erinnerungen und Wünsche — Memories & Wishes</a>
+<a href="/a2/ubungsbuch/lektion-20/" class="lesson-btn">🔤 Exercises Lektion 20: Erinnerungen und Wünsche (Memories and Wishes)</a>
+
+</div>
 ---
 
 💡 **Quick tip:** The hardest part of Relativsätze is determining the Case. Ask yourself: what's the role of the relative noun in the relative clause?

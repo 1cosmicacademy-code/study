@@ -44,6 +44,19 @@ The particles **doch**, **mal**, **ja**, **eben** are *modal particles* (Modalpa
 3. *Das Wetter ist ja schön.* — "The weather is indeed nice."
 4. *Er ist eben zu spät gekommen.* — "He arrived late, just like that."
 
+
+---
+
+---
+
+## 📖 Related Lessons
+
+<div class="lesson-links">
+
+<a href="/a2/kursbuch/lektion-16/" class="lesson-btn">🔤 Lektion 16: Sport und Ernährung — Sports & Nutrition</a>
+<a href="/a2/ubungsbuch/lektion-16/" class="lesson-btn">🔤 Exercises Lektion 16: Sport und Ernährung (Sports and Nutrition)</a>
+
+</div>
 ---
 
 ## 📝 Interactive Exercises

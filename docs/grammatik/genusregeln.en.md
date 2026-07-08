@@ -44,6 +44,18 @@ German nouns are masculine (der), feminine (die) or neuter (das). The gender is 
 - **das** Buch — the book (neut.) ✅
 - **die** Lehrerin — the female teacher (fem.) ⚠️ (note the suffix **-in** marks femininity).
 
+
+---
+
+---
+
+## 📖 Related Lessons
+
+<div class="lesson-links">
+
+📌 *This topic is not linked to specific lessons yet.*
+
+</div>
 ---
 
 ## 📝 Interactive Exercises

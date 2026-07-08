@@ -163,6 +163,27 @@ Er kommt, obwohl er krank ist.
 </div>
 ---
 
+
+---
+
+---
+
+## 📖 الدروس المرتبطة
+
+<div class="lesson-links">
+
+<a href="/a1/kursbuch/lektion-09/" class="lesson-btn">🇩🇪 🔤 Lektion 9: Termine</a>
+<a href="/a1/ubungsbuch/lektion-09/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 9: Termine</a>
+<a href="/a1/kursbuch/lektion-12/" class="lesson-btn">🇩🇪 🔤 Lektion 12: Ausbildung</a>
+<a href="/a1/ubungsbuch/lektion-12/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 12: Ausbildung</a>
+<a href="/a1/kursbuch/lektion-19/" class="lesson-btn">🇩🇪 🔤 Lektion 19: Reisen in Deutschland</a>
+<a href="/a1/ubungsbuch/lektion-19/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 19: Reisen in Deutschland</a>
+<a href="/a2/kursbuch/lektion-04/" class="lesson-btn">🇩🇪 🔤 Lektion 4: Wohnen und Nachbarn</a>
+<a href="/a2/ubungsbuch/lektion-04/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 4: Wohnen und Nachbarn</a>
+<a href="/a2/kursbuch/lektion-11/" class="lesson-btn">🇩🇪 🔤 Lektion 11: Information und Unterhaltung</a>
+<a href="/a2/ubungsbuch/lektion-11/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 11: Information und Unterhaltung</a>
+
+</div>
 ---
 
 💡 **نصيحة:** لتتذكر ترتيب الكلمات في Nebensatz، تذكر دائماً: **"الرابط يجيب الفعل لآخر الجملة"**. كل ما رأيت كلمة مثل dass, weil, wenn, obwohl — توقع الفعل في النهاية!

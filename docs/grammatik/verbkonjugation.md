@@ -89,7 +89,7 @@ haben: habe, hast, hat, haben, habt, haben
 | 3 | Er ___ (kommen) aus Syrien. | |
 | 4 | Wir ___ (arbeiten) hier. | |
 | 5 | Ihr ___ (spielen) Fußball. | |
-| 6 | Sie (جمع) ___ (tanzen) gern. | |
+| 6 | Sie ___ (tanzen) gern. | |
 </div>
 ✏️ **أكمل الفراغ بالكلمة الصحيحة:** اكتب كلمة واحدة فقط في كل خانة.
 
@@ -112,5 +112,28 @@ haben: habe, hast, hat, haben, habt, haben
 | 3 | Sie ___ (lesen) ein Buch. | |
 | 4 | Wir ___ (essen) Pizza. | |
 | 5 | Ich ___ (nehmen) den Bus. | |
+</div>
+
+---
+
+---
+
+## 📖 الدروس المرتبطة
+
+<div class="lesson-links">
+
+<a href="/a1/kursbuch/lektion-01/" class="lesson-btn">🇩🇪 🔤 Lektion 1: Hallo!</a>
+<a href="/a1/ubungsbuch/lektion-01/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 1: Hallo!</a>
+<a href="/a1/kursbuch/lektion-02/" class="lesson-btn">🇩🇪 🔤 Lektion 2: Berufe</a>
+<a href="/a1/ubungsbuch/lektion-02/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 2: Berufe</a>
+<a href="/a1/kursbuch/lektion-04/" class="lesson-btn">🇩🇪 🔤 Lektion 4: Familie!</a>
+<a href="/a1/ubungsbuch/lektion-04/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 4: Familie!</a>
+<a href="/a1/kursbuch/lektion-05/" class="lesson-btn">🇩🇪 🔤 Lektion 5: Alltag und Freizeit</a>
+<a href="/a1/ubungsbuch/lektion-05/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 5: Alltag und Freizeit</a>
+<a href="/a1/kursbuch/lektion-12/" class="lesson-btn">🇩🇪 🔤 Lektion 12: Ausbildung</a>
+<a href="/a1/ubungsbuch/lektion-12/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 12: Ausbildung</a>
+<a href="/a2/kursbuch/lektion-01/" class="lesson-btn">🇩🇪 🔤 Lektion 1: Unser neuer Weg</a>
+<a href="/a2/ubungsbuch/lektion-01/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 1: Unser neuer Weg</a>
+
 </div>
 ---

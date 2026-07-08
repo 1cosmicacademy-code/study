@@ -33,6 +33,18 @@ An instructional video explaining this grammar topic with practical examples.
 - **Nichts** ist hier. — Nothing is here.
 - **Ich habe nie** Deutsch gesprochen. — I have never spoken German.
 
+
+---
+
+---
+
+## 📖 Related Lessons
+
+<div class="lesson-links">
+
+📌 *This topic is not linked to specific lessons yet.*
+
+</div>
 ---
 
 ## 📝 Exercises

@@ -173,4 +173,18 @@ Verbinde:
 
 ---
 
+---
+
+## 📚 القواعد المرتبطة
+
+<div class="grammar-links">
+
+<a href="/grammatik/finalsaetze/" class="grammar-btn">🇩🇪 🔤 جمل الغرض (um...zu, damit) (جمل الغرض (um...zu, damit))</a>
+
+<a href="/grammatik/infinitiv-mit-zu/" class="grammar-btn">🇩🇪 🔤 المصدر مع zu (المصدر مع zu)</a>
+
+<a href="/grammatik/kausal-konzessivsatze/" class="grammar-btn">🇩🇪 🔤 und Konzessivsätze — جمل السبب والمنع (und Konzessivsätze — جمل السبب والمنع)</a>
+
+</div>
+
 > 💡 **نصيحة أخيرة:** العيش في WG تجربة رائعة لتعلم اللغة والثقافة الألمانية — جربها إذا سنحت لك الفرصة!

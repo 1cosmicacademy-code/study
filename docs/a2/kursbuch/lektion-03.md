@@ -193,4 +193,18 @@
 
 ---
 
+---
+
+## 📚 القواعد المرتبطة
+
+<div class="grammar-links">
+
+<a href="/grammatik/trennbare-verben/" class="grammar-btn">🇩🇪 🔤 Trennbare Verben (Trennbare Verben)</a>
+
+<a href="/grammatik/trennbar-untrennbar/" class="grammar-btn">🇩🇪 🔤 الأفعال المنفصلة وغير المنفصلة (الأفعال المنفصلة وغير المنفصلة)</a>
+
+<a href="/grammatik/zusammengesetzte-verben/" class="grammar-btn">🇩🇪 🔤 الأفعال المركبة (الأفعال المركبة)</a>
+
+</div>
+
 > 🎯 **هدف الدرس:** في نهاية هذا الدرس، ستكون قادراً على التحدث عن هواياتك ووقت فراغك، واستخدام الأفعال المنفصلة بشكل صحيح في الجمل.

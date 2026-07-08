@@ -173,4 +173,20 @@ Insert the correct form:
 
 ---
 
+
+
+---
+
+## 📚 Related Grammar
+
+<div class="grammar-links">
+
+<a href="/grammatik/artikel-interrogativ-demonstrativ/" class="grammar-btn">🔤 Interrogative and Demonstrative Articles (Artikel: interrogativ und demonstrativ)</a>
+
+<a href="/grammatik/prapositionen/" class="grammar-btn">🔤 Prepositions (Präpositionen)</a>
+
+<a href="/grammatik/temporale-praepositionen-2/" class="grammar-btn">🔤 Temporale Präpositionen (2)</a>
+
+</div>
+
 > 💡 **Final Tip:** Learning car vocabulary is very important if you plan to drive in Germany — the roads there are excellent!

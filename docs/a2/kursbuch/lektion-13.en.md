@@ -162,4 +162,18 @@ Form sentences with the following words:
 
 ---
 
+---
+
+## 📚 Related Grammar
+
+<div class="grammar-links">
+
+<a href="/grammatik/adjektive-als-nomen/" class="grammar-btn">🔤 Adjektive als Nomen</a>
+
+<a href="/grammatik/wortbildung/" class="grammar-btn">🔤 Wortbildung</a>
+
+<a href="/grammatik/komposita/" class="grammar-btn">🔤 Komposita</a>
+
+</div>
+
 > 💡 **Final Tip:** Teamwork is very important in German culture — try using these vocabulary words in your real projects!

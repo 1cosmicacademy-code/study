@@ -239,4 +239,20 @@ Meine Traumreise mit dem Auto geht durch Europa. Ich möchte mit meinen Freunden
 
 ---
 
+
+
+---
+
+## 📚 Related Grammar
+
+<div class="grammar-links">
+
+<a href="/grammatik/artikel-interrogativ-demonstrativ/" class="grammar-btn">🔤 Interrogative and Demonstrative Articles (Artikel: interrogativ und demonstrativ)</a>
+
+<a href="/grammatik/prapositionen/" class="grammar-btn">🔤 Prepositions (Präpositionen)</a>
+
+<a href="/grammatik/temporale-praepositionen-2/" class="grammar-btn">🔤 Temporale Präpositionen (2)</a>
+
+</div>
+
 > ✅ **Review lesson vocabulary:** das Auto (car), der Fahrer (driver), die Tankstelle (gas station), die Autobahn (highway), der Verkehr (traffic), die Straße (street), die Landkarte (map), die Reise (journey), das Benzin (petrol/gas), die Panne (breakdown) — and **grammar:** Demonstrativpronomen (dieser/diese/dieses) in Nominative, Accusative, Dative.

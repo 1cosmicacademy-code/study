@@ -36,6 +36,21 @@
 - لتكوين **Futur I** نضيف *werden* قبل الفعل في الشكل الأساسي.
 - لتكوين **Futur II** نضيف *werden* + الفعل في شكل الـPartizip II + *haben/sein*.
 
+
+---
+
+---
+
+## 📖 الدروس المرتبطة
+
+<div class="lesson-links">
+
+<a href="/a2/kursbuch/lektion-19/" class="lesson-btn">🇩🇪 🔤 Lektion 19: Unterwegs</a>
+<a href="/a2/ubungsbuch/lektion-19/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 19: Unterwegs</a>
+<a href="/a2/kursbuch/lektion-20/" class="lesson-btn">🇩🇪 🔤 Lektion 20: Erinnerungen und Wünsche</a>
+<a href="/a2/ubungsbuch/lektion-20/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 20: Erinnerungen und Wünsche</a>
+
+</div>
 ---
 
 ## 📝 تمارين تفاعلية

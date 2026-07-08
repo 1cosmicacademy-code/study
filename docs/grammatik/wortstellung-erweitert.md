@@ -215,6 +215,19 @@ TE — KA — MO — LO
 
 > التفاصيل الكاملة في موضوع [Temporal- und Lokalangaben](temporal-lokal-angaben.md).
 
+
+---
+
+---
+
+## 📖 الدروس المرتبطة
+
+<div class="lesson-links">
+
+<a href="/a2/kursbuch/lektion-12/" class="lesson-btn">🇩🇪 🔤 Lektion 12: In der Schule</a>
+<a href="/a2/ubungsbuch/lektion-12/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 12: In der Schule</a>
+
+</div>
 ---
 
 ## 6. 📝 تمارين

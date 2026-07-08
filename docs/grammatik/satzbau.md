@@ -129,4 +129,29 @@ Ja/Nein-Frage:     الفعل في الموضع 1
 | 4 | Geh nach Hause! → ___ | |
 | 5 | ... weil es regnet. → ___ | |
 </div>
+
+---
+
+---
+
+## 📖 الدروس المرتبطة
+
+<div class="lesson-links">
+
+<a href="/a1/kursbuch/lektion-01/" class="lesson-btn">🇩🇪 🔤 Lektion 1: Hallo!</a>
+<a href="/a1/ubungsbuch/lektion-01/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 1: Hallo!</a>
+<a href="/a1/kursbuch/lektion-06/" class="lesson-btn">🇩🇪 🔤 Lektion 6: Arbeitszeiten</a>
+<a href="/a1/ubungsbuch/lektion-06/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 6: Arbeitszeiten</a>
+<a href="/a1/kursbuch/lektion-09/" class="lesson-btn">🇩🇪 🔤 Lektion 9: Termine</a>
+<a href="/a1/ubungsbuch/lektion-09/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 9: Termine</a>
+<a href="/a1/kursbuch/lektion-12/" class="lesson-btn">🇩🇪 🔤 Lektion 12: Ausbildung</a>
+<a href="/a1/ubungsbuch/lektion-12/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 12: Ausbildung</a>
+<a href="/a1/kursbuch/lektion-16/" class="lesson-btn">🇩🇪 🔤 Lektion 16: Im Laden</a>
+<a href="/a1/ubungsbuch/lektion-16/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 16: Im Laden</a>
+<a href="/a1/kursbuch/lektion-17/" class="lesson-btn">🇩🇪 🔤 Lektion 17: Arbeit</a>
+<a href="/a1/ubungsbuch/lektion-17/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 17: Arbeit</a>
+<a href="/a2/kursbuch/lektion-12/" class="lesson-btn">🇩🇪 🔤 Lektion 12: In der Schule</a>
+<a href="/a2/ubungsbuch/lektion-12/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 12: In der Schule</a>
+
+</div>
 ---

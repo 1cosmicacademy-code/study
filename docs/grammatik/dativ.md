@@ -194,6 +194,27 @@ von den Frau-en-n → من النساء
 ### حل تمرين 5
 1. dem Mann (der → dem) | 2. dem Kind (den → dem) | 3. der Lehrerin (dem → der) | 4. dem Auto (der → dem) | 5. einem Jahr (einen → einem)
 
+
+---
+
+---
+
+## 📖 الدروس المرتبطة
+
+<div class="lesson-links">
+
+<a href="/a1/kursbuch/lektion-10/" class="lesson-btn">🇩🇪 🔤 Lektion 10: Bus und Bahn</a>
+<a href="/a1/ubungsbuch/lektion-10/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 10: Bus und Bahn</a>
+<a href="/a1/kursbuch/lektion-11/" class="lesson-btn">🇩🇪 🔤 Lektion 11: Wohnen</a>
+<a href="/a1/ubungsbuch/lektion-11/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 11: Wohnen</a>
+<a href="/a1/kursbuch/lektion-15/" class="lesson-btn">🇩🇪 🔤 Lektion 15: Wege in der Stadt</a>
+<a href="/a1/ubungsbuch/lektion-15/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 15: Wege in der Stadt</a>
+<a href="/a1/kursbuch/lektion-19/" class="lesson-btn">🇩🇪 🔤 Lektion 19: Reisen in Deutschland</a>
+<a href="/a1/ubungsbuch/lektion-19/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 19: Reisen in Deutschland</a>
+<a href="/a2/kursbuch/lektion-17/" class="lesson-btn">🇩🇪 🔤 Lektion 17: Geschäfte</a>
+<a href="/a2/ubungsbuch/lektion-17/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 17: Geschäfte</a>
+
+</div>
 ---
 
 💡 **نصيحة:** Dativ هو أكثر حالة تحتاج تركيز لأن استخداماته كثيرة. ابدأ بالأفعال اللي تأخذ Dativ فقط (helfen, danken, gefallen) — هذي أكثرها شيوعاً.

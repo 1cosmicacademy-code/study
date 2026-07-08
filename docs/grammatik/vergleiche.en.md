@@ -176,6 +176,23 @@ Two forms:
 </div>
 ---
 
+
+---
+
+---
+
+## 📖 Related Lessons
+
+<div class="lesson-links">
+
+<a href="/a1/kursbuch/lektion-19/" class="lesson-btn">🔤 Lektion 19: Reisen in Deutschland — Traveling in Germany</a>
+<a href="/a1/ubungsbuch/lektion-19/" class="lesson-btn">🔤 Exercises Lektion 19: Reisen in Deutschland</a>
+<a href="/a1/kursbuch/lektion-20/" class="lesson-btn">🔤 Lektion 20: Feste und Feiern — Holidays and Celebrations</a>
+<a href="/a1/ubungsbuch/lektion-20/" class="lesson-btn">🔤 Exercises Lektion 20: Feste und Feiern</a>
+<a href="/a2/kursbuch/lektion-09/" class="lesson-btn">🔤 Lektion 9: Große und kleine Dinge — Big and Small Things</a>
+<a href="/a2/ubungsbuch/lektion-09/" class="lesson-btn">🔤 Exercises Lektion 9: Große und kleine Dinge (Big and Small Things)</a>
+
+</div>
 ---
 
 💡 **Tip:** To remember the difference between wie and als: **wie = equality (so ... wie)** and **als = difference (...er als)**. Think of "als" as "else" — something else = different / more than.

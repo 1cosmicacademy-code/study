@@ -162,4 +162,20 @@
 
 ---
 
+---
+
+## 📚 Related Grammar
+
+<div class="grammar-links">
+
+<a href="/grammatik/perfekt/" class="grammar-btn">🔤 The Perfect Tense (Perfekt) in German</a>
+
+<a href="/grammatik/partizip-perfekt/" class="grammar-btn">🔤 Partizip Perfekt (Partizip 2)</a>
+
+<a href="/grammatik/temporal-lokal-angaben/" class="grammar-btn">🔤 Temporal</a>
+
+<a href="/grammatik/zeitengebrauch/" class="grammar-btn">🔤 Tense usage (Tempus)</a>
+
+</div>
+
 > 💡 **Homework:** Write a paragraph (40-50 words) about a vacation you took using the Perfect tense (Perfekt) with at least 5 verbs.

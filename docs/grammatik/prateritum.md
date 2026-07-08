@@ -243,6 +243,29 @@ Es ___ (sein) einmal ein kleiner Hund. Er ___ (haben) einen großen Knochen. Der
 
 ---
 
+
+---
+
+---
+
+## 📖 الدروس المرتبطة
+
+<div class="lesson-links">
+
+<a href="/a1/kursbuch/lektion-08/" class="lesson-btn">🇩🇪 🔤 Lektion 8: Party</a>
+<a href="/a1/ubungsbuch/lektion-08/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 8: Party</a>
+<a href="/a1/kursbuch/lektion-14/" class="lesson-btn">🇩🇪 🔤 Lektion 14: Krankschreibung</a>
+<a href="/a1/ubungsbuch/lektion-14/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 14: Krankschreibung</a>
+<a href="/a1/kursbuch/lektion-19/" class="lesson-btn">🇩🇪 🔤 Lektion 19: Reisen in Deutschland</a>
+<a href="/a1/ubungsbuch/lektion-19/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 19: Reisen in Deutschland</a>
+<a href="/a1/kursbuch/lektion-20/" class="lesson-btn">🇩🇪 🔤 Lektion 20: Feste und Feiern</a>
+<a href="/a1/ubungsbuch/lektion-20/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 20: Feste und Feiern</a>
+<a href="/a2/kursbuch/lektion-05/" class="lesson-btn">🇩🇪 🔤 Lektion 5: Mein neuer Job</a>
+<a href="/a2/ubungsbuch/lektion-05/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 5: Mein neuer Job</a>
+<a href="/a2/kursbuch/lektion-20/" class="lesson-btn">🇩🇪 🔤 Lektion 20: Erinnerungen und Wünsche</a>
+<a href="/a2/ubungsbuch/lektion-20/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 20: Erinnerungen und Wünsche</a>
+
+</div>
 ---
 
 💡 **نصيحة:** أسهل طريقة للدخول في Prateritum — ابدأ بـ **war** و **hatte** فقط. هاتين الكلمتين تستخدمهما الألمانية كل يوم. بعدها أضف الأفعال الناقصة (konnte, musste, wollte). للكتابة والسرد فقط تحتاج باقي الأفعال.

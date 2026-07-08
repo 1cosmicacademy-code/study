@@ -171,4 +171,24 @@
 
 ---
 
+---
+
+## 📚 Related Grammar
+
+<div class="grammar-links">
+
+<a href="/grammatik/temporale-nebensaatze/" class="grammar-btn">🔤 Temporal Subordinate Clauses</a>
+
+<a href="/grammatik/plusquamperfekt/" class="grammar-btn">🔤 Plusquamperfekt</a>
+
+<a href="/grammatik/doppelkonnektoren/" class="grammar-btn">🔤 Doppelkonnektoren</a>
+
+<a href="/grammatik/relativsatze/" class="grammar-btn">🔤 Relative Clauses (Relativsätze) in German</a>
+
+<a href="/grammatik/prateritum/" class="grammar-btn">🔤 The Simple Past (Prateritum) in German</a>
+
+<a href="/grammatik/zeitengebrauch/" class="grammar-btn">🔤 Tense usage (Tempus)</a>
+
+</div>
+
 > 💡 **Homework:** Write a paragraph (50-60 words) about your childhood memories. Use "als" in at least 3 sentences and talk about your wishes for the future.

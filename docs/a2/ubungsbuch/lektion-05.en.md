@@ -187,3 +187,17 @@
 | der Ruf | the reputation |
 | die Branche, -n | the industry / sector |
 | die Leidenschaft | the passion |
+
+---
+
+## 📚 Related Grammar
+
+<div class="grammar-links">
+
+<a href="/grammatik/prateritum/" class="grammar-btn">🔤 The Simple Past (Prateritum) in German</a>
+
+<a href="/grammatik/modalverben/" class="grammar-btn">🔤 Modal Verbs (Modalverben) in German</a>
+
+<a href="/grammatik/verben-mit-akkusativ-dativ/" class="grammar-btn">🔤 Verbs with Accusative and Dative</a>
+
+</div>

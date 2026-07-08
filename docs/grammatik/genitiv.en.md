@@ -181,6 +181,19 @@ In spoken (informal) German, people often use **von + Dative** instead of the Ge
 </div>
 ---
 
+
+---
+
+---
+
+## 📖 Related Lessons
+
+<div class="lesson-links">
+
+<a href="/a2/kursbuch/lektion-17/" class="lesson-btn">🔤 Lektion 17: Geschäfte — Shops & Shopping</a>
+<a href="/a2/ubungsbuch/lektion-17/" class="lesson-btn">🔤 Exercises Lektion 17: Geschäfte (Shops and Shopping)</a>
+
+</div>
 ---
 
 💡 **Tip:** The Genitive is rarely used in everyday speech (people use von + Dative instead). However, it is very important in **formal writing** and exams. Memorize the prepositions (wegen, trotz, wahrend, statt) first.

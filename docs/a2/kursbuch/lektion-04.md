@@ -198,4 +198,18 @@
 
 ---
 
+---
+
+## 📚 القواعد المرتبطة
+
+<div class="grammar-links">
+
+<a href="/grammatik/nebensatze/" class="grammar-btn">🇩🇪 🔤 Nebensatze (Nebensatze)</a>
+
+<a href="/grammatik/temporale-nebensaatze/" class="grammar-btn">🇩🇪 🔤 الجمل الزمنية الثانية (الجمل الزمنية الثانية)</a>
+
+<a href="/grammatik/lokale-praepositionen/" class="grammar-btn">🇩🇪 🔤 حروف الجر المكانية (wo?, wohin?, woher?) (حروف الجر المكانية (wo?, wohin?, woher?))</a>
+
+</div>
+
 > 🎯 **هدف الدرس:** في نهاية هذا الدرس، ستكون قادراً على وصف سكنك وجيرانك، واستخدام جمل `wenn` الشرطية بشكل صحيح.

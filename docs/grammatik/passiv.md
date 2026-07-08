@@ -158,6 +158,21 @@
 </div>
 ---
 
+
+---
+
+---
+
+## 📖 الدروس المرتبطة
+
+<div class="lesson-links">
+
+<a href="/a1/kursbuch/lektion-18/" class="lesson-btn">🇩🇪 🔤 Lektion 18: Beim Amt</a>
+<a href="/a1/ubungsbuch/lektion-18/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 18: Beim Amt</a>
+<a href="/a2/kursbuch/lektion-08/" class="lesson-btn">🇩🇪 🔤 Lektion 8: Sicherheit am Arbeitsplatz</a>
+<a href="/a2/ubungsbuch/lektion-08/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 8: Sicherheit am Arbeitsplatz</a>
+
+</div>
 ---
 
 💡 **نصيحة سريعة:** الفرق بين Aktiv و Passiv هو التركيز. Aktiv = الفاعل مهم. Passiv = الفعل (أو النتيجة) مهم. في الامتحانات، أشهر سؤال هو تحويل Aktiv → Passiv. اتبع الخطوات الأربع فوق وستنجح!

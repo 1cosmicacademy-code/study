@@ -151,4 +151,20 @@
 > - **Possibility (50%):** Das könnte so sein. (That could be true)
 > - **Uncertain (20%):** Das könnte vielleicht so sein. (That might be true)
 
+---
+
+## 📚 Related Grammar
+
+<div class="grammar-links">
+
+<a href="/grammatik/modalverben/" class="grammar-btn">🔤 Modal Verbs (Modalverben) in German</a>
+
+<a href="/grammatik/konjunktiv-2/" class="grammar-btn">🔤 Subjunctive 2 (Konjunktiv II) in German</a>
+
+<a href="/grammatik/funktionen-von-werden/" class="grammar-btn">🔤 Funktionen von werden</a>
+
+<a href="/grammatik/prateritum-modalverben/" class="grammar-btn">🔤 Präteritum of Modal Verbs</a>
+
+</div>
+
 > 🎯 **Review:** New vocabulary — das Konto (account), die Bank (bank), der Automat (ATM), der Zinssatz (interest rate), die Anlage (investment), die Ausgabe (expense), die Einnahme (income), sparen (to save), ausgeben (to spend), einzahlen (to deposit), abheben (to withdraw), überweisen (to transfer)

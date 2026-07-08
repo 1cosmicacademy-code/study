@@ -72,6 +72,21 @@ An instructional video explaining this grammar topic with practical examples.
 | 3 | Ich schenke ___ (das Kind). |
 </div>
 
+
+---
+
+---
+
+## 📖 Related Lessons
+
+<div class="lesson-links">
+
+<a href="/a2/kursbuch/lektion-02/" class="lesson-btn">🔤 Lektion 2: Arbeiten und Lernen — Work and Learning</a>
+<a href="/a2/ubungsbuch/lektion-02/" class="lesson-btn">🔤 Exercises Lektion 2: Arbeiten und Lernen (Work and Learning)</a>
+<a href="/a2/kursbuch/lektion-05/" class="lesson-btn">🔤 Lektion 5: Mein neuer Job — My New Job</a>
+<a href="/a2/ubungsbuch/lektion-05/" class="lesson-btn">🔤 Exercises Lektion 5: Mein neuer Job (My New Job)</a>
+
+</div>
 ---
 
 ## ✅ Summary

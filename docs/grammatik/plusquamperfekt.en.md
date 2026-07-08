@@ -52,6 +52,19 @@ The Past Perfect (Plusquamperfekt) is built with:
 | Er **hatte** das Haus **gebaut**. | He had built the house. |
 | Du **warst** beim Arzt **gewesen**. | You had been at the doctor. |
 
+
+---
+
+---
+
+## 📖 Related Lessons
+
+<div class="lesson-links">
+
+<a href="/a2/kursbuch/lektion-20/" class="lesson-btn">🔤 Lektion 20: Erinnerungen und Wünsche — Memories & Wishes</a>
+<a href="/a2/ubungsbuch/lektion-20/" class="lesson-btn">🔤 Exercises Lektion 20: Erinnerungen und Wünsche (Memories and Wishes)</a>
+
+</div>
 ---
 
 ## 📝 Exercises

@@ -202,6 +202,19 @@ Es regnet,        trotzdem   gehen  wir spazieren.
 | **Obwohl** es kalt ist, geht sie ohne Jacke raus. | على الرغم من أن الجو بارد، تخرج بدون جاكيت. |
 | Das Hotel war teuer, **trotzdem** haben wir gebucht. | الفندق كان غالياً، رغم ذلك حجزنا. |
 
+
+---
+
+---
+
+## 📖 الدروس المرتبطة
+
+<div class="lesson-links">
+
+<a href="/a2/kursbuch/lektion-14/" class="lesson-btn">🇩🇪 🔤 Lektion 14: Zusammenleben</a>
+<a href="/a2/ubungsbuch/lektion-14/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 14: Zusammenleben</a>
+
+</div>
 ---
 
 ## 5. 📝 تمارين

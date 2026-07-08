@@ -91,6 +91,18 @@ Some German prepositions always take the **Genitive** case. The noun following t
 | 4 | statt __________ (das Kind) | statt dem Kind |
 </div>
 
+
+---
+
+---
+
+## 📖 Related Lessons
+
+<div class="lesson-links">
+
+📌 *This topic is not linked to specific lessons yet.*
+
+</div>
 ---
 
 💡 **Tip:** In exams (e.g., Goethe-Zertifikat), use the formal Genitiv. In everyday conversation, Dativ is accepted and understood.

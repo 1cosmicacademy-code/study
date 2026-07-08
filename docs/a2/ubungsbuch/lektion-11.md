@@ -186,4 +186,22 @@ Ich habe gestern im Radio eine interessante Nachricht gehört. Die Nachricht sag
 
 ---
 
+
+
+---
+
+## 📚 القواعد المرتبطة
+
+<div class="grammar-links">
+
+<a href="/grammatik/nebensatze/" class="grammar-btn">🇩🇪 🔤 Nebensatze (Nebensatze)</a>
+
+<a href="/grammatik/hauptsaetze-verbinden/" class="grammar-btn">🇩🇪 🔤 ربط الجمل الرئيسية (Konjunktionen) (ربط الجمل الرئيسية (Konjunktionen))</a>
+
+<a href="/grammatik/indirekte-fragen/" class="grammar-btn">🇩🇪 🔤 Indirekte Fragen (Indirekte Fragen)</a>
+
+<a href="/grammatik/adverbien/" class="grammar-btn">🇩🇪 🔤 Adverbien (Adverbien)</a>
+
+</div>
+
 > ✅ **راجع مفردات الدرس:** die Nachrichten, das Fernsehen, die Zeitung, das Internet, die Sendung, der Bericht, die Zeitschrift, der Zuschauer, die Nachricht — und القواعد: dass-Sätze, ob-Sätze.

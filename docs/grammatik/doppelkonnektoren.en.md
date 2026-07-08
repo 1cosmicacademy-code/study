@@ -36,6 +36,19 @@ A double conjunction consists of two parts that must appear together in the corr
 - **entweder du kommst, oder du schickst eine Nachricht.**
 - **weder das Wetter noch die Stimmung** war gut.
 
+
+---
+
+---
+
+## 📖 Related Lessons
+
+<div class="lesson-links">
+
+<a href="/a2/kursbuch/lektion-20/" class="lesson-btn">🔤 Lektion 20: Erinnerungen und Wünsche — Memories & Wishes</a>
+<a href="/a2/ubungsbuch/lektion-20/" class="lesson-btn">🔤 Exercises Lektion 20: Erinnerungen und Wünsche (Memories and Wishes)</a>
+
+</div>
 ---
 
 ## 📝 Interactive Exercises

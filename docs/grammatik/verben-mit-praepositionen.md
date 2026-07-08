@@ -41,6 +41,18 @@
 - **Sie spricht **mit** der Lehrerin.** — She talks with the teacher.
 - **Ich interessiere mich **für** Kunst.** — I am interested in art.
 
+
+---
+
+---
+
+## 📖 الدروس المرتبطة
+
+<div class="lesson-links">
+
+📌 *هذه القاعدة غير مرتبطة بدروس محددة حالياً.*
+
+</div>
 ---
 
 ## 📝 تمارين تفاعلية

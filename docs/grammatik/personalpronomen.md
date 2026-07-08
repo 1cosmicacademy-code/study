@@ -104,4 +104,21 @@ Sie → حضرتك (رسمي — بحرف كبير!)
 | 4 | Zur Kollegin (رسمي): "Kommen ___ morgen?" | |
 | 5 | Zur Gruppe Freunde: "___ seid cool!" | |
 </div>
+
+---
+
+---
+
+## 📖 الدروس المرتبطة
+
+<div class="lesson-links">
+
+<a href="/a1/kursbuch/lektion-01/" class="lesson-btn">🇩🇪 🔤 Lektion 1: Hallo!</a>
+<a href="/a1/ubungsbuch/lektion-01/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 1: Hallo!</a>
+<a href="/a1/kursbuch/lektion-04/" class="lesson-btn">🇩🇪 🔤 Lektion 4: Familie!</a>
+<a href="/a1/ubungsbuch/lektion-04/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 4: Familie!</a>
+<a href="/a1/kursbuch/lektion-13/" class="lesson-btn">🇩🇪 🔤 Lektion 13: Beim Arzt</a>
+<a href="/a1/ubungsbuch/lektion-13/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 13: Beim Arzt</a>
+
+</div>
 ---

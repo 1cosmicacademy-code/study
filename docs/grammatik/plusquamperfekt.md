@@ -49,6 +49,19 @@
 | Er **hatte** das Haus **gebaut**. | هو كان قد بنى المنزل. |
 | Du **warst** beim Arzt **gewesen**. | كنت قد كنت في الطبيب. |
 
+
+---
+
+---
+
+## 📖 الدروس المرتبطة
+
+<div class="lesson-links">
+
+<a href="/a2/kursbuch/lektion-20/" class="lesson-btn">🇩🇪 🔤 Lektion 20: Erinnerungen und Wünsche</a>
+<a href="/a2/ubungsbuch/lektion-20/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 20: Erinnerungen und Wünsche</a>
+
+</div>
 ---
 
 ## 📝 ت%D9%85%D8%A7%D8%B1%D9%8A%D9%86 ت%D9%81%D8%A7%D8%B9%D9%84%D9%8Aة

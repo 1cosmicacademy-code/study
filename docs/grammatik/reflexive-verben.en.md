@@ -168,6 +168,19 @@ When a verb has a direct object (Akkusativ-Objekt) in addition to the reflexive 
 </div>
 ---
 
+
+---
+
+---
+
+## 📖 Related Lessons
+
+<div class="lesson-links">
+
+<a href="/a2/kursbuch/lektion-02/" class="lesson-btn">🔤 Lektion 2: Arbeiten und Lernen — Work and Learning</a>
+<a href="/a2/ubungsbuch/lektion-02/" class="lesson-btn">🔤 Exercises Lektion 2: Arbeiten und Lernen (Work and Learning)</a>
+
+</div>
 ---
 
 💡 **Tip:** The easiest way to learn reflexive verbs — memorize the reflexive pronoun together with the verb! For example, learn **sich freuen** (not just freuen). Some verbs are reflexive in German but not in English/Arabic.

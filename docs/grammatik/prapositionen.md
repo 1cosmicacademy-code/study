@@ -194,6 +194,23 @@
 </div>
 ---
 
+
+---
+
+---
+
+## 📖 الدروس المرتبطة
+
+<div class="lesson-links">
+
+<a href="/a1/kursbuch/lektion-10/" class="lesson-btn">🇩🇪 🔤 Lektion 10: Bus und Bahn</a>
+<a href="/a1/ubungsbuch/lektion-10/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 10: Bus und Bahn</a>
+<a href="/a1/kursbuch/lektion-11/" class="lesson-btn">🇩🇪 🔤 Lektion 11: Wohnen</a>
+<a href="/a1/ubungsbuch/lektion-11/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 11: Wohnen</a>
+<a href="/a1/kursbuch/lektion-15/" class="lesson-btn">🇩🇪 🔤 Lektion 15: Wege in der Stadt</a>
+<a href="/a1/ubungsbuch/lektion-15/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 15: Wege in der Stadt</a>
+
+</div>
 ---
 
 💡 **نصيحة:** لتتذكر Wechselpräpositionen، اسأل نفسك: **Wo? (Dativ)** أم **Wohin? (Akkusativ)** ؟

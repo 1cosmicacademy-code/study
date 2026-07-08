@@ -181,6 +181,19 @@ Die Tasche der Frau ist neu.
 </div>
 ---
 
+
+---
+
+---
+
+## 📖 الدروس المرتبطة
+
+<div class="lesson-links">
+
+<a href="/a2/kursbuch/lektion-17/" class="lesson-btn">🇩🇪 🔤 Lektion 17: Geschäfte</a>
+<a href="/a2/ubungsbuch/lektion-17/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 17: Geschäfte</a>
+
+</div>
 ---
 
 💡 **نصيحة:** Genitiv قليل الاستخدام في الكلام اليومي (الناس تستخدم von + Dativ). لكنه جداً مهم في **الكتابة الرسمية** والامتحانات. احفظ حروف الجر (wegen, trotz, wahrend, statt) أولاً.

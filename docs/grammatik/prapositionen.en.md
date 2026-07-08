@@ -194,6 +194,23 @@ These prepositions **take Dative or Accusative** depending on the meaning!
 </div>
 ---
 
+
+---
+
+---
+
+## 📖 Related Lessons
+
+<div class="lesson-links">
+
+<a href="/a1/kursbuch/lektion-10/" class="lesson-btn">🔤 Lektion 10: Bus und Bahn — Bus and Train</a>
+<a href="/a1/ubungsbuch/lektion-10/" class="lesson-btn">🔤 Exercises Lektion 10: Bus und Bahn</a>
+<a href="/a1/kursbuch/lektion-11/" class="lesson-btn">🔤 Lektion 11: Wohnen — Living (Location Prepositions)</a>
+<a href="/a1/ubungsbuch/lektion-11/" class="lesson-btn">🔤 Exercises Lektion 11: Wohnen</a>
+<a href="/a1/kursbuch/lektion-15/" class="lesson-btn">🔤 Lektion 15: Wege in der Stadt — Ways in the City (Directions)</a>
+<a href="/a1/ubungsbuch/lektion-15/" class="lesson-btn">🔤 Exercises Lektion 15: Wege in der Stadt</a>
+
+</div>
 ---
 
 💡 **Tip:** To remember Wechselpräpositionen, ask yourself: **Wo? (Dative)** or **Wohin? (Accusative)**?

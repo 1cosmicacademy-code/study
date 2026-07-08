@@ -179,4 +179,20 @@ Which subject matches which verb?
 
 ---
 
+## 📚 Related Grammar
+
+<div class="grammar-links">
+
+<a href="/grammatik/satzbau/" class="grammar-btn">🔤 Sentence Structure (Satzbau) in German</a>
+
+<a href="/grammatik/wortstellung-erweitert/" class="grammar-btn">🔤 Wortstellung im Satz (erweitert)</a>
+
+<a href="/grammatik/adverbien/" class="grammar-btn">🔤 Adverbs (Adverbien) in German</a>
+
+<a href="/grammatik/fragen-bilden/" class="grammar-btn">🔤 Forming Questions</a>
+
+</div>
+
+---
+
 > 💡 **Final Tip:** Practice describing pictures — this exercise is very important for the A2 level exam!

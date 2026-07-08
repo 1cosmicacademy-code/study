@@ -193,4 +193,18 @@ Choose the correct sentence:
 
 ---
 
+---
+
+## 📚 Related Grammar
+
+<div class="grammar-links">
+
+<a href="/grammatik/trennbare-verben/" class="grammar-btn">🔤 Separable Verbs (Trennbare Verben) in German</a>
+
+<a href="/grammatik/trennbar-untrennbar/" class="grammar-btn">🔤 Trennbare und untrennbare Verben</a>
+
+<a href="/grammatik/zusammengesetzte-verben/" class="grammar-btn">🔤 Compound Verbs</a>
+
+</div>
+
 > 🎯 **Lesson goal:** By the end of this lesson, you will be able to talk about your hobbies and free time, and use separable prefix verbs correctly in sentences.

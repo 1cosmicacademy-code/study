@@ -183,4 +183,18 @@ Mein Kollege / Meine Kollegin ist _____, _____ und _____.
 
 ---
 
+---
+
+## 📚 Related Grammar
+
+<div class="grammar-links">
+
+<a href="/grammatik/adjektivdeklination/" class="grammar-btn">🔤 Adjective Declension (Adjektivdeklination) in German</a>
+
+<a href="/grammatik/reflexive-verben/" class="grammar-btn">🔤 Reflexive Verbs (Reflexive Verben) in German</a>
+
+<a href="/grammatik/verben-mit-akkusativ-dativ/" class="grammar-btn">🔤 Verbs with Accusative and Dative</a>
+
+</div>
+
 > 🎯 **Lesson goal:** By the end of this lesson, you will be able to talk about professions and qualities, use adjective endings correctly, and hold a simple conversation about work.

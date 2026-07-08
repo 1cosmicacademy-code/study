@@ -211,4 +211,18 @@ Ein idealer Mitbewohner sollte freundlich und sauber sein. Das Wichtigste ist, d
 
 ---
 
+---
+
+## 📚 القواعد المرتبطة
+
+<div class="grammar-links">
+
+<a href="/grammatik/finalsaetze/" class="grammar-btn">🇩🇪 🔤 جمل الغرض (um...zu, damit) (جمل الغرض (um...zu, damit))</a>
+
+<a href="/grammatik/infinitiv-mit-zu/" class="grammar-btn">🇩🇪 🔤 المصدر مع zu (المصدر مع zu)</a>
+
+<a href="/grammatik/kausal-konzessivsatze/" class="grammar-btn">🇩🇪 🔤 und Konzessivsätze — جمل السبب والمنع (und Konzessivsätze — جمل السبب والمنع)</a>
+
+</div>
+
 > ✅ **راجع مفردات الدرس:** der Mitbewohner, die WG, die Wohnung, das Zimmer, die Miete, die Nebenkosten, der Putzplan, die Hausarbeit, die Ruhe, der Lärm — و **القواعد:** um...zu + Infinitiv, damit + Nebensatz.

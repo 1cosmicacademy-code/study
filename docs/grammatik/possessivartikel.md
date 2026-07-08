@@ -98,4 +98,17 @@
 | 4 | (Ihr / Ihre) (her) Kind spielt. | |
 | 5 | (Unser / Unsere) Eltern sind zu Hause. | |
 </div>
+
+---
+
+---
+
+## 📖 الدروس المرتبطة
+
+<div class="lesson-links">
+
+<a href="/a1/kursbuch/lektion-04/" class="lesson-btn">🇩🇪 🔤 Lektion 4: Familie!</a>
+<a href="/a1/ubungsbuch/lektion-04/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 4: Familie!</a>
+
+</div>
 ---

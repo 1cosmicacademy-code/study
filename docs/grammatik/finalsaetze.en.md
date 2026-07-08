@@ -41,6 +41,19 @@ An instructional video explaining this grammar topic with practical examples.
 - **damit**
   - Ich lerne Deutsch, **damit** ich in Berlin arbeiten kann.
 
+
+---
+
+---
+
+## 📖 Related Lessons
+
+<div class="lesson-links">
+
+<a href="/a2/kursbuch/lektion-14/" class="lesson-btn">🔤 Lektion 14: Zusammenleben — Living Together</a>
+<a href="/a2/ubungsbuch/lektion-14/" class="lesson-btn">🔤 Exercises Lektion 14: Zusammenleben (Living Together)</a>
+
+</div>
 ---
 
 ## 📝 Interactive Exercises

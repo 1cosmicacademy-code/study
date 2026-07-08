@@ -239,4 +239,18 @@ Fill in the correct verb form:
 
 ---
 
+---
+
+## 📚 Related Grammar
+
+<div class="grammar-links">
+
+<a href="/grammatik/verbkonjugation/" class="grammar-btn">🔤 Verb Conjugation in Present Tense (Verbkonjugation</a>
+
+<a href="/grammatik/trennbare-verben/" class="grammar-btn">🔤 Separable Verbs (Trennbare Verben) in German</a>
+
+<a href="/grammatik/positions-direktionsverben/" class="grammar-btn">🔤 Positions and Directional Verbs</a>
+
+</div>
+
 > 🎯 **Lesson goal:** By the end of this lesson, you will be able to introduce yourself in detail, ask for directions, and conjugate basic verbs in the present tense.

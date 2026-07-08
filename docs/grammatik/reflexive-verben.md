@@ -168,6 +168,19 @@ Sie zieht das Kind an. (غير انعكاسي — هي تلبس الطفل)
 </div>
 ---
 
+
+---
+
+---
+
+## 📖 الدروس المرتبطة
+
+<div class="lesson-links">
+
+<a href="/a2/kursbuch/lektion-02/" class="lesson-btn">🇩🇪 🔤 Lektion 2: Arbeiten und Lernen</a>
+<a href="/a2/ubungsbuch/lektion-02/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 2: Arbeiten und Lernen</a>
+
+</div>
 ---
 
 💡 **نصيحة:** أسهل طريقة لتعلم الأفعال الانعكاسية — احفظ الضمير الانعكاسي مع الفعل نفسه! مثلاً **sich freuen** (وليس freuen فقط). لأن بعض الأفعال تكون انعكاسية في الألمانية وغير انعكاسية في العربية.

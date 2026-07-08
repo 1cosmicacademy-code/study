@@ -187,4 +187,24 @@
 
 ---
 
+---
+
+## 📚 القواعد المرتبطة
+
+<div class="grammar-links">
+
+<a href="/grammatik/temporale-nebensaatze/" class="grammar-btn">🇩🇪 🔤 الجمل الزمنية الثانية (الجمل الزمنية الثانية)</a>
+
+<a href="/grammatik/plusquamperfekt/" class="grammar-btn">🇩🇪 🔤 الماضي التام (Plusquamperfekt) (الماضي التام (Plusquamperfekt))</a>
+
+<a href="/grammatik/doppelkonnektoren/" class="grammar-btn">🇩🇪 🔤 أدات الربط المزدوجة (أدات الربط المزدوجة)</a>
+
+<a href="/grammatik/relativsatze/" class="grammar-btn">🇩🇪 🔤 Relativsatze (Relativsatze)</a>
+
+<a href="/grammatik/prateritum/" class="grammar-btn">🇩🇪 🔤 Prateritum (Prateritum)</a>
+
+<a href="/grammatik/zeitengebrauch/" class="grammar-btn">🇩🇪 🔤 استخدام الأزمنة (A2) (استخدام الأزمنة (A2))</a>
+
+</div>
+
 > 💡 **Hausaufgabe:** اكتب فقرة (50-60 كلمة) عن ذكريات طفولتك. استخدم "als" في 3 جمل على الأقل وتحدث عن أمنياتك للمستقبل.

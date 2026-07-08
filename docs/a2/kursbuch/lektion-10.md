@@ -169,6 +169,20 @@
 
 ---
 
+
+
+---
+
+## 📚 القواعد المرتبطة
+
+<div class="grammar-links">
+
+<a href="/grammatik/prateritum-modalverben/" class="grammar-btn">🇩🇪 🔤 الماضي البسيط للأفعال الناقصة (الماضي البسيط للأفعال الناقصة)</a>
+<a href="/grammatik/lokale-adverbien/" class="grammar-btn">🇩🇪 🔤 الظروف المكانية (الظروف المكانية)</a>
+<a href="/grammatik/lokale-praepositionen/" class="grammar-btn">🇩🇪 🔤 حروف الجر المكانية (wo?, wohin?, woher?) (حروف الجر المكانية (wo?, wohin?, woher?))</a>
+
+</div>
+
 > 💡 **نصيحة أخيرة:** السؤال عن الاتجاهات من أهم المهارات العملية في الألمانية! تذكر دائماً:
 > 1. ابدأ بـ **Entschuldigung** (عفواً)
 > 2. استخدم **Präteritum** مع Modalverben (konnte, musste, wollte)

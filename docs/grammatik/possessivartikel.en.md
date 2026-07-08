@@ -98,4 +98,17 @@ But: euer → eure (the e drops)
 | 4 | (Ihr / Ihre) (her) child plays. | |
 | 5 | (Unser / Unsere) parents are at home. | |
 </div>
+
+---
+
+---
+
+## 📖 Related Lessons
+
+<div class="lesson-links">
+
+<a href="/a1/kursbuch/lektion-04/" class="lesson-btn">🔤 Lektion 4: Familie! — Family and Possessive Articles</a>
+<a href="/a1/ubungsbuch/lektion-04/" class="lesson-btn">🔤 Exercises Lektion 4: Familie!</a>
+
+</div>
 ---

@@ -179,4 +179,20 @@ Welches Fach passt zu welchem Verb؟
 
 ---
 
+## 📚 القواعد المرتبطة
+
+<div class="grammar-links">
+
+<a href="/grammatik/satzbau/" class="grammar-btn">🇩🇪 🔤 Satzbau (Satzbau)</a>
+
+<a href="/grammatik/wortstellung-erweitert/" class="grammar-btn">🇩🇪 🔤 ترتيب الكلمات المتقدم (ترتيب الكلمات المتقدم)</a>
+
+<a href="/grammatik/adverbien/" class="grammar-btn">🇩🇪 🔤 Adverbien (Adverbien)</a>
+
+<a href="/grammatik/fragen-bilden/" class="grammar-btn">🇩🇪 🔤 تكوين الأسئلة (تكوين الأسئلة)</a>
+
+</div>
+
+---
+
 > 💡 **نصيحة أخيرة:** تدرب على وصف الصور — هذا التمرين مهم جداً لامتحان المستوى A2!

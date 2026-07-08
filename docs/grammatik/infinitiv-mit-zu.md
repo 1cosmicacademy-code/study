@@ -30,6 +30,19 @@
 - **Die Möglichkeit, mehr zu verdienen, ist attraktiv.** — الفرصة لكسب المزيد جذابة.
 - **Der Versuch, das Problem zu lösen, war erfolgreich.** — المحاولة لحل المشكلة نجحت.
 
+
+---
+
+---
+
+## 📖 الدروس المرتبطة
+
+<div class="lesson-links">
+
+<a href="/a2/kursbuch/lektion-14/" class="lesson-btn">🇩🇪 🔤 Lektion 14: Zusammenleben</a>
+<a href="/a2/ubungsbuch/lektion-14/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 14: Zusammenleben</a>
+
+</div>
 ---
 
 ### تمارين تفاعلية

@@ -172,6 +172,18 @@ In German, we often use **Präsens** with a time adverb for the future instead o
 </div>
 ---
 
+
+---
+
+---
+
+## 📖 Related Lessons
+
+<div class="lesson-links">
+
+📌 *This topic is not linked to specific lessons yet.*
+
+</div>
 ---
 
 💡 **Tip:** At first, use **Präsens + time adverb** for the future (like morgen, nächstes Jahr). This is very common in everyday German. Use Futur I when you want to emphasize an intention, make a prediction, or give a promise. For example: **"Ich rufe dich morgen an."** (Präsens) vs. **"Ich werde dich anrufen, versprochen!"** (Futur I + promise).

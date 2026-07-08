@@ -44,6 +44,19 @@ The verb **werden** can serve four distinct grammatical functions in German. It 
 3. *Wir **werden** morgen fahren.* — "We will travel tomorrow."
 4. *Der Fluss **wird** breiter.* — "The river will become wider."
 
+
+---
+
+---
+
+## 📖 Related Lessons
+
+<div class="lesson-links">
+
+<a href="/a2/kursbuch/lektion-18/" class="lesson-btn">🔤 Lektion 18: Alles über Geld — All About Money</a>
+<a href="/a2/ubungsbuch/lektion-18/" class="lesson-btn">🔤 Exercises Lektion 18: Alles über Geld (Everything About Money)</a>
+
+</div>
 ---
 
 ## ✏️ Interactive Exercises

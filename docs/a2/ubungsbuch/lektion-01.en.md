@@ -165,3 +165,17 @@
 | herzlich | cordial / heartfelt |
 | zufrieden | satisfied |
 | die Freizeit | free time |
+
+---
+
+## 📚 Related Grammar
+
+<div class="grammar-links">
+
+<a href="/grammatik/verbkonjugation/" class="grammar-btn">🔤 Verb Conjugation in Present Tense (Verbkonjugation</a>
+
+<a href="/grammatik/trennbare-verben/" class="grammar-btn">🔤 Separable Verbs (Trennbare Verben) in German</a>
+
+<a href="/grammatik/positions-direktionsverben/" class="grammar-btn">🔤 Positions and Directional Verbs</a>
+
+</div>

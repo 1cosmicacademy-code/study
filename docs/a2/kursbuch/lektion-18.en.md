@@ -160,4 +160,20 @@
 
 ---
 
+---
+
+## 📚 Related Grammar
+
+<div class="grammar-links">
+
+<a href="/grammatik/modalverben/" class="grammar-btn">🔤 Modal Verbs (Modalverben) in German</a>
+
+<a href="/grammatik/konjunktiv-2/" class="grammar-btn">🔤 Subjunctive 2 (Konjunktiv II) in German</a>
+
+<a href="/grammatik/funktionen-von-werden/" class="grammar-btn">🔤 Funktionen von werden</a>
+
+<a href="/grammatik/prateritum-modalverben/" class="grammar-btn">🔤 Präteritum of Modal Verbs</a>
+
+</div>
+
 > 💡 **Homework:** Write 5 sentences expressing assumptions (Vermutungen) about the prices of different things using "wird" and "könnte".

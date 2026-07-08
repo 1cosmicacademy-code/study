@@ -134,6 +134,39 @@
 </div>
 ---
 
+
+---
+
+---
+
+## 📖 الدروس المرتبطة
+
+<div class="lesson-links">
+
+<a href="/a1/kursbuch/lektion-06/" class="lesson-btn">🇩🇪 🔤 Lektion 6: Arbeitszeiten</a>
+<a href="/a1/ubungsbuch/lektion-06/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 6: Arbeitszeiten</a>
+<a href="/a1/kursbuch/lektion-08/" class="lesson-btn">🇩🇪 🔤 Lektion 8: Party</a>
+<a href="/a1/ubungsbuch/lektion-08/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 8: Party</a>
+<a href="/a1/kursbuch/lektion-09/" class="lesson-btn">🇩🇪 🔤 Lektion 9: Termine</a>
+<a href="/a1/ubungsbuch/lektion-09/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 9: Termine</a>
+<a href="/a1/kursbuch/lektion-12/" class="lesson-btn">🇩🇪 🔤 Lektion 12: Ausbildung</a>
+<a href="/a1/ubungsbuch/lektion-12/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 12: Ausbildung</a>
+<a href="/a1/kursbuch/lektion-13/" class="lesson-btn">🇩🇪 🔤 Lektion 13: Beim Arzt</a>
+<a href="/a1/ubungsbuch/lektion-13/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 13: Beim Arzt</a>
+<a href="/a1/kursbuch/lektion-17/" class="lesson-btn">🇩🇪 🔤 Lektion 17: Arbeit</a>
+<a href="/a1/ubungsbuch/lektion-17/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 17: Arbeit</a>
+<a href="/a1/kursbuch/lektion-18/" class="lesson-btn">🇩🇪 🔤 Lektion 18: Beim Amt</a>
+<a href="/a1/ubungsbuch/lektion-18/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 18: Beim Amt</a>
+<a href="/a2/kursbuch/lektion-05/" class="lesson-btn">🇩🇪 🔤 Lektion 5: Mein neuer Job</a>
+<a href="/a2/ubungsbuch/lektion-05/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 5: Mein neuer Job</a>
+<a href="/a2/kursbuch/lektion-07/" class="lesson-btn">🇩🇪 🔤 Lektion 7: Gesundheit erhalten</a>
+<a href="/a2/ubungsbuch/lektion-07/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 7: Gesundheit erhalten</a>
+<a href="/a2/kursbuch/lektion-08/" class="lesson-btn">🇩🇪 🔤 Lektion 8: Sicherheit am Arbeitsplatz</a>
+<a href="/a2/ubungsbuch/lektion-08/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 8: Sicherheit am Arbeitsplatz</a>
+<a href="/a2/kursbuch/lektion-18/" class="lesson-btn">🇩🇪 🔤 Lektion 18: Alles über Geld</a>
+<a href="/a2/ubungsbuch/lektion-18/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 18: Alles über Geld</a>
+
+</div>
 ---
 
 💡 **نصيحة سريعة:** الفعلين الأكثر استخداماً في البداية هما **können** و **müssen**. ابدأ بهما، ثم أضف الباقي تدريجياً. أهم شيء — تذكر دائماً: الفعل الناقص في position 2، والفعل الرئيسي في آخر الجملة!

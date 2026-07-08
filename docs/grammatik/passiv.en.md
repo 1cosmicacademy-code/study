@@ -158,6 +158,21 @@ When combining Modalverb with Passiv:
 </div>
 ---
 
+
+---
+
+---
+
+## 📖 Related Lessons
+
+<div class="lesson-links">
+
+<a href="/a1/kursbuch/lektion-18/" class="lesson-btn">🔤 Lektion 18: Beim Amt — At the Government Office</a>
+<a href="/a1/ubungsbuch/lektion-18/" class="lesson-btn">🔤 Exercises Lektion 18: Beim Amt</a>
+<a href="/a2/kursbuch/lektion-08/" class="lesson-btn">🔤 Lektion 8: Sicherheit am Arbeitsplatz — Safety at Work</a>
+<a href="/a2/ubungsbuch/lektion-08/" class="lesson-btn">🔤 Exercises Lektion 8: Sicherheit am Arbeitsplatz (Safety at Work)</a>
+
+</div>
 ---
 
 💡 **Quick tip:** The difference between Aktiv and Passiv is focus. Aktiv = the doer matters. Passiv = the action (or result) matters. In exams, the most common task is converting Aktiv to Passiv. Follow the four steps above and you'll succeed!

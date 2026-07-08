@@ -232,6 +232,27 @@ ge- + جذر الفعل (معدل) + -en
 </div>
 ---
 
+
+---
+
+---
+
+## 📖 الدروس المرتبطة
+
+<div class="lesson-links">
+
+<a href="/a1/kursbuch/lektion-08/" class="lesson-btn">🇩🇪 🔤 Lektion 8: Party</a>
+<a href="/a1/ubungsbuch/lektion-08/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 8: Party</a>
+<a href="/a1/kursbuch/lektion-14/" class="lesson-btn">🇩🇪 🔤 Lektion 14: Krankschreibung</a>
+<a href="/a1/ubungsbuch/lektion-14/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 14: Krankschreibung</a>
+<a href="/a1/kursbuch/lektion-17/" class="lesson-btn">🇩🇪 🔤 Lektion 17: Arbeit</a>
+<a href="/a1/ubungsbuch/lektion-17/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 17: Arbeit</a>
+<a href="/a1/kursbuch/lektion-20/" class="lesson-btn">🇩🇪 🔤 Lektion 20: Feste und Feiern</a>
+<a href="/a1/ubungsbuch/lektion-20/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 20: Feste und Feiern</a>
+<a href="/a2/kursbuch/lektion-19/" class="lesson-btn">🇩🇪 🔤 Lektion 19: Unterwegs</a>
+<a href="/a2/ubungsbuch/lektion-19/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 19: Unterwegs</a>
+
+</div>
 ---
 
 💡 **نصيحة:** احفظ أولاً قائمة الأفعال اللي تأخذ **sein** — لأنها قائمة محدودة وقصيرة. كل ما تبقى يأخذ **haben**. هذا يغطي 90% من الحالات.

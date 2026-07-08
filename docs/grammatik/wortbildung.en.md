@@ -58,6 +58,19 @@ In German you can attach **prefixes** before a stem or **suffixes** after a stem
 | 4 | ___ ist das Gegenteil von „möglich“. (un‑) | |
 </div>
 
+
+---
+
+---
+
+## 📖 Related Lessons
+
+<div class="lesson-links">
+
+<a href="/a2/kursbuch/lektion-13/" class="lesson-btn">🔤 Lektion 13: Selbstständig arbeiten — Working Independently</a>
+<a href="/a2/ubungsbuch/lektion-13/" class="lesson-btn">🔤 Exercises Lektion 13: Selbstständig arbeiten (Working Independently)</a>
+
+</div>
 ---
 
 ## 🎯 Tips for Learners

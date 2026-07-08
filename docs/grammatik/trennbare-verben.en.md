@@ -92,4 +92,23 @@ In subordinate clauses: prefix stays attached (verb goes to the end)
 | 4 | I shop at the store — Ich kaufe im Laden (ein). | |
 | 5 | Are you coming along? — Kommst du (mit)? | |
 </div>
+
+---
+
+---
+
+## 📖 Related Lessons
+
+<div class="lesson-links">
+
+<a href="/a1/kursbuch/lektion-05/" class="lesson-btn">🔤 Lektion 5: Alltag und Freizeit — Daily Life and Free Time</a>
+<a href="/a1/ubungsbuch/lektion-05/" class="lesson-btn">🔤 Exercises Lektion 5: Alltag und Freizeit</a>
+<a href="/a1/kursbuch/lektion-17/" class="lesson-btn">🔤 Lektion 17: Arbeit — Work (Jobs and Duties)</a>
+<a href="/a1/ubungsbuch/lektion-17/" class="lesson-btn">🔤 Exercises Lektion 17: Arbeit</a>
+<a href="/a2/kursbuch/lektion-01/" class="lesson-btn">🔤 Lektion 1: Unser neuer Weg — Our New Path</a>
+<a href="/a2/ubungsbuch/lektion-01/" class="lesson-btn">🔤 Exercises Lektion 1: Unser neuer Weg (Our New Path)</a>
+<a href="/a2/kursbuch/lektion-03/" class="lesson-btn">🔤 Lektion 3: In unserer Freizeit — In Our Free Time</a>
+<a href="/a2/ubungsbuch/lektion-03/" class="lesson-btn">🔤 Exercises Lektion 3: In unserer Freizeit (In Our Free Time)</a>
+
+</div>
 ---

@@ -151,6 +151,23 @@ There are 3 types of adjective declension in German:
 </div>
 ---
 
+
+---
+
+---
+
+## 📖 Related Lessons
+
+<div class="lesson-links">
+
+<a href="/a2/kursbuch/lektion-02/" class="lesson-btn">🔤 Lektion 2: Arbeiten und Lernen — Work and Learning</a>
+<a href="/a2/ubungsbuch/lektion-02/" class="lesson-btn">🔤 Exercises Lektion 2: Arbeiten und Lernen (Work and Learning)</a>
+<a href="/a2/kursbuch/lektion-09/" class="lesson-btn">🔤 Lektion 9: Große und kleine Dinge — Big and Small Things</a>
+<a href="/a2/ubungsbuch/lektion-09/" class="lesson-btn">🔤 Exercises Lektion 9: Große und kleine Dinge (Big and Small Things)</a>
+<a href="/a2/kursbuch/lektion-17/" class="lesson-btn">🔤 Lektion 17: Geschäfte — Shops & Shopping</a>
+<a href="/a2/ubungsbuch/lektion-17/" class="lesson-btn">🔤 Exercises Lektion 17: Geschäfte (Shops and Shopping)</a>
+
+</div>
 ---
 
 💡 **Tip:** The most important case to master is Nominativ — from there you can derive the rest. The weak declension (with der/die/das) is the easiest and most common. Start with it first.

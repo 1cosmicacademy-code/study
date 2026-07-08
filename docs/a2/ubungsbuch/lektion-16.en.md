@@ -132,4 +132,18 @@
 > - Irregular verbs (e → i): **sprechen → sprich!**, **geben → gib!** (no -e ending)
 > - Separable verbs: **aufstehen → steh auf!** (the prefix goes to the end)
 
+---
+
+## 📚 Related Grammar
+
+<div class="grammar-links">
+
+<a href="/grammatik/imperativ/" class="grammar-btn">🔤 The Imperative in German</a>
+
+<a href="/grammatik/partikeln/" class="grammar-btn">🔤 Partikeln (doch, mal, ja, eben)</a>
+
+<a href="/grammatik/partizip-1-als-adjektiv/" class="grammar-btn">🔤 Partizip 1 as Adjective</a>
+
+</div>
+
 > 🎯 **Review:** New vocabulary — der Verein (club), das Mitglied (member), das Training (training), die Bewegung (movement), gesund (healthy), ungesund (unhealthy), fit (fit), die Ernährung (nutrition), die Zutat (ingredient), das Rezept (recipe)

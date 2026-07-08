@@ -78,6 +78,19 @@ Ich verstehe das Problem nicht.
 | 4 | Sie ___ ein Geschenk. (bekommen) |
 </div>
 
+
+---
+
+---
+
+## 📖 Related Lessons
+
+<div class="lesson-links">
+
+<a href="/a2/kursbuch/lektion-03/" class="lesson-btn">🔤 Lektion 3: In unserer Freizeit — In Our Free Time</a>
+<a href="/a2/ubungsbuch/lektion-03/" class="lesson-btn">🔤 Exercises Lektion 3: In unserer Freizeit (In Our Free Time)</a>
+
+</div>
 ---
 
 ## 🟡 Tips for Learners

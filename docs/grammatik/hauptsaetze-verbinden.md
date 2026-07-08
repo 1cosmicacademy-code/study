@@ -38,6 +38,19 @@
 - Er ist müde, **aber** er arbeitet weiter. *(هو معياة لاكن يواصل في العمل.)*
 - Wir gehen ins Kino, **denn** der Film ist gut. *(نذهب إلى السينما, لآن الفيلم جيد.)*
 
+
+---
+
+---
+
+## 📖 الدروس المرتبطة
+
+<div class="lesson-links">
+
+<a href="/a2/kursbuch/lektion-11/" class="lesson-btn">🇩🇪 🔤 Lektion 11: Information und Unterhaltung</a>
+<a href="/a2/ubungsbuch/lektion-11/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 11: Information und Unterhaltung</a>
+
+</div>
 ---
 
 ## 📝 ت%D9%85%D8%A7%D8%B1%D9%8A%D9%86 ت%D9%81%D8%A7%D8%B9%D9%84%D9%8A%D8%A9

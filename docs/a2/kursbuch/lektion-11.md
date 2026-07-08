@@ -157,4 +157,22 @@ Bilde indirekte Fragen mit "ob":
 
 ---
 
+
+
+---
+
+## 📚 القواعد المرتبطة
+
+<div class="grammar-links">
+
+<a href="/grammatik/nebensatze/" class="grammar-btn">🇩🇪 🔤 Nebensatze (Nebensatze)</a>
+
+<a href="/grammatik/hauptsaetze-verbinden/" class="grammar-btn">🇩🇪 🔤 ربط الجمل الرئيسية (Konjunktionen) (ربط الجمل الرئيسية (Konjunktionen))</a>
+
+<a href="/grammatik/indirekte-fragen/" class="grammar-btn">🇩🇪 🔤 Indirekte Fragen (Indirekte Fragen)</a>
+
+<a href="/grammatik/adverbien/" class="grammar-btn">🇩🇪 🔤 Adverbien (Adverbien)</a>
+
+</div>
+
 > 💡 **نصيحة أخيرة:** شاهد فيديو الدرس على الرابط المرفق وحاول تكرار الجمل بصوت عالٍ — الممارسة هي السر!

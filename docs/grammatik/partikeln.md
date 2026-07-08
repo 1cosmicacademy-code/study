@@ -45,6 +45,19 @@
 3. *Das Wetter ist ja schön.* — "الطقس جميل فعلاً."
 4. *Er ist eben zu spät gekommen.* — "لقد وصل متأخرًا بالضبط."
 
+
+---
+
+---
+
+## 📖 الدروس المرتبطة
+
+<div class="lesson-links">
+
+<a href="/a2/kursbuch/lektion-16/" class="lesson-btn">🇩🇪 🔤 Lektion 16: Sport und Ernährung</a>
+<a href="/a2/ubungsbuch/lektion-16/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 16: Sport und Ernährung</a>
+
+</div>
 ---
 
 ## 📝 تمارين تفاعلية

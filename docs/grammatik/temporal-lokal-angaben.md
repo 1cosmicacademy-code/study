@@ -175,6 +175,27 @@ TE — KA — MO — LO
 | 4 | ______________. (gestern / mit meinem Bruder / im Kino) | Gestern ich war im Kino mit meinem Bruder. | Gestern war ich mit meinem Bruder im Kino. | Gestern war ich im Kino mit meinem Bruder. |
 </div>
 
+
+---
+
+---
+
+## 📖 الدروس المرتبطة
+
+<div class="lesson-links">
+
+<a href="/a1/kursbuch/lektion-05/" class="lesson-btn">🇩🇪 🔤 Lektion 5: Alltag und Freizeit</a>
+<a href="/a1/ubungsbuch/lektion-05/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 5: Alltag und Freizeit</a>
+<a href="/a1/kursbuch/lektion-06/" class="lesson-btn">🇩🇪 🔤 Lektion 6: Arbeitszeiten</a>
+<a href="/a1/ubungsbuch/lektion-06/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 6: Arbeitszeiten</a>
+<a href="/a1/kursbuch/lektion-09/" class="lesson-btn">🇩🇪 🔤 Lektion 9: Termine</a>
+<a href="/a1/ubungsbuch/lektion-09/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 9: Termine</a>
+<a href="/a1/kursbuch/lektion-14/" class="lesson-btn">🇩🇪 🔤 Lektion 14: Krankschreibung</a>
+<a href="/a1/ubungsbuch/lektion-14/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 14: Krankschreibung</a>
+<a href="/a2/kursbuch/lektion-19/" class="lesson-btn">🇩🇪 🔤 Lektion 19: Unterwegs</a>
+<a href="/a2/ubungsbuch/lektion-19/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 19: Unterwegs</a>
+
+</div>
 ---
 
 ✏️ **أكمل الفراغ:** اكتب الإجابة كاملة في الخانة.

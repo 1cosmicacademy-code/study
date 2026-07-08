@@ -41,6 +41,19 @@ The present participle (Partizip I) is formed by adding **-end** (or **-ierend**
 - **der spielende Hund** — the playing dog
 - **die lernende Schülerin** — the learning schoolgirl
 
+
+---
+
+---
+
+## 📖 Related Lessons
+
+<div class="lesson-links">
+
+<a href="/a2/kursbuch/lektion-16/" class="lesson-btn">🔤 Lektion 16: Sport und Ernährung — Sports & Nutrition</a>
+<a href="/a2/ubungsbuch/lektion-16/" class="lesson-btn">🔤 Exercises Lektion 16: Sport und Ernährung (Sports and Nutrition)</a>
+
+</div>
 ---
 
 ## 📝 Interactive Exercises

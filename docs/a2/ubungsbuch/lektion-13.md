@@ -214,4 +214,18 @@ Die selbstständige Arbeit hat Vorteile und Nachteile. Der größte Vorteil ist 
 
 ---
 
+---
+
+## 📚 القواعد المرتبطة
+
+<div class="grammar-links">
+
+<a href="/grammatik/adjektive-als-nomen/" class="grammar-btn">🇩🇪 🔤 الصفات كأسماء (الصفات كأسماء)</a>
+
+<a href="/grammatik/wortbildung/" class="grammar-btn">🇩🇪 🔤 تكوين الكلمات — السوابق واللواحق (تكوين الكلمات — السوابق واللواحق)</a>
+
+<a href="/grammatik/komposita/" class="grammar-btn">🇩🇪 🔤 أسماء مركبة (zusammengesetzte Nomen) (أسماء مركبة (zusammengesetzte Nomen))</a>
+
+</div>
+
 > ✅ **راجع مفردات الدرس:** die Aufgabe, das Projekt, die Frist, die Besprechung, die Teamarbeit, der Kollege, die Erfahrung, die Entscheidung, das Ziel, der Erfolg — و **القواعد:** Adjektive als Nomen (das Gute, das Wichtige, das Beste).

@@ -39,6 +39,19 @@ Partizip I (المصدر الفاعلي) يتكون بإضافة **-end** إلى
 - **der spielende Hund** – الكلب اللعّاب
 - **die lernende Schülerin** – الطالبة المتعلمة
 
+
+---
+
+---
+
+## 📖 الدروس المرتبطة
+
+<div class="lesson-links">
+
+<a href="/a2/kursbuch/lektion-16/" class="lesson-btn">🇩🇪 🔤 Lektion 16: Sport und Ernährung</a>
+<a href="/a2/ubungsbuch/lektion-16/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 16: Sport und Ernährung</a>
+
+</div>
 ---
 
 ## 📝 تمارين تفاعلية

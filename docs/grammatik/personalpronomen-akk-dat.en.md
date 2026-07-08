@@ -95,6 +95,18 @@ Some verbs take two objects (Akkusativ + Dativ):
 | **sagen** (tell) | the message | the listener | Sag **mir** die Wahrheit! |
 | **schicken** (send) | the thing | the recipient | Ich schicke **euch** die Einladung. |
 
+
+---
+
+---
+
+## 📖 Related Lessons
+
+<div class="lesson-links">
+
+📌 *This topic is not linked to specific lessons yet.*
+
+</div>
 ---
 
 ## 📝 Exercises

@@ -104,4 +104,21 @@ Sie → you (formal — capital S!)
 | 4 | To a colleague (formal): "Kommen ___ morgen?" | |
 | 5 | To a group of friends: "___ seid cool!" | |
 </div>
+
+---
+
+---
+
+## 📖 Related Lessons
+
+<div class="lesson-links">
+
+<a href="/a1/kursbuch/lektion-01/" class="lesson-btn">🔤 Lektion 1: Hallo! — Greetings and Introductions</a>
+<a href="/a1/ubungsbuch/lektion-01/" class="lesson-btn">🔤 Exercises Lektion 1: Hallo!</a>
+<a href="/a1/kursbuch/lektion-04/" class="lesson-btn">🔤 Lektion 4: Familie! — Family and Possessive Articles</a>
+<a href="/a1/ubungsbuch/lektion-04/" class="lesson-btn">🔤 Exercises Lektion 4: Familie!</a>
+<a href="/a1/kursbuch/lektion-13/" class="lesson-btn">🔤 Lektion 13: Beim Arzt — At the Doctor & Body Parts</a>
+<a href="/a1/ubungsbuch/lektion-13/" class="lesson-btn">🔤 Exercises Lektion 13: Beim Arzt</a>
+
+</div>
 ---

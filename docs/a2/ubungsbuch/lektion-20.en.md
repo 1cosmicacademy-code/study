@@ -173,4 +173,24 @@
 > - **wenn** → present or future, or repeated past: *Wenn ich Zeit habe...* (When I have time...), *Wenn wir uns trafen...* (Whenever we met...)
 > - **wann** → question about time: *Wann kommst du?* (When are you coming?)
 
+---
+
+## 📚 Related Grammar
+
+<div class="grammar-links">
+
+<a href="/grammatik/temporale-nebensaatze/" class="grammar-btn">🔤 Temporal Subordinate Clauses</a>
+
+<a href="/grammatik/plusquamperfekt/" class="grammar-btn">🔤 Plusquamperfekt</a>
+
+<a href="/grammatik/doppelkonnektoren/" class="grammar-btn">🔤 Doppelkonnektoren</a>
+
+<a href="/grammatik/relativsatze/" class="grammar-btn">🔤 Relative Clauses (Relativsätze) in German</a>
+
+<a href="/grammatik/prateritum/" class="grammar-btn">🔤 The Simple Past (Prateritum) in German</a>
+
+<a href="/grammatik/zeitengebrauch/" class="grammar-btn">🔤 Tense usage (Tempus)</a>
+
+</div>
+
 > 🎯 **Review:** New vocabulary — die Erinnerung (memory), der Wunsch (wish), der Traum (dream), das Ziel (goal), die Hoffnung (hope), die Kindheit (childhood), die Vergangenheit (past), die Zukunft (future), die Sehnsucht (longing), der Moment (moment), vergessen (to forget), erinnern (to remember), wünschen (to wish), hoffen (to hope), träumen (to dream)

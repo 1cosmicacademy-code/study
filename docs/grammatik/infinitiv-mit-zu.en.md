@@ -39,6 +39,19 @@ The infinitive with **zu** is used after certain verbs (e.g., *versuchen*, *verg
 - **Die Möglichkeit, mehr **zu verdienen**, ist attraktiv.** – فرصة كسب المزيد من المال جذابة.
 - **Der Versuch, das Problem **zu lösen**, war erfolgreich.** – كانت محاولة حل المشكلة ناجحة.
 
+
+---
+
+---
+
+## 📖 Related Lessons
+
+<div class="lesson-links">
+
+<a href="/a2/kursbuch/lektion-14/" class="lesson-btn">🔤 Lektion 14: Zusammenleben — Living Together</a>
+<a href="/a2/ubungsbuch/lektion-14/" class="lesson-btn">🔤 Exercises Lektion 14: Zusammenleben (Living Together)</a>
+
+</div>
 ---
 
 ### Interactive exercise

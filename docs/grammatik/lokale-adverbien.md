@@ -74,6 +74,19 @@
 - Die Katze ist **draußen**. — القطة في الخارج.
 - Ich habe mein Buch **nirgendwo** gefunden. — لم أجد كتابي في أي مكان.
 
+
+---
+
+---
+
+## 📖 الدروس المرتبطة
+
+<div class="lesson-links">
+
+<a href="/a2/kursbuch/lektion-10/" class="lesson-btn">🇩🇪 🔤 Lektion 10: Durch die Stadt</a>
+<a href="/a2/ubungsbuch/lektion-10/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 10: Durch die Stadt</a>
+
+</div>
 ---
 
 ## 📝 تمارين

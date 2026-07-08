@@ -162,3 +162,17 @@
 | die Erfahrung, -en | the experience |
 | das Gespräch, -e | the conversation / interview |
 | sich melden | to get in touch |
+
+---
+
+## 📚 Related Grammar
+
+<div class="grammar-links">
+
+<a href="/grammatik/adjektivdeklination/" class="grammar-btn">🔤 Adjective Declension (Adjektivdeklination) in German</a>
+
+<a href="/grammatik/reflexive-verben/" class="grammar-btn">🔤 Reflexive Verbs (Reflexive Verben) in German</a>
+
+<a href="/grammatik/verben-mit-akkusativ-dativ/" class="grammar-btn">🔤 Verbs with Accusative and Dative</a>
+
+</div>

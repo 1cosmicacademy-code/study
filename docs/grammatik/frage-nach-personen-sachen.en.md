@@ -39,6 +39,18 @@ An instructional video explaining this grammar topic with practical examples.
   - plural (any gender) → **welche** (e.g., *Welche* Bücher?)
 - When the noun is omitted but understood, the appropriate form is still used: *Welcher?* (masc.), *Welche?* (fem./pl.), *Welches?* (neut.).
 
+
+---
+
+---
+
+## 📖 Related Lessons
+
+<div class="lesson-links">
+
+📌 *This topic is not linked to specific lessons yet.*
+
+</div>
 ---
 
 ## 📝 Interactive Exercises

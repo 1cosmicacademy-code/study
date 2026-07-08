@@ -243,6 +243,29 @@ Es ___ (sein) einmal ein kleiner Hund. Er ___ (haben) einen groBen Knochen. Der 
 
 ---
 
+
+---
+
+---
+
+## 📖 Related Lessons
+
+<div class="lesson-links">
+
+<a href="/a1/kursbuch/lektion-08/" class="lesson-btn">🔤 Lektion 8: Party</a>
+<a href="/a1/ubungsbuch/lektion-08/" class="lesson-btn">🔤 Exercises Lektion 8: Party</a>
+<a href="/a1/kursbuch/lektion-14/" class="lesson-btn">🔤 Lektion 14: Krankschreibung — Sick Leave</a>
+<a href="/a1/ubungsbuch/lektion-14/" class="lesson-btn">🔤 Exercises Lektion 14: Krankschreibung</a>
+<a href="/a1/kursbuch/lektion-19/" class="lesson-btn">🔤 Lektion 19: Reisen in Deutschland — Traveling in Germany</a>
+<a href="/a1/ubungsbuch/lektion-19/" class="lesson-btn">🔤 Exercises Lektion 19: Reisen in Deutschland</a>
+<a href="/a1/kursbuch/lektion-20/" class="lesson-btn">🔤 Lektion 20: Feste und Feiern — Holidays and Celebrations</a>
+<a href="/a1/ubungsbuch/lektion-20/" class="lesson-btn">🔤 Exercises Lektion 20: Feste und Feiern</a>
+<a href="/a2/kursbuch/lektion-05/" class="lesson-btn">🔤 Lektion 5: Mein neuer Job — My New Job</a>
+<a href="/a2/ubungsbuch/lektion-05/" class="lesson-btn">🔤 Exercises Lektion 5: Mein neuer Job (My New Job)</a>
+<a href="/a2/kursbuch/lektion-20/" class="lesson-btn">🔤 Lektion 20: Erinnerungen und Wünsche — Memories & Wishes</a>
+<a href="/a2/ubungsbuch/lektion-20/" class="lesson-btn">🔤 Exercises Lektion 20: Erinnerungen und Wünsche (Memories and Wishes)</a>
+
+</div>
 ---
 
 💡 **Tip:** The easiest way to start with Prateritum — begin with **war** and **hatte** only. Germans use these two words every day. After that, add the modal verbs (konnte, musste, wollte). You only need the other verbs for writing and storytelling.

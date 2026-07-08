@@ -152,6 +152,19 @@
 </div>
 ---
 
+
+---
+
+---
+
+## 📖 الدروس المرتبطة
+
+<div class="lesson-links">
+
+<a href="/a2/kursbuch/lektion-11/" class="lesson-btn">🇩🇪 🔤 Lektion 11: Information und Unterhaltung</a>
+<a href="/a2/ubungsbuch/lektion-11/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 11: Information und Unterhaltung</a>
+
+</div>
 ---
 
 💡 **نصيحة:** الفرق بين السؤال المباشر وغير المباشر: في المباشر الفعل في المكان الثاني (Wo wohnst du?)، وفي غير المباشر الفعل في آخر الجملة (Ich weiß nicht, wo du wohnst). وإذا كان السؤال المباشر جوابه نعم/لا — استخدم **ob**!

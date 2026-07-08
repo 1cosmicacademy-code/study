@@ -192,4 +192,20 @@
 
 ---
 
+---
+
+## 📚 القواعد المرتبطة
+
+<div class="grammar-links">
+
+<a href="/grammatik/perfekt/" class="grammar-btn">🇩🇪 🔤 Perfekt (Perfekt)</a>
+
+<a href="/grammatik/partizip-perfekt/" class="grammar-btn">🇩🇪 🔤 التصريف الثالث للفعل (التصريف الثالث للفعل)</a>
+
+<a href="/grammatik/temporal-lokal-angaben/" class="grammar-btn">🇩🇪 🔤 und Lokalangaben — تحديد الزمان والمكان (und Lokalangaben — تحديد الزمان والمكان)</a>
+
+<a href="/grammatik/zeitengebrauch/" class="grammar-btn">🇩🇪 🔤 استخدام الأزمنة (A2) (استخدام الأزمنة (A2))</a>
+
+</div>
+
 > 💡 **Hausaufgabe:** اكتب فقرة (40-50 كلمة) عن إجازة قمت بها باستخدام الماضي التام (Perfekt) مع 5 أفعال على الأقل.

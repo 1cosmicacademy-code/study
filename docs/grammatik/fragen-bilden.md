@@ -88,6 +88,19 @@ _مثال_: **Hast du Zeit?** — هل لديك وقت؟
 | 6 | Wir müssen lernen. |
 </div>
 
+
+---
+
+---
+
+## 📖 الدروس المرتبطة
+
+<div class="lesson-links">
+
+<a href="/a2/kursbuch/lektion-12/" class="lesson-btn">🇩🇪 🔤 Lektion 12: In der Schule</a>
+<a href="/a2/ubungsbuch/lektion-12/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 12: In der Schule</a>
+
+</div>
 ---
 
 ## ✅ خلاصة

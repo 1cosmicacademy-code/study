@@ -53,6 +53,19 @@
 - **Welchen Stift brauchst du?** — **Diesen blauen Stift.**
 - **Welchem Kind hast du das Geschenk gegeben?** — **Dem kleinen Kind.**
 
+
+---
+
+---
+
+## 📖 الدروس المرتبطة
+
+<div class="lesson-links">
+
+<a href="/a2/kursbuch/lektion-15/" class="lesson-btn">🇩🇪 🔤 Lektion 15: Mit dem Auto reisen</a>
+<a href="/a2/ubungsbuch/lektion-15/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 15: Mit dem Auto reisen</a>
+
+</div>
 ---
 
 ## 📝 تمارين

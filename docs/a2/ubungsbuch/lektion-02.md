@@ -162,3 +162,17 @@
 | die Erfahrung, -en | الخبرة |
 | das Gespräch, -e | المقابلة / الحديث |
 | sich melden | يتواصل / يراسل |
+
+---
+
+## 📚 القواعد المرتبطة
+
+<div class="grammar-links">
+
+<a href="/grammatik/adjektivdeklination/" class="grammar-btn">🇩🇪 🔤 Adjektivdeklination (Adjektivdeklination)</a>
+
+<a href="/grammatik/reflexive-verben/" class="grammar-btn">🇩🇪 🔤 Reflexive Verben (Reflexive Verben)</a>
+
+<a href="/grammatik/verben-mit-akkusativ-dativ/" class="grammar-btn">🇩🇪 🔤 الأفعال التي تأخذ مفعول النصب والجر (الأفعال التي تأخذ مفعول النصب والجر)</a>
+
+</div>

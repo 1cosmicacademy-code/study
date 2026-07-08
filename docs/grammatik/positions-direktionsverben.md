@@ -41,6 +41,19 @@
 3. *Sie legt das Blatt **auf** das Papier.* — "هي تضع الورقة على الورق."
 4. *Das Blatt **liegt** **auf** dem Papier.* — "الورقة على الورق."
 
+
+---
+
+---
+
+## 📖 الدروس المرتبطة
+
+<div class="lesson-links">
+
+<a href="/a2/kursbuch/lektion-01/" class="lesson-btn">🇩🇪 🔤 Lektion 1: Unser neuer Weg</a>
+<a href="/a2/ubungsbuch/lektion-01/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 1: Unser neuer Weg</a>
+
+</div>
 ---
 
 ## 📝 تمارين تفاعلية

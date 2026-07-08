@@ -40,6 +40,19 @@ An instructional video explaining this grammar topic with practical examples.
 - *der Staubsauger* — *Staub* (dust) + *Sauger* (sucker) → vacuum cleaner
 - *die Kindergärten* — *Kinder* (children) + *Gärten* (gardens) → kindergartens
 
+
+---
+
+---
+
+## 📖 Related Lessons
+
+<div class="lesson-links">
+
+<a href="/a2/kursbuch/lektion-13/" class="lesson-btn">🔤 Lektion 13: Selbstständig arbeiten — Working Independently</a>
+<a href="/a2/ubungsbuch/lektion-13/" class="lesson-btn">🔤 Exercises Lektion 13: Selbstständig arbeiten (Working Independently)</a>
+
+</div>
 ---
 
 ## 📝 Interactive Exercises

@@ -168,4 +168,20 @@
 >
 > Remember the **S-H** rule: sein = movement, haben = everything else!
 
+---
+
+## 📚 Related Grammar
+
+<div class="grammar-links">
+
+<a href="/grammatik/perfekt/" class="grammar-btn">🔤 The Perfect Tense (Perfekt) in German</a>
+
+<a href="/grammatik/partizip-perfekt/" class="grammar-btn">🔤 Partizip Perfekt (Partizip 2)</a>
+
+<a href="/grammatik/temporal-lokal-angaben/" class="grammar-btn">🔤 Temporal</a>
+
+<a href="/grammatik/zeitengebrauch/" class="grammar-btn">🔤 Tense usage (Tempus)</a>
+
+</div>
+
 > 🎯 **Review:** New vocabulary — die Reise (trip), der Urlaub (vacation), die Unterkunft (accommodation), die Sehenswürdigkeit (sight), die Besichtigung (sightseeing), der Aufenthalt (stay), die Abfahrt (departure), die Ankunft (arrival), der Bahnsteig (platform), der Ausflug (excursion), die Rundreise (tour)

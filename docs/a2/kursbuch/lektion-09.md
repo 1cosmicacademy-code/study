@@ -173,4 +173,19 @@
 
 ---
 
+
+
+---
+
+## 📚 القواعد المرتبطة
+
+<div class="grammar-links">
+
+<a href="/grammatik/vergleiche/" class="grammar-btn">🇩🇪 🔤 Vergleiche (Vergleiche)</a>
+<a href="/grammatik/superlativ/" class="grammar-btn">🇩🇪 🔤 صيغة التفضيل (Superlativ) (صيغة التفضيل (Superlativ))</a>
+<a href="/grammatik/adjektivdeklination/" class="grammar-btn">🇩🇪 🔤 Adjektivdeklination (Adjektivdeklination)</a>
+<a href="/grammatik/ordinalzahlen/" class="grammar-btn">🇩🇪 🔤 الأعداد الترتيبية والتاريخ (الأعداد الترتيبية والتاريخ)</a>
+
+</div>
+
 > 💡 **نصيحة أخيرة:** المقارنات موجودة في كل محادثة! تدرب على استخدام **als** بعد المقارن (größer **als**) و **am** قبل التفضيل (**am** größten). بهذه الطريقة ستتحدث بدقة أكبر!

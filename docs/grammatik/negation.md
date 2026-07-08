@@ -97,4 +97,19 @@ nicht = not → ينفي الأفعال والصفات
 | 4 | Wir sind ___ (نفي الصفة) müde. | |
 | 5 | Das ist ___ (kein) Hund, sondern eine Katze. | |
 </div>
+
+---
+
+---
+
+## 📖 الدروس المرتبطة
+
+<div class="lesson-links">
+
+<a href="/a1/kursbuch/lektion-02/" class="lesson-btn">🇩🇪 🔤 Lektion 2: Berufe</a>
+<a href="/a1/ubungsbuch/lektion-02/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 2: Berufe</a>
+<a href="/a1/kursbuch/lektion-07/" class="lesson-btn">🇩🇪 🔤 Lektion 7: Essen</a>
+<a href="/a1/ubungsbuch/lektion-07/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 7: Essen</a>
+
+</div>
 ---

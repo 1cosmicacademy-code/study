@@ -44,6 +44,23 @@ An instructional video explaining this grammar topic with practical examples.
 - **Wo** liegt die Stadt? — Where is the city located? ✅
 - **Wohin** willst du gehen? — Where do you want to go? ✅
 
+
+---
+
+---
+
+## 📖 Related Lessons
+
+<div class="lesson-links">
+
+<a href="/a2/kursbuch/lektion-04/" class="lesson-btn">🔤 Lektion 4: Wohnen und Nachbarn — Housing and Neighbors</a>
+<a href="/a2/ubungsbuch/lektion-04/" class="lesson-btn">🔤 Exercises Lektion 4: Wohnen und Nachbarn (Living and Neighbors)</a>
+<a href="/a2/kursbuch/lektion-06/" class="lesson-btn">🔤 Lektion 6: Auf dem Weg zur Arbeit — On the Way to Work</a>
+<a href="/a2/ubungsbuch/lektion-06/" class="lesson-btn">🔤 Exercises Lektion 6: Auf dem Weg zur Arbeit (On the Way to Work)</a>
+<a href="/a2/kursbuch/lektion-10/" class="lesson-btn">🔤 Lektion 10: Durch die Stadt — Across the City</a>
+<a href="/a2/ubungsbuch/lektion-10/" class="lesson-btn">🔤 Exercises Lektion 10: Durch die Stadt (Through the City)</a>
+
+</div>
 ---
 
 ## 🎯 Interactive exercises

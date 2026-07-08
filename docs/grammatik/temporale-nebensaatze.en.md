@@ -38,6 +38,21 @@ An instructional video explaining this grammar topic with practical examples.
 - *Sie hört Musik, während er Hausaufgaben macht.* *(She listens to music while he does homework.)*
 - *Bevor wir essen, waschen wir die Hände.* *(Before we eat, we wash our hands.)*
 
+
+---
+
+---
+
+## 📖 Related Lessons
+
+<div class="lesson-links">
+
+<a href="/a2/kursbuch/lektion-04/" class="lesson-btn">🔤 Lektion 4: Wohnen und Nachbarn — Housing and Neighbors</a>
+<a href="/a2/ubungsbuch/lektion-04/" class="lesson-btn">🔤 Exercises Lektion 4: Wohnen und Nachbarn (Living and Neighbors)</a>
+<a href="/a2/kursbuch/lektion-20/" class="lesson-btn">🔤 Lektion 20: Erinnerungen und Wünsche — Memories & Wishes</a>
+<a href="/a2/ubungsbuch/lektion-20/" class="lesson-btn">🔤 Exercises Lektion 20: Erinnerungen und Wünsche (Memories and Wishes)</a>
+
+</div>
 ---
 
 ## 📝 Interactive Exercises

@@ -48,6 +48,18 @@ The verb **lassen** expresses permission, causation, or a request for something 
 3. *Er lässt das Buch zu Ende lesen.* — "He lets the book be read to the end."
 4. *Sie lässt sich das Haar färben.* — "She lets her hair be dyed."
 
+
+---
+
+---
+
+## 📖 Related Lessons
+
+<div class="lesson-links">
+
+📌 *This topic is not linked to specific lessons yet.*
+
+</div>
 ---
 
 ## ✍️ Interactive Exercises

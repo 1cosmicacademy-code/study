@@ -193,3 +193,15 @@ I get up at 6:30 AM. I leave the house at 7:15 AM. First I walk to the bus stop,
 *(The sample answer above serves as the model — students should write their own version based on their personal experience.)*
 
 ---
+
+## 📚 Related Grammar
+
+<div class="grammar-links">
+
+<a href="/grammatik/wechselpraepositionen/" class="grammar-btn">🔤 Two-Way Prepositions (Wechselpräpositionen) in German</a>
+<a href="/grammatik/lokale-praepositionen/" class="grammar-btn">🔤 Local prepositions</a>
+<a href="/grammatik/prapositionen/" class="grammar-btn">🔤 Prepositions (Präpositionen)</a>
+
+</div>
+
+---

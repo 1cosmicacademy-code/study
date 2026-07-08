@@ -38,6 +38,21 @@
 - *Sie hört Musik, **während** sie Hausaufgaben macht.* *(She listens to music while doing homework.)*
 - *Bevor wir essen, wasّنا أيديّنا.* *(Before we eat, we wash our hands.)*
 
+
+---
+
+---
+
+## 📖 الدروس المرتبطة
+
+<div class="lesson-links">
+
+<a href="/a2/kursbuch/lektion-04/" class="lesson-btn">🇩🇪 🔤 Lektion 4: Wohnen und Nachbarn</a>
+<a href="/a2/ubungsbuch/lektion-04/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 4: Wohnen und Nachbarn</a>
+<a href="/a2/kursbuch/lektion-20/" class="lesson-btn">🇩🇪 🔤 Lektion 20: Erinnerungen und Wünsche</a>
+<a href="/a2/ubungsbuch/lektion-20/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 20: Erinnerungen und Wünsche</a>
+
+</div>
 ---
 
 ## 📝 ت%D9%85%D8%A7%D8%B1%D9%8A%D9%86 ت%D9%81%D8%A7%D8%B9%D9%84%D9%8A%D8%A9

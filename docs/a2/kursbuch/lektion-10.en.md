@@ -169,6 +169,20 @@ In German, modal verbs use **Präteritum** for the past tense more often than **
 
 ---
 
+
+
+---
+
+## 📚 Related Grammar
+
+<div class="grammar-links">
+
+<a href="/grammatik/prateritum-modalverben/" class="grammar-btn">🔤 Präteritum of Modal Verbs</a>
+<a href="/grammatik/lokale-adverbien/" class="grammar-btn">🔤 Lokale Adverbien</a>
+<a href="/grammatik/lokale-praepositionen/" class="grammar-btn">🔤 Local prepositions</a>
+
+</div>
+
 > 💡 **Final Tip:** Asking for directions is one of the most practical skills in German! Always remember:
 > 1. Start with **Entschuldigung** (Excuse me)
 > 2. Use **Präteritum** with modal verbs (konnte, musste, wollte)

@@ -173,4 +173,18 @@ Connect:
 
 ---
 
+---
+
+## 📚 Related Grammar
+
+<div class="grammar-links">
+
+<a href="/grammatik/finalsaetze/" class="grammar-btn">🔤 Finalsätze (um...zu, damit)</a>
+
+<a href="/grammatik/infinitiv-mit-zu/" class="grammar-btn">🔤 Infinitive with "zu"</a>
+
+<a href="/grammatik/kausal-konzessivsatze/" class="grammar-btn">🔤 Kausal</a>
+
+</div>
+
 > 💡 **Final Tip:** Living in a WG is a great experience for learning the German language and culture — try it if you get the chance!

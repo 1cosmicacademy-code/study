@@ -154,4 +154,22 @@
 > - مع **ein/eine** (unbestimmter Artikel): الصفة تأخذ نهاية الأداة المحددة! (ein → -er, eine → -e, ein → -es)
 > - في **Dativ** دائماً: **-en** بغض النظر عن الجنس!
 
+---
+
+## 📚 القواعد المرتبطة
+
+<div class="grammar-links">
+
+<a href="/grammatik/adjektivdeklination/" class="grammar-btn">🇩🇪 🔤 Adjektivdeklination (Adjektivdeklination)</a>
+
+<a href="/grammatik/akkusativ/" class="grammar-btn">🇩🇪 🔤 Akkusativ (Akkusativ)</a>
+
+<a href="/grammatik/dativ/" class="grammar-btn">🇩🇪 🔤 Dativ (Dativ)</a>
+
+<a href="/grammatik/genitiv/" class="grammar-btn">🇩🇪 🔤 Genitiv (Genitiv)</a>
+
+<a href="/grammatik/artikel/" class="grammar-btn">🇩🇪 🔤 der, die, das, ein, keine (der, die, das, ein, keine)</a>
+
+</div>
+
 > 🎯 **راجِع:** المفردات الجديدة — das Geschäft, der Laden, das Angebot, der Preis, die Kasse, der Einkaufswagen, die Tüte, bar/zahlen, die Quittung, der Rabatt

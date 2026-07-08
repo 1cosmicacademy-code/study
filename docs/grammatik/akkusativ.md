@@ -106,6 +106,25 @@ Akkusativ = المفعول به المباشر
 | Das Geschenk ist **für den** Vater. | الهدية للأب. |
 | Wir gehen **durch den** Wald. | نمشي عبر الغابة. |
 
+
+---
+
+---
+
+## 📖 الدروس المرتبطة
+
+<div class="lesson-links">
+
+<a href="/a1/kursbuch/lektion-03/" class="lesson-btn">🇩🇪 🔤 Lektion 3: Orte und Dinge</a>
+<a href="/a1/ubungsbuch/lektion-03/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 3: Orte und Dinge</a>
+<a href="/a1/kursbuch/lektion-07/" class="lesson-btn">🇩🇪 🔤 Lektion 7: Essen</a>
+<a href="/a1/ubungsbuch/lektion-07/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 7: Essen</a>
+<a href="/a1/kursbuch/lektion-16/" class="lesson-btn">🇩🇪 🔤 Lektion 16: Im Laden</a>
+<a href="/a1/ubungsbuch/lektion-16/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 16: Im Laden</a>
+<a href="/a2/kursbuch/lektion-17/" class="lesson-btn">🇩🇪 🔤 Lektion 17: Geschäfte</a>
+<a href="/a2/ubungsbuch/lektion-17/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 17: Geschäfte</a>
+
+</div>
 ---
 
 ## 📝 تمارين

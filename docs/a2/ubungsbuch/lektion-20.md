@@ -186,4 +186,24 @@
 > - **wenn** → حاضر أو مستقبل، أو ماضي متكرر: *Wenn ich Zeit habe...* (عندما يكون لدي وقت...)، *Wenn wir uns trafen...* (كلما التقينا...)
 > - **wann** → سؤال عن الوقت: *Wann kommst du?* (متى ستأتي؟)
 
+---
+
+## 📚 القواعد المرتبطة
+
+<div class="grammar-links">
+
+<a href="/grammatik/temporale-nebensaatze/" class="grammar-btn">🇩🇪 🔤 الجمل الزمنية الثانية (الجمل الزمنية الثانية)</a>
+
+<a href="/grammatik/plusquamperfekt/" class="grammar-btn">🇩🇪 🔤 الماضي التام (Plusquamperfekt) (الماضي التام (Plusquamperfekt))</a>
+
+<a href="/grammatik/doppelkonnektoren/" class="grammar-btn">🇩🇪 🔤 أدات الربط المزدوجة (أدات الربط المزدوجة)</a>
+
+<a href="/grammatik/relativsatze/" class="grammar-btn">🇩🇪 🔤 Relativsatze (Relativsatze)</a>
+
+<a href="/grammatik/prateritum/" class="grammar-btn">🇩🇪 🔤 Prateritum (Prateritum)</a>
+
+<a href="/grammatik/zeitengebrauch/" class="grammar-btn">🇩🇪 🔤 استخدام الأزمنة (A2) (استخدام الأزمنة (A2))</a>
+
+</div>
+
 > 🎯 **راجِع:** المفردات الجديدة — die Erinnerung, der Wunsch, der Traum, das Ziel, die Hoffnung, die Kindheit, die Vergangenheit, die Zukunft, die Sehnsucht, der Moment, vergessen, erinnern, wünschen, hoffen, träumen

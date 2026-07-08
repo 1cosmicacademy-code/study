@@ -222,3 +222,15 @@ The walk only took 20 minutes. I should walk through the city more often — it'
 | endlich | at last |
 
 ---
+
+## 📚 Related Grammar
+
+<div class="grammar-links">
+
+<a href="/grammatik/prateritum-modalverben/" class="grammar-btn">🔤 Präteritum of Modal Verbs</a>
+<a href="/grammatik/lokale-adverbien/" class="grammar-btn">🔤 Lokale Adverbien</a>
+<a href="/grammatik/lokale-praepositionen/" class="grammar-btn">🔤 Local prepositions</a>
+
+</div>
+
+---

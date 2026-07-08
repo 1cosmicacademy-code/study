@@ -149,4 +149,18 @@
 
 ---
 
+
+
+---
+
+## 📚 القواعد المرتبطة
+
+<div class="grammar-links">
+
+<a href="/grammatik/modalverben/" class="grammar-btn">🇩🇪 🔤 Modalverben (Modalverben)</a>
+<a href="/grammatik/imperativ/" class="grammar-btn">🇩🇪 🔤 Imperativ (Imperativ)</a>
+<a href="/grammatik/passiv/" class="grammar-btn">🇩🇪 🔤 Passiv (Passiv)</a>
+
+</div>
+
 > 💡 **نصيحة أخيرة:** الفرق بين **sollen** و **müssen** مهم جداً في مكان العمل. **Sollen** = توصية / توقع. **Müssen** = إلزام لا خيار فيه. استخدم **sollte** للنصيحة الودّية!

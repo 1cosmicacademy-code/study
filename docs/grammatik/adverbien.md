@@ -201,6 +201,21 @@
 </div>
 ---
 
+
+---
+
+---
+
+## 📖 الدروس المرتبطة
+
+<div class="lesson-links">
+
+<a href="/a2/kursbuch/lektion-11/" class="lesson-btn">🇩🇪 🔤 Lektion 11: Information und Unterhaltung</a>
+<a href="/a2/ubungsbuch/lektion-11/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 11: Information und Unterhaltung</a>
+<a href="/a2/kursbuch/lektion-12/" class="lesson-btn">🇩🇪 🔤 Lektion 12: In der Schule</a>
+<a href="/a2/ubungsbuch/lektion-12/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 12: In der Schule</a>
+
+</div>
 ---
 
 💡 **نصيحة:** أسهل طريقة لتذكر ترتيب الظروف — **زمان → مكان → طريقة** (Zeit → Ort → Art). احفظ هذه القاعدة وستكون قادراً على بناء جمل صحيحة! ولاحظ أن معظم الظروف تأتي في أول الجملة أو بعد الفعل مباشرة.

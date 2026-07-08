@@ -196,4 +196,18 @@ Write 3-4 sentences about your dream job:
 
 ---
 
+---
+
+## 📚 Related Grammar
+
+<div class="grammar-links">
+
+<a href="/grammatik/prateritum/" class="grammar-btn">🔤 The Simple Past (Prateritum) in German</a>
+
+<a href="/grammatik/modalverben/" class="grammar-btn">🔤 Modal Verbs (Modalverben) in German</a>
+
+<a href="/grammatik/verben-mit-akkusativ-dativ/" class="grammar-btn">🔤 Verbs with Accusative and Dative</a>
+
+</div>
+
 > 🎯 **Lesson goal:** By the end of this lesson, you will be able to talk about your job, use the simple past of sein and haben, and understand a basic job interview.

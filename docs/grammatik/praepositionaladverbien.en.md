@@ -42,6 +42,18 @@ Präpositionaladverbs are words that stand in for a prepositional phrase. They a
 - **Sie denkt daran.** – She thinks about that.
 - **Wir freuen uns darüber.** – We are happy about it.
 
+
+---
+
+---
+
+## 📖 Related Lessons
+
+<div class="lesson-links">
+
+📌 *This topic is not linked to specific lessons yet.*
+
+</div>
 ---
 
 ### Interactive exercise

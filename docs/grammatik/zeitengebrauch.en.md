@@ -45,6 +45,21 @@ An instructional video explaining this grammar topic with practical examples.
 - **Futur I**: *Morgen werde ich schwimmen gehen.* — Tomorrow I will go swimming. ✅
 - **Futur II**: *Bis 2025 wird er das Projekt abgeschlossen haben.* — By 2025 he will have completed the project. ✅
 
+
+---
+
+---
+
+## 📖 Related Lessons
+
+<div class="lesson-links">
+
+<a href="/a2/kursbuch/lektion-19/" class="lesson-btn">🔤 Lektion 19: Unterwegs — On the Road / Travel</a>
+<a href="/a2/ubungsbuch/lektion-19/" class="lesson-btn">🔤 Exercises Lektion 19: Unterwegs (On the Road — Travel and Transport)</a>
+<a href="/a2/kursbuch/lektion-20/" class="lesson-btn">🔤 Lektion 20: Erinnerungen und Wünsche — Memories & Wishes</a>
+<a href="/a2/ubungsbuch/lektion-20/" class="lesson-btn">🔤 Exercises Lektion 20: Erinnerungen und Wünsche (Memories and Wishes)</a>
+
+</div>
 ---
 
 ## 🎯 Interactive exercises

@@ -32,6 +32,19 @@
 - **der Deutsche** – "الألماني" (مذكر)
 - **die Kleine** – "الصغيرة" (مؤنث)
 
+
+---
+
+---
+
+## 📖 الدروس المرتبطة
+
+<div class="lesson-links">
+
+<a href="/a2/kursbuch/lektion-13/" class="lesson-btn">🇩🇪 🔤 Lektion 13: Selbstständig arbeiten</a>
+<a href="/a2/ubungsbuch/lektion-13/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 13: Selbstständig arbeiten</a>
+
+</div>
 ---
 
 ## 📝 تمارين تفاعلية

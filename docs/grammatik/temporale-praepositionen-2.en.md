@@ -105,6 +105,19 @@ These are further temporal prepositions in German. Each tells us **when** or **w
 | 5 | __________ Nacht hat es geregnet. | |
 </div>
 
+
+---
+
+---
+
+## 📖 Related Lessons
+
+<div class="lesson-links">
+
+<a href="/a2/kursbuch/lektion-15/" class="lesson-btn">🔤 Lektion 15: Mit dem Auto reisen — Traveling by Car</a>
+<a href="/a2/ubungsbuch/lektion-15/" class="lesson-btn">🔤 Exercises Lektion 15: Mit dem Auto reisen (Traveling by Car)</a>
+
+</div>
 ---
 
 💡 **Tip:** **bei** describes a circumstance or event (+ Dativ), while **ab** is used for a future time point (+ Dativ). **gegen** gives an approximate time (+ Akkusativ).

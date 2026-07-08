@@ -115,4 +115,21 @@ Masculine article = der, Feminine = die, Neuter = das
 | 4 | ___ Apfel ist rot. (the apple) | |
 | 5 | ___ Wasser ist kalt. (the water) | |
 </div>
+
+---
+
+---
+
+## 📖 Related Lessons
+
+<div class="lesson-links">
+
+<a href="/a1/kursbuch/lektion-01/" class="lesson-btn">🔤 Lektion 1: Hallo! — Greetings and Introductions</a>
+<a href="/a1/ubungsbuch/lektion-01/" class="lesson-btn">🔤 Exercises Lektion 1: Hallo!</a>
+<a href="/a1/kursbuch/lektion-02/" class="lesson-btn">🔤 Lektion 2: Berufe — Professions and Formal Address (Sie)</a>
+<a href="/a1/ubungsbuch/lektion-02/" class="lesson-btn">🔤 Exercises Lektion 2: Berufe</a>
+<a href="/a1/kursbuch/lektion-03/" class="lesson-btn">🔤 Lektion 3: Orte und Dinge — Places and Things</a>
+<a href="/a1/ubungsbuch/lektion-03/" class="lesson-btn">🔤 Exercises Lektion 3: Orte und Dinge</a>
+
+</div>
 ---

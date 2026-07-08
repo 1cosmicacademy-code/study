@@ -53,6 +53,18 @@
 - **der Name** → **den Namen**, **dem Namen**, **des Namens**
 - **der Herr** → **den Herrn**, **dem Herrn**, **des Herrn**
 
+
+---
+
+---
+
+## 📖 الدروس المرتبطة
+
+<div class="lesson-links">
+
+📌 *هذه القاعدة غير مرتبطة بدروس محددة حالياً.*
+
+</div>
 ---
 
 ### تمارين تفاعلية

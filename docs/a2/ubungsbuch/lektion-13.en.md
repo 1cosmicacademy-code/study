@@ -214,4 +214,18 @@ Die selbstständige Arbeit hat Vorteile und Nachteile. Der größte Vorteil ist 
 
 ---
 
+---
+
+## 📚 Related Grammar
+
+<div class="grammar-links">
+
+<a href="/grammatik/adjektive-als-nomen/" class="grammar-btn">🔤 Adjektive als Nomen</a>
+
+<a href="/grammatik/wortbildung/" class="grammar-btn">🔤 Wortbildung</a>
+
+<a href="/grammatik/komposita/" class="grammar-btn">🔤 Komposita</a>
+
+</div>
+
 > ✅ **Review lesson vocabulary:** die Aufgabe (task), das Projekt (project), die Frist (deadline), die Besprechung (meeting), die Teamarbeit (teamwork), der Kollege (colleague), die Erfahrung (experience), die Entscheidung (decision), das Ziel (goal), der Erfolg (success) — and **grammar:** Adjektive als Nomen (das Gute, das Wichtige, das Beste).

@@ -115,6 +115,19 @@ An instructional video explaining this grammar topic with practical examples.
 - Sie hat Deutsch **studiert**. — She studied German.
 - Ich bin früh **aufgestanden**. — I got up early.
 
+
+---
+
+---
+
+## 📖 Related Lessons
+
+<div class="lesson-links">
+
+<a href="/a2/kursbuch/lektion-19/" class="lesson-btn">🔤 Lektion 19: Unterwegs — On the Road / Travel</a>
+<a href="/a2/ubungsbuch/lektion-19/" class="lesson-btn">🔤 Exercises Lektion 19: Unterwegs (On the Road — Travel and Transport)</a>
+
+</div>
 ---
 
 ## 📝 Exercises

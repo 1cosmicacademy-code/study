@@ -199,3 +199,16 @@ B) With der/die/das:
 *(The model above serves as a sample — students should choose their own comparisons. The key is to use the Komparativ with "als" and the Superlativ with "am …-sten.")*
 
 ---
+
+## 📚 Related Grammar
+
+<div class="grammar-links">
+
+<a href="/grammatik/vergleiche/" class="grammar-btn">🔤 Comparisons (Vergleiche) in German</a>
+<a href="/grammatik/superlativ/" class="grammar-btn">🔤 Superlativ</a>
+<a href="/grammatik/adjektivdeklination/" class="grammar-btn">🔤 Adjective Declension (Adjektivdeklination) in German</a>
+<a href="/grammatik/ordinalzahlen/" class="grammar-btn">🔤 Ordinal Numbers and Dates (Ordinalzahlen und Datum)</a>
+
+</div>
+
+---

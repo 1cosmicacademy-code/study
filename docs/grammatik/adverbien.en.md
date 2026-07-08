@@ -201,6 +201,21 @@ The adverb can be:
 </div>
 ---
 
+
+---
+
+---
+
+## 📖 Related Lessons
+
+<div class="lesson-links">
+
+<a href="/a2/kursbuch/lektion-11/" class="lesson-btn">🔤 Lektion 11: Information und Unterhaltung — Information & Entertainment</a>
+<a href="/a2/ubungsbuch/lektion-11/" class="lesson-btn">🔤 Exercises Lektion 11: Information und Unterhaltung (Information and Entertainment)</a>
+<a href="/a2/kursbuch/lektion-12/" class="lesson-btn">🔤 Lektion 12: In der Schule — At School</a>
+<a href="/a2/ubungsbuch/lektion-12/" class="lesson-btn">🔤 Exercises Lektion 12: In der Schule (At School)</a>
+
+</div>
 ---
 
 💡 **Tip:** The easiest way to remember adverb order — **Time → Place → Manner** (Zeit → Ort → Art). Learn this rule and you will be able to build correct sentences! Also note that most adverbs come at the beginning of the sentence or right after the verb.

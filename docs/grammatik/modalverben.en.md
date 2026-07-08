@@ -134,6 +134,39 @@ The golden rule 🥇:
 </div>
 ---
 
+
+---
+
+---
+
+## 📖 Related Lessons
+
+<div class="lesson-links">
+
+<a href="/a1/kursbuch/lektion-06/" class="lesson-btn">🔤 Lektion 6: Arbeitszeiten — Working Hours and Time</a>
+<a href="/a1/ubungsbuch/lektion-06/" class="lesson-btn">🔤 Exercises Lektion 6: Arbeitszeiten</a>
+<a href="/a1/kursbuch/lektion-08/" class="lesson-btn">🔤 Lektion 8: Party</a>
+<a href="/a1/ubungsbuch/lektion-08/" class="lesson-btn">🔤 Exercises Lektion 8: Party</a>
+<a href="/a1/kursbuch/lektion-09/" class="lesson-btn">🔤 Lektion 9: Termine — Appointments & Days of the Week</a>
+<a href="/a1/ubungsbuch/lektion-09/" class="lesson-btn">🔤 Exercises Lektion 9: Termine</a>
+<a href="/a1/kursbuch/lektion-12/" class="lesson-btn">🔤 Lektion 12: Ausbildung — Education & Training</a>
+<a href="/a1/ubungsbuch/lektion-12/" class="lesson-btn">🔤 Exercises Lektion 12: Ausbildung</a>
+<a href="/a1/kursbuch/lektion-13/" class="lesson-btn">🔤 Lektion 13: Beim Arzt — At the Doctor & Body Parts</a>
+<a href="/a1/ubungsbuch/lektion-13/" class="lesson-btn">🔤 Exercises Lektion 13: Beim Arzt</a>
+<a href="/a1/kursbuch/lektion-17/" class="lesson-btn">🔤 Lektion 17: Arbeit — Work (Jobs and Duties)</a>
+<a href="/a1/ubungsbuch/lektion-17/" class="lesson-btn">🔤 Exercises Lektion 17: Arbeit</a>
+<a href="/a1/kursbuch/lektion-18/" class="lesson-btn">🔤 Lektion 18: Beim Amt — At the Government Office</a>
+<a href="/a1/ubungsbuch/lektion-18/" class="lesson-btn">🔤 Exercises Lektion 18: Beim Amt</a>
+<a href="/a2/kursbuch/lektion-05/" class="lesson-btn">🔤 Lektion 5: Mein neuer Job — My New Job</a>
+<a href="/a2/ubungsbuch/lektion-05/" class="lesson-btn">🔤 Exercises Lektion 5: Mein neuer Job (My New Job)</a>
+<a href="/a2/kursbuch/lektion-07/" class="lesson-btn">🔤 Lektion 7: Gesundheit erhalten — Maintaining Health</a>
+<a href="/a2/ubungsbuch/lektion-07/" class="lesson-btn">🔤 Exercises Lektion 7: Gesundheit erhalten (Staying Healthy)</a>
+<a href="/a2/kursbuch/lektion-08/" class="lesson-btn">🔤 Lektion 8: Sicherheit am Arbeitsplatz — Safety at Work</a>
+<a href="/a2/ubungsbuch/lektion-08/" class="lesson-btn">🔤 Exercises Lektion 8: Sicherheit am Arbeitsplatz (Safety at Work)</a>
+<a href="/a2/kursbuch/lektion-18/" class="lesson-btn">🔤 Lektion 18: Alles über Geld — All About Money</a>
+<a href="/a2/ubungsbuch/lektion-18/" class="lesson-btn">🔤 Exercises Lektion 18: Alles über Geld (Everything About Money)</a>
+
+</div>
 ---
 
 💡 **Quick tip:** The two most used modal verbs at the beginning are **können** and **müssen**. Start with them, then add the rest gradually. The most important thing — remember: modal verb in position 2, main verb at the end of the sentence!

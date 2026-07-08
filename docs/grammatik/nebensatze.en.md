@@ -163,6 +163,27 @@ In a subordinate clause (Nebensatz) ← the verb goes to the END of the sentence
 </div>
 ---
 
+
+---
+
+---
+
+## 📖 Related Lessons
+
+<div class="lesson-links">
+
+<a href="/a1/kursbuch/lektion-09/" class="lesson-btn">🔤 Lektion 9: Termine — Appointments & Days of the Week</a>
+<a href="/a1/ubungsbuch/lektion-09/" class="lesson-btn">🔤 Exercises Lektion 9: Termine</a>
+<a href="/a1/kursbuch/lektion-12/" class="lesson-btn">🔤 Lektion 12: Ausbildung — Education & Training</a>
+<a href="/a1/ubungsbuch/lektion-12/" class="lesson-btn">🔤 Exercises Lektion 12: Ausbildung</a>
+<a href="/a1/kursbuch/lektion-19/" class="lesson-btn">🔤 Lektion 19: Reisen in Deutschland — Traveling in Germany</a>
+<a href="/a1/ubungsbuch/lektion-19/" class="lesson-btn">🔤 Exercises Lektion 19: Reisen in Deutschland</a>
+<a href="/a2/kursbuch/lektion-04/" class="lesson-btn">🔤 Lektion 4: Wohnen und Nachbarn — Housing and Neighbors</a>
+<a href="/a2/ubungsbuch/lektion-04/" class="lesson-btn">🔤 Exercises Lektion 4: Wohnen und Nachbarn (Living and Neighbors)</a>
+<a href="/a2/kursbuch/lektion-11/" class="lesson-btn">🔤 Lektion 11: Information und Unterhaltung — Information & Entertainment</a>
+<a href="/a2/ubungsbuch/lektion-11/" class="lesson-btn">🔤 Exercises Lektion 11: Information und Unterhaltung (Information and Entertainment)</a>
+
+</div>
 ---
 
 💡 **Tip:** To remember word order in Nebensatz, always think: **"The conjunction sends the verb to the end!"** Whenever you see a word like dass, weil, wenn, obwohl — expect the verb at the end!

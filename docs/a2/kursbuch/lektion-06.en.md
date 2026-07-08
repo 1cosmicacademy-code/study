@@ -151,4 +151,18 @@ Two-way prepositions (Wechselpräpositionen) take **Akkusativ** (movement / dire
 
 ---
 
+
+
+---
+
+## 📚 Related Grammar
+
+<div class="grammar-links">
+
+<a href="/grammatik/wechselpraepositionen/" class="grammar-btn">🔤 Two-Way Prepositions (Wechselpräpositionen) in German</a>
+<a href="/grammatik/lokale-praepositionen/" class="grammar-btn">🔤 Local prepositions</a>
+<a href="/grammatik/prapositionen/" class="grammar-btn">🔤 Prepositions (Präpositionen)</a>
+
+</div>
+
 > 💡 **Final Tip:** Always remember: **wo? = Dativ, wohin? = Akkusativ**. Practice this difference in every conversation about routes and transport!

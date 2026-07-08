@@ -176,6 +176,23 @@ Deutsch ist schwerer als Englisch.
 </div>
 ---
 
+
+---
+
+---
+
+## 📖 الدروس المرتبطة
+
+<div class="lesson-links">
+
+<a href="/a1/kursbuch/lektion-19/" class="lesson-btn">🇩🇪 🔤 Lektion 19: Reisen in Deutschland</a>
+<a href="/a1/ubungsbuch/lektion-19/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 19: Reisen in Deutschland</a>
+<a href="/a1/kursbuch/lektion-20/" class="lesson-btn">🇩🇪 🔤 Lektion 20: Feste und Feiern</a>
+<a href="/a1/ubungsbuch/lektion-20/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 20: Feste und Feiern</a>
+<a href="/a2/kursbuch/lektion-09/" class="lesson-btn">🇩🇪 🔤 Lektion 9: Große und kleine Dinge</a>
+<a href="/a2/ubungsbuch/lektion-09/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 9: Große und kleine Dinge</a>
+
+</div>
 ---
 
 💡 **نصيحة:** لتتذكر الفرق بين wie و als: **wie = مساواة (so ... wie)** و **als = تفاضل (...er als)**. كلمة "wie" فيها حرف i مثل "في نفس المستوى"، و "als" تشبه "else" = غير ذلك (أكثر من).

@@ -40,6 +40,19 @@
 - *der Staubsauger* — *Staub* (غبار) + *Sauger* (ممسك) → مكنسة كهربائية
 - *die Kindergärten* — *Kinder* (أطفال) + *Gärten* (حدائق) → رياض الأطفال
 
+
+---
+
+---
+
+## 📖 الدروس المرتبطة
+
+<div class="lesson-links">
+
+<a href="/a2/kursbuch/lektion-13/" class="lesson-btn">🇩🇪 🔤 Lektion 13: Selbstständig arbeiten</a>
+<a href="/a2/ubungsbuch/lektion-13/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 13: Selbstständig arbeiten</a>
+
+</div>
 ---
 
 ## 📝 تمارين تفاعلية

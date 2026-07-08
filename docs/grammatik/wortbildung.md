@@ -58,6 +58,19 @@
 | 4 | ___ ist das Gegenteil von „möglich“. (سؤال عن سابقة) | |
 </div>
 
+
+---
+
+---
+
+## 📖 الدروس المرتبطة
+
+<div class="lesson-links">
+
+<a href="/a2/kursbuch/lektion-13/" class="lesson-btn">🇩🇪 🔤 Lektion 13: Selbstständig arbeiten</a>
+<a href="/a2/ubungsbuch/lektion-13/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 13: Selbstständig arbeiten</a>
+
+</div>
 ---
 
 ## 🎯 ملاحظات للمتعلمين

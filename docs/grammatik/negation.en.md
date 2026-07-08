@@ -95,4 +95,19 @@ If the sentence has a verb or adjective → use nicht
 | 4 | Wir sind ___ (negate adj) tired. | |
 | 5 | Das ist ___ (kein) dog, but a cat. | |
 </div>
+
+---
+
+---
+
+## 📖 Related Lessons
+
+<div class="lesson-links">
+
+<a href="/a1/kursbuch/lektion-02/" class="lesson-btn">🔤 Lektion 2: Berufe — Professions and Formal Address (Sie)</a>
+<a href="/a1/ubungsbuch/lektion-02/" class="lesson-btn">🔤 Exercises Lektion 2: Berufe</a>
+<a href="/a1/kursbuch/lektion-07/" class="lesson-btn">🔤 Lektion 7: Essen — Food, Plurals and Negation</a>
+<a href="/a1/ubungsbuch/lektion-07/" class="lesson-btn">🔤 Exercises Lektion 7: Essen</a>
+
+</div>
 ---

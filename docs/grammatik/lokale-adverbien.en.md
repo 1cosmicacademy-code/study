@@ -74,6 +74,19 @@ Adverbs of place take different forms depending on the question:
 - Die Katze ist **draußen**. — The cat is outside.
 - Ich habe mein Buch **nirgendwo** gefunden. — I found my book nowhere.
 
+
+---
+
+---
+
+## 📖 Related Lessons
+
+<div class="lesson-links">
+
+<a href="/a2/kursbuch/lektion-10/" class="lesson-btn">🔤 Lektion 10: Durch die Stadt — Across the City</a>
+<a href="/a2/ubungsbuch/lektion-10/" class="lesson-btn">🔤 Exercises Lektion 10: Durch die Stadt (Through the City)</a>
+
+</div>
 ---
 
 ## 📝 Exercises

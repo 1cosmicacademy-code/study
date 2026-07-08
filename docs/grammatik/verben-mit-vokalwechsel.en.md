@@ -81,6 +81,18 @@ The vowel change occurs only for **ich** and **du** forms. All other persons kee
 | 5 | Ihr ___ (lesen) das Buch. |
 </div>
 
+
+---
+
+---
+
+## 📖 Related Lessons
+
+<div class="lesson-links">
+
+📌 *This topic is not linked to specific lessons yet.*
+
+</div>
 ---
 
 ## ✅ Summary

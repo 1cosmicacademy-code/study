@@ -189,3 +189,17 @@
 | der Ruf | السمعة |
 | die Branche, -n | القطاع / المجال |
 | die Leidenschaft | الشغف |
+
+---
+
+## 📚 القواعد المرتبطة
+
+<div class="grammar-links">
+
+<a href="/grammatik/prateritum/" class="grammar-btn">🇩🇪 🔤 Prateritum (Prateritum)</a>
+
+<a href="/grammatik/modalverben/" class="grammar-btn">🇩🇪 🔤 Modalverben (Modalverben)</a>
+
+<a href="/grammatik/verben-mit-akkusativ-dativ/" class="grammar-btn">🇩🇪 🔤 الأفعال التي تأخذ مفعول النصب والجر (الأفعال التي تأخذ مفعول النصب والجر)</a>
+
+</div>

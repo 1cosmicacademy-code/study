@@ -195,3 +195,15 @@ Ich stehe um 6:30 Uhr auf. Um 7:15 Uhr verlasse ich das Haus. Ich gehe zuerst zu
 *(الإجابة المقترحة أعلاه — يمكن للطالب كتابة نسخته الخاصة بناءً على تجربته الشخصية)*
 
 ---
+
+## 📚 القواعد المرتبطة
+
+<div class="grammar-links">
+
+<a href="/grammatik/wechselpraepositionen/" class="grammar-btn">🇩🇪 🔤 Wechselprapositionen (Wechselprapositionen)</a>
+<a href="/grammatik/lokale-praepositionen/" class="grammar-btn">🇩🇪 🔤 حروف الجر المكانية (wo?, wohin?, woher?) (حروف الجر المكانية (wo?, wohin?, woher?))</a>
+<a href="/grammatik/prapositionen/" class="grammar-btn">🇩🇪 🔤 الزمانية والمكانية في اللغة الألمانية (الزمانية والمكانية في اللغة الألمانية)</a>
+
+</div>
+
+---

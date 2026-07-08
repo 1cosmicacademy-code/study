@@ -43,6 +43,23 @@
 - **Wo** liegt die Stadt? — أين تقع المدينة؟ ✅
 - **Wohin** willst du gehen? — إلى أين تريد الذهاب؟ ✅
 
+
+---
+
+---
+
+## 📖 الدروس المرتبطة
+
+<div class="lesson-links">
+
+<a href="/a2/kursbuch/lektion-04/" class="lesson-btn">🇩🇪 🔤 Lektion 4: Wohnen und Nachbarn</a>
+<a href="/a2/ubungsbuch/lektion-04/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 4: Wohnen und Nachbarn</a>
+<a href="/a2/kursbuch/lektion-06/" class="lesson-btn">🇩🇪 🔤 Lektion 6: Auf dem Weg zur Arbeit</a>
+<a href="/a2/ubungsbuch/lektion-06/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 6: Auf dem Weg zur Arbeit</a>
+<a href="/a2/kursbuch/lektion-10/" class="lesson-btn">🇩🇪 🔤 Lektion 10: Durch die Stadt</a>
+<a href="/a2/ubungsbuch/lektion-10/" class="lesson-btn">🇩🇪 🔤 Übungsbuch Lektion 10: Durch die Stadt</a>
+
+</div>
 ---
 
 ## 🎯 تمارين تفاعلية

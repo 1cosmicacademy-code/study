@@ -174,4 +174,20 @@
 >
 > تذكَّر اختصار **S-H**: sein = حركة، haben = كل شيء آخر!
 
+---
+
+## 📚 القواعد المرتبطة
+
+<div class="grammar-links">
+
+<a href="/grammatik/perfekt/" class="grammar-btn">🇩🇪 🔤 Perfekt (Perfekt)</a>
+
+<a href="/grammatik/partizip-perfekt/" class="grammar-btn">🇩🇪 🔤 التصريف الثالث للفعل (التصريف الثالث للفعل)</a>
+
+<a href="/grammatik/temporal-lokal-angaben/" class="grammar-btn">🇩🇪 🔤 und Lokalangaben — تحديد الزمان والمكان (und Lokalangaben — تحديد الزمان والمكان)</a>
+
+<a href="/grammatik/zeitengebrauch/" class="grammar-btn">🇩🇪 🔤 استخدام الأزمنة (A2) (استخدام الأزمنة (A2))</a>
+
+</div>
+
 > 🎯 **راجِع:** المفردات الجديدة — die Reise, der Urlaub, die Unterkunft, die Sehenswürdigkeit, die Besichtigung, der Aufenthalt, die Abfahrt, die Ankunft, der Bahnsteig, der Ausflug, die Rundreise
