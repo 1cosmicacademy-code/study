@@ -1,7 +1,7 @@
 {
   "meta": {
     "description": "YouTube video references for A1 and A2 lessons — Arabic and English",
-    "updated": "2026-07-01",
+    "updated": "2026-07-08",
     "english_playlist": {
       "channel": "Learn German with Anja",
       "playlist_id": "PLYzp2xhTw9W1Z9RvnCoveC0W7pkwUMHXy",
@@ -40,20 +40,20 @@
   },
   "lektion-03": {
     "en": {
-      "video_id": "6Of-BqbiNLM",
-      "title": "GERMAN LESSON 15: The German articles (der/die/das)",
+      "video_id": "ufWr5lUyuu8",
+      "title": "LEARN GERMAN VOCABULARY of the CITY (part 1) - Die Stadt Leipzig",
       "channel": "Learn German with Anja"
     },
     "ar": {
-      "video_id": "d_o8Ny4455E",
-      "title": "A1 تعلم الألمانية من الصفر- الدرس 4 {أدوات التعريف والتنكير}",
-      "channel": "Deutsch mit Mira"
+      "video_id": "GYOuhd7Qv_8",
+      "title": "A1 - الأماكن و المدينة | تعلم اللغة الألمانية من الصفر | Helmy Academy",
+      "channel": "Helmy Deutsch"
     }
   },
   "lektion-04": {
     "en": {
-      "video_id": "qdTEFPqjfkY",
-      "title": "GERMAN LESSON 19: Family members",
+      "video_id": "Kk8qA0e63UE",
+      "title": "GERMAN LESSON 18: How to Talk about Your FAMILY in German!",
       "channel": "Learn German with Anja"
     },
     "ar": {
@@ -88,9 +88,9 @@
   },
   "lektion-07": {
     "en": {
-      "video_id": "Kk8qA0e63UE",
-      "title": "GERMAN LESSON 18: How to order food",
-      "channel": "Learn German with Anja"
+      "video_id": "ueBmlrZbmwA",
+      "title": "Learn German | Ordering in a Restaurant | das Restaurant | A1 - Lesson 30",
+      "channel": "Learn German"
     },
     "ar": {
       "video_id": "CkiCgxlIrgc",
@@ -100,9 +100,9 @@
   },
   "lektion-08": {
     "en": {
-      "video_id": "gKLK6gBM_qI",
-      "title": "A1 - Lesson 44 | Perfekt | Past tense | Part 1 | Learn German for beginners",
-      "channel": "Learn German"
+      "video_id": "cWFjOK9sfBw",
+      "title": "German Perfect Tense | Das Perfekt mit haben | German Tenses",
+      "channel": "YourGermanTeacher"
     },
     "ar": {
       "video_id": "dNY85buE-R0",
@@ -136,9 +136,9 @@
   },
   "lektion-11": {
     "en": {
-      "video_id": "RrfgbBp6ScI",
-      "title": "GERMAN LESSON 33: Introduction to German PREPOSITIONS",
-      "channel": "Learn German with Anja"
+      "video_id": "aRWnhLuNSp8",
+      "title": "A1- German lesson 44 | Learn German Vocabulary | Wohnung & Haus | Apartment & house",
+      "channel": "Deutsch mit Inap"
     },
     "ar": {
       "video_id": "KC0hVfM6Ujw",
@@ -153,9 +153,9 @@
       "channel": "Learn German"
     },
     "ar": {
-      "video_id": "DJDhM28AlAo",
-      "title": "تعلم اسماء أهم المهن والوظائف فى اللغة الألمانية",
-      "channel": "AES Learning"
+      "video_id": "38E_4EL5HKE",
+      "title": "Die Schulsachen / German School Objects / الأدوات المدرسية باللغة الالمانية",
+      "channel": "German Club"
     }
   },
   "lektion-13": {
@@ -273,9 +273,9 @@
       "channel": "Learn German"
     },
     "ar": {
-      "video_id": "FYGTwe_iP48",
-      "title": "die Berufe الوظائف باللغه الالمانيه",
-      "channel": "Frau Eman"
+      "video_id": "TQl4BmglJBE",
+      "title": "016 - A2 - Die Berufe الوظائف والمهن باللغة الألمانية",
+      "channel": "Shehata Deutsch"
     }
   },
   "a2-lektion-03": {
@@ -285,9 +285,9 @@
       "channel": "Learn German"
     },
     "ar": {
-      "video_id": "6rzANuCC2z8",
-      "title": "تحدث عن عطلة نهاية الأسبوع باللغة الألمانية | الدرس (11) A2",
-      "channel": "Deutsch mit Mira"
+      "video_id": "DrSjHNLf9Fs",
+      "title": "درس 110 A2 Freizeit und Hobbys – أوقات الفراغ والهوايات",
+      "channel": "Deutsch lernen"
     }
   },
   "a2-lektion-04": {
@@ -340,14 +340,14 @@
   },
   "a2-lektion-08": {
     "en": {
-      "video_id": "Y9KJfcUYir8",
-      "title": "A2 - Lesson 42 | Ratschläge geben | sollte | Konjunktiv II | German for beginners",
-      "channel": "Learn German"
+      "video_id": "VnhkeHwQnt8",
+      "title": "Modalverb SOLLEN | the Modalverb should explained | YourGermanTeacher",
+      "channel": "YourGermanTeacher"
     },
     "ar": {
-      "video_id": "XrDUvh6tEpM",
-      "title": "046 - A2 - Das ist mir wichtig im Beruf تكلم عن المهم لك في الوظيفة",
-      "channel": "Shehata Deutsch"
+      "video_id": "tDemH06CGl8",
+      "title": "مقارنات A2,B1,B2 - ماهو الفرق بين فعلي ال Modalverben: müssen, sollen",
+      "channel": "الألمانية فرصة"
     }
   },
   "a2-lektion-09": {
@@ -369,21 +369,21 @@
       "channel": "Learn German"
     },
     "ar": {
-      "video_id": "7bHp4WALBwY",
-      "title": "013 - A2 - Stadt vs. Land تكلم عن الفوارق بين المدينة والريف",
+      "video_id": "0MF9q2mnj7U",
+      "title": "درس 87 (A2 – الاتجاهات بالألمانية) Richtungen verstehen und erklären (A2)",
       "channel": "Shehata Deutsch"
     }
   },
   "a2-lektion-11": {
     "en": {
-      "video_id": "ueeMAVO7ZcU",
-      "title": "A2 - Lesson 46 | Wettervorhersage | Weather forecast | German for beginners",
-      "channel": "Learn German"
+      "video_id": "yNM8-Fq0xaM",
+      "title": "A2- Lektion 25 | Medien im Alltag | Deutsch lernen",
+      "channel": "Deutsch mit Inap"
     },
     "ar": {
-      "video_id": "CgUBAtlwIko",
-      "title": "كورس المحادثة باللغة الألمانية (97) 🇩🇪",
-      "channel": "Deutsch mit Mira"
+      "video_id": "S2e1_53i7hQ",
+      "title": "135. Nebensatz dass und ob | الجمل الجانبية في اللغة الالمانية",
+      "channel": "Shehata Deutsch"
     }
   },
   "a2-lektion-12": {
@@ -405,21 +405,21 @@
       "channel": "Learn German"
     },
     "ar": {
-      "video_id": "y6LcGF-ykjI",
-      "title": "033 - A2 - Der Anfang ist schwer weil درس مهم جدا حول الحياة اليومية",
-      "channel": "Shehata Deutsch"
+      "video_id": "em_dyfRT4_4",
+      "title": "قواعد اللغة الألمانية: استخدام الصفات كأسماء (Adjektive als Nomen)",
+      "channel": "Deutsch lernen"
     }
   },
   "a2-lektion-14": {
     "en": {
-      "video_id": "1agjSgeiXRM",
-      "title": "A2 - Lesson 49 | zusammen etwas planen | Goethe Zertifikat A2 | German for beginners",
-      "channel": "Learn German"
+      "video_id": "rpjD9AZFEqk",
+      "title": "Easy German Conversation: die Wohngemeinschaft | My Germanized Life",
+      "channel": "My Germanized Life"
     },
     "ar": {
-      "video_id": "EBE1Oon-j9w",
-      "title": "الروتين اليومي باللغة الألمانية | الدرس (9) A2",
-      "channel": "Deutsch mit Mira"
+      "video_id": "Hsham_xlMnw",
+      "title": "Das leben A2 Einheit 3 – Wohnen und Zusammenleben | Bilal Mimeche",
+      "channel": "Bilal Mimeche"
     }
   },
   "a2-lektion-15": {
@@ -441,9 +441,9 @@
       "channel": "Learn German"
     },
     "ar": {
-      "video_id": "ow3isIhce4E",
-      "title": "050 - A2 - Wie spreche ich über Interessen und Sport  كيف اتحدث عن اهتماماتي والرياضة",
-      "channel": "Shehata Deutsch"
+      "video_id": "UvXb3dz_S7Q",
+      "title": "Ein gutes Rezept schreiben (كيف نكتب وصفة طبخ)",
+      "channel": "Familie Muraai"
     }
   },
   "a2-lektion-17": {
@@ -489,9 +489,9 @@
       "channel": "Learn German"
     },
     "ar": {
-      "video_id": "0vjE-XopATY",
-      "title": "🇩🇪 A2 Das Präteritum | الدرس 5 - الماضي البسيط",
-      "channel": "Deutsch mit Mira"
+      "video_id": "1368Lsz1g40",
+      "title": "لو فهمت الفيديو ده، خلاص… فهمت Wenn و Als! - فى اللغة الألمانية",
+      "channel": "Deutsch lernen"
     }
   }
 }

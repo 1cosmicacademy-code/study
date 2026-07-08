@@ -5,8 +5,8 @@
 ---
 
 ## 🎬 Lesson Video
-**English:** https://youtu.be/r-6OA9VZcdQ
-**Arabic:** https://youtu.be/AJUr5XlSGRE
+**English:** https://youtu.be/zMAaMpmLqs0
+**Arabic:** https://youtu.be/5JTQUevZiDs
 
 ---
 

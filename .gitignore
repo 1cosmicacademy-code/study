@@ -54,3 +54,12 @@ nordic-blueprint-*
 nordlicht-*
 saffron-ink-*
 screenshot-*
+
+# graphify output
+graphify-out/
+
+# Random work files
+snapshot
+lektion-02-snapshot
+grammar-akkusativ-video
+C:UsersDelta

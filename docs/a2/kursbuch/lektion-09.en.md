@@ -6,7 +6,7 @@
 
 ## 🎬 Lesson Video
 **English:** https://youtu.be/u_zBt2Ve7gg
-**Arabic:** https://youtu.be/OoPGuhpdbig
+**Arabic:** https://youtu.be/4aPVid4j_l4
 
 ---
 

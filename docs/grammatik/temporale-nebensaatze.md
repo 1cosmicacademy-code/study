@@ -7,7 +7,7 @@
 ## 📺 فيديو توضيحي
 فيديو تعليمي يشرح هذه القاعدة بشكل مبسط مع أمثلة تطبيقية.
 
-<div class="video-container" data-video-id="r-Ue5bznmcM"></div>
+<div class="video-container" data-video-id="PqnhvrVGVGM"></div>
 
 
 ## 🎯 أهداف الدرس
